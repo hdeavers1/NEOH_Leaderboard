@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        input {
+            width: 200px;
+            height: 50px;
+        }
+        p {
+            text-align: center;
+            font-size: 50px;
+            margin: 10px;
+            padding: 10px;
+        }
+        Body {
+            background: #222222;
+            background-image: linear-gradient(to bottom right, transparent 20%, rgb(49,0,87));
+            color: #e9eaea;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            
+        }
+        h1 {
+            font-size: 75px;
+            background-color: #208e2c;
+            margin: 0;
+            padding: 0;
+        }
+        nav {
+            text-align: left;
+            font-family: Maven Pro;
+            color: #e9eaea;
+            font-size: 25px;
+            text-decoration: underline;
+            padding-left: 15px;
+            position: absolute;
+        }
+        ul {
+            text-align: left;
+            font-family: Maven Pro;
+            color: #e9eaea;
+            font-size: 25px;
+            list-style-type: none;
+            position: absolute;
+            padding-right: 15px;
+        }
+        .button {
+            background-color: #208e2c;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+        }
+        * {
+            font-family: Maven Pro;
+        }
+        #letters {
+            font-size: 50px;
+
+        }
+        #numbers {
+            font-size: 50px;
+
+        }
+        #frame {
+            border: none;
+            margin: 0;
+            padding-left: 65px;
+        }
+        #HistoryLine {
+            text-align: left;
+            font-family: Maven Pro;
+            color: #e9eaea;
+            font-size: 25px;
+            list-style-type: none;
+            position: absolute;
+            width: 200px
+        }
+        .leaderboard-link {
+            font-size: 30px; /* Larger font size */
+            font-weight: bold; /* Bold text */
+            color: #ffffff; /* White color */
+            text-decoration: none; /* Remove underline */
+            background-color: #208e2c; /* Green background */
+            padding: 10px 20px; /* Add padding */
+            border-radius: 5px; /* Rounded corners */
+        }
+
+        .leaderboard-link:hover {
+            background-color: #186e22; /* Darker green on hover */
+            color: #e9eaea; /* Slightly lighter text color on hover */
+        }
+    </style>
+<title>Slippi Player Lookup</title>
+</head>
+<body>
+    <h1>Slippi Player Lookup</h1>
+    <nav style="left: 15px;">Recent Players</nav>
+    <nav style="right: 15px; position: absolute; text-align: right;">
+        <a href="index.html" class="leaderboard-link">NEOH Leaderboard</a>
+    </nav>
+    <ul>
+        <div id="HistoryLine">
+        </div>
+    </ul>
+    <p>
+        <label for="Letters"></label>
+        <input type="text" id="letters" name="letters" placeholder="Letters"/>
+        #
+        <label for="Numbers"></label>
+        <input type="text" id="numbers" name="numbers" placeholder="Numbers"/><br>
+        <button class="button" onclick="linkcreator()">GO</button>
+    </p>
+
+    <iframe id="frame" src="https://slippi.gg/leaderboards" width="1050px" height="650px"></iframe>
+
+    <script>
+    // when pressing enter, the function activates
+
+    document.onkeydown=function(evt){
+        var keyCode = evt ? (evt.which ? evt.which : evt.keyCode) : event.keyCode;
+        if(keyCode == 13)
+        {
+            linkcreator();
+        }
+    }
+    
+    // automatically sets focus on textbox
+
+    window.onload = function() {
+  document.getElementById("letters").focus();
+}
+
+
+
+
+    // creates link to player and sends link to page and clears boxes
+
+    function linkcreator() {
+        console.log("Button clicked");
+        var letters = document.getElementById("letters").value.toUpperCase();
+        var numbers = document.getElementById("numbers").value;
+        var player = (letters + "-" + numbers);
+        var playerlink = "https://slippi.gg/user/" + player;
+        document.getElementById('frame').src = playerlink;
+        playerHistory(player);
+        document.getElementById('letters').value = "";
+        document.getElementById('numbers').value = "";
+    }
+
+
+    //create player history
+
+    function playerHistory(player) {
+        var historyLine = document.getElementById('HistoryLine');
+        var li = document.createElement("li");
+        var link = document.createElement("a");
+        link.href = "#";
+        link.onclick = function () {
+            document.getElementById('frame').src = "https://slippi.gg/user/" + player;
+            return false;
+        };
+        link.innerHTML = player;
+        link.style.textDecoration = "none";
+        link.style.color = "#e9eaea";
+        li.appendChild(link);
+        historyLine.appendChild(li);
+    }
+    </script>
+</body>
+</html>
