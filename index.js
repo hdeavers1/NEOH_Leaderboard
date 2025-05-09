@@ -135,7 +135,7 @@ fetch('data.json')
         <img
           alt="${rankStr}"
           aria-label="${rankStr}"
-          src="./resources/ranks/${rankStr}.svg"
+          src="/NEOH_Leaderboard/resources/ranks/${rankStr}.svg"
         />
         <div class="tooltiptext">${rankStr}</div>
       `;
