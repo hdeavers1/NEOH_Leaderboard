@@ -30,7 +30,9 @@ function sendPercentages(arr, arr2) {
 
 (async () => {
   const connectCodes = loadConnectCodes();
-  const browser = await puppeteer.launch({ headless: 'new' });
+  const browser = await puppeteer.launch({ headless: 'new',
+    args: ['--no-sandbox', '--disable-setuid-sandbox']
+  });
   const results = [];
 
   for (const code of connectCodes) {
