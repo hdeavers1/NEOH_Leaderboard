@@ -103,7 +103,7 @@ fetch('data.json')
             <img
               alt="${label}"
               aria-label="${label}"
-              src="./resources/chars/${character}.png"
+              src="/NEOH_Leaderboard/resources/chars/${character}.png"
             />
             <div class="tooltiptext">${label}</div>
           </div>
