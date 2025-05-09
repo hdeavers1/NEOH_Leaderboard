@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for GITHUB_TOKEN to push changes
 
     steps:
       - name: Checkout repository
@@ -25,9 +27,12 @@ jobs:
         run: node server.js
 
       - name: Commit and push data
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add data.json
-          git commit -m "⏰ Hourly data update" || echo "No changes"
-          git push
+          git diff --cached --quiet || git commit -m "⏰ Hourly data update"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+          git push origin HEAD
