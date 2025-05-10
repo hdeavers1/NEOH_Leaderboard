@@ -12,18 +12,18 @@
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
-    "rank": "PENDING",
-    "rating": 2,
+    "rank": "SILVER 3",
+    "rating": 1365.6,
     "characters": [
       "Falco",
       "Falcon"
     ],
     "percentages": [
-      "71.4",
-      "28.6"
+      "84.6",
+      "15.4"
     ],
-    "wins": 2,
-    "losses": 1
+    "wins": 4,
+    "losses": 2
   },
   "BIGO#869": {
     "name": "Cigs The Yoshi",
@@ -86,44 +86,6 @@
     ],
     "wins": 30,
     "losses": 24
-  },
-  "PANC#613": {
-    "name": "panchito$",
-    "tag": "PANC#613",
-    "rank": "GOLD 1",
-    "rating": 1503.6,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 19,
-    "losses": 16
-  },
-  "LVLM#792": {
-    "name": "Uncut Jim",
-    "tag": "LVLM#792",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "NECK#152": {
-    "name": "neckboy",
-    "tag": "NECK#152",
-    "rank": "PENDING",
-    "rating": 4,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 0,
-    "losses": 1
   },
   "SPOR#247": {
     "name": "Jub Lee",
