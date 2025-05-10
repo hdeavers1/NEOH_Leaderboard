@@ -87,6 +87,44 @@
     "wins": 30,
     "losses": 24
   },
+  "PANC#613": {
+    "name": "panchito$",
+    "tag": "PANC#613",
+    "rank": "GOLD 1",
+    "rating": 1503.6,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 19,
+    "losses": 16
+  },
+  "LVLM#792": {
+    "name": "Uncut Jim",
+    "tag": "LVLM#792",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "NECK#152": {
+    "name": "neckboy",
+    "tag": "NECK#152",
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 0,
+    "losses": 1
+  },
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
