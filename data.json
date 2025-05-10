@@ -311,14 +311,14 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "DIAMOND 3",
-    "rating": 2151.9,
+    "rating": 2164.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "97.3"
     ],
-    "wins": 75,
+    "wins": 76,
     "losses": 34
   },
   "JINK#1": {
@@ -505,17 +505,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1576.4,
+    "rating": 1581.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "73.5",
-      "26.5"
+      "72.8",
+      "27.2"
     ],
-    "wins": 38,
-    "losses": 31
+    "wins": 39,
+    "losses": 33
   },
   "DEE#218": {
     "name": "100 goops",
@@ -564,8 +564,8 @@
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
-    "rank": "SILVER 2",
-    "rating": 1223.4,
+    "rank": "SILVER 1",
+    "rating": 1183.4,
     "characters": [
       "Marth"
     ],
@@ -573,6 +573,6 @@
       "100.0"
     ],
     "wins": 19,
-    "losses": 26
+    "losses": 28
   }
 }
