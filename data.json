@@ -13,20 +13,20 @@
     "name": "Jubly",
     "tag": "JUBS#579",
     "rank": "PENDING",
-    "rating": 3,
+    "rating": 2,
     "characters": [
       "Falco",
       "Falcon"
     ],
     "percentages": [
-      "60.0",
-      "40.0"
+      "71.4",
+      "28.6"
     ],
-    "wins": 1,
+    "wins": 2,
     "losses": 1
   },
   "BIGO#869": {
-    "name": "Big Oscar",
+    "name": "Cigs The Yoshi",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -366,8 +366,8 @@
   "PEE#658": {
     "name": "Mr Gamer Gunk",
     "tag": "PEE#658",
-    "rank": "GOLD 2",
-    "rating": 1569.8,
+    "rank": "GOLD 1",
+    "rating": 1530.1,
     "characters": [
       "Ganon"
     ],
@@ -375,7 +375,7 @@
       "100.0"
     ],
     "wins": 8,
-    "losses": 4
+    "losses": 6
   },
   "WEGG#462": {
     "name": "Young Wunna",
@@ -542,7 +542,7 @@
     "losses": 0
   },
   "EGAG#906": {
-    "name": "peamusfan",
+    "name": "kiril",
     "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
