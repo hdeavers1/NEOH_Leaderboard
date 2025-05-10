@@ -13,14 +13,16 @@
     "name": "Jubly",
     "tag": "JUBS#579",
     "rank": "PENDING",
-    "rating": 4,
+    "rating": 3,
     "characters": [
+      "Falco",
       "Falcon"
     ],
     "percentages": [
-      "100.0"
+      "60.0",
+      "40.0"
     ],
-    "wins": 0,
+    "wins": 1,
     "losses": 1
   },
   "BIGO#869": {
@@ -364,15 +366,15 @@
   "PEE#658": {
     "name": "Mr Gamer Gunk",
     "tag": "PEE#658",
-    "rank": "GOLD 1",
-    "rating": 1534.5,
+    "rank": "GOLD 2",
+    "rating": 1569.8,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 7,
+    "wins": 8,
     "losses": 4
   },
   "WEGG#462": {
@@ -532,6 +534,16 @@
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "EGAG#906": {
+    "name": "peamusfan",
+    "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
