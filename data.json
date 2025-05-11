@@ -168,16 +168,18 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "PENDING",
-    "rating": 4,
+    "rank": "SILVER 2",
+    "rating": 1259.6,
     "characters": [
+      "Peach",
       "Fox"
     ],
     "percentages": [
-      "100.0"
+      "81.8",
+      "18.2"
     ],
-    "wins": 0,
-    "losses": 1
+    "wins": 3,
+    "losses": 2
   },
   "FRUM#591": {
     "name": "NOTHISISPATRICK",
@@ -505,17 +507,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1576.5,
+    "rating": 1566.2,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "73.4",
-      "26.6"
+      "73.0",
+      "27.0"
     ],
-    "wins": 40,
-    "losses": 34
+    "wins": 41,
+    "losses": 36
   },
   "DEE#218": {
     "name": "Taunt4MySopoBTW",
