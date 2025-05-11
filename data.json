@@ -76,15 +76,15 @@
   "MAEVE#0": {
     "name": "maeve",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 1",
-    "rating": 1825.6,
+    "rank": "PLATINUM 2",
+    "rating": 1859.7,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 36,
+    "wins": 38,
     "losses": 26
   },
   "PANC#613": {
@@ -518,7 +518,7 @@
     "losses": 33
   },
   "DEE#218": {
-    "name": "100 goops",
+    "name": "Taunt4MySopoBTW",
     "tag": "DEE#218",
     "rank": "GOLD 1",
     "rating": 1499.2,
