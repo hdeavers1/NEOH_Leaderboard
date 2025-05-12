@@ -194,15 +194,15 @@
   "CUTS#327": {
     "name": "Cavs in 7...",
     "tag": "CUTS#327",
-    "rank": "PENDING",
-    "rating": 2,
+    "rank": "GOLD 2",
+    "rating": 1579.2,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
+    "wins": 5,
     "losses": 0
   },
   "DOUG#405": {
@@ -260,18 +260,18 @@
   "PLAY#647": {
     "name": "Killdeer",
     "tag": "PLAY#647",
-    "rank": "DIAMOND 1",
-    "rating": 2024.1,
+    "rank": "PLATINUM 3",
+    "rating": 1999.2,
     "characters": [
       "Falco",
       "Luigi"
     ],
     "percentages": [
-      "57.8",
-      "40.9"
+      "58.6",
+      "40.1"
     ],
-    "wins": 45,
-    "losses": 21
+    "wins": 46,
+    "losses": 22
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -460,7 +460,7 @@
     "losses": 0
   },
   "MEDIC#0": {
-    "name": "Mr. Implosive",
+    "name": "MEDIC!",
     "tag": "MEDIC#0",
     "rank": "BRONZE 3",
     "rating": 927.1,
