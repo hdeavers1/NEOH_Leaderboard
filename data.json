@@ -192,13 +192,17 @@
     "losses": 0
   },
   "CUTS#327": {
-    "name": "Cavs in 6",
+    "name": "Cavs in 7...",
     "tag": "CUTS#327",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 3,
     "losses": 0
   },
   "DOUG#405": {
@@ -256,17 +260,17 @@
   "PLAY#647": {
     "name": "Killdeer",
     "tag": "PLAY#647",
-    "rank": "PLATINUM 3",
-    "rating": 1997.4,
+    "rank": "DIAMOND 1",
+    "rating": 2024.1,
     "characters": [
       "Falco",
       "Luigi"
     ],
     "percentages": [
-      "60.8",
-      "37.8"
+      "57.8",
+      "40.9"
     ],
-    "wins": 40,
+    "wins": 45,
     "losses": 21
   },
   "GRIM#801": {
