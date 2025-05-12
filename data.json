@@ -298,8 +298,8 @@
   "BLSE#808": {
     "name": "$hine Forever",
     "tag": "BLSE#808",
-    "rank": "GRANDMASTER",
-    "rating": 2216,
+    "rank": "DIAMOND 3",
+    "rating": 2181.9,
     "characters": [
       "Pikachu"
     ],
@@ -307,7 +307,7 @@
       "100.0"
     ],
     "wins": 39,
-    "losses": 9
+    "losses": 11
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -507,17 +507,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1566.2,
+    "rating": 1548.3,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "73.0",
-      "27.0"
+      "73.3",
+      "26.7"
     ],
     "wins": 41,
-    "losses": 36
+    "losses": 37
   },
   "DEE#218": {
     "name": "Taunt4MySopoBTW",
