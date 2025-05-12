@@ -511,30 +511,30 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1587,
+    "rating": 1616,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "73.5",
-      "26.5"
+      "73.7",
+      "26.3"
     ],
-    "wins": 44,
-    "losses": 38
+    "wins": 48,
+    "losses": 40
   },
   "DEE#218": {
-    "name": "Taunt4MySopoBTW",
+    "name": "death goops",
     "tag": "DEE#218",
     "rank": "GOLD 1",
-    "rating": 1499.2,
+    "rating": 1510.6,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 28,
+    "wins": 29,
     "losses": 25
   },
   "SUCC#860": {
