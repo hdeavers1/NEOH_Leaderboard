@@ -63,28 +63,7 @@ fetch('data.json')
       const slippiLink = `https://slippi.gg/user/${p.tag.replace('#', '-')}`;
       const chars = p.characters || [];
       const games = p.totalGames;
-      const rankStr = games === 0 ? 'Unranked' : (
-        games < 5 ? 'Pending' : (
-          (p.rating >= 2191.75 && isTop) ? 'Grandmaster' : (
-            p.rating >= 2350.00 ? 'Master 3' : (
-              p.rating >= 2275.00 ? 'Master 2' : (
-                p.rating >= 2191.75 ? 'Master 1' : (
-                  p.rating >= 2136.28 ? 'Diamond 3' : (
-                    p.rating >= 2073.67 ? 'Diamond 2' : (
-                      p.rating >= 2003.92 ? 'Diamond 1' : (
-                        p.rating >= 1927.03 ? 'Platinum 3' : (
-                          p.rating >= 1843.00 ? 'Platinum 2' : (
-                            p.rating >= 1751.83 ? 'Platinum 1' : (
-                              p.rating >= 1653.52 ? 'Gold 3' : (
-                                p.rating >= 1548.07 ? 'Gold 2' : (
-                                  p.rating >= 1435.48 ? 'Gold 1' : (
-                                    p.rating >= 1315.75 ? 'Silver 3' : (
-                                      p.rating >= 1188.88 ? 'Silver 2' : (
-                                        p.rating >= 1054.87 ? 'Silver 1' : (
-                                          p.rating >= 913.72 ? 'Bronze 3' : (
-                                            p.rating >= 765.43 ? 'Bronze 2' : (
-                                              'Bronze 1'
-      ))))))))))))))))))));
+      const rankStr = p.rank || 'Unranked'; // Use the rank from the data, default to 'Unranked' if not available
 
       const charsHtml = chars.map((character, index) => {
         const usage = p.percentages[index] / 100 || 0;
