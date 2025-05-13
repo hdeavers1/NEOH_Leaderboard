@@ -77,15 +77,15 @@
     "name": "maeve",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 1",
-    "rating": 1829.8,
+    "rating": 1835.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 53,
-    "losses": 46
+    "wins": 55,
+    "losses": 48
   },
   "PANC#613": {
     "name": "panchito$",
@@ -432,16 +432,6 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "DREW#175": {
-    "name": "Drew",
-    "tag": "DREW#175",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
