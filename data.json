@@ -77,15 +77,15 @@
     "name": "maeve",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 3",
-    "rating": 1931.6,
+    "rating": 1948.4,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 65,
-    "losses": 51
+    "wins": 68,
+    "losses": 52
   },
   "PANC#613": {
     "name": "panchito$",
@@ -420,7 +420,7 @@
     "losses": 9
   },
   "DNZO#333": {
-    "name": "leastRacstGanon",
+    "name": "the thinker",
     "tag": "DNZO#333",
     "rank": "NONE",
     "rating": 0,
@@ -511,17 +511,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1625.4,
+    "rating": 1608,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.6",
-      "25.4"
+      "73.2",
+      "26.8"
     ],
-    "wins": 52,
-    "losses": 43
+    "wins": 53,
+    "losses": 46
   },
   "DEE#218": {
     "name": "death goops",
