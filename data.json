@@ -429,16 +429,6 @@
     "wins": 0,
     "losses": 0
   },
-  "KM#12": {
-    "name": "kneemaster12",
-    "tag": "KM#12",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "DREW#175": {
     "name": "Drew",
     "tag": "DREW#175",
@@ -449,19 +439,15 @@
     "wins": 0,
     "losses": 0
   },
-  "MEDIC#0": {
-    "name": "MEDIC!",
-    "tag": "MEDIC#0",
-    "rank": "BRONZE 3",
-    "rating": 927.1,
-    "characters": [
-      "Luigi"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 13
+  "PGH#412": {
+    "name": "Ft. PGH Carroll",
+    "tag": "PGH#412",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "SERE#225": {
     "name": "Meuf tu geres",
@@ -530,16 +516,6 @@
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "EGAG#906": {
-    "name": "kiril",
-    "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
