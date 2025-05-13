@@ -76,16 +76,16 @@
   "MAEVE#0": {
     "name": "maeve",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 1",
-    "rating": 1816.5,
+    "rank": "PLATINUM 2",
+    "rating": 1854.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 42,
-    "losses": 32
+    "wins": 47,
+    "losses": 37
   },
   "PANC#613": {
     "name": "panchito$",
@@ -317,15 +317,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "DIAMOND 3",
-    "rating": 2164.6,
+    "rating": 2186.2,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.3"
+      "97.5"
     ],
-    "wins": 76,
-    "losses": 34
+    "wins": 81,
+    "losses": 36
   },
   "JINK#1": {
     "name": "Jink",
