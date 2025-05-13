@@ -77,15 +77,15 @@
     "name": "maeve",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 2",
-    "rating": 1847,
+    "rating": 1858.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 48,
-    "losses": 39
+    "wins": 51,
+    "losses": 42
   },
   "PANC#613": {
     "name": "panchito$",
@@ -496,15 +496,15 @@
   "JHTL#587": {
     "name": "JHTL",
     "tag": "JHTL#587",
-    "rank": "PLATINUM 1",
-    "rating": 1829.7,
+    "rank": "PLATINUM 2",
+    "rating": 1875.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 23,
+    "wins": 25,
     "losses": 15
   },
   "YOSH#458": {
