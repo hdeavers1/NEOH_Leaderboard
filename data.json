@@ -76,16 +76,16 @@
   "MAEVE#0": {
     "name": "maeve",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 2",
-    "rating": 1858.5,
+    "rank": "PLATINUM 1",
+    "rating": 1829.8,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 51,
-    "losses": 42
+    "wins": 53,
+    "losses": 46
   },
   "PANC#613": {
     "name": "panchito$",
@@ -298,20 +298,6 @@
     ],
     "wins": 11,
     "losses": 7
-  },
-  "BLSE#808": {
-    "name": "$hine Forever",
-    "tag": "BLSE#808",
-    "rank": "DIAMOND 3",
-    "rating": 2152.1,
-    "characters": [
-      "Pikachu"
-    ],
-    "percentages": [
-      "99.3"
-    ],
-    "wins": 46,
-    "losses": 16
   },
   "FUCKIN#1": {
     "name": "fknsilver",
