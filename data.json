@@ -87,20 +87,6 @@
     "wins": 53,
     "losses": 46
   },
-  "PANC#613": {
-    "name": "panchito$",
-    "tag": "PANC#613",
-    "rank": "GOLD 1",
-    "rating": 1503.6,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 19,
-    "losses": 16
-  },
   "LVLM#792": {
     "name": "Uncut Jim",
     "tag": "LVLM#792",
@@ -256,22 +242,6 @@
     ],
     "wins": 10,
     "losses": 5
-  },
-  "PLAY#647": {
-    "name": "Killdeer",
-    "tag": "PLAY#647",
-    "rank": "PLATINUM 3",
-    "rating": 1999.2,
-    "characters": [
-      "Falco",
-      "Luigi"
-    ],
-    "percentages": [
-      "58.6",
-      "40.1"
-    ],
-    "wins": 46,
-    "losses": 22
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -442,16 +412,6 @@
   "DREW#175": {
     "name": "Drew",
     "tag": "DREW#175",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "PGH#412": {
-    "name": "Ft. PGH Carroll",
-    "tag": "PGH#412",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
