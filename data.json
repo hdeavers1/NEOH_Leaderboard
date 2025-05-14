@@ -50,18 +50,18 @@
     "losses": 7
   },
   "MAYO#795": {
-    "name": "Freaky Mayo",
+    "name": "mayonator69420",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1719.5,
+    "rating": 1732.6,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 17,
-    "losses": 9
+    "wins": 26,
+    "losses": 18
   },
   "CHAR#991": {
     "name": "Char",
@@ -74,18 +74,18 @@
     "losses": 0
   },
   "MAEVE#0": {
-    "name": "maeve",
+    "name": "lumor's bane",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 2",
-    "rating": 1853.1,
+    "rank": "PLATINUM 3",
+    "rating": 1972.7,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 42,
-    "losses": 29
+    "wins": 77,
+    "losses": 56
   },
   "PANC#613": {
     "name": "panchito$",
@@ -158,12 +158,16 @@
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 1,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 2
   },
   "FUEL#375": {
     "name": "Fuelperks",
@@ -192,13 +196,17 @@
     "losses": 0
   },
   "CUTS#327": {
-    "name": "Cavs in 6",
+    "name": "Lars Bucci",
     "tag": "CUTS#327",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "GOLD 2",
+    "rating": 1579.2,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 5,
     "losses": 0
   },
   "DOUG#405": {
@@ -257,17 +265,17 @@
     "name": "Killdeer",
     "tag": "PLAY#647",
     "rank": "PLATINUM 3",
-    "rating": 1997.4,
+    "rating": 1999.2,
     "characters": [
       "Falco",
       "Luigi"
     ],
     "percentages": [
-      "60.8",
-      "37.8"
+      "58.6",
+      "40.1"
     ],
-    "wins": 40,
-    "losses": 21
+    "wins": 46,
+    "losses": 22
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -298,16 +306,30 @@
   "BLSE#808": {
     "name": "$hine Forever",
     "tag": "BLSE#808",
-    "rank": "GRANDMASTER",
-    "rating": 2216,
+    "rank": "DIAMOND 3",
+    "rating": 2145.8,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "100.0"
+      "99.4"
     ],
-    "wins": 39,
-    "losses": 9
+    "wins": 53,
+    "losses": 19
+  },
+  "FUCKIN#1": {
+    "name": "fknsilver",
+    "tag": "FUCKIN#1",
+    "rank": "DIAMOND 3",
+    "rating": 2186.2,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "97.5"
+    ],
+    "wins": 81,
+    "losses": 36
   },
   "JINK#1": {
     "name": "Jink",
@@ -339,17 +361,17 @@
     "name": "(-:",
     "tag": "ZBOO#991",
     "rank": "PENDING",
-    "rating": 4,
+    "rating": 3,
     "characters": [
       "Fox",
       "G&W"
     ],
     "percentages": [
-      "50.0",
-      "50.0"
+      "80.0",
+      "20.0"
     ],
     "wins": 1,
-    "losses": 0
+    "losses": 1
   },
   "PEE#658": {
     "name": "Mr Gamer Gunk",
@@ -402,7 +424,7 @@
     "losses": 9
   },
   "DNZO#333": {
-    "name": "leastRacstGanon",
+    "name": "the thinker",
     "tag": "DNZO#333",
     "rank": "NONE",
     "rating": 0,
@@ -442,7 +464,7 @@
     "losses": 0
   },
   "MEDIC#0": {
-    "name": "Mr. Implosive",
+    "name": "MEDIC!",
     "tag": "MEDIC#0",
     "rank": "BRONZE 3",
     "rating": 927.1,
@@ -478,45 +500,45 @@
   "JHTL#587": {
     "name": "JHTL",
     "tag": "JHTL#587",
-    "rank": "PLATINUM 1",
-    "rating": 1829.7,
+    "rank": "PLATINUM 2",
+    "rating": 1875.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 23,
+    "wins": 25,
     "losses": 15
   },
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1566.2,
+    "rating": 1644.6,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "73.0",
-      "27.0"
+      "73.2",
+      "26.8"
     ],
-    "wins": 41,
-    "losses": 36
+    "wins": 59,
+    "losses": 49
   },
   "DEE#218": {
-    "name": "Taunt4MySopoBTW",
+    "name": "death goops",
     "tag": "DEE#218",
     "rank": "GOLD 1",
-    "rating": 1499.2,
+    "rating": 1537.4,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 28,
+    "wins": 30,
     "losses": 25
   },
   "SUCC#860": {
