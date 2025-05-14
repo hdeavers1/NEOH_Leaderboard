@@ -52,16 +52,16 @@
   "MAYO#795": {
     "name": "mayonator69420",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1732.6,
+    "rank": "PLATINUM 1",
+    "rating": 1802.6,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 26,
-    "losses": 18
+    "wins": 30,
+    "losses": 19
   },
   "CHAR#991": {
     "name": "Char",
@@ -77,7 +77,7 @@
     "name": "lumor's bane",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 3",
-    "rating": 1972.7,
+    "rating": 1931.9,
     "characters": [
       "Fox"
     ],
@@ -85,7 +85,7 @@
       "100.0"
     ],
     "wins": 77,
-    "losses": 56
+    "losses": 59
   },
   "PANC#613": {
     "name": "panchito$",
@@ -514,17 +514,17 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1644.6,
+    "rank": "GOLD 3",
+    "rating": 1660.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "73.2",
-      "26.8"
+      "73.1",
+      "26.9"
     ],
-    "wins": 59,
+    "wins": 60,
     "losses": 49
   },
   "DEE#218": {
@@ -584,5 +584,21 @@
     ],
     "wins": 19,
     "losses": 28
+  },
+  "NCRO#183": {
+    "name": "Ncro",
+    "tag": "NCRO#183",
+    "rank": "GOLD 2",
+    "rating": 1593.8,
+    "characters": [
+      "Marth",
+      "Fox"
+    ],
+    "percentages": [
+      "93.3",
+      "6.7"
+    ],
+    "wins": 12,
+    "losses": 8
   }
 }
