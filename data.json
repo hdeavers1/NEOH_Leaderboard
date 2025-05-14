@@ -76,8 +76,8 @@
   "MAEVE#0": {
     "name": "maeve",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1948.4,
+    "rank": "PLATINUM 2",
+    "rating": 1921.8,
     "characters": [
       "Fox"
     ],
@@ -85,7 +85,7 @@
       "100.0"
     ],
     "wins": 68,
-    "losses": 52
+    "losses": 53
   },
   "PANC#613": {
     "name": "panchito$",
@@ -347,16 +347,6 @@
     "wins": 43,
     "losses": 21
   },
-  "FLOW#08": {
-    "name": "Flow",
-    "tag": "FLOW#08",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "ZBOO#991": {
     "name": "(-:",
     "tag": "ZBOO#991",
@@ -540,6 +530,16 @@
     ],
     "wins": 30,
     "losses": 25
+  },
+  "SUCC#860": {
+    "name": "Wahey",
+    "tag": "SUCC#860",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "EGAG#906": {
     "name": "kiril",
