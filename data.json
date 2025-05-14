@@ -511,6 +511,22 @@
     "wins": 25,
     "losses": 15
   },
+  "YOSH#458": {
+    "name": "lrgpzzasubnoham",
+    "tag": "YOSH#458",
+    "rank": "GOLD 2",
+    "rating": 1629.8,
+    "characters": [
+      "Yoshi",
+      "DK"
+    ],
+    "percentages": [
+      "73.5",
+      "26.5"
+    ],
+    "wins": 56,
+    "losses": 47
+  },
   "DEE#218": {
     "name": "death goops",
     "tag": "DEE#218",
@@ -524,16 +540,6 @@
     ],
     "wins": 30,
     "losses": 25
-  },
-  "SUCC#860": {
-    "name": "Wahey",
-    "tag": "SUCC#860",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "EGAG#906": {
     "name": "kiril",
