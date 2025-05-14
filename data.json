@@ -49,20 +49,6 @@
     "wins": 11,
     "losses": 7
   },
-  "MAYO#795": {
-    "name": "mayonator69420",
-    "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1703.3,
-    "characters": [
-      "DK"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 24,
-    "losses": 18
-  },
   "CHAR#991": {
     "name": "Char",
     "tag": "CHAR#991",
@@ -346,6 +332,16 @@
     ],
     "wins": 43,
     "losses": 21
+  },
+  "FLOW#08": {
+    "name": "Flow",
+    "tag": "FLOW#08",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "ZBOO#991": {
     "name": "(-:",
