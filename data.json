@@ -357,6 +357,22 @@
     "wins": 0,
     "losses": 0
   },
+  "ZBOO#991": {
+    "name": "(-:",
+    "tag": "ZBOO#991",
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Fox",
+      "G&W"
+    ],
+    "percentages": [
+      "80.0",
+      "20.0"
+    ],
+    "wins": 1,
+    "losses": 1
+  },
   "PEE#658": {
     "name": "Mr Gamer Gunk",
     "tag": "PEE#658",
