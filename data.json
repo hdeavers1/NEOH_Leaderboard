@@ -77,15 +77,15 @@
     "name": "lumor's bane",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 3",
-    "rating": 1931.9,
+    "rating": 1931.8,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 77,
-    "losses": 59
+    "wins": 78,
+    "losses": 60
   },
   "PANC#613": {
     "name": "panchito$",
@@ -172,18 +172,18 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "SILVER 2",
-    "rating": 1259.6,
+    "rank": "SILVER 3",
+    "rating": 1339.7,
     "characters": [
       "Peach",
       "Fox"
     ],
     "percentages": [
-      "81.8",
-      "18.2"
+      "88.2",
+      "11.8"
     ],
-    "wins": 3,
-    "losses": 2
+    "wins": 5,
+    "losses": 3
   },
   "FRUM#591": {
     "name": "NOTHISISPATRICK",
@@ -589,16 +589,16 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "GOLD 2",
-    "rating": 1593.8,
+    "rating": 1590.1,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "93.3",
-      "6.7"
+      "93.6",
+      "6.4"
     ],
     "wins": 12,
-    "losses": 8
+    "losses": 9
   }
 }
