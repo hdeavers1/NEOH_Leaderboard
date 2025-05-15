@@ -77,14 +77,14 @@
     "name": "lumor's bane",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 3",
-    "rating": 1934.3,
+    "rating": 1940.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "100.0"
+      "99.7"
     ],
-    "wins": 84,
+    "wins": 85,
     "losses": 67
   },
   "PANC#613": {
@@ -391,17 +391,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "GOLD 1",
-    "rating": 1487.8,
+    "rating": 1473,
     "characters": [
       "Fox",
-      "Marth"
+      "Marth",
+      "Falcon"
     ],
     "percentages": [
-      "94.7",
-      "5.3"
+      "90.5",
+      "4.8",
+      "4.8"
     ],
     "wins": 5,
-    "losses": 3
+    "losses": 4
   },
   "SURF#666": {
     "name": "Air CHIPMUNK",
