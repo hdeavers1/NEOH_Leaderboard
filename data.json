@@ -591,16 +591,16 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "GOLD 2",
-    "rating": 1603.6,
+    "rating": 1636.4,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "93.0",
-      "7.0"
+      "93.2",
+      "6.8"
     ],
-    "wins": 14,
+    "wins": 15,
     "losses": 11
   }
 }
