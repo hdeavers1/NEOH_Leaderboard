@@ -76,16 +76,16 @@
   "MAEVE#0": {
     "name": "lumor's bane",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 2",
-    "rating": 1922.3,
+    "rank": "PLATINUM 3",
+    "rating": 1934.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 82,
-    "losses": 65
+    "wins": 84,
+    "losses": 67
   },
   "PANC#613": {
     "name": "panchito$",
@@ -196,7 +196,7 @@
     "losses": 0
   },
   "CUTS#327": {
-    "name": "Lars Bucci",
+    "name": "2CleanStocks",
     "tag": "CUTS#327",
     "rank": "GOLD 2",
     "rating": 1579.2,
@@ -574,15 +574,15 @@
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
-    "rank": "SILVER 1",
-    "rating": 1183.4,
+    "rank": "SILVER 2",
+    "rating": 1221.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 19,
+    "wins": 21,
     "losses": 28
   },
   "NCRO#183": {
