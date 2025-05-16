@@ -337,17 +337,17 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "PLATINUM 3",
-    "rating": 2000.5,
+    "rating": 1994.5,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "95.9",
+      "96.0",
       "3.4"
     ],
     "wins": 43,
-    "losses": 21
+    "losses": 22
   },
   "FLOW#08": {
     "name": "Flow",
