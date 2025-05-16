@@ -337,17 +337,17 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2016.8,
+    "rating": 2011.9,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "96.3",
-      "3.1"
+      "96.4",
+      "3.0"
     ],
-    "wins": 47,
-    "losses": 23
+    "wins": 49,
+    "losses": 24
   },
   "FLOW#08": {
     "name": "Flow",
@@ -535,14 +535,14 @@
     "name": "death goops",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1549.9,
+    "rating": 1566.2,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 31,
+    "wins": 32,
     "losses": 26
   },
   "SUCC#860": {
