@@ -534,16 +534,16 @@
   "DEE#218": {
     "name": "death goops",
     "tag": "DEE#218",
-    "rank": "GOLD 1",
-    "rating": 1537.4,
+    "rank": "GOLD 2",
+    "rating": 1549.9,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 30,
-    "losses": 25
+    "wins": 31,
+    "losses": 26
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -593,16 +593,16 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "GOLD 2",
-    "rating": 1638.7,
+    "rating": 1627.4,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "90.9",
-      "9.1"
+      "89.9",
+      "10.1"
     ],
     "wins": 16,
-    "losses": 13
+    "losses": 14
   }
 }
