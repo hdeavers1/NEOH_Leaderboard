@@ -195,20 +195,6 @@
     "wins": 0,
     "losses": 0
   },
-  "CUTS#327": {
-    "name": "2CleanStocks",
-    "tag": "CUTS#327",
-    "rank": "GOLD 2",
-    "rating": 1579.2,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 5,
-    "losses": 0
-  },
   "DOUG#405": {
     "name": "ひ",
     "tag": "DOUG#405",
@@ -535,15 +521,15 @@
     "name": "death goops",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1549.6,
+    "rating": 1562.1,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 33,
-    "losses": 28
+    "wins": 34,
+    "losses": 29
   },
   "SUCC#860": {
     "name": "Wahey",
