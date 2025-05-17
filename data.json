@@ -53,14 +53,14 @@
     "name": "mayonator69420",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1802.6,
+    "rating": 1818.6,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 30,
+    "wins": 31,
     "losses": 19
   },
   "CHAR#991": {
@@ -193,6 +193,20 @@
     "characters": [],
     "percentages": [],
     "wins": 0,
+    "losses": 0
+  },
+  "CUTS#327": {
+    "name": "2CleanStocks",
+    "tag": "CUTS#327",
+    "rank": "GOLD 2",
+    "rating": 1579.2,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 5,
     "losses": 0
   },
   "DOUG#405": {
@@ -505,31 +519,31 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1646.3,
+    "rating": 1585.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "71.8",
-      "28.2"
+      "72.2",
+      "27.8"
     ],
-    "wins": 72,
-    "losses": 60
+    "wins": 74,
+    "losses": 66
   },
   "DEE#218": {
     "name": "death goops",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1562.1,
+    "rating": 1554.9,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 34,
-    "losses": 29
+    "wins": 38,
+    "losses": 34
   },
   "SUCC#860": {
     "name": "Wahey",
