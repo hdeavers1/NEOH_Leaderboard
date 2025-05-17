@@ -52,16 +52,16 @@
   "MAYO#795": {
     "name": "mayonator69420",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1818.6,
+    "rank": "PLATINUM 2",
+    "rating": 1855.7,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 31,
-    "losses": 19
+    "wins": 34,
+    "losses": 20
   },
   "CHAR#991": {
     "name": "Char",
@@ -223,14 +223,14 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 2",
-    "rating": 1579.4,
+    "rating": 1630.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 13,
+    "wins": 15,
     "losses": 10
   },
   "JUST#577": {
@@ -336,18 +336,18 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 1",
-    "rating": 2018.2,
+    "rank": "PLATINUM 3",
+    "rating": 1985.5,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "96.5",
-      "2.9"
+      "96.2",
+      "3.3"
     ],
-    "wins": 50,
-    "losses": 25
+    "wins": 51,
+    "losses": 29
   },
   "FLOW#08": {
     "name": "Flow",
@@ -519,31 +519,31 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1585.5,
+    "rating": 1586.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "72.2",
-      "27.8"
+      "71.8",
+      "28.2"
     ],
-    "wins": 74,
-    "losses": 66
+    "wins": 75,
+    "losses": 67
   },
   "DEE#218": {
     "name": "death goops",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1554.9,
+    "rating": 1566.6,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 38,
-    "losses": 34
+    "wins": 39,
+    "losses": 35
   },
   "SUCC#860": {
     "name": "Wahey",
