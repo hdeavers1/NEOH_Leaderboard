@@ -76,16 +76,16 @@
   "MAEVE#0": {
     "name": "Gay Hungrybox",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 2",
-    "rating": 1925,
+    "rank": "PLATINUM 3",
+    "rating": 1929.1,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.8"
     ],
-    "wins": 99,
-    "losses": 81
+    "wins": 106,
+    "losses": 85
   },
   "PANC#613": {
     "name": "panchito$",
@@ -159,15 +159,15 @@
     "name": "pingas",
     "tag": "JARD#561",
     "rank": "SILVER 2",
-    "rating": 1283.3,
+    "rating": 1311.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
-    "losses": 4
+    "wins": 5,
+    "losses": 5
   },
   "FUEL#375": {
     "name": "Fuelperks",
