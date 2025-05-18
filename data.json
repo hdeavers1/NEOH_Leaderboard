@@ -76,16 +76,16 @@
   "MAEVE#0": {
     "name": "Gay Hungrybox",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1929.1,
+    "rank": "PLATINUM 2",
+    "rating": 1880.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.8"
     ],
-    "wins": 106,
-    "losses": 85
+    "wins": 107,
+    "losses": 90
   },
   "PANC#613": {
     "name": "panchito$",
@@ -223,15 +223,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 3",
-    "rating": 1679.4,
+    "rating": 1714.5,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 17,
-    "losses": 10
+    "wins": 22,
+    "losses": 13
   },
   "JUST#577": {
     "name": "FuckSheik",
@@ -309,14 +309,14 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "DIAMOND 3",
-    "rating": 2145.8,
+    "rating": 2179.2,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "99.4"
+      "98.8"
     ],
-    "wins": 53,
+    "wins": 57,
     "losses": 19
   },
   "FUCKIN#1": {
@@ -593,16 +593,16 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "GOLD 2",
-    "rating": 1627.4,
+    "rating": 1653.4,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "89.9",
-      "10.1"
+      "90.1",
+      "9.9"
     ],
-    "wins": 16,
+    "wins": 17,
     "losses": 14
   }
 }
