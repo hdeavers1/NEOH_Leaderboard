@@ -223,7 +223,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 3",
-    "rating": 1714.5,
+    "rating": 1710.5,
     "characters": [
       "Falcon"
     ],
@@ -231,7 +231,7 @@
       "100.0"
     ],
     "wins": 22,
-    "losses": 13
+    "losses": 14
   },
   "JUST#577": {
     "name": "FuckSheik",
@@ -308,16 +308,16 @@
   "BLSE#808": {
     "name": "$hine Forever",
     "tag": "BLSE#808",
-    "rank": "DIAMOND 3",
-    "rating": 2179.2,
+    "rank": "GRANDMASTER",
+    "rating": 2199.1,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "98.8"
+      "98.9"
     ],
-    "wins": 57,
-    "losses": 19
+    "wins": 61,
+    "losses": 20
   },
   "FUCKIN#1": {
     "name": "fknsilver",
