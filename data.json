@@ -53,7 +53,7 @@
     "name": "mayonator69420",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1784.5,
+    "rating": 1768.6,
     "characters": [
       "DK"
     ],
@@ -61,7 +61,7 @@
       "100.0"
     ],
     "wins": 36,
-    "losses": 28
+    "losses": 30
   },
   "CHAR#991": {
     "name": "Char",
@@ -74,7 +74,7 @@
     "losses": 0
   },
   "MAEVE#0": {
-    "name": "Gay Hungrybox",
+    "name": "Maeve",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 2",
     "rating": 1895.5,
@@ -408,23 +408,23 @@
     "losses": 4
   },
   "SURF#666": {
-    "name": "Say Defeat",
+    "name": "Super Mario",
     "tag": "SURF#666",
     "rank": "GOLD 1",
-    "rating": 1476.7,
+    "rating": 1507.7,
     "characters": [
       "Falco",
       "Bowser",
       "Puff",
-      "Ganon"
+      "Mario"
     ],
     "percentages": [
-      "74.5",
-      "13.7",
-      "5.9",
-      "3.9"
+      "70.4",
+      "13.0",
+      "5.6",
+      "5.6"
     ],
-    "wins": 12,
+    "wins": 13,
     "losses": 9
   },
   "DNZO#333": {
