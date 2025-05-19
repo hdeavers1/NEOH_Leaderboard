@@ -53,15 +53,15 @@
     "name": "mayonator69420",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1768.6,
+    "rating": 1766.4,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 36,
-    "losses": 30
+    "wins": 42,
+    "losses": 35
   },
   "CHAR#991": {
     "name": "Char",
@@ -376,7 +376,7 @@
     "losses": 1
   },
   "PEE#658": {
-    "name": "Mr Gamer Gunk",
+    "name": "Chris Jerfalco",
     "tag": "PEE#658",
     "rank": "GOLD 1",
     "rating": 1530.1,
@@ -392,20 +392,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 1",
-    "rating": 1473,
+    "rank": "GOLD 2",
+    "rating": 1579.8,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "90.5",
-      "4.8",
-      "4.8"
+      "86.5",
+      "8.1",
+      "5.4"
     ],
-    "wins": 5,
-    "losses": 4
+    "wins": 8,
+    "losses": 7
   },
   "SURF#666": {
     "name": "Super Mario",
