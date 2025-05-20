@@ -337,17 +337,17 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "PLATINUM 3",
-    "rating": 1985.5,
+    "rating": 1989.2,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "96.2",
-      "3.3"
+      "96.3",
+      "3.2"
     ],
-    "wins": 51,
-    "losses": 29
+    "wins": 53,
+    "losses": 30
   },
   "FLOW#08": {
     "name": "Flow",
@@ -534,8 +534,8 @@
   "DEE#218": {
     "name": "pink popo club",
     "tag": "DEE#218",
-    "rank": "GOLD 2",
-    "rating": 1566.6,
+    "rank": "GOLD 1",
+    "rating": 1543.7,
     "characters": [
       "ICs"
     ],
@@ -543,7 +543,7 @@
       "100.0"
     ],
     "wins": 39,
-    "losses": 35
+    "losses": 36
   },
   "SUCC#860": {
     "name": "Wahey",
