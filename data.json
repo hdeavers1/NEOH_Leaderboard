@@ -52,16 +52,16 @@
   "MAYO#795": {
     "name": "mayonator69420",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1769.1,
+    "rank": "GOLD 3",
+    "rating": 1733.9,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 64,
-    "losses": 56
+    "wins": 66,
+    "losses": 61
   },
   "CHAR#991": {
     "name": "Char",
@@ -337,17 +337,17 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2013.4,
+    "rating": 2012.8,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "96.6",
-      "2.9"
+      "96.7",
+      "2.8"
     ],
-    "wins": 57,
-    "losses": 32
+    "wins": 58,
+    "losses": 34
   },
   "FLOW#08": {
     "name": "Flow",
@@ -393,19 +393,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "GOLD 2",
-    "rating": 1579.8,
+    "rating": 1605.3,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "86.5",
-      "8.1",
-      "5.4"
+      "82.6",
+      "13.0",
+      "4.3"
     ],
-    "wins": 8,
-    "losses": 7
+    "wins": 10,
+    "losses": 9
   },
   "SURF#666": {
     "name": "Super Mario",
@@ -519,30 +519,30 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1586.8,
+    "rating": 1614,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "71.8",
-      "28.2"
+      "71.7",
+      "28.3"
     ],
-    "wins": 75,
+    "wins": 77,
     "losses": 67
   },
   "DEE#218": {
     "name": "pink popo club",
     "tag": "DEE#218",
-    "rank": "GOLD 1",
-    "rating": 1546.3,
+    "rank": "GOLD 2",
+    "rating": 1583.4,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 43,
+    "wins": 46,
     "losses": 42
   },
   "SUCC#860": {
