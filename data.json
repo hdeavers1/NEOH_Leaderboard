@@ -26,7 +26,7 @@
     "losses": 2
   },
   "BIGO#869": {
-    "name": "Cigs The Yoshi",
+    "name": "The Hog",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -74,18 +74,18 @@
     "losses": 0
   },
   "MAEVE#0": {
-    "name": "cow ancestor",
+    "name": "BuffaloAncestor",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 2",
-    "rating": 1912.8,
+    "rating": 1896.1,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 134,
-    "losses": 118
+    "wins": 136,
+    "losses": 122
   },
   "PANC#613": {
     "name": "panchito$",
