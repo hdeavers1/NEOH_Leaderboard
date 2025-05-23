@@ -53,14 +53,14 @@
     "name": "mayonator69420",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1759.6,
+    "rating": 1771.9,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 76,
+    "wins": 77,
     "losses": 70
   },
   "CHAR#991": {
@@ -77,15 +77,17 @@
     "name": "maeve 117",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 1",
-    "rating": 1828.6,
+    "rating": 1799.9,
     "characters": [
-      "Fox"
+      "Fox",
+      "Falco"
     ],
     "percentages": [
-      "98.9"
+      "95.7",
+      "3.8"
     ],
-    "wins": 136,
-    "losses": 127
+    "wins": 139,
+    "losses": 132
   },
   "PANC#613": {
     "name": "panchito$",
@@ -592,18 +594,20 @@
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
-    "rank": "GOLD 3",
-    "rating": 1660.2,
+    "rank": "GOLD 2",
+    "rating": 1650.4,
     "characters": [
       "Marth",
-      "Fox"
+      "Fox",
+      "Sheik"
     ],
     "percentages": [
-      "89.5",
-      "10.5"
+      "83.9",
+      "11.5",
+      "4.6"
     ],
-    "wins": 18,
-    "losses": 15
+    "wins": 20,
+    "losses": 18
   },
   "MOSHI#0": {
     "name": "swag wednesday",
