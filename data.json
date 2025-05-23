@@ -77,17 +77,17 @@
     "name": "maeve 117",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 1",
-    "rating": 1782.8,
+    "rating": 1781.4,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "95.4",
-      "4.1"
+      "95.5",
+      "4.0"
     ],
-    "wins": 140,
-    "losses": 134
+    "wins": 142,
+    "losses": 136
   },
   "PANC#613": {
     "name": "panchito$",
@@ -595,22 +595,22 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "GOLD 2",
-    "rating": 1650.4,
+    "rating": 1636.3,
     "characters": [
       "Marth",
       "Fox",
       "Sheik"
     ],
     "percentages": [
-      "83.9",
-      "11.5",
-      "4.6"
+      "83.1",
+      "11.2",
+      "5.6"
     ],
     "wins": 20,
-    "losses": 18
+    "losses": 19
   },
   "MOSHI#0": {
-    "name": "swag wednesday",
+    "name": "Sicktheyrari",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1714.9,
