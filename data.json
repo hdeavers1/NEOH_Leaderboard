@@ -604,5 +604,19 @@
     ],
     "wins": 18,
     "losses": 15
+  },
+  "MOSHI#0": {
+    "name": "swag wednesday",
+    "tag": "MOSHI#0",
+    "rank": "GOLD 3",
+    "rating": 1714.9,
+    "characters": [
+      "Peach"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 84,
+    "losses": 75
   }
 }
