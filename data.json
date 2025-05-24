@@ -77,17 +77,17 @@
     "name": "maeve 117",
     "tag": "MAEVE#0",
     "rank": "GOLD 3",
-    "rating": 1722.3,
+    "rating": 1733.5,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "89.8",
-      "9.8"
+      "90.0",
+      "9.6"
     ],
-    "wins": 161,
-    "losses": 158
+    "wins": 164,
+    "losses": 162
   },
   "PANC#613": {
     "name": "panchito$",
@@ -537,15 +537,15 @@
     "name": "pink popo club",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1692.6,
+    "rating": 1688.1,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 54,
-    "losses": 44
+    "wins": 55,
+    "losses": 46
   },
   "SUCC#860": {
     "name": "Wahey",
