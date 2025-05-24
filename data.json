@@ -76,18 +76,18 @@
   "MAEVE#0": {
     "name": "maeve 117",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 1",
-    "rating": 1783.4,
+    "rank": "GOLD 3",
+    "rating": 1733.5,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "94.1",
-      "5.4"
+      "91.2",
+      "8.3"
     ],
-    "wins": 146,
-    "losses": 139
+    "wins": 148,
+    "losses": 146
   },
   "PANC#613": {
     "name": "panchito$",
@@ -612,15 +612,15 @@
   "MOSHI#0": {
     "name": "Sicktheyrari",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1740.9,
+    "rank": "PLATINUM 1",
+    "rating": 1763.9,
     "characters": [
       "Peach"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 89,
+    "wins": 91,
     "losses": 78
   }
 }
