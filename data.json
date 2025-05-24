@@ -76,18 +76,18 @@
   "MAEVE#0": {
     "name": "maeve 117",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 1",
-    "rating": 1763.5,
+    "rank": "GOLD 3",
+    "rating": 1731.6,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "90.5",
-      "9.1"
+      "89.7",
+      "9.9"
     ],
     "wins": 160,
-    "losses": 153
+    "losses": 156
   },
   "PANC#613": {
     "name": "panchito$",
@@ -200,16 +200,16 @@
   "CUTS#327": {
     "name": "Plup Fiction",
     "tag": "CUTS#327",
-    "rank": "GOLD 3",
-    "rating": 1682,
+    "rank": "PLATINUM 1",
+    "rating": 1833.2,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 9,
-    "losses": 2
+    "wins": 14,
+    "losses": 4
   },
   "DOUG#405": {
     "name": "ひ",
@@ -394,19 +394,19 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 2",
-    "rating": 1596.4,
+    "rank": "GOLD 3",
+    "rating": 1655.6,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "84.9",
-      "11.3",
-      "3.8"
+      "84.7",
+      "11.9",
+      "3.4"
     ],
-    "wins": 11,
+    "wins": 13,
     "losses": 11
   },
   "SURF#666": {
@@ -521,17 +521,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1674.4,
+    "rating": 1662,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "69.4",
-      "30.6"
+      "69.7",
+      "30.3"
     ],
-    "wins": 89,
-    "losses": 75
+    "wins": 90,
+    "losses": 77
   },
   "DEE#218": {
     "name": "pink popo club",
