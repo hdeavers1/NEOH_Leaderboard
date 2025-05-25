@@ -76,17 +76,17 @@
   "MAEVE#0": {
     "name": "maeve 117",
     "tag": "MAEVE#0",
-    "rank": "GOLD 3",
-    "rating": 1733.5,
+    "rank": "PLATINUM 1",
+    "rating": 1774.7,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "90.0",
-      "9.6"
+      "90.1",
+      "9.5"
     ],
-    "wins": 164,
+    "wins": 168,
     "losses": 162
   },
   "PANC#613": {
@@ -486,12 +486,16 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PLATINUM 1",
+    "rating": 1769.5,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 11,
+    "losses": 3
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -537,14 +541,14 @@
     "name": "pink popo club",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1688.1,
+    "rating": 1717.6,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 55,
+    "wins": 57,
     "losses": 46
   },
   "SUCC#860": {
