@@ -77,16 +77,16 @@
     "name": "maeve 117",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 1",
-    "rating": 1756,
+    "rating": 1805.8,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "88.3",
-      "11.3"
+      "88.5",
+      "11.1"
     ],
-    "wins": 175,
+    "wins": 180,
     "losses": 172
   },
   "PANC#613": {
@@ -630,17 +630,17 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PLATINUM 2",
-    "rating": 1867.1,
+    "rank": "PLATINUM 3",
+    "rating": 1952.6,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "90.6",
-      "9.4"
+      "88.1",
+      "11.9"
     ],
-    "wins": 13,
-    "losses": 9
+    "wins": 16,
+    "losses": 12
   }
 }
