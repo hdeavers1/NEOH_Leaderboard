@@ -52,16 +52,16 @@
   "MAYO#795": {
     "name": "mayonator69420",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1746.5,
+    "rank": "PLATINUM 1",
+    "rating": 1828,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 72,
-    "losses": 66
+    "wins": 83,
+    "losses": 73
   },
   "CHAR#991": {
     "name": "Char",
@@ -77,15 +77,17 @@
     "name": "maeve 117",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 1",
-    "rating": 1828.6,
+    "rating": 1774.7,
     "characters": [
-      "Fox"
+      "Fox",
+      "Falco"
     ],
     "percentages": [
-      "98.9"
+      "90.1",
+      "9.5"
     ],
-    "wins": 136,
-    "losses": 127
+    "wins": 168,
+    "losses": 162
   },
   "PANC#613": {
     "name": "panchito$",
@@ -198,16 +200,16 @@
   "CUTS#327": {
     "name": "Plup Fiction",
     "tag": "CUTS#327",
-    "rank": "GOLD 2",
-    "rating": 1579.2,
+    "rank": "PLATINUM 1",
+    "rating": 1833.2,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
-    "losses": 0
+    "wins": 14,
+    "losses": 4
   },
   "DOUG#405": {
     "name": "ひ",
@@ -392,20 +394,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 2",
-    "rating": 1614.1,
+    "rank": "GOLD 3",
+    "rating": 1655.6,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "84.3",
-      "11.8",
-      "3.9"
+      "84.7",
+      "11.9",
+      "3.4"
     ],
-    "wins": 11,
-    "losses": 10
+    "wins": 13,
+    "losses": 11
   },
   "SURF#666": {
     "name": "Super Mario",
@@ -484,12 +486,16 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PLATINUM 1",
+    "rating": 1769.5,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 11,
+    "losses": 3
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -519,31 +525,31 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1614,
+    "rating": 1639.7,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "71.7",
-      "28.3"
+      "69.9",
+      "30.1"
     ],
-    "wins": 77,
-    "losses": 67
+    "wins": 90,
+    "losses": 79
   },
   "DEE#218": {
     "name": "pink popo club",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1661.2,
+    "rating": 1717.6,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 51,
-    "losses": 43
+    "wins": 57,
+    "losses": 46
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -592,17 +598,33 @@
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
-    "rank": "GOLD 3",
-    "rating": 1660.2,
+    "rank": "GOLD 2",
+    "rating": 1636.3,
     "characters": [
       "Marth",
-      "Fox"
+      "Fox",
+      "Sheik"
     ],
     "percentages": [
-      "89.5",
-      "10.5"
+      "83.1",
+      "11.2",
+      "5.6"
     ],
-    "wins": 18,
-    "losses": 15
+    "wins": 20,
+    "losses": 19
+  },
+  "MOSHI#0": {
+    "name": "Sicktheyrari",
+    "tag": "MOSHI#0",
+    "rank": "PLATINUM 1",
+    "rating": 1772.4,
+    "characters": [
+      "Peach"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 92,
+    "losses": 78
   }
 }
