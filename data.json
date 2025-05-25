@@ -77,17 +77,17 @@
     "name": "maeve 117",
     "tag": "MAEVE#0",
     "rank": "PLATINUM 1",
-    "rating": 1774.7,
+    "rating": 1781.7,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "90.1",
-      "9.5"
+      "90.3",
+      "9.4"
     ],
-    "wins": 168,
-    "losses": 162
+    "wins": 171,
+    "losses": 165
   },
   "PANC#613": {
     "name": "panchito$",
@@ -339,17 +339,17 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2045.2,
+    "rating": 2007.6,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.1",
-      "2.5"
+      "97.3",
+      "2.3"
     ],
-    "wins": 64,
-    "losses": 38
+    "wins": 67,
+    "losses": 45
   },
   "FLOW#08": {
     "name": "Flow",
@@ -630,8 +630,8 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "GOLD 3",
-    "rating": 1730.5,
+    "rank": "PLATINUM 2",
+    "rating": 1867.1,
     "characters": [
       "Fox",
       "Pikachu"
@@ -640,7 +640,7 @@
       "90.6",
       "9.4"
     ],
-    "wins": 9,
-    "losses": 4
+    "wins": 13,
+    "losses": 9
   }
 }
