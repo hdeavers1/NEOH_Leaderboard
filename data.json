@@ -267,19 +267,19 @@
     "name": "Killdeer",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
-    "rating": 2114.9,
+    "rating": 2131.5,
     "characters": [
       "Falco",
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "51.4",
-      "35.2",
-      "13.4"
+      "49.2",
+      "33.7",
+      "17.1"
     ],
-    "wins": 55,
-    "losses": 24
+    "wins": 58,
+    "losses": 25
   },
   "GRIM#801": {
     "name": "Shiesty",
