@@ -266,20 +266,20 @@
   "PLAY#647": {
     "name": "Killdeer",
     "tag": "PLAY#647",
-    "rank": "PLATINUM 3",
-    "rating": 1990,
+    "rank": "DIAMOND 2",
+    "rating": 2114.9,
     "characters": [
       "Falco",
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "57.5",
-      "39.4",
-      "3.1"
+      "51.4",
+      "35.2",
+      "13.4"
     ],
-    "wins": 46,
-    "losses": 23
+    "wins": 55,
+    "losses": 24
   },
   "GRIM#801": {
     "name": "Shiesty",
