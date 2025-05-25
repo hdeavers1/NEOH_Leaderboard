@@ -486,8 +486,8 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "PLATINUM 1",
-    "rating": 1769.5,
+    "rank": "GOLD 3",
+    "rating": 1733.5,
     "characters": [
       "Fox"
     ],
@@ -495,7 +495,7 @@
       "100.0"
     ],
     "wins": 11,
-    "losses": 3
+    "losses": 5
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -541,15 +541,15 @@
     "name": "pink popo club",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1717.6,
+    "rating": 1698.9,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 57,
-    "losses": 46
+    "wins": 58,
+    "losses": 48
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -585,14 +585,14 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 2",
-    "rating": 1198.6,
+    "rating": 1231.5,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 22,
+    "wins": 24,
     "losses": 31
   },
   "NCRO#183": {
@@ -626,5 +626,21 @@
     ],
     "wins": 92,
     "losses": 78
+  },
+  "SMEG#879": {
+    "name": "$",
+    "tag": "SMEG#879",
+    "rank": "GOLD 3",
+    "rating": 1730.5,
+    "characters": [
+      "Fox",
+      "Pikachu"
+    ],
+    "percentages": [
+      "90.6",
+      "9.4"
+    ],
+    "wins": 9,
+    "losses": 4
   }
 }
