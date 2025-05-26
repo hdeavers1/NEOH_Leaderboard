@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "The Cup",
+    "name": "it shouldnt wrk",
     "tag": "WWJ#916",
     "rank": "NONE",
     "rating": 0,
@@ -76,18 +76,18 @@
   "MAEVE#0": {
     "name": "maeve 117",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 1",
-    "rating": 1805.8,
+    "rank": "GOLD 3",
+    "rating": 1727.9,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "88.5",
-      "11.1"
+      "87.5",
+      "12.1"
     ],
-    "wins": 180,
-    "losses": 172
+    "wins": 182,
+    "losses": 180
   },
   "PANC#613": {
     "name": "panchito$",
@@ -617,30 +617,30 @@
     "name": "fortniteballz1",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1772.4,
+    "rating": 1764.3,
     "characters": [
       "Peach"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 92,
-    "losses": 78
+    "wins": 93,
+    "losses": 79
   },
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PLATINUM 3",
-    "rating": 1952.6,
+    "rank": "DIAMOND 1",
+    "rating": 2062.2,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "88.1",
-      "11.9"
+      "83.7",
+      "16.3"
     ],
-    "wins": 16,
-    "losses": 12
+    "wins": 22,
+    "losses": 13
   }
 }
