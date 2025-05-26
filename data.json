@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "The Cup",
+    "name": "it shouldnt wrk",
     "tag": "WWJ#916",
     "rank": "NONE",
     "rating": 0,
@@ -52,16 +52,16 @@
   "MAYO#795": {
     "name": "mayonator69420",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1828,
+    "rank": "PLATINUM 2",
+    "rating": 1854.3,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 83,
-    "losses": 73
+    "wins": 86,
+    "losses": 74
   },
   "CHAR#991": {
     "name": "Char",
@@ -74,20 +74,20 @@
     "losses": 0
   },
   "MAEVE#0": {
-    "name": "maeve 117",
+    "name": "bugs bunny",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 1",
-    "rating": 1774.7,
+    "rank": "GOLD 3",
+    "rating": 1712,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "90.1",
-      "9.5"
+      "87.1",
+      "12.5"
     ],
-    "wins": 168,
-    "losses": 162
+    "wins": 184,
+    "losses": 183
   },
   "PANC#613": {
     "name": "panchito$",
@@ -225,15 +225,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 3",
-    "rating": 1710.5,
+    "rating": 1707.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 22,
-    "losses": 14
+    "wins": 23,
+    "losses": 16
   },
   "JUST#577": {
     "name": "FuckSheik",
@@ -266,20 +266,20 @@
   "PLAY#647": {
     "name": "Killdeer",
     "tag": "PLAY#647",
-    "rank": "PLATINUM 3",
-    "rating": 1990,
+    "rank": "DIAMOND 2",
+    "rating": 2131.5,
     "characters": [
       "Falco",
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "57.5",
-      "39.4",
-      "3.1"
+      "49.2",
+      "33.7",
+      "17.1"
     ],
-    "wins": 46,
-    "losses": 23
+    "wins": 58,
+    "losses": 25
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -339,17 +339,17 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2045.2,
+    "rating": 2007.6,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.1",
-      "2.5"
+      "97.3",
+      "2.3"
     ],
-    "wins": 64,
-    "losses": 38
+    "wins": 67,
+    "losses": 45
   },
   "FLOW#08": {
     "name": "Flow",
@@ -486,8 +486,8 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "PLATINUM 1",
-    "rating": 1769.5,
+    "rank": "GOLD 3",
+    "rating": 1733.5,
     "characters": [
       "Fox"
     ],
@@ -495,7 +495,7 @@
       "100.0"
     ],
     "wins": 11,
-    "losses": 3
+    "losses": 5
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -541,15 +541,15 @@
     "name": "pink popo club",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1717.6,
+    "rating": 1698.9,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 57,
-    "losses": 46
+    "wins": 58,
+    "losses": 48
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -585,46 +585,62 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 2",
-    "rating": 1198.6,
+    "rating": 1231.5,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 22,
+    "wins": 24,
     "losses": 31
   },
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
-    "rank": "GOLD 2",
-    "rating": 1636.3,
+    "rank": "GOLD 3",
+    "rating": 1662.4,
     "characters": [
       "Marth",
       "Fox",
       "Sheik"
     ],
     "percentages": [
-      "83.1",
-      "11.2",
-      "5.6"
+      "82.6",
+      "10.9",
+      "6.5"
     ],
-    "wins": 20,
+    "wins": 21,
     "losses": 19
   },
   "MOSHI#0": {
-    "name": "Sicktheyrari",
+    "name": "fortniteballz1",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1772.4,
+    "rating": 1764.3,
     "characters": [
       "Peach"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 92,
-    "losses": 78
+    "wins": 93,
+    "losses": 79
+  },
+  "SMEG#879": {
+    "name": "$",
+    "tag": "SMEG#879",
+    "rank": "DIAMOND 1",
+    "rating": 2062.2,
+    "characters": [
+      "Fox",
+      "Pikachu"
+    ],
+    "percentages": [
+      "83.7",
+      "16.3"
+    ],
+    "wins": 22,
+    "losses": 13
   }
 }
