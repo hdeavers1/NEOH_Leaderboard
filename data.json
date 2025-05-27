@@ -77,17 +77,17 @@
     "name": "bugs bunny",
     "tag": "MAEVE#0",
     "rank": "GOLD 3",
-    "rating": 1712,
+    "rating": 1738.1,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "87.1",
-      "12.5"
+      "87.3",
+      "12.4"
     ],
-    "wins": 184,
-    "losses": 183
+    "wins": 186,
+    "losses": 184
   },
   "PANC#613": {
     "name": "panchito$",
@@ -325,15 +325,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2221.2,
+    "rating": 2230.4,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.6"
+      "97.7"
     ],
-    "wins": 86,
-    "losses": 37
+    "wins": 88,
+    "losses": 38
   },
   "JINK#1": {
     "name": "Jink",
