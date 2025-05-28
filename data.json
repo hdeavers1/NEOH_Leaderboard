@@ -144,18 +144,16 @@
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
-    "rank": "SILVER 2",
-    "rating": 1239.5,
+    "rank": "SILVER 3",
+    "rating": 1395.9,
     "characters": [
-      "Marth",
-      "Fox"
+      "Marth"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "98.1"
     ],
-    "wins": 8,
-    "losses": 11
+    "wins": 12,
+    "losses": 12
   },
   "JARD#561": {
     "name": "pingas",
@@ -630,21 +628,21 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "DIAMOND 1",
-    "rating": 2062.2,
+    "rank": "PLATINUM 3",
+    "rating": 2002.7,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "83.7",
-      "16.3"
+      "83.9",
+      "15.1"
     ],
     "wins": 22,
-    "losses": 13
+    "losses": 16
   },
   "AIRY#666": {
-    "name": "Lati is fine",
+    "name": "Airy :3",
     "tag": "AIRY#666",
     "rank": "PLATINUM 1",
     "rating": 1816,
