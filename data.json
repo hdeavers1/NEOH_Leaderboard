@@ -337,7 +337,7 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2035.9,
+    "rating": 2045.4,
     "characters": [
       "Marth",
       "Fox"
@@ -346,8 +346,8 @@
       "97.4",
       "2.2"
     ],
-    "wins": 71,
-    "losses": 46
+    "wins": 72,
+    "losses": 47
   },
   "FLOW#08": {
     "name": "Flow",
@@ -539,15 +539,15 @@
     "name": "pink popo club",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1705.5,
+    "rating": 1712.6,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 63,
-    "losses": 53
+    "wins": 64,
+    "losses": 54
   },
   "SUCC#860": {
     "name": "Wahey",
