@@ -337,16 +337,16 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2109.1,
+    "rating": 2135,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.6",
+      "97.7",
       "2.0"
     ],
-    "wins": 79,
+    "wins": 81,
     "losses": 49
   },
   "FLOW#08": {
@@ -578,20 +578,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "DANK#954": {
-    "name": "DankKnight",
-    "tag": "DANK#954",
-    "rank": "SILVER 2",
-    "rating": 1231.5,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 24,
-    "losses": 31
   },
   "NCRO#183": {
     "name": "Ncro",
