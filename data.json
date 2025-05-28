@@ -337,17 +337,17 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2007.6,
+    "rating": 2035.9,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.3",
-      "2.3"
+      "97.4",
+      "2.2"
     ],
-    "wins": 67,
-    "losses": 45
+    "wins": 71,
+    "losses": 46
   },
   "FLOW#08": {
     "name": "Flow",
@@ -523,31 +523,31 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1646.3,
+    "rating": 1613.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "70.1",
-      "29.9"
+      "70.3",
+      "29.7"
     ],
-    "wins": 98,
-    "losses": 88
+    "wins": 99,
+    "losses": 92
   },
   "DEE#218": {
     "name": "pink popo club",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1683,
+    "rating": 1705.5,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 60,
-    "losses": 51
+    "wins": 63,
+    "losses": 53
   },
   "SUCC#860": {
     "name": "Wahey",
