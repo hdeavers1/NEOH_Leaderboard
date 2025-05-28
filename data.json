@@ -628,18 +628,18 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "DIAMOND 2",
-    "rating": 2110,
+    "rank": "DIAMOND 1",
+    "rating": 2059.1,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "84.8",
-      "12.5"
+      "85.8",
+      "11.7"
     ],
     "wins": 29,
-    "losses": 17
+    "losses": 20
   },
   "AIRY#666": {
     "name": "Airy :3",
