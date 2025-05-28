@@ -393,18 +393,18 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "GOLD 3",
-    "rating": 1692,
+    "rating": 1711.9,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "82.7",
-      "12.3",
+      "82.9",
+      "12.2",
       "4.9"
     ],
-    "wins": 17,
+    "wins": 18,
     "losses": 16
   },
   "SURF#666": {
@@ -628,18 +628,18 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PLATINUM 3",
-    "rating": 2002.7,
+    "rank": "DIAMOND 2",
+    "rating": 2110,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "83.9",
-      "15.1"
+      "84.8",
+      "12.5"
     ],
-    "wins": 22,
-    "losses": 16
+    "wins": 29,
+    "losses": 17
   },
   "AIRY#666": {
     "name": "Airy :3",
