@@ -336,16 +336,16 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 2",
-    "rating": 2128.7,
+    "rank": "DIAMOND 3",
+    "rating": 2152.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.8"
+      "97.9"
     ],
-    "wins": 87,
-    "losses": 55
+    "wins": 90,
+    "losses": 56
   },
   "FLOW#08": {
     "name": "Flow",
