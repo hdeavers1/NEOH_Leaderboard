@@ -222,16 +222,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1742.9,
+    "rank": "PLATINUM 1",
+    "rating": 1795.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 27,
-    "losses": 18
+    "wins": 32,
+    "losses": 21
   },
   "JUST#577": {
     "name": "FuckSheik",
@@ -337,17 +337,15 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2135,
+    "rating": 2127.6,
     "characters": [
-      "Marth",
-      "Fox"
+      "Marth"
     ],
     "percentages": [
-      "97.7",
-      "2.0"
+      "97.7"
     ],
-    "wins": 81,
-    "losses": 49
+    "wins": 83,
+    "losses": 52
   },
   "FLOW#08": {
     "name": "Flow",
