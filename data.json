@@ -389,6 +389,24 @@
     "wins": 9,
     "losses": 6
   },
+  "WEGG#462": {
+    "name": "Young Wunna",
+    "tag": "WEGG#462",
+    "rank": "GOLD 3",
+    "rating": 1710.4,
+    "characters": [
+      "Fox",
+      "Marth",
+      "Falcon"
+    ],
+    "percentages": [
+      "78.5",
+      "17.2",
+      "4.3"
+    ],
+    "wins": 20,
+    "losses": 19
+  },
   "SURF#666": {
     "name": "Super Mario",
     "tag": "SURF#666",
@@ -597,15 +615,15 @@
     "name": "Just8FriedRice",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1709.1,
+    "rating": 1718,
     "characters": [
       "Peach"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 94,
-    "losses": 84
+    "wins": 97,
+    "losses": 86
   },
   "SMEG#879": {
     "name": "$",
