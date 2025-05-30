@@ -393,19 +393,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "GOLD 3",
-    "rating": 1710.4,
+    "rating": 1697.1,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "78.5",
-      "17.2",
-      "4.3"
+      "76.0",
+      "19.8",
+      "4.2"
     ],
     "wins": 20,
-    "losses": 19
+    "losses": 20
   },
   "SURF#666": {
     "name": "Super Mario",
