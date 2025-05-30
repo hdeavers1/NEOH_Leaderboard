@@ -53,14 +53,14 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1879.7,
+    "rating": 1895.2,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 88,
+    "wins": 89,
     "losses": 74
   },
   "CHAR#991": {
@@ -468,7 +468,7 @@
     "losses": 0
   },
   "MEDIC#0": {
-    "name": "The Theorizer",
+    "name": "20XXSchizoidMan",
     "tag": "MEDIC#0",
     "rank": "BRONZE 3",
     "rating": 927.1,
