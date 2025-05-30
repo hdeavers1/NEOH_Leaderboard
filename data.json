@@ -468,7 +468,7 @@
     "losses": 0
   },
   "MEDIC#0": {
-    "name": "20XXSchizoidMan",
+    "name": "The Theorizer",
     "tag": "MEDIC#0",
     "rank": "BRONZE 3",
     "rating": 927.1,
@@ -523,17 +523,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1592.1,
+    "rating": 1580.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "69.2",
-      "30.8"
+      "69.0",
+      "31.0"
     ],
-    "wins": 106,
-    "losses": 102
+    "wins": 108,
+    "losses": 106
   },
   "DEE#218": {
     "name": "pink popo club",
