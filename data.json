@@ -74,7 +74,7 @@
     "losses": 0
   },
   "MAEVE#0": {
-    "name": "bugs bunny",
+    "name": "homerbartlisama",
     "tag": "MAEVE#0",
     "rank": "GOLD 3",
     "rating": 1738.1,
@@ -523,17 +523,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1596.2,
+    "rating": 1592.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "68.8",
-      "31.2"
+      "69.2",
+      "30.8"
     ],
-    "wins": 104,
-    "losses": 99
+    "wins": 106,
+    "losses": 102
   },
   "DEE#218": {
     "name": "pink popo club",
