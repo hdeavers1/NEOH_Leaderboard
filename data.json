@@ -188,26 +188,32 @@
   "FRUM#591": {
     "name": "Muse",
     "tag": "FRUM#591",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 2",
+    "rating": 1310.7,
+    "characters": [
+      "Falco",
+      "Fox"
+    ],
+    "percentages": [
+      "81.8",
+      "18.2"
+    ],
+    "wins": 3,
+    "losses": 2
   },
   "CUTS#327": {
     "name": "Plup Fiction",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1932.5,
+    "rating": 1935.9,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "98.4"
+      "98.6"
     ],
-    "wins": 21,
-    "losses": 7
+    "wins": 23,
+    "losses": 9
   },
   "DOUG#405": {
     "name": "ひ",
@@ -323,15 +329,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2230.4,
+    "rating": 2234.7,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "97.7"
     ],
-    "wins": 88,
-    "losses": 38
+    "wins": 91,
+    "losses": 39
   },
   "JINK#1": {
     "name": "Jink",
@@ -612,7 +618,7 @@
     "losses": 19
   },
   "MOSHI#0": {
-    "name": "BlastDamageDays",
+    "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1706.5,
