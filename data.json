@@ -198,18 +198,16 @@
   "CUTS#327": {
     "name": "Plup Fiction",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 1",
-    "rating": 1832.9,
+    "rank": "PLATINUM 3",
+    "rating": 1932.5,
     "characters": [
-      "Samus",
-      "Falco"
+      "Samus"
     ],
     "percentages": [
-      "98.0",
-      "2.0"
+      "98.4"
     ],
-    "wins": 16,
-    "losses": 6
+    "wins": 21,
+    "losses": 7
   },
   "DOUG#405": {
     "name": "ひ",
