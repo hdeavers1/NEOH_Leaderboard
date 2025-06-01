@@ -329,14 +329,14 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2234.7,
+    "rating": 2296.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.7"
+      "97.8"
     ],
-    "wins": 91,
+    "wins": 96,
     "losses": 39
   },
   "JINK#1": {
@@ -490,16 +490,16 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "GOLD 3",
-    "rating": 1733.5,
+    "rank": "PLATINUM 1",
+    "rating": 1826.1,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 11,
-    "losses": 5
+    "wins": 16,
+    "losses": 8
   },
   "MARF#811": {
     "name": "Marfweasel",
