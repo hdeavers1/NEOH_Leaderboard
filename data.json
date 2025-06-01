@@ -240,7 +240,7 @@
     "losses": 21
   },
   "JUST#577": {
-    "name": "FuckSheik",
+    "name": "Just",
     "tag": "JUST#577",
     "rank": "DIAMOND 2",
     "rating": 2107.2,
@@ -329,15 +329,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2296.6,
+    "rating": 2307.9,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.8"
+      "97.9"
     ],
-    "wins": 96,
-    "losses": 39
+    "wins": 99,
+    "losses": 41
   },
   "JINK#1": {
     "name": "Jink",
@@ -490,16 +490,16 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "PLATINUM 1",
-    "rating": 1826.1,
+    "rank": "PLATINUM 2",
+    "rating": 1862.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 16,
-    "losses": 8
+    "wins": 18,
+    "losses": 9
   },
   "MARF#811": {
     "name": "Marfweasel",
