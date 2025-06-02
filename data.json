@@ -205,15 +205,15 @@
     "name": "Plup Fiction",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1904.5,
+    "rating": 1919.9,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "99.0"
+      "99.1"
     ],
-    "wins": 28,
-    "losses": 16
+    "wins": 31,
+    "losses": 19
   },
   "DOUG#405": {
     "name": "ひ",
@@ -621,17 +621,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1714.5,
+    "rating": 1708.8,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "97.9",
-      "2.1"
+      "98.0",
+      "2.0"
     ],
-    "wins": 112,
-    "losses": 103
+    "wins": 115,
+    "losses": 106
   },
   "SMEG#879": {
     "name": "$",
