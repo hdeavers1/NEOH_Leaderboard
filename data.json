@@ -39,29 +39,29 @@
     "name": "QCumJarLeBarbie",
     "tag": "QCUM#685",
     "rank": "GOLD 2",
-    "rating": 1600.1,
+    "rating": 1647.7,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 14,
-    "losses": 9
+    "wins": 16,
+    "losses": 10
   },
   "MAYO#795": {
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1914.7,
+    "rating": 1890.3,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 90,
-    "losses": 74
+    "wins": 97,
+    "losses": 84
   },
   "CHAR#991": {
     "name": "Char",
@@ -204,16 +204,16 @@
   "CUTS#327": {
     "name": "Plup Fiction",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 3",
-    "rating": 1935.9,
+    "rank": "PLATINUM 2",
+    "rating": 1899,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "98.6"
+      "98.7"
     ],
-    "wins": 23,
-    "losses": 9
+    "wins": 24,
+    "losses": 11
   },
   "DOUG#405": {
     "name": "ひ",
@@ -329,15 +329,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2307.9,
+    "rating": 2270.3,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.9"
+      "98.0"
     ],
-    "wins": 99,
-    "losses": 41
+    "wins": 104,
+    "losses": 45
   },
   "JINK#1": {
     "name": "Jink",
@@ -589,15 +589,15 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 2",
-    "rating": 1218.8,
+    "rating": 1255.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "100.0"
+      "99.3"
     ],
-    "wins": 24,
-    "losses": 32
+    "wins": 29,
+    "losses": 36
   },
   "NCRO#183": {
     "name": "Ncro",
@@ -621,15 +621,15 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1706.5,
+    "rating": 1706.7,
     "characters": [
       "Peach"
     ],
     "percentages": [
-      "98.9"
+      "98.1"
     ],
-    "wins": 107,
-    "losses": 98
+    "wins": 110,
+    "losses": 101
   },
   "SMEG#879": {
     "name": "$",
