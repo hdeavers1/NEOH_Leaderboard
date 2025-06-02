@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1890.3,
+    "rating": 1872.9,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 97,
-    "losses": 84
+    "wins": 99,
+    "losses": 87
   },
   "CHAR#991": {
     "name": "Char",
@@ -205,15 +205,15 @@
     "name": "Plup Fiction",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1899,
+    "rating": 1904.5,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "98.7"
+      "99.0"
     ],
-    "wins": 24,
-    "losses": 11
+    "wins": 28,
+    "losses": 16
   },
   "DOUG#405": {
     "name": "ひ",
@@ -589,15 +589,15 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 2",
-    "rating": 1255.6,
+    "rating": 1282.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "99.3"
+      "99.4"
     ],
-    "wins": 29,
-    "losses": 36
+    "wins": 31,
+    "losses": 37
   },
   "NCRO#183": {
     "name": "Ncro",
@@ -621,15 +621,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1706.7,
+    "rating": 1714.5,
     "characters": [
-      "Peach"
+      "Peach",
+      "Ness"
     ],
     "percentages": [
-      "98.1"
+      "97.9",
+      "2.1"
     ],
-    "wins": 110,
-    "losses": 101
+    "wins": 112,
+    "losses": 103
   },
   "SMEG#879": {
     "name": "$",
