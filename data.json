@@ -621,17 +621,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1701.5,
+    "rating": 1704.2,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.9",
-      "3.1"
+      "97.0",
+      "3.0"
     ],
-    "wins": 126,
-    "losses": 118
+    "wins": 130,
+    "losses": 121
   },
   "SMEG#879": {
     "name": "$",
