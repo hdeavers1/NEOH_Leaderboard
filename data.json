@@ -621,35 +621,33 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 2",
-    "rating": 1651.3,
+    "rating": 1647.2,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "97.1",
+      "2.9"
     ],
-    "wins": 115,
-    "losses": 112
+    "wins": 117,
+    "losses": 114
   },
   "SMEG#879": {
-    "name": "MOFSLAYERSLAYER",
+    "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 3",
-    "rating": 1973.9,
+    "rating": 1953.6,
     "characters": [
       "Fox",
-      "Pikachu",
-      "Pichu"
+      "Pikachu"
     ],
     "percentages": [
-      "87.2",
-      "9.4",
-      "2.0"
+      "87.6",
+      "9.2"
     ],
     "wins": 32,
-    "losses": 28
+    "losses": 30
   },
   "AIRY#666": {
     "name": "PointyTgirlNips",
