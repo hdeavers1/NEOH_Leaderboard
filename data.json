@@ -13,17 +13,17 @@
     "name": "Jubly",
     "tag": "JUBS#579",
     "rank": "GOLD 1",
-    "rating": 1512,
+    "rating": 1442.9,
     "characters": [
       "Falco",
       "Falcon"
     ],
     "percentages": [
-      "88.9",
-      "11.1"
+      "91.7",
+      "8.3"
     ],
     "wins": 6,
-    "losses": 2
+    "losses": 4
   },
   "BIGO#869": {
     "name": "The Hog",
@@ -621,17 +621,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1677.6,
+    "rating": 1701.5,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "97.0",
-      "3.0"
+      "96.9",
+      "3.1"
     ],
-    "wins": 122,
-    "losses": 116
+    "wins": 126,
+    "losses": 118
   },
   "SMEG#879": {
     "name": "$",
