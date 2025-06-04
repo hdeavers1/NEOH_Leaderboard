@@ -315,14 +315,14 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2228,
+    "rating": 2263.4,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "98.9"
+      "99.0"
     ],
-    "wins": 63,
+    "wins": 65,
     "losses": 20
   },
   "FUCKIN#1": {
@@ -621,17 +621,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1704.2,
+    "rating": 1693.1,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "97.0",
-      "3.0"
+      "96.9",
+      "3.1"
     ],
-    "wins": 131,
-    "losses": 122
+    "wins": 133,
+    "losses": 125
   },
   "SMEG#879": {
     "name": "$",
