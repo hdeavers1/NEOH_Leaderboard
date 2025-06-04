@@ -242,15 +242,15 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "DIAMOND 3",
-    "rating": 2179.1,
+    "rank": "GRANDMASTER",
+    "rating": 2210.6,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 45,
+    "wins": 48,
     "losses": 19
   },
   "SPOT#861": {
@@ -329,15 +329,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2270.3,
+    "rating": 2267.3,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "98.0"
+      "97.8"
     ],
-    "wins": 104,
-    "losses": 45
+    "wins": 107,
+    "losses": 46
   },
   "JINK#1": {
     "name": "Jink",
