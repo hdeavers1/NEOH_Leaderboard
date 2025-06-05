@@ -268,7 +268,7 @@
     "losses": 5
   },
   "PLAY#647": {
-    "name": "mofslayerwsheik",
+    "name": "holiday",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
     "rating": 2131.5,
@@ -329,15 +329,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2267.3,
+    "rating": 2300.9,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "97.8"
     ],
-    "wins": 107,
-    "losses": 46
+    "wins": 112,
+    "losses": 47
   },
   "JINK#1": {
     "name": "Jink",
