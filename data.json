@@ -343,17 +343,17 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2116,
+    "rating": 2085.5,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.5",
-      "2.2"
+      "97.4",
+      "2.3"
     ],
-    "wins": 97,
-    "losses": 65
+    "wins": 101,
+    "losses": 69
   },
   "FLOW#08": {
     "name": "Flow",
@@ -474,7 +474,7 @@
     "losses": 0
   },
   "MEDIC#0": {
-    "name": "The Theorizer",
+    "name": "MEDIC!",
     "tag": "MEDIC#0",
     "rank": "BRONZE 3",
     "rating": 927.1,
