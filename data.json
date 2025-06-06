@@ -342,8 +342,8 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 1",
-    "rating": 2073.3,
+    "rank": "DIAMOND 2",
+    "rating": 2078.8,
     "characters": [
       "Marth",
       "Fox"
@@ -352,8 +352,8 @@
       "97.7",
       "2.1"
     ],
-    "wins": 111,
-    "losses": 77
+    "wins": 112,
+    "losses": 79
   },
   "FLOW#08": {
     "name": "Flow",
@@ -650,10 +650,10 @@
     "losses": 31
   },
   "AIRY#666": {
-    "name": "PointyTgirlNips",
+    "name": "I'm happy :)",
     "tag": "AIRY#666",
     "rank": "PLATINUM 1",
-    "rating": 1835.1,
+    "rating": 1785,
     "characters": [
       "Fox"
     ],
@@ -661,6 +661,6 @@
       "100.0"
     ],
     "wins": 57,
-    "losses": 47
+    "losses": 51
   }
 }
