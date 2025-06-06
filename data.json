@@ -13,16 +13,16 @@
     "name": "Jubly",
     "tag": "JUBS#579",
     "rank": "GOLD 1",
-    "rating": 1442.9,
+    "rating": 1499.9,
     "characters": [
       "Falco",
       "Falcon"
     ],
     "percentages": [
-      "91.7",
-      "8.3"
+      "92.6",
+      "7.4"
     ],
-    "wins": 6,
+    "wins": 7,
     "losses": 4
   },
   "BIGO#869": {
@@ -77,17 +77,17 @@
     "name": "homerbartlisama",
     "tag": "MAEVE#0",
     "rank": "GOLD 3",
-    "rating": 1719.2,
+    "rating": 1715.7,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "86.7",
-      "12.8"
+      "86.4",
+      "13.0"
     ],
     "wins": 187,
-    "losses": 186
+    "losses": 187
   },
   "PANC#613": {
     "name": "panchito$",
@@ -131,7 +131,7 @@
     "name": "Jub Lee",
     "tag": "SPOR#247",
     "rank": "SILVER 2",
-    "rating": 1301,
+    "rating": 1260.5,
     "characters": [
       "Falcon"
     ],
@@ -139,7 +139,7 @@
       "100.0"
     ],
     "wins": 4,
-    "losses": 2
+    "losses": 3
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -343,17 +343,17 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2109.6,
+    "rating": 2098.9,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.5",
-      "2.3"
+      "97.6",
+      "2.1"
     ],
-    "wins": 105,
-    "losses": 70
+    "wins": 109,
+    "losses": 75
   },
   "FLOW#08": {
     "name": "Flow",
@@ -588,15 +588,15 @@
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
-    "rank": "SILVER 2",
-    "rating": 1282.9,
+    "rank": "SILVER 3",
+    "rating": 1341.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 31,
+    "wins": 35,
     "losses": 37
   },
   "NCRO#183": {
@@ -652,15 +652,15 @@
   "AIRY#666": {
     "name": "PointyTgirlNips",
     "tag": "AIRY#666",
-    "rank": "PLATINUM 2",
-    "rating": 1857,
+    "rank": "PLATINUM 1",
+    "rating": 1808.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 47,
-    "losses": 36
+    "wins": 51,
+    "losses": 43
   }
 }
