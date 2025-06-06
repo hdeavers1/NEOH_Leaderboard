@@ -52,16 +52,16 @@
   "MAYO#795": {
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 2",
-    "rating": 1872.9,
+    "rank": "PLATINUM 1",
+    "rating": 1836.6,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 99,
-    "losses": 87
+    "wins": 100,
+    "losses": 91
   },
   "CHAR#991": {
     "name": "Char",
