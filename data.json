@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1844.8,
+    "rating": 1859.3,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 103,
-    "losses": 93
+    "wins": 106,
+    "losses": 95
   },
   "CHAR#991": {
     "name": "Char",
@@ -529,17 +529,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1606.8,
+    "rating": 1631.7,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "69.6",
-      "30.4"
+      "69.4",
+      "30.6"
     ],
-    "wins": 118,
-    "losses": 113
+    "wins": 121,
+    "losses": 114
   },
   "DEE#218": {
     "name": "pink popo club",
