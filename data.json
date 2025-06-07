@@ -384,15 +384,15 @@
   "PEE#658": {
     "name": "DumpsLikeATruck",
     "tag": "PEE#658",
-    "rank": "GOLD 2",
-    "rating": 1587.2,
+    "rank": "GOLD 3",
+    "rating": 1660.8,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 9,
+    "wins": 11,
     "losses": 6
   },
   "WEGG#462": {
@@ -528,18 +528,18 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1619.8,
+    "rank": "GOLD 3",
+    "rating": 1656.3,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "69.9",
-      "30.1"
+      "70.4",
+      "29.6"
     ],
-    "wins": 123,
-    "losses": 118
+    "wins": 128,
+    "losses": 120
   },
   "DEE#218": {
     "name": "pink popo club",
