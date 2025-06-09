@@ -36,7 +36,7 @@
     "losses": 0
   },
   "QCUM#685": {
-    "name": "QCumJarLeBarbie",
+    "name": "Aspiring HM",
     "tag": "QCUM#685",
     "rank": "GOLD 2",
     "rating": 1647.7,
@@ -77,17 +77,17 @@
     "name": "homerbartlisama",
     "tag": "MAEVE#0",
     "rank": "GOLD 3",
-    "rating": 1693.3,
+    "rating": 1665.4,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "85.9",
-      "13.5"
+      "85.6",
+      "13.8"
     ],
     "wins": 188,
-    "losses": 189
+    "losses": 191
   },
   "PANC#613": {
     "name": "panchito$",
@@ -528,18 +528,18 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1664.4,
+    "rank": "GOLD 2",
+    "rating": 1627.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "70.5",
-      "29.5"
+      "70.8",
+      "29.2"
     ],
-    "wins": 130,
-    "losses": 121
+    "wins": 131,
+    "losses": 125
   },
   "DEE#218": {
     "name": "pink popo club",
