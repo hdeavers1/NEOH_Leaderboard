@@ -76,18 +76,18 @@
   "MAEVE#0": {
     "name": "homerbartlisama",
     "tag": "MAEVE#0",
-    "rank": "PLATINUM 1",
-    "rating": 1770.4,
+    "rank": "GOLD 3",
+    "rating": 1735.1,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "81.0",
-      "18.5"
+      "79.8",
+      "19.7"
     ],
-    "wins": 203,
-    "losses": 197
+    "wins": 205,
+    "losses": 201
   },
   "PANC#613": {
     "name": "panchito$",
@@ -259,7 +259,7 @@
     "name": "invader zyn",
     "tag": "SPOT#861",
     "rank": "GOLD 1",
-    "rating": 1538.8,
+    "rating": 1498.6,
     "characters": [
       "Sheik"
     ],
@@ -267,7 +267,7 @@
       "100.0"
     ],
     "wins": 10,
-    "losses": 5
+    "losses": 6
   },
   "PLAY#647": {
     "name": "holiday",
@@ -620,7 +620,7 @@
     "losses": 19
   },
   "MOSHI#0": {
-    "name": "moshi",
+    "name": "t3 b4nny sub",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1712.7,
