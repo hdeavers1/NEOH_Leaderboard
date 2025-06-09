@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1830.9,
+    "rating": 1804.5,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.8"
     ],
-    "wins": 118,
-    "losses": 109
+    "wins": 119,
+    "losses": 112
   },
   "CHAR#991": {
     "name": "Char",
@@ -529,17 +529,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1627.4,
+    "rating": 1649,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "70.8",
-      "29.2"
+      "71.4",
+      "28.6"
     ],
-    "wins": 131,
-    "losses": 125
+    "wins": 135,
+    "losses": 127
   },
   "DEE#218": {
     "name": "pink popo club",
@@ -636,18 +636,18 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PLATINUM 3",
-    "rating": 1938.7,
+    "rank": "PLATINUM 2",
+    "rating": 1913.1,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "88.0",
-      "8.9"
+      "88.6",
+      "8.4"
     ],
-    "wins": 33,
-    "losses": 31
+    "wins": 34,
+    "losses": 34
   },
   "AIRY#666": {
     "name": "I'm happy :)",
