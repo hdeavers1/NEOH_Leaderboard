@@ -131,7 +131,7 @@
     "name": "Jub Lee",
     "tag": "SPOR#247",
     "rank": "SILVER 2",
-    "rating": 1260.5,
+    "rating": 1221,
     "characters": [
       "Falcon"
     ],
@@ -139,7 +139,7 @@
       "100.0"
     ],
     "wins": 4,
-    "losses": 3
+    "losses": 4
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -205,15 +205,15 @@
     "name": "Plup Fiction",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1963,
+    "rating": 1957.9,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.2"
     ],
-    "wins": 33,
-    "losses": 19
+    "wins": 34,
+    "losses": 20
   },
   "DOUG#405": {
     "name": "ひ",
