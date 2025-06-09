@@ -53,14 +53,14 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1804.5,
+    "rating": 1810,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.8"
     ],
-    "wins": 119,
+    "wins": 120,
     "losses": 112
   },
   "CHAR#991": {
@@ -76,17 +76,17 @@
   "MAEVE#0": {
     "name": "homerbartlisama",
     "tag": "MAEVE#0",
-    "rank": "GOLD 3",
-    "rating": 1724.2,
+    "rank": "PLATINUM 1",
+    "rating": 1754.6,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "82.3",
-      "17.1"
+      "81.7",
+      "17.8"
     ],
-    "wins": 198,
+    "wins": 201,
     "losses": 196
   },
   "PANC#613": {
@@ -205,15 +205,15 @@
     "name": "Plup Fiction",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1957.9,
+    "rating": 1947.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "99.2"
+      "99.3"
     ],
-    "wins": 34,
-    "losses": 20
+    "wins": 36,
+    "losses": 22
   },
   "DOUG#405": {
     "name": "ひ",
@@ -636,18 +636,18 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PLATINUM 2",
-    "rating": 1913.1,
+    "rank": "PLATINUM 3",
+    "rating": 1931.1,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "88.6",
-      "8.4"
+      "89.0",
+      "8.1"
     ],
-    "wins": 34,
-    "losses": 34
+    "wins": 35,
+    "losses": 35
   },
   "AIRY#666": {
     "name": "I'm happy :)",
