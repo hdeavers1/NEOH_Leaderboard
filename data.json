@@ -344,18 +344,16 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 2",
-    "rating": 2084,
+    "rank": "DIAMOND 1",
+    "rating": 2057.9,
     "characters": [
-      "Marth",
-      "Fox"
+      "Marth"
     ],
     "percentages": [
-      "97.8",
-      "2.0"
+      "97.9"
     ],
-    "wins": 116,
-    "losses": 81
+    "wins": 119,
+    "losses": 85
   },
   "FLOW#08": {
     "name": "Flow",
@@ -638,31 +636,31 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PLATINUM 3",
-    "rating": 1931.1,
+    "rank": "PLATINUM 2",
+    "rating": 1920.5,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "89.0",
-      "8.1"
+      "89.1",
+      "8.0"
     ],
     "wins": 35,
-    "losses": 35
+    "losses": 36
   },
   "AIRY#666": {
     "name": "I'm happy :)",
     "tag": "AIRY#666",
     "rank": "PLATINUM 1",
-    "rating": 1789.4,
+    "rating": 1783.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 60,
-    "losses": 54
+    "wins": 61,
+    "losses": 55
   }
 }
