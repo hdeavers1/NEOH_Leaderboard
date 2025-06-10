@@ -345,15 +345,15 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2057.9,
+    "rating": 2049.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "97.9"
     ],
-    "wins": 119,
-    "losses": 85
+    "wins": 121,
+    "losses": 87
   },
   "FLOW#08": {
     "name": "Flow",
