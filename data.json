@@ -565,16 +565,6 @@
     "wins": 0,
     "losses": 0
   },
-  "EGAG#906": {
-    "name": "foreignMedicine",
-    "tag": "EGAG#906",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "WICE#699": {
     "name": "Weiss",
     "tag": "WICE#699",
@@ -648,19 +638,5 @@
     ],
     "wins": 35,
     "losses": 39
-  },
-  "AIRY#666": {
-    "name": "I'm happy :)",
-    "tag": "AIRY#666",
-    "rank": "PLATINUM 1",
-    "rating": 1783.6,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 61,
-    "losses": 55
   }
 }
