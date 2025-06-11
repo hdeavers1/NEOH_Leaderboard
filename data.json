@@ -77,16 +77,16 @@
     "name": "homerbartlisama",
     "tag": "MAEVE#0",
     "rank": "GOLD 3",
-    "rating": 1709.1,
+    "rating": 1730.5,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "77.8",
-      "21.7"
+      "77.5",
+      "22.0"
     ],
-    "wins": 210,
+    "wins": 211,
     "losses": 209
   },
   "PANC#613": {
@@ -529,17 +529,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1630.2,
+    "rating": 1616.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "71.5",
-      "28.5"
+      "71.9",
+      "28.1"
     ],
-    "wins": 135,
-    "losses": 128
+    "wins": 137,
+    "losses": 131
   },
   "DEE#218": {
     "name": "pink popo club",
