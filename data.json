@@ -76,18 +76,18 @@
   "MAEVE#0": {
     "name": "homerbartlisama",
     "tag": "MAEVE#0",
-    "rank": "GOLD 3",
-    "rating": 1684.2,
+    "rank": "GOLD 2",
+    "rating": 1649.2,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "75.5",
-      "24.0"
+      "74.6",
+      "24.9"
     ],
-    "wins": 215,
-    "losses": 217
+    "wins": 217,
+    "losses": 221
   },
   "PANC#613": {
     "name": "panchito$",
