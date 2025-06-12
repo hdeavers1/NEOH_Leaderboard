@@ -77,17 +77,17 @@
     "name": "homerbartlisama",
     "tag": "MAEVE#0",
     "rank": "GOLD 3",
-    "rating": 1688.8,
+    "rating": 1684.2,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "75.8",
-      "23.7"
+      "75.5",
+      "24.0"
     ],
-    "wins": 214,
-    "losses": 216
+    "wins": 215,
+    "losses": 217
   },
   "PANC#613": {
     "name": "panchito$",
@@ -242,7 +242,7 @@
     "losses": 21
   },
   "JUST#577": {
-    "name": "secondaryfun",
+    "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
     "rating": 2210.6,
