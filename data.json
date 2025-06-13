@@ -662,5 +662,19 @@
     ],
     "wins": 61,
     "losses": 55
+  },
+  "BOZO#386": {
+    "name": "super pichu",
+    "tag": "BOZO#386",
+    "rank": "PLATINUM 3",
+    "rating": 1984.2,
+    "characters": [
+      "Pichu"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 37,
+    "losses": 23
   }
 }
