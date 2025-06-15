@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1808.4,
+    "rating": 1799.3,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.8"
     ],
-    "wins": 127,
-    "losses": 119
+    "wins": 129,
+    "losses": 122
   },
   "CHAR#991": {
     "name": "Char",
@@ -129,15 +129,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1377.6,
+    "rating": 1367.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.1"
+      "98.2"
     ],
     "wins": 12,
-    "losses": 13
+    "losses": 14
   },
   "JARD#561": {
     "name": "pingas",
