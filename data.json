@@ -26,7 +26,7 @@
     "losses": 6
   },
   "BIGO#869": {
-    "name": "The Hog",
+    "name": "fd=cringe",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1808.4,
+    "rating": 1823.8,
     "characters": [
       "DK"
     ],
     "percentages": [
-      "99.8"
+      "99.7"
     ],
-    "wins": 127,
-    "losses": 119
+    "wins": 140,
+    "losses": 131
   },
   "CHAR#991": {
     "name": "Char",
@@ -72,22 +72,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "MAEVE#0": {
-    "name": "homerbartlisama",
-    "tag": "MAEVE#0",
-    "rank": "GOLD 2",
-    "rating": 1634.3,
-    "characters": [
-      "Fox",
-      "Falco"
-    ],
-    "percentages": [
-      "74.5",
-      "24.9"
-    ],
-    "wins": 217,
-    "losses": 222
   },
   "PANC#613": {
     "name": "panchito$",
@@ -145,15 +129,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1395.9,
+    "rating": 1367.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.1"
+      "98.2"
     ],
     "wins": 12,
-    "losses": 12
+    "losses": 14
   },
   "JARD#561": {
     "name": "pingas",
@@ -228,18 +212,18 @@
     "losses": 0
   },
   "ASIG#701": {
-    "name": "Symblic",
+    "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1795.1,
+    "rating": 1772.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 32,
-    "losses": 21
+    "wins": 37,
+    "losses": 26
   },
   "JUST#577": {
     "name": "Just",
@@ -345,15 +329,17 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2049.1,
+    "rating": 2073,
     "characters": [
-      "Marth"
+      "Marth",
+      "Fox"
     ],
     "percentages": [
-      "97.9"
+      "97.7",
+      "2.0"
     ],
-    "wins": 121,
-    "losses": 87
+    "wins": 125,
+    "losses": 88
   },
   "FLOW#08": {
     "name": "Flow",
@@ -529,23 +515,23 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1588.1,
+    "rating": 1642.2,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "72.5",
-      "27.5"
+      "73.9",
+      "26.1"
     ],
-    "wins": 141,
-    "losses": 139
+    "wins": 158,
+    "losses": 150
   },
   "DEE#218": {
     "name": "pink popo club",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1706,
+    "rating": 1691.1,
     "characters": [
       "ICs"
     ],
@@ -553,7 +539,7 @@
       "100.0"
     ],
     "wins": 71,
-    "losses": 61
+    "losses": 62
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -637,17 +623,17 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1883.4,
+    "rating": 1856.4,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "89.6",
-      "7.7"
+      "89.8",
+      "7.5"
     ],
     "wins": 35,
-    "losses": 39
+    "losses": 41
   },
   "AIRY#666": {
     "name": "I'm happy :)",
@@ -662,5 +648,19 @@
     ],
     "wins": 61,
     "losses": 55
+  },
+  "BOZO#386": {
+    "name": "super pichu",
+    "tag": "BOZO#386",
+    "rank": "PLATINUM 3",
+    "rating": 1930.5,
+    "characters": [
+      "Pichu"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 40,
+    "losses": 30
   }
 }
