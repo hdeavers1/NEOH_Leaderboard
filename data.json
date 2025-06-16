@@ -53,7 +53,7 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1832.9,
+    "rating": 1823.8,
     "characters": [
       "DK"
     ],
@@ -61,7 +61,7 @@
       "99.7"
     ],
     "wins": 140,
-    "losses": 130
+    "losses": 131
   },
   "CHAR#991": {
     "name": "Char",
@@ -215,15 +215,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1790.4,
+    "rating": 1772.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 36,
-    "losses": 24
+    "wins": 37,
+    "losses": 26
   },
   "JUST#577": {
     "name": "Just",
