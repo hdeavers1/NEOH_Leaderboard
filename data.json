@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1823.8,
+    "rating": 1781.5,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.7"
     ],
-    "wins": 140,
-    "losses": 131
+    "wins": 143,
+    "losses": 137
   },
   "CHAR#991": {
     "name": "Char",
@@ -214,8 +214,8 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1772.2,
+    "rank": "GOLD 3",
+    "rating": 1749.3,
     "characters": [
       "Falcon"
     ],
@@ -223,7 +223,7 @@
       "100.0"
     ],
     "wins": 37,
-    "losses": 26
+    "losses": 28
   },
   "JUST#577": {
     "name": "Just",
@@ -514,17 +514,17 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1642.2,
+    "rank": "GOLD 3",
+    "rating": 1666.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "73.9",
-      "26.1"
+      "73.8",
+      "26.2"
     ],
-    "wins": 158,
+    "wins": 160,
     "losses": 150
   },
   "DEE#218": {
@@ -623,16 +623,16 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1856.4,
+    "rating": 1869.9,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "89.8",
-      "7.5"
+      "89.9",
+      "7.4"
     ],
-    "wins": 35,
+    "wins": 36,
     "losses": 41
   },
   "AIRY#666": {
@@ -662,5 +662,21 @@
     ],
     "wins": 40,
     "losses": 30
+  },
+  "BRIDGE#0": {
+    "name": "homerbartlisama",
+    "tag": "BRIDGE#0",
+    "rank": "GOLD 2",
+    "rating": 1607.2,
+    "characters": [
+      "Fox",
+      "Falco"
+    ],
+    "percentages": [
+      "74.6",
+      "24.8"
+    ],
+    "wins": 217,
+    "losses": 225
   }
 }
