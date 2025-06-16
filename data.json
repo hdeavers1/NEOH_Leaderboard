@@ -215,15 +215,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 3",
-    "rating": 1739.6,
+    "rating": 1749.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 37,
-    "losses": 29
+    "wins": 39,
+    "losses": 30
   },
   "JUST#577": {
     "name": "Just",
@@ -652,16 +652,16 @@
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
-    "rank": "PLATINUM 3",
-    "rating": 1930.5,
+    "rank": "DIAMOND 1",
+    "rating": 2007.5,
     "characters": [
       "Pichu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 40,
-    "losses": 30
+    "wins": 45,
+    "losses": 31
   },
   "BRIDGE#0": {
     "name": "homerbartlisama",
