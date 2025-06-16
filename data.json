@@ -52,8 +52,8 @@
   "MAYO#795": {
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1781.5,
+    "rank": "GOLD 3",
+    "rating": 1750,
     "characters": [
       "DK"
     ],
@@ -61,7 +61,7 @@
       "99.7"
     ],
     "wins": 143,
-    "losses": 137
+    "losses": 140
   },
   "CHAR#991": {
     "name": "Char",
@@ -623,16 +623,16 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1869.9,
+    "rating": 1880.3,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "89.9",
-      "7.4"
+      "90.1",
+      "7.3"
     ],
-    "wins": 36,
+    "wins": 37,
     "losses": 41
   },
   "AIRY#666": {
