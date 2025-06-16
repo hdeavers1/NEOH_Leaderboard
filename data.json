@@ -623,17 +623,17 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1883.4,
+    "rating": 1856.4,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "89.6",
-      "7.7"
+      "89.8",
+      "7.5"
     ],
     "wins": 35,
-    "losses": 39
+    "losses": 41
   },
   "AIRY#666": {
     "name": "I'm happy :)",
@@ -653,7 +653,7 @@
     "name": "super pichu",
     "tag": "BOZO#386",
     "rank": "PLATINUM 3",
-    "rating": 1979.3,
+    "rating": 1930.5,
     "characters": [
       "Pichu"
     ],
@@ -661,6 +661,6 @@
       "100.0"
     ],
     "wins": 40,
-    "losses": 27
+    "losses": 30
   }
 }
