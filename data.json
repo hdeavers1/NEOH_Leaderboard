@@ -329,17 +329,17 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2073,
+    "rating": 2065.3,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.7",
+      "97.8",
       "2.0"
     ],
     "wins": 125,
-    "losses": 88
+    "losses": 89
   },
   "FLOW#08": {
     "name": "Flow",
@@ -636,7 +636,7 @@
     "losses": 41
   },
   "AIRY#666": {
-    "name": "I'm happy :)",
+    "name": "I'm Dumb",
     "tag": "AIRY#666",
     "rank": "PLATINUM 1",
     "rating": 1792.9,
