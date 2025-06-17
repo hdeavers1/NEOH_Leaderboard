@@ -385,19 +385,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "GOLD 3",
-    "rating": 1697.1,
+    "rating": 1725.7,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "76.0",
-      "19.8",
-      "4.2"
+      "76.5",
+      "19.6",
+      "3.9"
     ],
-    "wins": 20,
-    "losses": 20
+    "wins": 22,
+    "losses": 21
   },
   "SURF#666": {
     "name": "Super Mario",
@@ -639,15 +639,15 @@
     "name": "I'm Dumb",
     "tag": "AIRY#666",
     "rank": "PLATINUM 1",
-    "rating": 1793.9,
+    "rating": 1781.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 68,
-    "losses": 62
+    "wins": 70,
+    "losses": 66
   },
   "BOZO#386": {
     "name": "super pichu",
