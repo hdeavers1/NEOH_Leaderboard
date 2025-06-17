@@ -515,23 +515,23 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1666.4,
+    "rating": 1654.9,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "73.8",
-      "26.2"
+      "74.2",
+      "25.8"
     ],
-    "wins": 160,
-    "losses": 150
+    "wins": 162,
+    "losses": 153
   },
   "DEE#218": {
     "name": "pink popo club",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1710.3,
+    "rating": 1706.5,
     "characters": [
       "ICs"
     ],
@@ -539,7 +539,7 @@
       "100.0"
     ],
     "wins": 73,
-    "losses": 63
+    "losses": 64
   },
   "SUCC#860": {
     "name": "Wahey",
