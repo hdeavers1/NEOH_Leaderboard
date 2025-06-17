@@ -129,15 +129,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1367.9,
+    "rating": 1348,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.2"
+      "98.4"
     ],
-    "wins": 12,
-    "losses": 14
+    "wins": 13,
+    "losses": 15
   },
   "JARD#561": {
     "name": "pingas",
@@ -667,16 +667,16 @@
     "name": "homerbartlisama",
     "tag": "BRIDGE#0",
     "rank": "GOLD 2",
-    "rating": 1610.5,
+    "rating": 1647,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "74.8",
-      "24.7"
+      "74.9",
+      "24.6"
     ],
-    "wins": 218,
+    "wins": 221,
     "losses": 226
   }
 }
