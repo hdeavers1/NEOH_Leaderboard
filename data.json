@@ -667,16 +667,16 @@
     "name": "homerbartlisama",
     "tag": "BRIDGE#0",
     "rank": "GOLD 2",
-    "rating": 1633.4,
+    "rating": 1651.6,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "74.9",
-      "24.6"
+      "75.0",
+      "24.5"
     ],
-    "wins": 221,
+    "wins": 223,
     "losses": 227
   }
 }
