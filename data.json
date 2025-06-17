@@ -652,8 +652,8 @@
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
-    "rank": "DIAMOND 1",
-    "rating": 2007.5,
+    "rank": "PLATINUM 3",
+    "rating": 1972.5,
     "characters": [
       "Pichu"
     ],
@@ -661,22 +661,22 @@
       "100.0"
     ],
     "wins": 45,
-    "losses": 31
+    "losses": 33
   },
   "BRIDGE#0": {
     "name": "homerbartlisama",
     "tag": "BRIDGE#0",
     "rank": "GOLD 2",
-    "rating": 1607.2,
+    "rating": 1610.5,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "74.6",
-      "24.8"
+      "74.8",
+      "24.7"
     ],
-    "wins": 217,
-    "losses": 225
+    "wins": 218,
+    "losses": 226
   }
 }
