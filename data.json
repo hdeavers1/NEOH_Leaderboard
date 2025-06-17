@@ -328,8 +328,8 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 1",
-    "rating": 2065.3,
+    "rank": "DIAMOND 2",
+    "rating": 2077.4,
     "characters": [
       "Marth",
       "Fox"
@@ -338,8 +338,8 @@
       "97.8",
       "2.0"
     ],
-    "wins": 125,
-    "losses": 89
+    "wins": 128,
+    "losses": 90
   },
   "FLOW#08": {
     "name": "Flow",
@@ -531,7 +531,7 @@
     "name": "pink popo club",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1706.5,
+    "rating": 1694.8,
     "characters": [
       "ICs"
     ],
@@ -539,7 +539,7 @@
       "100.0"
     ],
     "wins": 73,
-    "losses": 64
+    "losses": 65
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -639,15 +639,15 @@
     "name": "I'm Dumb",
     "tag": "AIRY#666",
     "rank": "PLATINUM 1",
-    "rating": 1792.9,
+    "rating": 1778.2,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 63,
-    "losses": 57
+    "wins": 65,
+    "losses": 60
   },
   "BOZO#386": {
     "name": "super pichu",
