@@ -329,15 +329,15 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2083.6,
+    "rating": 2110.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.8"
+      "97.9"
     ],
-    "wins": 130,
-    "losses": 91
+    "wins": 136,
+    "losses": 95
   },
   "FLOW#08": {
     "name": "Flow",
@@ -605,7 +605,7 @@
     "name": "ms doesn't miss",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1697.7,
+    "rating": 1708.7,
     "characters": [
       "Peach",
       "Ness"
@@ -614,7 +614,7 @@
       "96.9",
       "3.1"
     ],
-    "wins": 135,
+    "wins": 136,
     "losses": 126
   },
   "SMEG#879": {
@@ -651,7 +651,7 @@
     "name": "super pichu",
     "tag": "BOZO#386",
     "rank": "PLATINUM 3",
-    "rating": 1972.5,
+    "rating": 1965.2,
     "characters": [
       "Pichu"
     ],
@@ -659,7 +659,7 @@
       "100.0"
     ],
     "wins": 45,
-    "losses": 33
+    "losses": 34
   },
   "BRIDGE#0": {
     "name": "homerbartlisama",
