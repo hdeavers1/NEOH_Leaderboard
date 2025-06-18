@@ -63,16 +63,6 @@
     "wins": 143,
     "losses": 140
   },
-  "CHAR#991": {
-    "name": "Char",
-    "tag": "CHAR#991",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -184,22 +174,6 @@
     ],
     "wins": 3,
     "losses": 2
-  },
-  "CUTS#327": {
-    "name": "Plup Fiction",
-    "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1906,
-    "characters": [
-      "Samus",
-      "Falco"
-    ],
-    "percentages": [
-      "96.9",
-      "3.1"
-    ],
-    "wins": 41,
-    "losses": 28
   },
   "DOUG#405": {
     "name": "ひ",
@@ -512,18 +486,18 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1654.9,
+    "rank": "GOLD 2",
+    "rating": 1621.6,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.2",
-      "25.8"
+      "74.5",
+      "25.5"
     ],
-    "wins": 162,
-    "losses": 153
+    "wins": 164,
+    "losses": 157
   },
   "DEE#218": {
     "name": "pink popo club",
