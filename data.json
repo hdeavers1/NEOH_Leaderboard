@@ -254,7 +254,7 @@
     "losses": 6
   },
   "PLAY#647": {
-    "name": "holiday",
+    "name": "sheikplayer69",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
     "rating": 2131.5,
@@ -512,17 +512,17 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1644,
+    "rank": "GOLD 3",
+    "rating": 1658.2,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.4",
-      "25.6"
+      "74.6",
+      "25.4"
     ],
-    "wins": 166,
+    "wins": 168,
     "losses": 157
   },
   "DEE#218": {
@@ -665,16 +665,16 @@
     "name": "homerbartlisama",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 1",
-    "rating": 1767.2,
+    "rating": 1780.1,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
       "76.4",
-      "23.2"
+      "23.1"
     ],
-    "wins": 241,
+    "wins": 242,
     "losses": 234
   }
 }
