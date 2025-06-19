@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1758.4,
+    "rating": 1775.9,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 146,
-    "losses": 142
+    "wins": 149,
+    "losses": 145
   },
   "CHAR#991": {
     "name": "Char",
@@ -458,7 +458,7 @@
     "losses": 0
   },
   "MEDIC#0": {
-    "name": "MEDIC!",
+    "name": "Kid Charlemagne",
     "tag": "MEDIC#0",
     "rank": "BRONZE 3",
     "rating": 927.1,
@@ -665,16 +665,16 @@
     "name": "homerbartlisama",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 1",
-    "rating": 1763.1,
+    "rating": 1767.2,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "76.2",
-      "23.3"
+      "76.4",
+      "23.2"
     ],
-    "wins": 240,
-    "losses": 233
+    "wins": 241,
+    "losses": 234
   }
 }
