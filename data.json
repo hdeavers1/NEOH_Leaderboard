@@ -52,16 +52,16 @@
   "MAYO#795": {
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1821,
+    "rank": "PLATINUM 2",
+    "rating": 1857.3,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 155,
-    "losses": 149
+    "wins": 160,
+    "losses": 150
   },
   "CHAR#991": {
     "name": "Char",
@@ -315,15 +315,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2288.8,
+    "rating": 2285.8,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "97.9"
     ],
-    "wins": 114,
-    "losses": 48
+    "wins": 117,
+    "losses": 49
   },
   "JINK#1": {
     "name": "Jink",
@@ -513,17 +513,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1635.9,
+    "rating": 1636,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.5",
-      "25.5"
+      "74.6",
+      "25.4"
     ],
-    "wins": 170,
-    "losses": 161
+    "wins": 171,
+    "losses": 162
   },
   "DEE#218": {
     "name": "pink popo club",
