@@ -586,19 +586,19 @@
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
-    "rank": "GOLD 3",
-    "rating": 1662.4,
+    "rank": "PLATINUM 1",
+    "rating": 1752.1,
     "characters": [
       "Marth",
       "Fox",
       "Sheik"
     ],
     "percentages": [
-      "82.6",
-      "10.9",
-      "6.5"
+      "82.4",
+      "9.8",
+      "7.8"
     ],
-    "wins": 21,
+    "wins": 25,
     "losses": 19
   },
   "MOSHI#0": {
