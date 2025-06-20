@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1788.2,
+    "rating": 1821,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 152,
-    "losses": 148
+    "wins": 155,
+    "losses": 149
   },
   "CHAR#991": {
     "name": "Char",
@@ -215,14 +215,14 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1773.9,
+    "rating": 1822.6,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 41,
+    "wins": 44,
     "losses": 31
   },
   "JUST#577": {
@@ -315,15 +315,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2306,
+    "rating": 2288.8,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "97.9"
     ],
-    "wins": 113,
-    "losses": 47
+    "wins": 114,
+    "losses": 48
   },
   "JINK#1": {
     "name": "Jink",
@@ -512,8 +512,8 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1667.6,
+    "rank": "GOLD 2",
+    "rating": 1635.9,
     "characters": [
       "Yoshi",
       "DK"
@@ -522,8 +522,8 @@
       "74.5",
       "25.5"
     ],
-    "wins": 169,
-    "losses": 157
+    "wins": 170,
+    "losses": 161
   },
   "DEE#218": {
     "name": "pink popo club",
@@ -665,7 +665,7 @@
     "name": "homerbartlisama",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 1",
-    "rating": 1780.1,
+    "rating": 1768.9,
     "characters": [
       "Fox",
       "Falco"
@@ -675,6 +675,6 @@
       "23.1"
     ],
     "wins": 242,
-    "losses": 234
+    "losses": 235
   }
 }
