@@ -214,15 +214,15 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1829.5,
+    "rank": "PLATINUM 2",
+    "rating": 1847.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 46,
+    "wins": 48,
     "losses": 32
   },
   "JUST#577": {
@@ -315,15 +315,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2268.7,
+    "rating": 2226.9,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.7"
+      "97.8"
     ],
-    "wins": 117,
-    "losses": 50
+    "wins": 120,
+    "losses": 53
   },
   "JINK#1": {
     "name": "Jink",
@@ -513,17 +513,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1638.7,
+    "rating": 1606.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.6",
-      "25.4"
+      "74.8",
+      "25.2"
     ],
-    "wins": 172,
-    "losses": 163
+    "wins": 174,
+    "losses": 169
   },
   "DEE#218": {
     "name": "pink popo club",
