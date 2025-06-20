@@ -583,6 +583,24 @@
     "wins": 35,
     "losses": 40
   },
+  "NCRO#183": {
+    "name": "Ncro",
+    "tag": "NCRO#183",
+    "rank": "PLATINUM 1",
+    "rating": 1752.1,
+    "characters": [
+      "Marth",
+      "Fox",
+      "Sheik"
+    ],
+    "percentages": [
+      "82.4",
+      "9.8",
+      "7.8"
+    ],
+    "wins": 25,
+    "losses": 19
+  },
   "MOSHI#0": {
     "name": "ms doesn't miss",
     "tag": "MOSHI#0",
