@@ -254,7 +254,7 @@
     "losses": 6
   },
   "PLAY#647": {
-    "name": "holiday",
+    "name": "jeffler",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
     "rating": 2131.5,
@@ -665,16 +665,16 @@
     "name": "homerbartlisama",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 1",
-    "rating": 1791,
+    "rating": 1828.2,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "76.7",
-      "22.8"
+      "77.2",
+      "22.3"
     ],
-    "wins": 245,
-    "losses": 236
+    "wins": 252,
+    "losses": 240
   }
 }
