@@ -314,8 +314,8 @@
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
-    "rank": "GRANDMASTER",
-    "rating": 2193.1,
+    "rank": "DIAMOND 3",
+    "rating": 2170.6,
     "characters": [
       "Samus"
     ],
@@ -323,7 +323,7 @@
       "97.7"
     ],
     "wins": 125,
-    "losses": 57
+    "losses": 58
   },
   "JINK#1": {
     "name": "Jink",
@@ -665,16 +665,16 @@
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1956.8,
+    "rating": 1939.8,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "80.0",
-      "19.7"
+      "80.2",
+      "19.5"
     ],
-    "wins": 289,
-    "losses": 265
+    "wins": 291,
+    "losses": 268
   }
 }
