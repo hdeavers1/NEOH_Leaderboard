@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1857.3,
+    "rating": 1889.5,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 160,
-    "losses": 150
+    "wins": 165,
+    "losses": 152
   },
   "CHAR#991": {
     "name": "Char",
@@ -512,8 +512,8 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1614.2,
+    "rank": "GOLD 3",
+    "rating": 1656.8,
     "characters": [
       "Yoshi",
       "DK"
@@ -522,7 +522,7 @@
       "74.8",
       "25.2"
     ],
-    "wins": 175,
+    "wins": 179,
     "losses": 169
   },
   "DEE#218": {
@@ -665,16 +665,16 @@
     "name": "homerbartlisama",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1985.8,
+    "rating": 1988.5,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "79.2",
-      "20.4"
+      "79.4",
+      "20.2"
     ],
-    "wins": 282,
-    "losses": 255
+    "wins": 283,
+    "losses": 258
   }
 }
