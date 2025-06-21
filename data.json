@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1889.5,
+    "rating": 1862.7,
     "characters": [
       "DK"
     ],
     "percentages": [
-      "99.4"
+      "99.5"
     ],
-    "wins": 165,
-    "losses": 152
+    "wins": 167,
+    "losses": 157
   },
   "CHAR#991": {
     "name": "Char",
@@ -315,15 +315,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2231.4,
+    "rating": 2217.7,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.8"
+      "97.6"
     ],
-    "wins": 121,
-    "losses": 53
+    "wins": 124,
+    "losses": 55
   },
   "JINK#1": {
     "name": "Jink",
@@ -662,19 +662,19 @@
     "losses": 36
   },
   "BRIDGE#0": {
-    "name": "homerbartlisama",
+    "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1948.6,
+    "rank": "PLATINUM 2",
+    "rating": 1909.2,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "79.6",
-      "20.0"
+      "79.8",
+      "19.8"
     ],
     "wins": 284,
-    "losses": 262
+    "losses": 265
   }
 }
