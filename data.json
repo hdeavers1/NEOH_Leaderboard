@@ -242,16 +242,16 @@
   "SPOT#861": {
     "name": "invader zyn",
     "tag": "SPOT#861",
-    "rank": "GOLD 1",
-    "rating": 1477.5,
+    "rank": "GOLD 2",
+    "rating": 1635.3,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 10,
-    "losses": 7
+    "wins": 15,
+    "losses": 8
   },
   "PLAY#647": {
     "name": "Display Name *",
@@ -665,16 +665,16 @@
     "name": "homerbartlisama",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1937.9,
+    "rating": 1947.5,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "78.4",
-      "21.1"
+      "78.7",
+      "20.9"
     ],
-    "wins": 272,
-    "losses": 248
+    "wins": 275,
+    "losses": 251
   }
 }
