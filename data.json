@@ -665,16 +665,16 @@
     "name": "homerbartlisama",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1943.9,
+    "rating": 1956,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "78.3",
-      "21.2"
+      "78.4",
+      "21.1"
     ],
-    "wins": 270,
-    "losses": 246
+    "wins": 272,
+    "losses": 247
   }
 }
