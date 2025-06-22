@@ -621,17 +621,17 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1905.6,
+    "rating": 1902.8,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "90.6",
-      "6.9"
+      "90.8",
+      "6.8"
     ],
     "wins": 40,
-    "losses": 42
+    "losses": 43
   },
   "AIRY#666": {
     "name": "I'm Dumb",
@@ -664,17 +664,17 @@
   "BRIDGE#0": {
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1941.5,
+    "rank": "PLATINUM 2",
+    "rating": 1922.8,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "81.9",
-      "17.7"
+      "82.1",
+      "17.5"
     ],
-    "wins": 322,
-    "losses": 296
+    "wins": 325,
+    "losses": 299
   }
 }
