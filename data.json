@@ -52,16 +52,16 @@
   "MAYO#795": {
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 2",
-    "rating": 1880.9,
+    "rank": "PLATINUM 1",
+    "rating": 1834.4,
     "characters": [
       "DK"
     ],
     "percentages": [
-      "99.3"
+      "99.4"
     ],
     "wins": 173,
-    "losses": 161
+    "losses": 165
   },
   "CHAR#991": {
     "name": "Char",
@@ -665,16 +665,16 @@
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 2",
-    "rating": 1902.7,
+    "rating": 1882.3,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "80.7",
+      "80.8",
       "18.9"
     ],
     "wins": 300,
-    "losses": 277
+    "losses": 279
   }
 }
