@@ -328,16 +328,16 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 2",
-    "rating": 2105.9,
+    "rank": "DIAMOND 1",
+    "rating": 2071.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.0"
+      "98.1"
     ],
-    "wins": 144,
-    "losses": 99
+    "wins": 146,
+    "losses": 102
   },
   "FLOW#08": {
     "name": "Flow",
@@ -665,16 +665,16 @@
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 2",
-    "rating": 1882.3,
+    "rating": 1903.3,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "80.8",
-      "18.9"
+      "81.0",
+      "18.7"
     ],
-    "wins": 300,
-    "losses": 279
+    "wins": 304,
+    "losses": 282
   }
 }
