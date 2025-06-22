@@ -329,15 +329,15 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2110.4,
+    "rating": 2105.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.9"
+      "98.0"
     ],
-    "wins": 136,
-    "losses": 95
+    "wins": 140,
+    "losses": 97
   },
   "FLOW#08": {
     "name": "Flow",
@@ -621,16 +621,16 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1880.3,
+    "rating": 1910.9,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "90.1",
-      "7.3"
+      "90.4",
+      "7.1"
     ],
-    "wins": 37,
+    "wins": 39,
     "losses": 41
   },
   "AIRY#666": {
@@ -664,17 +664,17 @@
   "BRIDGE#0": {
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1937.6,
+    "rank": "PLATINUM 2",
+    "rating": 1921.5,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "80.4",
-      "19.3"
+      "80.5",
+      "19.1"
     ],
-    "wins": 295,
-    "losses": 271
+    "wins": 298,
+    "losses": 274
   }
 }
