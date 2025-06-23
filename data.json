@@ -254,7 +254,7 @@
     "losses": 8
   },
   "PLAY#647": {
-    "name": "Display Name *",
+    "name": "Holiday",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
     "rating": 2131.5,
@@ -664,17 +664,17 @@
   "BRIDGE#0": {
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
-    "rank": "DIAMOND 1",
-    "rating": 2032.3,
+    "rank": "PLATINUM 3",
+    "rating": 1992,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "82.6",
-      "17.0"
+      "82.8",
+      "16.9"
     ],
     "wins": 339,
-    "losses": 303
+    "losses": 307
   }
 }
