@@ -513,7 +513,7 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1648,
+    "rating": 1650.2,
     "characters": [
       "Yoshi",
       "DK"
@@ -522,8 +522,8 @@
       "75.2",
       "24.8"
     ],
-    "wins": 184,
-    "losses": 175
+    "wins": 186,
+    "losses": 176
   },
   "DEE#218": {
     "name": "pink popo club",
@@ -664,17 +664,17 @@
   "BRIDGE#0": {
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1992.7,
+    "rank": "DIAMOND 1",
+    "rating": 2025.7,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "83.4",
-      "16.2"
+      "83.6",
+      "16.0"
     ],
-    "wins": 359,
-    "losses": 319
+    "wins": 363,
+    "losses": 322
   }
 }
