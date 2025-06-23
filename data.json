@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1808.9,
+    "rating": 1825.8,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.3"
     ],
-    "wins": 177,
-    "losses": 176
+    "wins": 178,
+    "losses": 177
   },
   "CHAR#991": {
     "name": "Char",
@@ -513,17 +513,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1637.3,
+    "rating": 1643.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.9",
-      "25.1"
+      "75.0",
+      "25.0"
     ],
-    "wins": 181,
-    "losses": 172
+    "wins": 182,
+    "losses": 173
   },
   "DEE#218": {
     "name": "pink popo club",
@@ -665,16 +665,16 @@
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1995.8,
+    "rating": 1991.8,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "83.2",
-      "16.3"
+      "83.3",
+      "16.2"
     ],
-    "wins": 357,
-    "losses": 316
+    "wins": 358,
+    "losses": 317
   }
 }
