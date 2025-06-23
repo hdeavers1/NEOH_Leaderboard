@@ -665,16 +665,16 @@
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2019.6,
+    "rating": 2065.7,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "83.8",
-      "15.8"
+      "84.0",
+      "15.6"
     ],
-    "wins": 367,
-    "losses": 327
+    "wins": 375,
+    "losses": 329
   }
 }
