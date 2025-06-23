@@ -664,17 +664,17 @@
   "BRIDGE#0": {
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 2",
-    "rating": 1922.8,
+    "rank": "PLATINUM 3",
+    "rating": 1931.5,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "82.1",
-      "17.5"
+      "82.2",
+      "17.4"
     ],
-    "wins": 325,
-    "losses": 299
+    "wins": 327,
+    "losses": 300
   }
 }
