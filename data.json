@@ -215,15 +215,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1878.3,
+    "rating": 1888.8,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 50,
-    "losses": 32
+    "wins": 52,
+    "losses": 33
   },
   "JUST#577": {
     "name": "Just",
@@ -651,30 +651,30 @@
     "name": "super pichu",
     "tag": "BOZO#386",
     "rank": "PLATINUM 3",
-    "rating": 1928.6,
+    "rating": 1980.2,
     "characters": [
       "Pichu"
     ],
     "percentages": [
-      "99.4"
+      "99.5"
     ],
-    "wins": 45,
-    "losses": 36
+    "wins": 51,
+    "losses": 41
   },
   "BRIDGE#0": {
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2067.5,
+    "rating": 2049.4,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "84.1",
-      "15.5"
+      "84.4",
+      "15.2"
     ],
-    "wins": 377,
-    "losses": 330
+    "wins": 384,
+    "losses": 338
   }
 }
