@@ -19,6 +19,20 @@
     "wins": 0,
     "losses": 0
   },
+  "QCUM#685": {
+    "name": "Aspiring HM",
+    "tag": "QCUM#685",
+    "rank": "GOLD 3",
+    "rating": 1699.3,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 18,
+    "losses": 11
+  },
   "MAYO#795": {
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
@@ -66,20 +80,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "NECK#152": {
-    "name": "neckboy",
-    "tag": "NECK#152",
-    "rank": "PENDING",
-    "rating": 4,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 0,
-    "losses": 1
   },
   "SPOR#247": {
     "name": "Jub Lee",
