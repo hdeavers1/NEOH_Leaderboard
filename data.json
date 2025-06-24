@@ -9,22 +9,6 @@
     "wins": 0,
     "losses": 0
   },
-  "JUBS#579": {
-    "name": "Jubly",
-    "tag": "JUBS#579",
-    "rank": "GOLD 2",
-    "rating": 1588.4,
-    "characters": [
-      "Falco",
-      "Falcon"
-    ],
-    "percentages": [
-      "94.9",
-      "5.1"
-    ],
-    "wins": 10,
-    "losses": 6
-  },
   "BIGO#869": {
     "name": "fd=cringe",
     "tag": "BIGO#869",
@@ -34,20 +18,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "QCUM#685": {
-    "name": "Aspiring HM",
-    "tag": "QCUM#685",
-    "rank": "GOLD 3",
-    "rating": 1699.3,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 18,
-    "losses": 11
   },
   "MAYO#795": {
     "name": "Mayonaisaurus",
