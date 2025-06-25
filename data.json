@@ -215,7 +215,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1923.8,
+    "rating": 1905.7,
     "characters": [
       "Falcon"
     ],
@@ -223,7 +223,7 @@
       "100.0"
     ],
     "wins": 54,
-    "losses": 33
+    "losses": 34
   },
   "JUST#577": {
     "name": "Just",
@@ -621,17 +621,17 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1912,
+    "rating": 1880.2,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "90.9",
-      "6.7"
+      "91.2",
+      "6.5"
     ],
     "wins": 41,
-    "losses": 43
+    "losses": 46
   },
   "AIRY#666": {
     "name": "Airy",
