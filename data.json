@@ -215,14 +215,14 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1888.8,
+    "rating": 1923.8,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 52,
+    "wins": 54,
     "losses": 33
   },
   "JUST#577": {
@@ -602,7 +602,7 @@
     "losses": 19
   },
   "MOSHI#0": {
-    "name": "ms doesn't miss",
+    "name": "bountfulharvest",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1722.2,
@@ -621,16 +621,16 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1902.8,
+    "rating": 1912,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "90.8",
-      "6.8"
+      "90.9",
+      "6.7"
     ],
-    "wins": 40,
+    "wins": 41,
     "losses": 43
   },
   "AIRY#666": {
