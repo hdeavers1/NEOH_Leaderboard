@@ -254,7 +254,7 @@
     "losses": 8
   },
   "PLAY#647": {
-    "name": "sheikplayer69",
+    "name": "Trollin' EC lol",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
     "rating": 2131.5,
@@ -401,21 +401,21 @@
     "name": "Degausser",
     "tag": "SURF#666",
     "rank": "GOLD 1",
-    "rating": 1507.7,
+    "rating": 1468.2,
     "characters": [
       "Falco",
       "Bowser",
-      "Puff",
-      "Mario"
+      "Fox",
+      "Puff"
     ],
     "percentages": [
-      "70.4",
-      "13.0",
-      "5.6",
-      "5.6"
+      "64.4",
+      "11.9",
+      "10.2",
+      "5.1"
     ],
     "wins": 13,
-    "losses": 9
+    "losses": 11
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -665,16 +665,16 @@
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1976.9,
+    "rating": 1977.4,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "85.2",
-      "14.4"
+      "85.3",
+      "14.3"
     ],
-    "wins": 401,
-    "losses": 362
+    "wins": 403,
+    "losses": 366
   }
 }
