@@ -254,7 +254,7 @@
     "losses": 8
   },
   "PLAY#647": {
-    "name": "Trollin' EC lol",
+    "name": "Boyd",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
     "rating": 2131.5,
@@ -572,15 +572,15 @@
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
-    "rank": "SILVER 2",
-    "rating": 1305.7,
+    "rank": "SILVER 3",
+    "rating": 1336.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 35,
+    "wins": 37,
     "losses": 40
   },
   "NCRO#183": {
@@ -665,7 +665,7 @@
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1977.4,
+    "rating": 1987,
     "characters": [
       "Fox",
       "Falco"
@@ -674,7 +674,7 @@
       "85.3",
       "14.3"
     ],
-    "wins": 403,
+    "wins": 404,
     "losses": 366
   }
 }
