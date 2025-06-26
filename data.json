@@ -573,15 +573,15 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1336.6,
+    "rating": 1339.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "99.4"
+      "99.5"
     ],
-    "wins": 37,
-    "losses": 40
+    "wins": 40,
+    "losses": 42
   },
   "NCRO#183": {
     "name": "Ncro",
@@ -665,16 +665,16 @@
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1987,
+    "rating": 1990.7,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "85.3",
-      "14.3"
+      "85.4",
+      "14.2"
     ],
-    "wins": 404,
-    "losses": 366
+    "wins": 405,
+    "losses": 367
   }
 }
