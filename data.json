@@ -552,12 +552,16 @@
   "EGAG#906": {
     "name": "wweh",
     "tag": "EGAG#906",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Peach"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 1
   },
   "WICE#699": {
     "name": "Weiss",
@@ -573,14 +577,14 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1339.1,
+    "rating": 1352.5,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 40,
+    "wins": 41,
     "losses": 42
   },
   "NCRO#183": {
@@ -664,17 +668,17 @@
   "BRIDGE#0": {
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1990.7,
+    "rank": "DIAMOND 1",
+    "rating": 2016.2,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "85.4",
-      "14.2"
+      "85.6",
+      "14.0"
     ],
-    "wins": 405,
-    "losses": 367
+    "wins": 411,
+    "losses": 371
   }
 }
