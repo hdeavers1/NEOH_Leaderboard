@@ -25,16 +25,6 @@
     "wins": 10,
     "losses": 6
   },
-  "BIGO#869": {
-    "name": "fd=cringe",
-    "tag": "BIGO#869",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "QCUM#685": {
     "name": "Aspiring HM",
     "tag": "QCUM#685",
@@ -110,6 +100,20 @@
     ],
     "wins": 0,
     "losses": 1
+  },
+  "SPOR#247": {
+    "name": "Jub Lee",
+    "tag": "SPOR#247",
+    "rank": "SILVER 2",
+    "rating": 1221,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 4
   },
   "ANT#480": {
     "name": "Zantryx",
