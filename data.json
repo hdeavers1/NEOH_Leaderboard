@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1730.5,
+    "rating": 1659.9,
     "characters": [
       "DK"
     ],
     "percentages": [
-      "99.3"
+      "99.0"
     ],
-    "wins": 188,
-    "losses": 195
+    "wins": 190,
+    "losses": 202
   },
   "CHAR#991": {
     "name": "Char",
@@ -669,16 +669,16 @@
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2046.1,
+    "rating": 2037.2,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "85.8",
+      "85.9",
       "13.8"
     ],
     "wins": 423,
-    "losses": 376
+    "losses": 377
   }
 }
