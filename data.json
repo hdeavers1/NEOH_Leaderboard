@@ -254,7 +254,7 @@
     "losses": 8
   },
   "PLAY#647": {
-    "name": "holiday",
+    "name": "friend",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
     "rating": 2131.5,
@@ -328,15 +328,15 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 1",
-    "rating": 2071.4,
+    "rank": "DIAMOND 2",
+    "rating": 2077.8,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 146,
+    "wins": 147,
     "losses": 102
   },
   "FLOW#08": {
