@@ -329,15 +329,15 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2077.8,
+    "rating": 2076.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.1"
+      "97.9"
     ],
-    "wins": 147,
-    "losses": 102
+    "wins": 149,
+    "losses": 107
   },
   "FLOW#08": {
     "name": "Flow",
@@ -606,20 +606,20 @@
     "losses": 19
   },
   "MOSHI#0": {
-    "name": "the stander",
+    "name": "what the flip",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1731.1,
+    "rating": 1733.4,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "97.0",
+      "96.8",
       "3.0"
     ],
-    "wins": 138,
-    "losses": 126
+    "wins": 139,
+    "losses": 127
   },
   "SMEG#879": {
     "name": "$",
