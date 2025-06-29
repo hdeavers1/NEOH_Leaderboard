@@ -329,15 +329,15 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2100.9,
+    "rating": 2128.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.0"
     ],
-    "wins": 151,
-    "losses": 108
+    "wins": 154,
+    "losses": 109
   },
   "FLOW#08": {
     "name": "Flow",
@@ -684,15 +684,17 @@
   "ELDE#792": {
     "name": "EldenLord",
     "tag": "ELDE#792",
-    "rank": "PENDING",
-    "rating": 3,
+    "rank": "SILVER 3",
+    "rating": 1363.5,
     "characters": [
-      "DK"
+      "DK",
+      "Yoshi"
     ],
     "percentages": [
-      "100.0"
+      "90.9",
+      "9.1"
     ],
-    "wins": 2,
-    "losses": 0
+    "wins": 3,
+    "losses": 2
   }
 }
