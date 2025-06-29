@@ -329,15 +329,15 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2076.9,
+    "rating": 2100.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.9"
+      "98.0"
     ],
-    "wins": 149,
-    "losses": 107
+    "wins": 151,
+    "losses": 108
   },
   "FLOW#08": {
     "name": "Flow",
@@ -606,7 +606,7 @@
     "losses": 19
   },
   "MOSHI#0": {
-    "name": "what the flip",
+    "name": "ms doesn't miss",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1733.4,
@@ -680,5 +680,19 @@
     ],
     "wins": 423,
     "losses": 377
+  },
+  "ELDE#792": {
+    "name": "EldenLord",
+    "tag": "ELDE#792",
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "DK"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 0
   }
 }
