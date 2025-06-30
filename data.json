@@ -329,15 +329,15 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2128.1,
+    "rating": 2126.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.0"
+      "97.9"
     ],
-    "wins": 154,
-    "losses": 109
+    "wins": 155,
+    "losses": 111
   },
   "FLOW#08": {
     "name": "Flow",
@@ -577,15 +577,15 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1352.5,
+    "rating": 1384.8,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 41,
-    "losses": 42
+    "wins": 46,
+    "losses": 45
   },
   "NCRO#183": {
     "name": "Ncro",
@@ -685,16 +685,16 @@
     "name": "EldenLord",
     "tag": "ELDE#792",
     "rank": "SILVER 3",
-    "rating": 1363.5,
+    "rating": 1384.1,
     "characters": [
       "DK",
       "Yoshi"
     ],
     "percentages": [
-      "90.9",
-      "9.1"
+      "76.0",
+      "24.0"
     ],
-    "wins": 3,
-    "losses": 2
+    "wins": 5,
+    "losses": 5
   }
 }
