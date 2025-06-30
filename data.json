@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1714.1,
+    "rating": 1719.7,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 196,
-    "losses": 203
+    "wins": 197,
+    "losses": 204
   },
   "CHAR#991": {
     "name": "Char",
@@ -215,7 +215,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1905.7,
+    "rating": 1871.9,
     "characters": [
       "Falcon"
     ],
@@ -223,7 +223,7 @@
       "100.0"
     ],
     "wins": 54,
-    "losses": 34
+    "losses": 36
   },
   "JUST#577": {
     "name": "Just",
@@ -369,15 +369,15 @@
     "name": "DumpsLikeATruck",
     "tag": "PEE#658",
     "rank": "GOLD 3",
-    "rating": 1660.8,
+    "rating": 1673.3,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 11,
-    "losses": 6
+    "wins": 14,
+    "losses": 10
   },
   "WEGG#462": {
     "name": "Young Wunna",
