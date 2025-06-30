@@ -382,20 +382,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 1",
-    "rating": 1778.1,
+    "rank": "GOLD 3",
+    "rating": 1735,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "78.2",
-      "18.2",
-      "3.6"
+      "79.3",
+      "17.2",
+      "3.4"
     ],
     "wins": 25,
-    "losses": 22
+    "losses": 24
   },
   "SURF#666": {
     "name": "Degausser",
@@ -669,17 +669,17 @@
     "name": "VDL | Bridget",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2037.2,
+    "rating": 2018.5,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
       "85.9",
-      "13.8"
+      "13.7"
     ],
-    "wins": 423,
-    "losses": 377
+    "wins": 424,
+    "losses": 379
   },
   "ELDE#792": {
     "name": "EldenLord",
