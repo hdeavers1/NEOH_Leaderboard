@@ -369,15 +369,15 @@
     "name": "DumpsLikeATruck",
     "tag": "PEE#658",
     "rank": "GOLD 3",
-    "rating": 1738.6,
+    "rating": 1700.9,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 17,
-    "losses": 11
+    "wins": 18,
+    "losses": 16
   },
   "WEGG#462": {
     "name": "Young Wunna",
@@ -591,19 +591,19 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "PLATINUM 1",
-    "rating": 1752.1,
+    "rating": 1764.4,
     "characters": [
       "Marth",
       "Fox",
       "Sheik"
     ],
     "percentages": [
-      "82.4",
-      "9.8",
-      "7.8"
+      "81.7",
+      "9.2",
+      "9.2"
     ],
-    "wins": 25,
-    "losses": 19
+    "wins": 26,
+    "losses": 21
   },
   "MOSHI#0": {
     "name": "ms doesn't miss",
