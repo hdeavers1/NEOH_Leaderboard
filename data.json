@@ -369,14 +369,14 @@
     "name": "DumpsLikeATruck",
     "tag": "PEE#658",
     "rank": "GOLD 3",
-    "rating": 1700.9,
+    "rating": 1739.5,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 18,
+    "wins": 20,
     "losses": 16
   },
   "WEGG#462": {
@@ -591,18 +591,18 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "PLATINUM 1",
-    "rating": 1764.4,
+    "rating": 1803.9,
     "characters": [
       "Marth",
-      "Fox",
-      "Sheik"
+      "Sheik",
+      "Fox"
     ],
     "percentages": [
-      "81.7",
-      "9.2",
-      "9.2"
+      "78.1",
+      "12.3",
+      "9.6"
     ],
-    "wins": 26,
+    "wins": 28,
     "losses": 21
   },
   "MOSHI#0": {
