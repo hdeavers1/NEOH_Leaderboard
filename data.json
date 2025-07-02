@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1724.9,
+    "rating": 1729.2,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 200,
-    "losses": 208
+    "wins": 202,
+    "losses": 209
   },
   "CHAR#991": {
     "name": "Char",
@@ -513,16 +513,16 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1769.7,
+    "rating": 1782.6,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.9",
-      "25.1"
+      "75.0",
+      "25.0"
     ],
-    "wins": 203,
+    "wins": 204,
     "losses": 181
   },
   "DEE#218": {
