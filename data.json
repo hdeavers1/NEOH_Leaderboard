@@ -669,17 +669,17 @@
     "name": "Bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1976.4,
+    "rating": 1958.6,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "86.0",
+      "86.1",
       "13.6"
     ],
     "wins": 425,
-    "losses": 385
+    "losses": 386
   },
   "ELDE#792": {
     "name": "EldenLord",
