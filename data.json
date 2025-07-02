@@ -142,16 +142,16 @@
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
-    "rank": "SILVER 2",
-    "rating": 1311.9,
+    "rank": "SILVER 3",
+    "rating": 1348.5,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
-    "losses": 5
+    "wins": 7,
+    "losses": 7
   },
   "FUEL#375": {
     "name": "Fuelperks",
@@ -366,7 +366,7 @@
     "losses": 1
   },
   "PEE#658": {
-    "name": "Steely Gan",
+    "name": "Rat Desire",
     "tag": "PEE#658",
     "rank": "GOLD 3",
     "rating": 1744,
@@ -668,18 +668,18 @@
   "BRIDGE#0": {
     "name": "Bridget",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1958.6,
+    "rank": "DIAMOND 1",
+    "rating": 2008.2,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
       "86.1",
-      "13.6"
+      "13.5"
     ],
-    "wins": 425,
-    "losses": 386
+    "wins": 430,
+    "losses": 387
   },
   "ELDE#792": {
     "name": "EldenLord",
