@@ -666,20 +666,20 @@
     "losses": 43
   },
   "BRIDGE#0": {
-    "name": "VDL | Bridget",
+    "name": "Bridget",
     "tag": "BRIDGE#0",
-    "rank": "DIAMOND 1",
-    "rating": 2018.5,
+    "rank": "PLATINUM 3",
+    "rating": 1995,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "85.9",
-      "13.7"
+      "86.0",
+      "13.6"
     ],
-    "wins": 424,
-    "losses": 379
+    "wins": 425,
+    "losses": 383
   },
   "ELDE#792": {
     "name": "EldenLord",
