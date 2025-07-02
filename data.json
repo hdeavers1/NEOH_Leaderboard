@@ -366,18 +366,18 @@
     "losses": 1
   },
   "PEE#658": {
-    "name": "Rat Desire",
+    "name": "Steely Gan",
     "tag": "PEE#658",
     "rank": "GOLD 3",
-    "rating": 1739.5,
+    "rating": 1744,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 20,
-    "losses": 16
+    "wins": 21,
+    "losses": 17
   },
   "WEGG#462": {
     "name": "Young Wunna",
@@ -550,7 +550,7 @@
     "losses": 0
   },
   "EGAG#906": {
-    "name": "wweh",
+    "name": "bluh",
     "tag": "EGAG#906",
     "rank": "PENDING",
     "rating": 2,
