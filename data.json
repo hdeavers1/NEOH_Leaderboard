@@ -12,18 +12,18 @@
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
-    "rank": "GOLD 2",
-    "rating": 1574.3,
+    "rank": "GOLD 1",
+    "rating": 1544,
     "characters": [
       "Falco",
       "Falcon"
     ],
     "percentages": [
-      "95.2",
-      "4.8"
+      "95.5",
+      "4.5"
     ],
     "wins": 10,
-    "losses": 7
+    "losses": 8
   },
   "BIGO#869": {
     "name": "fd=cringe",
@@ -383,19 +383,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 1",
-    "rating": 1776.3,
+    "rating": 1753.6,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "78.5",
-      "18.2",
-      "3.3"
+      "79.0",
+      "17.7",
+      "3.2"
     ],
     "wins": 27,
-    "losses": 24
+    "losses": 25
   },
   "SURF#666": {
     "name": "Degausser",
@@ -668,18 +668,18 @@
   "BRIDGE#0": {
     "name": "Bridget",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1974.7,
+    "rank": "DIAMOND 1",
+    "rating": 2040.7,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "86.3",
-      "13.4"
+      "86.4",
+      "13.2"
     ],
-    "wins": 432,
-    "losses": 391
+    "wins": 439,
+    "losses": 393
   },
   "ELDE#792": {
     "name": "EldenLord",
