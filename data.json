@@ -669,17 +669,17 @@
     "name": "Bridget",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2040.7,
+    "rating": 2072.8,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "86.4",
-      "13.2"
+      "86.6",
+      "13.1"
     ],
-    "wins": 439,
-    "losses": 393
+    "wins": 444,
+    "losses": 397
   },
   "ELDE#792": {
     "name": "EldenLord",
