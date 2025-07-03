@@ -212,7 +212,7 @@
     "losses": 0
   },
   "ASIG#701": {
-    "name": "aSig",
+    "name": "Failed Trialist",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
     "rating": 1871.9,
@@ -328,16 +328,16 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 2",
-    "rating": 2124.2,
+    "rank": "DIAMOND 3",
+    "rating": 2140.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.0"
     ],
-    "wins": 164,
-    "losses": 120
+    "wins": 167,
+    "losses": 121
   },
   "FLOW#08": {
     "name": "Flow",
