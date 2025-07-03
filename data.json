@@ -328,16 +328,16 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 2",
-    "rating": 2121.2,
+    "rank": "DIAMOND 3",
+    "rating": 2153.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.9"
+      "98.0"
     ],
-    "wins": 158,
-    "losses": 115
+    "wins": 162,
+    "losses": 116
   },
   "FLOW#08": {
     "name": "Flow",
@@ -513,17 +513,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1782.6,
+    "rating": 1763.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "75.0",
-      "25.0"
+      "74.8",
+      "25.2"
     ],
-    "wins": 204,
-    "losses": 181
+    "wins": 205,
+    "losses": 183
   },
   "DEE#218": {
     "name": "pink popo club",
