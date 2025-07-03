@@ -328,8 +328,8 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 3",
-    "rating": 2145.9,
+    "rank": "DIAMOND 2",
+    "rating": 2121.2,
     "characters": [
       "Marth"
     ],
@@ -337,7 +337,7 @@
       "97.9"
     ],
     "wins": 158,
-    "losses": 113
+    "losses": 115
   },
   "FLOW#08": {
     "name": "Flow",
