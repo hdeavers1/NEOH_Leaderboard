@@ -577,15 +577,15 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1384.8,
+    "rating": 1358.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "99.5"
+      "99.1"
     ],
     "wins": 46,
-    "losses": 45
+    "losses": 47
   },
   "NCRO#183": {
     "name": "Ncro",
@@ -606,7 +606,7 @@
     "losses": 21
   },
   "MOSHI#0": {
-    "name": "ms doesn't miss",
+    "name": "amen warrior",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1733.4,
