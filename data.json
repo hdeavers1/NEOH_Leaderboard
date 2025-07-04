@@ -382,8 +382,8 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 1",
-    "rating": 1753.3,
+    "rank": "GOLD 3",
+    "rating": 1719.4,
     "characters": [
       "Fox",
       "Marth",
@@ -391,11 +391,11 @@
     ],
     "percentages": [
       "79.7",
-      "17.3",
-      "3.0"
+      "16.7",
+      "2.9"
     ],
     "wins": 29,
-    "losses": 27
+    "losses": 29
   },
   "SURF#666": {
     "name": "Degausser",
