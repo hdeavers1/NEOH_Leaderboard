@@ -212,7 +212,7 @@
     "losses": 0
   },
   "ASIG#701": {
-    "name": "Failed Trialist",
+    "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
     "rating": 1871.9,
@@ -328,16 +328,16 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 3",
-    "rating": 2140.4,
+    "rank": "MASTER 1",
+    "rating": 2197.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.0"
+      "98.1"
     ],
-    "wins": 167,
-    "losses": 121
+    "wins": 177,
+    "losses": 125
   },
   "FLOW#08": {
     "name": "Flow",
@@ -382,20 +382,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 1",
-    "rating": 1753.6,
+    "rank": "GOLD 3",
+    "rating": 1723.5,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "79.0",
-      "17.7",
-      "3.2"
+      "79.1",
+      "17.8",
+      "3.1"
     ],
     "wins": 27,
-    "losses": 25
+    "losses": 27
   },
   "SURF#666": {
     "name": "Degausser",
