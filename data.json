@@ -52,16 +52,16 @@
   "MAYO#795": {
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1750.9,
+    "rank": "PLATINUM 1",
+    "rating": 1756.7,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 211,
-    "losses": 216
+    "wins": 215,
+    "losses": 218
   },
   "CHAR#991": {
     "name": "Char",
@@ -189,17 +189,17 @@
     "name": "Dad Lucci",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1904.8,
+    "rating": 1899.4,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.1",
-      "2.9"
+      "97.2",
+      "2.8"
     ],
-    "wins": 44,
-    "losses": 30
+    "wins": 46,
+    "losses": 32
   },
   "DOUG#405": {
     "name": "ひ",
@@ -513,17 +513,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1800.1,
+    "rating": 1800.2,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.9",
-      "25.1"
+      "75.0",
+      "25.0"
     ],
-    "wins": 208,
-    "losses": 183
+    "wins": 209,
+    "losses": 184
   },
   "DEE#218": {
     "name": "pink popo club",
