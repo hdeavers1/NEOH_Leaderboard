@@ -189,17 +189,17 @@
     "name": "Dad Lucci",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1905.2,
+    "rating": 1922.3,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "97.7",
+      "2.3"
     ],
-    "wins": 51,
-    "losses": 37
+    "wins": 55,
+    "losses": 39
   },
   "DOUG#405": {
     "name": "ひ",
@@ -641,15 +641,15 @@
     "name": "Airy",
     "tag": "AIRY#666",
     "rank": "PLATINUM 1",
-    "rating": 1770,
+    "rating": 1834.8,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 74,
-    "losses": 73
+    "wins": 79,
+    "losses": 74
   },
   "BOZO#386": {
     "name": "super pichu",
