@@ -188,18 +188,18 @@
   "CUTS#327": {
     "name": "Dad Lucci",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1922.3,
+    "rank": "PLATINUM 3",
+    "rating": 1931.8,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "97.8",
+      "2.2"
     ],
-    "wins": 55,
-    "losses": 39
+    "wins": 57,
+    "losses": 41
   },
   "DOUG#405": {
     "name": "ひ",
@@ -640,16 +640,16 @@
   "AIRY#666": {
     "name": "Airy",
     "tag": "AIRY#666",
-    "rank": "PLATINUM 1",
-    "rating": 1834.8,
+    "rank": "PLATINUM 2",
+    "rating": 1856.9,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 79,
-    "losses": 74
+    "wins": 81,
+    "losses": 75
   },
   "BOZO#386": {
     "name": "super pichu",
@@ -668,18 +668,18 @@
   "BRIDGE#0": {
     "name": "Bridget",
     "tag": "BRIDGE#0",
-    "rank": "DIAMOND 2",
-    "rating": 2103.3,
+    "rank": "DIAMOND 1",
+    "rating": 2068.1,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "86.8",
-      "12.9"
+      "86.9",
+      "12.7"
     ],
-    "wins": 453,
-    "losses": 401
+    "wins": 455,
+    "losses": 408
   },
   "ELDE#792": {
     "name": "EldenLord",
