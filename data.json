@@ -53,14 +53,14 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1724.3,
+    "rating": 1750.9,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 209,
+    "wins": 211,
     "losses": 216
   },
   "CHAR#991": {
@@ -591,19 +591,19 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "PLATINUM 1",
-    "rating": 1819.9,
+    "rating": 1805,
     "characters": [
       "Marth",
       "Sheik",
       "Fox"
     ],
     "percentages": [
-      "74.6",
-      "16.7",
-      "8.7"
+      "75.0",
+      "16.4",
+      "8.6"
     ],
     "wins": 31,
-    "losses": 23
+    "losses": 24
   },
   "MOSHI#0": {
     "name": "amen warrior",
@@ -638,7 +638,7 @@
     "losses": 46
   },
   "AIRY#666": {
-    "name": "Airy",
+    "name": "Nora",
     "tag": "AIRY#666",
     "rank": "PLATINUM 1",
     "rating": 1779.3,
