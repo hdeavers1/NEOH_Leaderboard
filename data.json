@@ -53,15 +53,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1756.7,
+    "rating": 1765.5,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 215,
-    "losses": 218
+    "wins": 217,
+    "losses": 219
   },
   "CHAR#991": {
     "name": "Char",
@@ -189,16 +189,16 @@
     "name": "Dad Lucci",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1899.4,
+    "rating": 1915.5,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.2",
-      "2.8"
+      "97.3",
+      "2.7"
     ],
-    "wins": 46,
+    "wins": 47,
     "losses": 32
   },
   "DOUG#405": {
@@ -638,7 +638,7 @@
     "losses": 46
   },
   "AIRY#666": {
-    "name": "Nora",
+    "name": "Airy",
     "tag": "AIRY#666",
     "rank": "PLATINUM 1",
     "rating": 1779.3,
