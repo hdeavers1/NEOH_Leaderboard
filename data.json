@@ -673,7 +673,7 @@
     "name": "Bridget",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2047.3,
+    "rating": 2039.9,
     "characters": [
       "Fox",
       "Falco"
@@ -683,7 +683,7 @@
       "12.4"
     ],
     "wins": 465,
-    "losses": 419
+    "losses": 420
   },
   "ELDE#792": {
     "name": "EldenLord",
