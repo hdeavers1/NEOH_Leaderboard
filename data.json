@@ -517,17 +517,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1800.2,
+    "rating": 1796.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "75.0",
-      "25.0"
+      "75.1",
+      "24.9"
     ],
-    "wins": 209,
-    "losses": 184
+    "wins": 211,
+    "losses": 185
   },
   "DEE#218": {
     "name": "pink popo club",
@@ -673,7 +673,7 @@
     "name": "Bridget",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2022.5,
+    "rating": 2012.2,
     "characters": [
       "Fox",
       "Falco"
@@ -683,7 +683,7 @@
       "12.4"
     ],
     "wins": 465,
-    "losses": 421
+    "losses": 422
   },
   "ELDE#792": {
     "name": "EldenLord",
