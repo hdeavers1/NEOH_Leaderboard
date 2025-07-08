@@ -219,7 +219,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1837.4,
+    "rating": 1829.4,
     "characters": [
       "Falcon"
     ],
@@ -227,7 +227,7 @@
       "100.0"
     ],
     "wins": 59,
-    "losses": 43
+    "losses": 44
   },
   "JUST#577": {
     "name": "Just",
@@ -370,18 +370,18 @@
     "losses": 1
   },
   "PEE#658": {
-    "name": "Rat Desire",
+    "name": "VDL Honeythighs",
     "tag": "PEE#658",
-    "rank": "GOLD 3",
-    "rating": 1744,
+    "rank": "PLATINUM 1",
+    "rating": 1789.1,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 21,
-    "losses": 17
+    "wins": 24,
+    "losses": 18
   },
   "WEGG#462": {
     "name": "Young Wunna",
