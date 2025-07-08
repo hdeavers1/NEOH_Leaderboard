@@ -16,21 +16,21 @@
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
-    "rank": "GOLD 1",
-    "rating": 1544,
+    "rank": "GOLD 2",
+    "rating": 1594.8,
     "characters": [
       "Falco",
       "Falcon"
     ],
     "percentages": [
-      "95.5",
-      "4.5"
+      "95.7",
+      "4.3"
     ],
-    "wins": 10,
+    "wins": 11,
     "losses": 8
   },
   "BIGO#869": {
-    "name": "fd=cringe",
+    "name": "Neckboy",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -218,8 +218,8 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 2",
-    "rating": 1849.9,
+    "rank": "PLATINUM 1",
+    "rating": 1833.8,
     "characters": [
       "Falcon"
     ],
@@ -227,7 +227,7 @@
       "100.0"
     ],
     "wins": 58,
-    "losses": 40
+    "losses": 42
   },
   "JUST#577": {
     "name": "Just",
@@ -673,17 +673,17 @@
     "name": "Bridget",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2050.1,
+    "rating": 2047.3,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
       "87.2",
-      "12.5"
+      "12.4"
     ],
-    "wins": 463,
-    "losses": 417
+    "wins": 465,
+    "losses": 419
   },
   "ELDE#792": {
     "name": "EldenLord",
