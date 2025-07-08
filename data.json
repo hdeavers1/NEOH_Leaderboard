@@ -57,14 +57,14 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1765.5,
+    "rating": 1801.4,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 217,
+    "wins": 219,
     "losses": 219
   },
   "CHAR#991": {
@@ -219,14 +219,14 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1829.4,
+    "rating": 1837.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 59,
+    "wins": 60,
     "losses": 44
   },
   "JUST#577": {
@@ -373,14 +373,14 @@
     "name": "VDL Honeythighs",
     "tag": "PEE#658",
     "rank": "PLATINUM 1",
-    "rating": 1789.1,
+    "rating": 1800.2,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 24,
+    "wins": 25,
     "losses": 18
   },
   "WEGG#462": {
@@ -610,7 +610,7 @@
     "losses": 24
   },
   "MOSHI#0": {
-    "name": "amen warrior",
+    "name": "RIP Rice Shower",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1733.4,
