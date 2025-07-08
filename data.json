@@ -2,11 +2,15 @@
   "WWJ#916": {
     "name": "RptrBoostGod",
     "tag": "WWJ#916",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
     "losses": 0
   },
   "JUBS#579": {
@@ -214,16 +218,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1842.1,
+    "rank": "PLATINUM 2",
+    "rating": 1849.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 56,
-    "losses": 39
+    "wins": 58,
+    "losses": 40
   },
   "JUST#577": {
     "name": "Just",
@@ -382,20 +386,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 3",
-    "rating": 1719.4,
+    "rank": "PLATINUM 1",
+    "rating": 1774,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "79.7",
+      "80.1",
       "16.7",
-      "2.9"
+      "2.6"
     ],
-    "wins": 29,
-    "losses": 29
+    "wins": 34,
+    "losses": 32
   },
   "SURF#666": {
     "name": "Degausser",
@@ -577,15 +581,15 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1328.5,
+    "rating": 1351,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "99.1"
+      "99.2"
     ],
-    "wins": 46,
-    "losses": 49
+    "wins": 51,
+    "losses": 52
   },
   "NCRO#183": {
     "name": "Ncro",
@@ -668,18 +672,18 @@
   "BRIDGE#0": {
     "name": "Bridget",
     "tag": "BRIDGE#0",
-    "rank": "DIAMOND 2",
-    "rating": 2082.6,
+    "rank": "DIAMOND 1",
+    "rating": 2050.1,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "87.0",
-      "12.6"
+      "87.2",
+      "12.5"
     ],
-    "wins": 458,
-    "losses": 412
+    "wins": 463,
+    "losses": 417
   },
   "ELDE#792": {
     "name": "EldenLord",
