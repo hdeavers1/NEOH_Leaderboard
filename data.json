@@ -57,15 +57,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1801.4,
+    "rating": 1799.3,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 219,
-    "losses": 219
+    "wins": 220,
+    "losses": 220
   },
   "CHAR#991": {
     "name": "Char",
@@ -673,17 +673,17 @@
     "name": "Bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 2002.6,
+    "rating": 1978,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
       "87.4",
-      "12.3"
+      "12.2"
     ],
-    "wins": 469,
-    "losses": 428
+    "wins": 471,
+    "losses": 431
   },
   "ELDE#792": {
     "name": "EldenLord",
