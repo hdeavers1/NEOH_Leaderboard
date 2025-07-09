@@ -372,8 +372,8 @@
   "PEE#658": {
     "name": "VDL Honeythighs",
     "tag": "PEE#658",
-    "rank": "PLATINUM 1",
-    "rating": 1762.7,
+    "rank": "GOLD 3",
+    "rating": 1734.1,
     "characters": [
       "Ganon"
     ],
@@ -381,7 +381,7 @@
       "100.0"
     ],
     "wins": 34,
-    "losses": 29
+    "losses": 31
   },
   "WEGG#462": {
     "name": "Young Wunna",
@@ -673,17 +673,17 @@
     "name": "Bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1989,
+    "rating": 2002.6,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "87.3",
+      "87.4",
       "12.3"
     ],
-    "wins": 466,
-    "losses": 426
+    "wins": 469,
+    "losses": 428
   },
   "ELDE#792": {
     "name": "EldenLord",
