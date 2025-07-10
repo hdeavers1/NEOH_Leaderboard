@@ -289,17 +289,17 @@
     "name": "Ghast",
     "tag": "GHST#232",
     "rank": "GOLD 2",
-    "rating": 1560.5,
+    "rating": 1587.2,
     "characters": [
       "Falcon",
       "Marth"
     ],
     "percentages": [
-      "97.6",
-      "2.4"
+      "97.9",
+      "2.1"
     ],
-    "wins": 11,
-    "losses": 7
+    "wins": 13,
+    "losses": 8
   },
   "BLSE#808": {
     "name": "$hine Forever",
