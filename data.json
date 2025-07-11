@@ -193,15 +193,17 @@
     "name": "Father Lucci",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1914.7,
+    "rating": 1919.1,
     "characters": [
-      "Samus"
+      "Samus",
+      "Falco"
     ],
     "percentages": [
-      "98.0"
+      "97.5",
+      "2.5"
     ],
-    "wins": 74,
-    "losses": 58
+    "wins": 78,
+    "losses": 62
   },
   "DOUG#405": {
     "name": "ひ",
@@ -606,7 +608,7 @@
     "losses": 24
   },
   "MOSHI#0": {
-    "name": "moshi",
+    "name": "autistic llod",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1768,
