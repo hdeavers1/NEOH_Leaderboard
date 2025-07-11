@@ -192,18 +192,18 @@
   "CUTS#327": {
     "name": "Father Lucci",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 3",
-    "rating": 1939.7,
+    "rank": "DIAMOND 1",
+    "rating": 2011.6,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "97.7",
+      "2.3"
     ],
-    "wins": 62,
-    "losses": 44
+    "wins": 69,
+    "losses": 45
   },
   "DOUG#405": {
     "name": "ひ",
@@ -515,17 +515,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1787.9,
+    "rating": 1765.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "75.2",
-      "24.8"
+      "75.3",
+      "24.7"
     ],
-    "wins": 213,
-    "losses": 187
+    "wins": 215,
+    "losses": 191
   },
   "DEE#218": {
     "name": "pink popo club",
