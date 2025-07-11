@@ -193,17 +193,17 @@
     "name": "Father Lucci",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1919.1,
+    "rating": 1922.5,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "97.3",
+      "2.7"
     ],
-    "wins": 78,
-    "losses": 62
+    "wins": 80,
+    "losses": 64
   },
   "DOUG#405": {
     "name": "ひ",
@@ -218,8 +218,8 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 2",
-    "rating": 1852.4,
+    "rank": "PLATINUM 1",
+    "rating": 1815.2,
     "characters": [
       "Falcon"
     ],
@@ -227,7 +227,7 @@
       "100.0"
     ],
     "wins": 62,
-    "losses": 45
+    "losses": 48
   },
   "JUST#577": {
     "name": "Just",
