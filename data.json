@@ -193,17 +193,17 @@
     "name": "Father Lucci",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1963.2,
+    "rating": 1938.3,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.8",
-      "2.2"
+      "97.9",
+      "2.1"
     ],
-    "wins": 69,
-    "losses": 49
+    "wins": 73,
+    "losses": 54
   },
   "DOUG#405": {
     "name": "ひ",
@@ -218,15 +218,15 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1837.3,
+    "rank": "PLATINUM 2",
+    "rating": 1856.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 60,
+    "wins": 61,
     "losses": 44
   },
   "JUST#577": {
@@ -330,16 +330,16 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "MASTER 1",
-    "rating": 2197.1,
+    "rank": "DIAMOND 3",
+    "rating": 2187.3,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 177,
-    "losses": 125
+    "wins": 178,
+    "losses": 128
   },
   "FLOW#08": {
     "name": "Flow",
@@ -514,18 +514,18 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1765.5,
+    "rank": "GOLD 3",
+    "rating": 1712.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "75.3",
-      "24.7"
+      "75.6",
+      "24.4"
     ],
-    "wins": 215,
-    "losses": 191
+    "wins": 216,
+    "losses": 197
   },
   "DEE#218": {
     "name": "pink popo club",
