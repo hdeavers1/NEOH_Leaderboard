@@ -370,16 +370,16 @@
   "PEE#658": {
     "name": "VDL Honeythighs",
     "tag": "PEE#658",
-    "rank": "GOLD 3",
-    "rating": 1748.1,
+    "rank": "PLATINUM 1",
+    "rating": 1753.2,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 42,
-    "losses": 40
+    "wins": 43,
+    "losses": 41
   },
   "WEGG#462": {
     "name": "Young Wunna",
@@ -402,8 +402,8 @@
   "SURF#666": {
     "name": "Degausser",
     "tag": "SURF#666",
-    "rank": "GOLD 1",
-    "rating": 1526.1,
+    "rank": "GOLD 2",
+    "rating": 1555.7,
     "characters": [
       "Falco",
       "Bowser",
@@ -411,13 +411,13 @@
       "Fox"
     ],
     "percentages": [
-      "62.4",
-      "19.8",
-      "5.9",
-      "5.9"
+      "61.7",
+      "20.6",
+      "5.6",
+      "5.6"
     ],
-    "wins": 20,
-    "losses": 20
+    "wins": 22,
+    "losses": 21
   },
   "DNZO#333": {
     "name": "the thinker",
