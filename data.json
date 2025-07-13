@@ -147,15 +147,15 @@
     "name": "pingas",
     "tag": "JARD#561",
     "rank": "SILVER 3",
-    "rating": 1348.5,
+    "rating": 1403.5,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 7,
-    "losses": 7
+    "wins": 10,
+    "losses": 9
   },
   "FUEL#375": {
     "name": "Fuelperks",
