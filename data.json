@@ -402,8 +402,8 @@
   "SURF#666": {
     "name": "Degausser",
     "tag": "SURF#666",
-    "rank": "GOLD 2",
-    "rating": 1549.5,
+    "rank": "GOLD 1",
+    "rating": 1537.3,
     "characters": [
       "Falco",
       "Bowser",
@@ -411,13 +411,13 @@
       "Puff"
     ],
     "percentages": [
-      "64.8",
-      "14.1",
-      "8.5",
-      "5.6"
+      "64.0",
+      "17.4",
+      "7.0",
+      "4.7"
     ],
-    "wins": 16,
-    "losses": 13
+    "wins": 18,
+    "losses": 17
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -611,16 +611,16 @@
     "name": "5iq genius",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1757.6,
+    "rating": 1761.7,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.9",
+      "97.0",
       "2.9"
     ],
-    "wins": 145,
+    "wins": 146,
     "losses": 131
   },
   "SMEG#879": {
