@@ -57,14 +57,14 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1809.7,
+    "rating": 1825.9,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 221,
+    "wins": 223,
     "losses": 220
   },
   "CHAR#991": {
@@ -403,21 +403,21 @@
     "name": "Degausser",
     "tag": "SURF#666",
     "rank": "GOLD 1",
-    "rating": 1526.9,
+    "rating": 1526.1,
     "characters": [
       "Falco",
       "Bowser",
-      "Fox",
-      "Puff"
+      "Puff",
+      "Fox"
     ],
     "percentages": [
-      "64.0",
-      "18.0",
-      "6.7",
-      "4.5"
+      "62.4",
+      "19.8",
+      "5.9",
+      "5.9"
     ],
-    "wins": 18,
-    "losses": 18
+    "wins": 20,
+    "losses": 20
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -515,17 +515,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1700.3,
+    "rating": 1693,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "75.4",
-      "24.6"
+      "75.5",
+      "24.5"
     ],
-    "wins": 216,
-    "losses": 198
+    "wins": 217,
+    "losses": 199
   },
   "DEE#218": {
     "name": "pink popo club",
