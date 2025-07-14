@@ -401,7 +401,7 @@
     "name": "Degausser",
     "tag": "SURF#666",
     "rank": "GOLD 2",
-    "rating": 1561.6,
+    "rating": 1603.1,
     "characters": [
       "Falco",
       "Bowser",
@@ -409,13 +409,13 @@
       "Fox"
     ],
     "percentages": [
-      "58.2",
-      "25.4",
-      "4.9",
-      "4.9"
+      "54.2",
+      "29.8",
+      "5.3",
+      "4.6"
     ],
-    "wins": 25,
-    "losses": 24
+    "wins": 27,
+    "losses": 25
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -669,17 +669,17 @@
     "name": "Bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1978,
+    "rating": 1967.1,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "87.4",
+      "87.5",
       "12.2"
     ],
     "wins": 471,
-    "losses": 431
+    "losses": 433
   },
   "ELDE#792": {
     "name": "EldenLord",
