@@ -190,7 +190,7 @@
     "losses": 2
   },
   "CUTS#327": {
-    "name": "Father Lucci",
+    "name": "King of Limbs",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
     "rating": 1976.9,
@@ -385,25 +385,23 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1866.2,
+    "rating": 1869.3,
     "characters": [
       "Fox",
-      "Marth",
-      "Falcon"
+      "Marth"
     ],
     "percentages": [
-      "81.8",
-      "15.5",
-      "2.1"
+      "81.1",
+      "16.4"
     ],
-    "wins": 43,
-    "losses": 36
+    "wins": 45,
+    "losses": 39
   },
   "SURF#666": {
     "name": "Degausser",
     "tag": "SURF#666",
     "rank": "GOLD 2",
-    "rating": 1549.1,
+    "rating": 1561.6,
     "characters": [
       "Falco",
       "Bowser",
@@ -411,13 +409,13 @@
       "Fox"
     ],
     "percentages": [
-      "60.2",
-      "22.9",
-      "5.1",
-      "5.1"
+      "58.2",
+      "25.4",
+      "4.9",
+      "4.9"
     ],
-    "wins": 24,
-    "losses": 23
+    "wins": 25,
+    "losses": 24
   },
   "DNZO#333": {
     "name": "the thinker",
