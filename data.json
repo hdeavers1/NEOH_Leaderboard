@@ -56,16 +56,16 @@
   "MAYO#795": {
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1825.9,
+    "rank": "PLATINUM 2",
+    "rating": 1844.1,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 223,
-    "losses": 220
+    "wins": 226,
+    "losses": 221
   },
   "CHAR#991": {
     "name": "Char",
@@ -384,26 +384,26 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 1",
-    "rating": 1787.7,
+    "rank": "PLATINUM 2",
+    "rating": 1866.2,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "81.2",
-      "15.9",
-      "2.4"
+      "81.8",
+      "15.5",
+      "2.1"
     ],
-    "wins": 37,
-    "losses": 35
+    "wins": 43,
+    "losses": 36
   },
   "SURF#666": {
     "name": "Degausser",
     "tag": "SURF#666",
-    "rank": "GOLD 1",
-    "rating": 1514.1,
+    "rank": "GOLD 2",
+    "rating": 1549.1,
     "characters": [
       "Falco",
       "Bowser",
@@ -411,12 +411,12 @@
       "Fox"
     ],
     "percentages": [
-      "61.9",
-      "21.2",
-      "5.3",
-      "5.3"
+      "60.2",
+      "22.9",
+      "5.1",
+      "5.1"
     ],
-    "wins": 22,
+    "wins": 24,
     "losses": 23
   },
   "DNZO#333": {
