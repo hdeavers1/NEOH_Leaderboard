@@ -331,15 +331,15 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 3",
-    "rating": 2187.8,
+    "rating": 2169.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.2"
+      "98.0"
     ],
     "wins": 180,
-    "losses": 129
+    "losses": 131
   },
   "FLOW#08": {
     "name": "Flow",
@@ -640,16 +640,16 @@
   "AIRY#666": {
     "name": "Airy",
     "tag": "AIRY#666",
-    "rank": "PLATINUM 1",
-    "rating": 1834.4,
+    "rank": "PLATINUM 2",
+    "rating": 1874.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 85,
-    "losses": 82
+    "wins": 90,
+    "losses": 83
   },
   "BOZO#386": {
     "name": "super pichu",
