@@ -330,16 +330,16 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "DIAMOND 3",
-    "rating": 2169.7,
+    "rank": "MASTER 1",
+    "rating": 2204.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.0"
+      "98.1"
     ],
-    "wins": 180,
-    "losses": 131
+    "wins": 184,
+    "losses": 132
   },
   "FLOW#08": {
     "name": "Flow",
@@ -641,29 +641,29 @@
     "name": "Airy",
     "tag": "AIRY#666",
     "rank": "PLATINUM 2",
-    "rating": 1874.3,
+    "rating": 1906.1,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 90,
-    "losses": 83
+    "wins": 94,
+    "losses": 84
   },
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
     "rank": "DIAMOND 1",
-    "rating": 2022.2,
+    "rating": 2019.2,
     "characters": [
       "Pichu"
     ],
     "percentages": [
       "99.6"
     ],
-    "wins": 58,
-    "losses": 44
+    "wins": 59,
+    "losses": 45
   },
   "BRIDGE#0": {
     "name": "The CUMmonger",
