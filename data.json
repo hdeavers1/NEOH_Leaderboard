@@ -385,17 +385,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1869.3,
+    "rating": 1877.9,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "81.1",
+      "81.2",
       "16.4"
     ],
-    "wins": 45,
-    "losses": 39
+    "wins": 46,
+    "losses": 40
   },
   "SURF#666": {
     "name": "Degausser",
@@ -666,10 +666,10 @@
     "losses": 44
   },
   "BRIDGE#0": {
-    "name": "Bridget",
+    "name": "The CUMmonger",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1948.6,
+    "rating": 1929.6,
     "characters": [
       "Fox",
       "Falco"
@@ -679,7 +679,7 @@
       "12.2"
     ],
     "wins": 471,
-    "losses": 434
+    "losses": 435
   },
   "ELDE#792": {
     "name": "EldenLord",
