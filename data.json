@@ -640,16 +640,16 @@
   "AIRY#666": {
     "name": "Airy",
     "tag": "AIRY#666",
-    "rank": "PLATINUM 2",
-    "rating": 1848,
+    "rank": "PLATINUM 1",
+    "rating": 1830.2,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 82,
-    "losses": 77
+    "wins": 83,
+    "losses": 80
   },
   "BOZO#386": {
     "name": "super pichu",
