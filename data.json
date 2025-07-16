@@ -258,7 +258,7 @@
     "losses": 8
   },
   "PLAY#647": {
-    "name": "Innocent Luigi",
+    "name": "how we do",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
     "rating": 2131.5,
@@ -330,8 +330,8 @@
   "JINK#1": {
     "name": "Jink",
     "tag": "JINK#1",
-    "rank": "MASTER 1",
-    "rating": 2208.4,
+    "rank": "DIAMOND 3",
+    "rating": 2175.5,
     "characters": [
       "Marth"
     ],
@@ -339,7 +339,7 @@
       "98.1"
     ],
     "wins": 185,
-    "losses": 133
+    "losses": 136
   },
   "FLOW#08": {
     "name": "Flow",
@@ -398,7 +398,7 @@
     "losses": 42
   },
   "SURF#666": {
-    "name": "Degausser",
+    "name": "show 'em",
     "tag": "SURF#666",
     "rank": "GOLD 2",
     "rating": 1565.3,
@@ -641,15 +641,15 @@
     "name": "Airy",
     "tag": "AIRY#666",
     "rank": "PLATINUM 2",
-    "rating": 1900.9,
+    "rating": 1893.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 96,
-    "losses": 89
+    "wins": 97,
+    "losses": 93
   },
   "BOZO#386": {
     "name": "super pichu",
