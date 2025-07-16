@@ -400,22 +400,22 @@
   "SURF#666": {
     "name": "show 'em",
     "tag": "SURF#666",
-    "rank": "GOLD 2",
-    "rating": 1565.3,
+    "rank": "GOLD 1",
+    "rating": 1547,
     "characters": [
       "Falco",
       "Bowser",
       "Puff",
-      "Fox"
+      "Mario"
     ],
     "percentages": [
       "50.0",
-      "35.4",
-      "4.9",
-      "4.2"
+      "35.1",
+      "4.5",
+      "4.5"
     ],
-    "wins": 29,
-    "losses": 29
+    "wins": 31,
+    "losses": 32
   },
   "DNZO#333": {
     "name": "the thinker",
