@@ -566,11 +566,15 @@
   "WICE#699": {
     "name": "Weiss",
     "tag": "WICE#699",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "ICs"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
     "losses": 0
   },
   "DANK#954": {
