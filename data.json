@@ -147,15 +147,15 @@
     "name": "pingas",
     "tag": "JARD#561",
     "rank": "GOLD 1",
-    "rating": 1443.6,
+    "rating": 1488.8,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 11,
-    "losses": 9
+    "wins": 13,
+    "losses": 10
   },
   "FUEL#375": {
     "name": "Fuelperks",
@@ -401,7 +401,7 @@
     "name": "Degausser",
     "tag": "SURF#666",
     "rank": "GOLD 2",
-    "rating": 1561.8,
+    "rating": 1595.7,
     "characters": [
       "Falco",
       "Bowser",
@@ -409,12 +409,12 @@
       "Mario"
     ],
     "percentages": [
-      "51.9",
-      "34.0",
-      "4.3",
-      "4.3"
+      "52.4",
+      "33.9",
+      "4.2",
+      "4.2"
     ],
-    "wins": 33,
+    "wins": 35,
     "losses": 33
   },
   "DNZO#333": {
