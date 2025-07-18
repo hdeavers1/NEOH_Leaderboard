@@ -261,19 +261,19 @@
     "name": "Boh Mingle",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
-    "rating": 2131.5,
+    "rating": 2130.6,
     "characters": [
       "Falco",
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "49.2",
-      "33.7",
-      "17.1"
+      "47.4",
+      "36.1",
+      "16.5"
     ],
-    "wins": 58,
-    "losses": 25
+    "wins": 59,
+    "losses": 27
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -659,7 +659,7 @@
     "name": "super pichu",
     "tag": "BOZO#386",
     "rank": "DIAMOND 1",
-    "rating": 2013.8,
+    "rating": 2009.6,
     "characters": [
       "Pichu"
     ],
@@ -667,7 +667,7 @@
       "99.6"
     ],
     "wins": 60,
-    "losses": 47
+    "losses": 48
   },
   "BRIDGE#0": {
     "name": "Tabula Rasa",
