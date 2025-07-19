@@ -147,15 +147,15 @@
     "name": "pingas",
     "tag": "JARD#561",
     "rank": "GOLD 1",
-    "rating": 1455.1,
+    "rating": 1495.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 13,
-    "losses": 11
+    "wins": 17,
+    "losses": 14
   },
   "FUEL#375": {
     "name": "Fuelperks",
@@ -550,7 +550,7 @@
     "losses": 0
   },
   "EGAG#906": {
-    "name": "bluh",
+    "name": "aTotalNonentity",
     "tag": "EGAG#906",
     "rank": "PENDING",
     "rating": 2,
