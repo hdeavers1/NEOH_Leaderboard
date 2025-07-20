@@ -57,7 +57,7 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1900.6,
+    "rating": 1890.1,
     "characters": [
       "DK"
     ],
@@ -65,7 +65,7 @@
       "99.1"
     ],
     "wins": 237,
-    "losses": 226
+    "losses": 228
   },
   "CHAR#991": {
     "name": "Char",
@@ -133,15 +133,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1323.7,
+    "rating": 1328.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.8"
+      "98.9"
     ],
-    "wins": 16,
-    "losses": 22
+    "wins": 17,
+    "losses": 23
   },
   "JARD#561": {
     "name": "pingas",
@@ -672,8 +672,8 @@
   "BRIDGE#0": {
     "name": "Tabula Rasa",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1928.6,
+    "rank": "PLATINUM 2",
+    "rating": 1912.1,
     "characters": [
       "Fox",
       "Falco"
@@ -683,7 +683,7 @@
       "11.8"
     ],
     "wins": 487,
-    "losses": 449
+    "losses": 451
   },
   "ELDE#792": {
     "name": "EldenLord",
