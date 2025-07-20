@@ -581,15 +581,15 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1351,
+    "rating": 1423.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.2"
     ],
-    "wins": 51,
-    "losses": 52
+    "wins": 58,
+    "losses": 54
   },
   "NCRO#183": {
     "name": "Ncro",
@@ -672,18 +672,18 @@
   "BRIDGE#0": {
     "name": "Tabula Rasa",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1948.6,
+    "rank": "PLATINUM 2",
+    "rating": 1915.6,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
       "87.6",
-      "12.1"
+      "12.0"
     ],
-    "wins": 474,
-    "losses": 438
+    "wins": 475,
+    "losses": 442
   },
   "ELDE#792": {
     "name": "EldenLord",
