@@ -672,18 +672,18 @@
   "BRIDGE#0": {
     "name": "Tabula Rasa",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1951.6,
+    "rank": "PLATINUM 2",
+    "rating": 1909,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
       "87.8",
-      "11.9"
+      "11.8"
     ],
     "wins": 485,
-    "losses": 446
+    "losses": 449
   },
   "ELDE#792": {
     "name": "EldenLord",
