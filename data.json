@@ -219,15 +219,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1815.2,
+    "rating": 1831.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 62,
-    "losses": 48
+    "wins": 64,
+    "losses": 49
   },
   "JUST#577": {
     "name": "Just",
@@ -673,17 +673,17 @@
     "name": "Tabula Rasa",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2012.8,
+    "rating": 2037.9,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "88.2",
-      "11.4"
+      "88.3",
+      "11.3"
     ],
-    "wins": 511,
-    "losses": 462
+    "wins": 514,
+    "losses": 464
   },
   "ELDE#792": {
     "name": "EldenLord",
