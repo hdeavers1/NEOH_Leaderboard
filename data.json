@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "RptrBoostGod",
+    "name": "INeedHelp",
     "tag": "WWJ#916",
     "rank": "PENDING",
     "rating": 4,
@@ -57,7 +57,7 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1881.9,
+    "rating": 1846.9,
     "characters": [
       "DK"
     ],
@@ -65,7 +65,7 @@
       "99.1"
     ],
     "wins": 237,
-    "losses": 229
+    "losses": 232
   },
   "CHAR#991": {
     "name": "Char",
@@ -672,18 +672,18 @@
   "BRIDGE#0": {
     "name": "Tabula Rasa",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 2",
-    "rating": 1897.1,
+    "rank": "PLATINUM 3",
+    "rating": 1963,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "88.0",
-      "11.6"
+      "88.1",
+      "11.5"
     ],
-    "wins": 492,
-    "losses": 458
+    "wins": 500,
+    "losses": 459
   },
   "ELDE#792": {
     "name": "EldenLord",
