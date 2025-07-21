@@ -147,15 +147,15 @@
     "name": "pingas",
     "tag": "JARD#561",
     "rank": "GOLD 1",
-    "rating": 1495.4,
+    "rating": 1508.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 17,
-    "losses": 14
+    "wins": 18,
+    "losses": 15
   },
   "FUEL#375": {
     "name": "Fuelperks",
@@ -610,7 +610,7 @@
     "losses": 26
   },
   "MOSHI#0": {
-    "name": "5iq genius",
+    "name": "iknowwalls",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1761.7,
