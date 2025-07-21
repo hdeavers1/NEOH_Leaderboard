@@ -672,8 +672,8 @@
   "BRIDGE#0": {
     "name": "Tabula Rasa",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1963,
+    "rank": "DIAMOND 1",
+    "rating": 2010.9,
     "characters": [
       "Fox",
       "Falco"
@@ -682,7 +682,7 @@
       "88.1",
       "11.5"
     ],
-    "wins": 500,
+    "wins": 505,
     "losses": 459
   },
   "ELDE#792": {
