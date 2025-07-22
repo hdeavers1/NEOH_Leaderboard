@@ -57,7 +57,7 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1884.2,
+    "rating": 1878.3,
     "characters": [
       "DK"
     ],
@@ -65,7 +65,7 @@
       "99.1"
     ],
     "wins": 241,
-    "losses": 233
+    "losses": 234
   },
   "CHAR#991": {
     "name": "Char",
@@ -677,7 +677,7 @@
     "name": "Brigid",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2069.7,
+    "rating": 2068.3,
     "characters": [
       "Fox",
       "Falco"
@@ -686,8 +686,8 @@
       "88.5",
       "11.1"
     ],
-    "wins": 520,
-    "losses": 472
+    "wins": 521,
+    "losses": 473
   },
   "ELDE#792": {
     "name": "EldenLord",
