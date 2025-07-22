@@ -57,15 +57,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1874.7,
+    "rating": 1884.2,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 239,
-    "losses": 232
+    "wins": 241,
+    "losses": 233
   },
   "CHAR#991": {
     "name": "Char",
@@ -303,15 +303,15 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2332.8,
+    "rating": 2357.8,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "98.3"
+      "98.0"
     ],
-    "wins": 81,
-    "losses": 23
+    "wins": 85,
+    "losses": 24
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -344,11 +344,15 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "GOLD 2",
+    "rating": 1591.5,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 5,
     "losses": 0
   },
   "ZBOO#991": {
@@ -385,16 +389,16 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1913.6,
+    "rating": 1926.9,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "82.0",
-      "15.9"
+      "81.9",
+      "16.0"
     ],
-    "wins": 52,
+    "wins": 54,
     "losses": 45
   },
   "SURF#666": {
@@ -670,20 +674,20 @@
     "losses": 48
   },
   "BRIDGE#0": {
-    "name": "Tabula Rasa",
+    "name": "Brigid",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2024.9,
+    "rating": 2069.7,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "88.4",
-      "11.2"
+      "88.5",
+      "11.1"
     ],
-    "wins": 515,
-    "losses": 470
+    "wins": 520,
+    "losses": 472
   },
   "ELDE#792": {
     "name": "EldenLord",
