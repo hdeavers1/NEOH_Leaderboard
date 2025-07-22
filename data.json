@@ -385,17 +385,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1903.3,
+    "rating": 1913.6,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "81.7",
-      "16.2"
+      "82.0",
+      "15.9"
     ],
-    "wins": 51,
-    "losses": 44
+    "wins": 52,
+    "losses": 45
   },
   "SURF#666": {
     "name": "Degausser",
@@ -673,17 +673,17 @@
     "name": "Tabula Rasa",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2028.3,
+    "rating": 2024.9,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "88.3",
-      "11.3"
+      "88.4",
+      "11.2"
     ],
-    "wins": 514,
-    "losses": 466
+    "wins": 515,
+    "losses": 470
   },
   "ELDE#792": {
     "name": "EldenLord",
