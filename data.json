@@ -372,7 +372,7 @@
     "losses": 1
   },
   "PEE#658": {
-    "name": "Honeythighs",
+    "name": "MightHave2Go",
     "tag": "PEE#658",
     "rank": "PLATINUM 1",
     "rating": 1760.8,
@@ -677,7 +677,7 @@
     "name": "Brigid",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2060.4,
+    "rating": 2054,
     "characters": [
       "Fox",
       "Falco"
@@ -686,8 +686,8 @@
       "88.7",
       "10.9"
     ],
-    "wins": 530,
-    "losses": 479
+    "wins": 531,
+    "losses": 480
   },
   "ELDE#792": {
     "name": "EldenLord",
