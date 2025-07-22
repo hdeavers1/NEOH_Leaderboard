@@ -303,14 +303,14 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2360.2,
+    "rating": 2375.9,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "98.0"
+      "98.1"
     ],
-    "wins": 88,
+    "wins": 89,
     "losses": 25
   },
   "FUCKIN#1": {
@@ -345,7 +345,7 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "GOLD 2",
-    "rating": 1653,
+    "rating": 1620.9,
     "characters": [
       "Marth"
     ],
@@ -353,7 +353,7 @@
       "100.0"
     ],
     "wins": 7,
-    "losses": 2
+    "losses": 3
   },
   "ZBOO#991": {
     "name": "(-:",
