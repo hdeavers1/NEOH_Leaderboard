@@ -677,17 +677,17 @@
     "name": "Brigid",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2065,
+    "rating": 2060.4,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "88.6",
-      "11.0"
+      "88.7",
+      "10.9"
     ],
-    "wins": 527,
-    "losses": 476
+    "wins": 530,
+    "losses": 479
   },
   "ELDE#792": {
     "name": "EldenLord",
