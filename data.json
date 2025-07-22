@@ -676,8 +676,8 @@
   "BRIDGE#0": {
     "name": "Brigid",
     "tag": "BRIDGE#0",
-    "rank": "DIAMOND 2",
-    "rating": 2080.6,
+    "rank": "DIAMOND 1",
+    "rating": 2065,
     "characters": [
       "Fox",
       "Falco"
@@ -686,8 +686,8 @@
       "88.6",
       "11.0"
     ],
-    "wins": 525,
-    "losses": 474
+    "wins": 527,
+    "losses": 476
   },
   "ELDE#792": {
     "name": "EldenLord",
