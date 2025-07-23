@@ -193,17 +193,17 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1996.4,
+    "rating": 1978.8,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "97.8",
+      "2.2"
     ],
-    "wins": 99,
-    "losses": 76
+    "wins": 101,
+    "losses": 80
   },
   "DOUG#405": {
     "name": "ひ",
@@ -462,7 +462,7 @@
     "losses": 0
   },
   "MEDIC#0": {
-    "name": "The Theorizer",
+    "name": "Petey G.",
     "tag": "MEDIC#0",
     "rank": "BRONZE 3",
     "rating": 927.1,
@@ -677,17 +677,17 @@
     "name": "Brigid",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2065.3,
+    "rating": 2037.9,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "88.8",
-      "10.8"
+      "88.9",
+      "10.7"
     ],
-    "wins": 540,
-    "losses": 483
+    "wins": 542,
+    "losses": 487
   },
   "ELDE#792": {
     "name": "EldenLord",
