@@ -193,7 +193,7 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1967.7,
+    "rating": 1938.3,
     "characters": [
       "Samus",
       "Falco"
@@ -202,8 +202,8 @@
       "97.9",
       "2.1"
     ],
-    "wins": 103,
-    "losses": 82
+    "wins": 104,
+    "losses": 86
   },
   "DOUG#405": {
     "name": "ひ",
@@ -405,7 +405,7 @@
     "name": "Degausser",
     "tag": "SURF#666",
     "rank": "GOLD 2",
-    "rating": 1593,
+    "rating": 1577.9,
     "characters": [
       "Falco",
       "Bowser",
@@ -413,13 +413,13 @@
       "Mario"
     ],
     "percentages": [
-      "42.9",
-      "39.6",
-      "6.6",
-      "6.6"
+      "42.3",
+      "40.0",
+      "6.5",
+      "6.5"
     ],
     "wins": 43,
-    "losses": 42
+    "losses": 43
   },
   "DNZO#333": {
     "name": "the thinker",
