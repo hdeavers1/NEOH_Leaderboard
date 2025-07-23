@@ -57,14 +57,14 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1868.1,
+    "rating": 1893.2,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 244,
+    "wins": 246,
     "losses": 238
   },
   "CHAR#991": {
@@ -405,21 +405,21 @@
     "name": "Degausser",
     "tag": "SURF#666",
     "rank": "GOLD 2",
-    "rating": 1619.6,
+    "rating": 1593,
     "characters": [
       "Falco",
       "Bowser",
-      "Mario",
-      "Puff"
+      "Puff",
+      "Mario"
     ],
     "percentages": [
-      "47.4",
-      "35.9",
-      "7.3",
-      "4.7"
+      "42.9",
+      "39.6",
+      "6.6",
+      "6.6"
     ],
-    "wins": 41,
-    "losses": 37
+    "wins": 43,
+    "losses": 42
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -517,16 +517,16 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1669.8,
+    "rating": 1678.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.9",
-      "25.1"
+      "74.8",
+      "25.2"
     ],
-    "wins": 223,
+    "wins": 224,
     "losses": 207
   },
   "DEE#218": {
