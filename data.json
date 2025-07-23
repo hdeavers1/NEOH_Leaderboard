@@ -405,7 +405,7 @@
     "name": "Degausser",
     "tag": "SURF#666",
     "rank": "GOLD 2",
-    "rating": 1591.2,
+    "rating": 1585,
     "characters": [
       "Falco",
       "Bowser",
@@ -413,13 +413,13 @@
       "Puff"
     ],
     "percentages": [
-      "50.3",
+      "50.0",
       "32.6",
-      "8.0",
-      "4.0"
+      "7.9",
+      "4.5"
     ],
     "wins": 36,
-    "losses": 35
+    "losses": 36
   },
   "DNZO#333": {
     "name": "the thinker",
