@@ -193,17 +193,17 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1978.8,
+    "rating": 1967.7,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.8",
-      "2.2"
+      "97.9",
+      "2.1"
     ],
-    "wins": 101,
-    "losses": 80
+    "wins": 103,
+    "losses": 82
   },
   "DOUG#405": {
     "name": "ひ",
@@ -677,7 +677,7 @@
     "name": "Brigid",
     "tag": "BRIDGE#0",
     "rank": "DIAMOND 1",
-    "rating": 2037.9,
+    "rating": 2050.7,
     "characters": [
       "Fox",
       "Falco"
@@ -686,8 +686,8 @@
       "88.9",
       "10.7"
     ],
-    "wins": 542,
-    "losses": 487
+    "wins": 545,
+    "losses": 488
   },
   "ELDE#792": {
     "name": "EldenLord",
