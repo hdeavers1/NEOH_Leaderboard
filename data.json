@@ -57,7 +57,7 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1878.3,
+    "rating": 1855.9,
     "characters": [
       "DK"
     ],
@@ -65,7 +65,7 @@
       "99.1"
     ],
     "wins": 241,
-    "losses": 234
+    "losses": 236
   },
   "CHAR#991": {
     "name": "Char",
@@ -465,7 +465,7 @@
     "name": "Petey G.",
     "tag": "MEDIC#0",
     "rank": "BRONZE 3",
-    "rating": 927.1,
+    "rating": 913.9,
     "characters": [
       "Luigi"
     ],
@@ -473,7 +473,7 @@
       "100.0"
     ],
     "wins": 4,
-    "losses": 13
+    "losses": 14
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -676,18 +676,18 @@
   "BRIDGE#0": {
     "name": "Brigid",
     "tag": "BRIDGE#0",
-    "rank": "DIAMOND 1",
-    "rating": 2050.7,
+    "rank": "PLATINUM 3",
+    "rating": 1998.6,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "88.9",
-      "10.7"
+      "89.0",
+      "10.6"
     ],
     "wins": 545,
-    "losses": 488
+    "losses": 493
   },
   "ELDE#792": {
     "name": "EldenLord",
