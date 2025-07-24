@@ -289,29 +289,29 @@
     "name": "Ghast",
     "tag": "GHST#232",
     "rank": "GOLD 2",
-    "rating": 1640.6,
+    "rating": 1613.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
-      "98.2"
+      "98.4"
     ],
-    "wins": 15,
-    "losses": 9
+    "wins": 16,
+    "losses": 11
   },
   "BLSE#808": {
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2375.9,
+    "rating": 2378.2,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "98.1"
+      "97.7"
     ],
-    "wins": 89,
-    "losses": 25
+    "wins": 91,
+    "losses": 26
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -344,8 +344,8 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "GOLD 2",
-    "rating": 1620.9,
+    "rank": "GOLD 1",
+    "rating": 1537.8,
     "characters": [
       "Marth"
     ],
@@ -353,7 +353,7 @@
       "100.0"
     ],
     "wins": 7,
-    "losses": 3
+    "losses": 6
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -405,7 +405,7 @@
     "name": "Degausser",
     "tag": "SURF#666",
     "rank": "GOLD 2",
-    "rating": 1607.8,
+    "rating": 1593.6,
     "characters": [
       "Bowser",
       "Falco",
@@ -413,13 +413,13 @@
       "Mario"
     ],
     "percentages": [
-      "45.6",
-      "38.1",
-      "5.9",
-      "5.9"
+      "46.1",
+      "37.8",
+      "5.8",
+      "5.8"
     ],
     "wins": 49,
-    "losses": 46
+    "losses": 47
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -677,17 +677,17 @@
     "name": "Brigid",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1985.8,
+    "rating": 1989.8,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "89.0",
+      "89.1",
       "10.6"
     ],
-    "wins": 545,
-    "losses": 494
+    "wins": 548,
+    "losses": 497
   },
   "ELDE#792": {
     "name": "EldenLord",
@@ -704,5 +704,15 @@
     ],
     "wins": 5,
     "losses": 5
+  },
+  "SYS#0": {
+    "name": "Syspen",
+    "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   }
 }
