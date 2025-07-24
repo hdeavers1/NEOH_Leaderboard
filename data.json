@@ -101,20 +101,6 @@
     "wins": 0,
     "losses": 0
   },
-  "NECK#152": {
-    "name": "neckboy",
-    "tag": "NECK#152",
-    "rank": "PENDING",
-    "rating": 4,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 0,
-    "losses": 1
-  },
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
@@ -516,18 +502,18 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1678.8,
+    "rank": "GOLD 2",
+    "rating": 1646.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.8",
-      "25.2"
+      "74.5",
+      "25.5"
     ],
     "wins": 224,
-    "losses": 207
+    "losses": 211
   },
   "DEE#218": {
     "name": "pink popo club",
@@ -617,17 +603,17 @@
     "name": "iknowwalls",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1761.7,
+    "rating": 1767.7,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
       "97.0",
-      "2.9"
+      "2.8"
     ],
-    "wins": 146,
-    "losses": 131
+    "wins": 148,
+    "losses": 132
   },
   "SMEG#879": {
     "name": "$",
