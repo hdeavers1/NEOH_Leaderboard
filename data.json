@@ -677,17 +677,17 @@
     "name": "VDL | Brigid",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1989.8,
+    "rating": 1977.7,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
       "89.1",
-      "10.6"
+      "10.5"
     ],
-    "wins": 548,
-    "losses": 497
+    "wins": 553,
+    "losses": 500
   },
   "ELDE#792": {
     "name": "EldenLord",
