@@ -147,15 +147,15 @@
     "name": "pingas",
     "tag": "JARD#561",
     "rank": "GOLD 1",
-    "rating": 1508.4,
+    "rating": 1517,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 18,
-    "losses": 15
+    "wins": 20,
+    "losses": 17
   },
   "FUEL#375": {
     "name": "Fuelperks",
@@ -405,7 +405,7 @@
     "name": "Degausser",
     "tag": "SURF#666",
     "rank": "GOLD 2",
-    "rating": 1622.3,
+    "rating": 1607.8,
     "characters": [
       "Bowser",
       "Falco",
@@ -413,13 +413,13 @@
       "Mario"
     ],
     "percentages": [
-      "43.7",
-      "39.4",
-      "6.1",
-      "6.1"
+      "45.6",
+      "38.1",
+      "5.9",
+      "5.9"
     ],
-    "wins": 48,
-    "losses": 44
+    "wins": 49,
+    "losses": 46
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -677,7 +677,7 @@
     "name": "Brigid",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1998.6,
+    "rating": 1985.8,
     "characters": [
       "Fox",
       "Falco"
@@ -687,7 +687,7 @@
       "10.6"
     ],
     "wins": 545,
-    "losses": 493
+    "losses": 494
   },
   "ELDE#792": {
     "name": "EldenLord",
