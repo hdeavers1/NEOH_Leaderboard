@@ -133,14 +133,14 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1328.6,
+    "rating": 1341.3,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.9"
     ],
-    "wins": 17,
+    "wins": 18,
     "losses": 23
   },
   "JARD#561": {
@@ -288,30 +288,30 @@
   "GHST#232": {
     "name": "Ghast",
     "tag": "GHST#232",
-    "rank": "GOLD 2",
-    "rating": 1613.3,
+    "rank": "GOLD 3",
+    "rating": 1680.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
-      "98.4"
+      "98.6"
     ],
-    "wins": 16,
-    "losses": 11
+    "wins": 19,
+    "losses": 12
   },
   "BLSE#808": {
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2378.2,
+    "rating": 2374,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "97.7"
+      "97.8"
     ],
-    "wins": 91,
-    "losses": 26
+    "wins": 92,
+    "losses": 27
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -372,18 +372,18 @@
     "losses": 1
   },
   "PEE#658": {
-    "name": "MightHave2Go",
+    "name": "Honeythighs",
     "tag": "PEE#658",
     "rank": "PLATINUM 1",
-    "rating": 1760.8,
+    "rating": 1776.1,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 50,
-    "losses": 47
+    "wins": 53,
+    "losses": 49
   },
   "WEGG#462": {
     "name": "Young Wunna",
