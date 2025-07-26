@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "INeedHelp",
+    "name": "ArcadianWarmUp",
     "tag": "WWJ#916",
     "rank": "PENDING",
     "rating": 4,
@@ -388,17 +388,17 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1926.9,
+    "rank": "PLATINUM 3",
+    "rating": 1933.3,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "81.9",
-      "16.0"
+      "82.0",
+      "15.9"
     ],
-    "wins": 54,
+    "wins": 55,
     "losses": 45
   },
   "SURF#666": {
