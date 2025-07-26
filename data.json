@@ -133,14 +133,14 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1341.3,
+    "rating": 1352.3,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.9"
     ],
-    "wins": 18,
+    "wins": 19,
     "losses": 23
   },
   "JARD#561": {
@@ -219,15 +219,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1835.8,
+    "rating": 1794.6,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 67,
-    "losses": 50
+    "wins": 68,
+    "losses": 53
   },
   "JUST#577": {
     "name": "Just",
@@ -374,16 +374,16 @@
   "PEE#658": {
     "name": "Honeythighs",
     "tag": "PEE#658",
-    "rank": "PLATINUM 1",
-    "rating": 1776.1,
+    "rank": "GOLD 3",
+    "rating": 1748.6,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 53,
-    "losses": 49
+    "wins": 54,
+    "losses": 53
   },
   "WEGG#462": {
     "name": "Young Wunna",
@@ -617,17 +617,17 @@
     "name": "it kills",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1761.4,
+    "rating": 1756.6,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "97.0",
+      "96.9",
       "2.8"
     ],
-    "wins": 149,
-    "losses": 133
+    "wins": 151,
+    "losses": 135
   },
   "SMEG#879": {
     "name": "$",
