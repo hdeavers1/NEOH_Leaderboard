@@ -246,15 +246,15 @@
   "SPOT#861": {
     "name": "invader zyn",
     "tag": "SPOT#861",
-    "rank": "GOLD 2",
-    "rating": 1611.4,
+    "rank": "GOLD 3",
+    "rating": 1674.7,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 15,
+    "wins": 17,
     "losses": 9
   },
   "PLAY#647": {
@@ -585,32 +585,32 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1393,
+    "rating": 1403.3,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.3"
     ],
-    "wins": 62,
+    "wins": 63,
     "losses": 61
   },
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "PLATINUM 1",
-    "rating": 1814.4,
+    "rating": 1827.1,
     "characters": [
       "Marth",
       "Sheik",
       "Fox"
     ],
     "percentages": [
-      "70.8",
-      "20.8",
-      "8.3"
+      "69.9",
+      "21.9",
+      "8.2"
     ],
-    "wins": 34,
+    "wins": 35,
     "losses": 27
   },
   "MOSHI#0": {
