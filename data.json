@@ -405,21 +405,21 @@
     "name": "Degausser",
     "tag": "SURF#666",
     "rank": "GOLD 2",
-    "rating": 1600.5,
+    "rating": 1609.9,
     "characters": [
       "Bowser",
       "Falco",
-      "Mario",
-      "Puff"
+      "Puff",
+      "Mario"
     ],
     "percentages": [
-      "44.4",
-      "39.7",
-      "6.0",
-      "5.6"
+      "42.8",
+      "41.7",
+      "5.9",
+      "5.5"
     ],
-    "wins": 52,
-    "losses": 49
+    "wins": 56,
+    "losses": 53
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -599,19 +599,19 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "PLATINUM 1",
-    "rating": 1810.2,
+    "rating": 1814.4,
     "characters": [
       "Marth",
       "Sheik",
       "Fox"
     ],
     "percentages": [
-      "72.7",
-      "18.7",
-      "8.6"
+      "70.8",
+      "20.8",
+      "8.3"
     ],
-    "wins": 33,
-    "losses": 26
+    "wins": 34,
+    "losses": 27
   },
   "MOSHI#0": {
     "name": "moshi",
