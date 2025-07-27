@@ -585,33 +585,33 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1403.3,
+    "rating": 1396.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.3"
     ],
-    "wins": 63,
-    "losses": 61
+    "wins": 66,
+    "losses": 65
   },
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "PLATINUM 1",
-    "rating": 1827.1,
+    "rating": 1811.6,
     "characters": [
       "Marth",
       "Sheik",
       "Fox"
     ],
     "percentages": [
-      "69.9",
-      "21.9",
-      "8.2"
+      "68.2",
+      "23.2",
+      "7.9"
     ],
     "wins": 35,
-    "losses": 27
+    "losses": 29
   },
   "MOSHI#0": {
     "name": "moshi",
