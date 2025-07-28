@@ -133,14 +133,14 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1357,
+    "rating": 1365.5,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 22,
+    "wins": 23,
     "losses": 26
   },
   "JARD#561": {
@@ -517,17 +517,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1703.5,
+    "rating": 1677.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.3",
-      "25.7"
+      "74.1",
+      "25.9"
     ],
-    "wins": 236,
-    "losses": 217
+    "wins": 237,
+    "losses": 221
   },
   "DEE#218": {
     "name": "pink popo club",
