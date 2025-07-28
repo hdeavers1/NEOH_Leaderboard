@@ -331,15 +331,15 @@
     "name": "Jink",
     "tag": "JINK#1",
     "rank": "DIAMOND 3",
-    "rating": 2152.7,
+    "rating": 2137.3,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.1"
+      "98.2"
     ],
-    "wins": 187,
-    "losses": 140
+    "wins": 188,
+    "losses": 142
   },
   "FLOW#08": {
     "name": "Flow",
@@ -517,16 +517,16 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1675.1,
+    "rating": 1686.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.4",
-      "25.6"
+      "74.5",
+      "25.5"
     ],
-    "wins": 230,
+    "wins": 231,
     "losses": 215
   },
   "DEE#218": {
