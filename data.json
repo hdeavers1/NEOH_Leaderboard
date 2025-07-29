@@ -257,24 +257,6 @@
     "wins": 17,
     "losses": 9
   },
-  "PLAY#647": {
-    "name": "Boh Mingle",
-    "tag": "PLAY#647",
-    "rank": "DIAMOND 2",
-    "rating": 2130.6,
-    "characters": [
-      "Falco",
-      "Luigi",
-      "Sheik"
-    ],
-    "percentages": [
-      "47.4",
-      "36.1",
-      "16.5"
-    ],
-    "wins": 59,
-    "losses": 27
-  },
   "GRIM#801": {
     "name": "Shiesty",
     "tag": "GRIM#801",
@@ -372,7 +354,7 @@
     "losses": 1
   },
   "PEE#658": {
-    "name": "Birthday Boy :3",
+    "name": "Rat Desire",
     "tag": "PEE#658",
     "rank": "PLATINUM 1",
     "rating": 1769.2,
