@@ -219,7 +219,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1794.6,
+    "rating": 1759.2,
     "characters": [
       "Falcon"
     ],
@@ -227,20 +227,20 @@
       "100.0"
     ],
     "wins": 68,
-    "losses": 53
+    "losses": 55
   },
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "DIAMOND 3",
-    "rating": 2187.1,
+    "rank": "MASTER 1",
+    "rating": 2208.1,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 50,
+    "wins": 51,
     "losses": 22
   },
   "SPOT#861": {
@@ -328,7 +328,7 @@
     "losses": 60
   },
   "JINK#1": {
-    "name": "Jink",
+    "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 3",
     "rating": 2137.3,
