@@ -344,15 +344,15 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "GOLD 1",
-    "rating": 1537.8,
+    "rank": "GOLD 3",
+    "rating": 1667.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 7,
+    "wins": 10,
     "losses": 6
   },
   "ZBOO#991": {
