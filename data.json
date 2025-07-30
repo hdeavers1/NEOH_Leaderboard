@@ -257,6 +257,24 @@
     "wins": 17,
     "losses": 9
   },
+  "PLAY#647": {
+    "name": "Boh Mingle",
+    "tag": "PLAY#647",
+    "rank": "DIAMOND 2",
+    "rating": 2130.6,
+    "characters": [
+      "Falco",
+      "Luigi",
+      "Sheik"
+    ],
+    "percentages": [
+      "47.4",
+      "36.1",
+      "16.5"
+    ],
+    "wins": 59,
+    "losses": 27
+  },
   "GRIM#801": {
     "name": "Shiesty",
     "tag": "GRIM#801",
@@ -444,7 +462,7 @@
     "losses": 0
   },
   "MEDIC#0": {
-    "name": "Petey G.",
+    "name": "TheGreenGoober",
     "tag": "MEDIC#0",
     "rank": "BRONZE 3",
     "rating": 913.9,
