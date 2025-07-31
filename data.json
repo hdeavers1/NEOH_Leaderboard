@@ -193,17 +193,17 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1961.4,
+    "rating": 1969.1,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.6",
-      "2.4"
+      "97.7",
+      "2.3"
     ],
-    "wins": 121,
-    "losses": 101
+    "wins": 123,
+    "losses": 104
   },
   "DOUG#405": {
     "name": "ひ",
@@ -303,14 +303,14 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2374,
+    "rating": 2405.9,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "97.8"
     ],
-    "wins": 92,
+    "wins": 94,
     "losses": 27
   },
   "FUCKIN#1": {
@@ -331,29 +331,29 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2121.9,
+    "rating": 2133.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.9"
+      "98.0"
     ],
-    "wins": 192,
+    "wins": 194,
     "losses": 146
   },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "GOLD 3",
-    "rating": 1667.6,
+    "rating": 1721.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 10,
-    "losses": 6
+    "wins": 13,
+    "losses": 8
   },
   "ZBOO#991": {
     "name": "(-:",
