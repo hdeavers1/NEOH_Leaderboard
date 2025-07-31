@@ -193,17 +193,17 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1947.5,
+    "rating": 1961.4,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "97.6",
+      "2.4"
     ],
-    "wins": 117,
-    "losses": 98
+    "wins": 121,
+    "losses": 101
   },
   "DOUG#405": {
     "name": "ひ",
@@ -331,15 +331,15 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2114.1,
+    "rating": 2121.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "97.9"
     ],
-    "wins": 191,
-    "losses": 145
+    "wins": 192,
+    "losses": 146
   },
   "FLOW#08": {
     "name": "Flow",
@@ -474,6 +474,20 @@
     ],
     "wins": 4,
     "losses": 14
+  },
+  "SERE#225": {
+    "name": "sp1nda",
+    "tag": "SERE#225",
+    "rank": "PLATINUM 2",
+    "rating": 1862.5,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 18,
+    "losses": 9
   },
   "MARF#811": {
     "name": "Marfweasel",
