@@ -192,18 +192,16 @@
   "CUTS#327": {
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 3",
-    "rating": 1967.9,
+    "rank": "PLATINUM 2",
+    "rating": 1920.4,
     "characters": [
-      "Samus",
-      "Falco"
+      "Samus"
     ],
     "percentages": [
-      "98.0",
-      "2.0"
+      "98.0"
     ],
-    "wins": 109,
-    "losses": 87
+    "wins": 110,
+    "losses": 91
   },
   "DOUG#405": {
     "name": "ひ",
