@@ -57,15 +57,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1913.8,
+    "rating": 1909.5,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 255,
-    "losses": 247
+    "wins": 257,
+    "losses": 249
   },
   "CHAR#991": {
     "name": "Char",
@@ -193,7 +193,7 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1969.1,
+    "rating": 1968.1,
     "characters": [
       "Samus",
       "Falco"
@@ -202,8 +202,8 @@
       "97.7",
       "2.3"
     ],
-    "wins": 123,
-    "losses": 104
+    "wins": 125,
+    "losses": 105
   },
   "DOUG#405": {
     "name": "ひ",
