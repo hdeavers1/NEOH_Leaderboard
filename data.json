@@ -119,14 +119,14 @@
     "name": "Jub Lee",
     "tag": "SPOR#247",
     "rank": "SILVER 2",
-    "rating": 1221,
+    "rating": 1286.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
+    "wins": 5,
     "losses": 4
   },
   "ANT#480": {
@@ -174,7 +174,7 @@
     "losses": 7
   },
   "FRUM#591": {
-    "name": "Flow Senior",
+    "name": "Unc",
     "tag": "FRUM#591",
     "rank": "SILVER 2",
     "rating": 1310.7,
@@ -517,17 +517,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1686.6,
+    "rating": 1722.6,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.1",
-      "25.9"
+      "74.3",
+      "25.7"
     ],
-    "wins": 238,
-    "losses": 221
+    "wins": 243,
+    "losses": 223
   },
   "DEE#218": {
     "name": "pink popo club",
