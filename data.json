@@ -57,15 +57,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1909.5,
+    "rating": 1912.4,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 257,
-    "losses": 249
+    "wins": 258,
+    "losses": 250
   },
   "CHAR#991": {
     "name": "Char",
@@ -389,17 +389,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1926.2,
+    "rating": 1908.4,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.4",
-      "15.0"
+      "83.3",
+      "14.8"
     ],
-    "wins": 67,
-    "losses": 62
+    "wins": 68,
+    "losses": 65
   },
   "SURF#666": {
     "name": "Degausser",
@@ -517,17 +517,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1722.6,
+    "rating": 1722.2,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "74.3",
-      "25.7"
+      "74.4",
+      "25.6"
     ],
     "wins": 243,
-    "losses": 223
+    "losses": 224
   },
   "DEE#218": {
     "name": "pink popo club",
