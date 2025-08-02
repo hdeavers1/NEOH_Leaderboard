@@ -728,19 +728,19 @@
   "CHAZ#100": {
     "name": "chase",
     "tag": "CHAZ#100",
-    "rank": "GOLD 3",
-    "rating": 1657.1,
+    "rank": "GOLD 2",
+    "rating": 1652,
     "characters": [
       "Fox",
       "Marth",
       "Falco"
     ],
     "percentages": [
-      "54.8",
-      "37.4",
-      "6.8"
+      "55.3",
+      "37.1",
+      "6.6"
     ],
-    "wins": 101,
-    "losses": 103
+    "wins": 103,
+    "losses": 107
   }
 }
