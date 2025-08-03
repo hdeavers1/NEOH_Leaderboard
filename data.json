@@ -455,21 +455,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "SILVER 3",
-    "rating": 1320.6,
+    "rating": 1350.4,
     "characters": [
-      "Doc",
       "Kirby",
-      "YLink",
-      "Ness"
+      "Doc",
+      "Roy",
+      "YLink"
     ],
     "percentages": [
-      "16.7",
-      "16.7",
-      "8.3",
-      "8.3"
+      "13.6",
+      "9.1",
+      "9.1",
+      "4.5"
     ],
-    "wins": 3,
-    "losses": 2
+    "wins": 5,
+    "losses": 4
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
@@ -627,17 +627,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1806.2,
+    "rating": 1798.5,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.9",
+      "97.0",
       "2.7"
     ],
-    "wins": 155,
-    "losses": 135
+    "wins": 157,
+    "losses": 137
   },
   "SMEG#879": {
     "name": "$",
