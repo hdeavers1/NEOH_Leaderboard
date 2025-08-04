@@ -118,15 +118,17 @@
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
-    "rank": "SILVER 2",
-    "rating": 1286.3,
+    "rank": "SILVER 3",
+    "rating": 1344.9,
     "characters": [
-      "Falcon"
+      "Falcon",
+      "Fox"
     ],
     "percentages": [
-      "100.0"
+      "87.5",
+      "12.5"
     ],
-    "wins": 5,
+    "wins": 6,
     "losses": 4
   },
   "ANT#480": {
@@ -192,18 +194,18 @@
   "CUTS#327": {
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1925.9,
+    "rank": "PLATINUM 3",
+    "rating": 1963.3,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.8",
-      "2.2"
+      "97.9",
+      "2.1"
     ],
-    "wins": 129,
-    "losses": 115
+    "wins": 133,
+    "losses": 116
   },
   "DOUG#405": {
     "name": "ひ",
@@ -219,15 +221,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1790.5,
+    "rating": 1819.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 72,
-    "losses": 58
+    "wins": 75,
+    "losses": 59
   },
   "JUST#577": {
     "name": "Just",
@@ -331,15 +333,15 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 3",
-    "rating": 2153.5,
+    "rating": 2155.8,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.0"
     ],
-    "wins": 196,
-    "losses": 146
+    "wins": 197,
+    "losses": 147
   },
   "FLOW#08": {
     "name": "Flow",
@@ -400,26 +402,6 @@
     ],
     "wins": 69,
     "losses": 68
-  },
-  "SURF#666": {
-    "name": "Degausser",
-    "tag": "SURF#666",
-    "rank": "GOLD 2",
-    "rating": 1594.7,
-    "characters": [
-      "Bowser",
-      "Falco",
-      "Mario",
-      "Puff"
-    ],
-    "percentages": [
-      "41.6",
-      "40.5",
-      "8.2",
-      "5.7"
-    ],
-    "wins": 57,
-    "losses": 55
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -654,20 +636,6 @@
     ],
     "wins": 41,
     "losses": 46
-  },
-  "AIRY#666": {
-    "name": "Airy",
-    "tag": "AIRY#666",
-    "rank": "PLATINUM 2",
-    "rating": 1887.9,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 97,
-    "losses": 94
   },
   "BOZO#386": {
     "name": "super pichu",
