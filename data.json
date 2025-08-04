@@ -192,8 +192,8 @@
   "CUTS#327": {
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 3",
-    "rating": 1947.9,
+    "rank": "PLATINUM 2",
+    "rating": 1925.9,
     "characters": [
       "Samus",
       "Falco"
@@ -202,8 +202,8 @@
       "97.8",
       "2.2"
     ],
-    "wins": 128,
-    "losses": 111
+    "wins": 129,
+    "losses": 115
   },
   "DOUG#405": {
     "name": "ひ",
@@ -330,15 +330,15 @@
   "JINK#1": {
     "name": "Pinky Promise",
     "tag": "JINK#1",
-    "rank": "DIAMOND 2",
-    "rating": 2133.6,
+    "rank": "DIAMOND 3",
+    "rating": 2153.5,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.0"
     ],
-    "wins": 194,
+    "wins": 196,
     "losses": 146
   },
   "FLOW#08": {
