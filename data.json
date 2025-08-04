@@ -391,17 +391,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1901.7,
+    "rating": 1876.8,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.8",
-      "14.3"
+      "83.1",
+      "14.5"
     ],
-    "wins": 69,
-    "losses": 68
+    "wins": 70,
+    "losses": 71
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -577,15 +577,15 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1407.3,
+    "rating": 1397.8,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "99.3"
+      "99.4"
     ],
-    "wins": 67,
-    "losses": 65
+    "wins": 71,
+    "losses": 70
   },
   "NCRO#183": {
     "name": "Ncro",
