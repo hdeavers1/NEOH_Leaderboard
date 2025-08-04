@@ -160,18 +160,20 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "SILVER 3",
-    "rating": 1338.5,
+    "rank": "GOLD 1",
+    "rating": 1469.2,
     "characters": [
       "Peach",
-      "Fox"
+      "Fox",
+      "G&W"
     ],
     "percentages": [
-      "93.8",
-      "6.3"
+      "93.9",
+      "4.1",
+      "2.0"
     ],
-    "wins": 8,
-    "losses": 7
+    "wins": 13,
+    "losses": 9
   },
   "FRUM#591": {
     "name": "Unc",
@@ -219,28 +221,28 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1760.3,
+    "rating": 1790.5,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 69,
-    "losses": 57
+    "wins": 72,
+    "losses": 58
   },
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "MASTER 1",
-    "rating": 2208.1,
+    "rank": "MASTER 2",
+    "rating": 2282.8,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 51,
+    "wins": 56,
     "losses": 22
   },
   "SPOT#861": {
@@ -303,14 +305,14 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2405.9,
+    "rating": 2450.3,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "97.8"
+      "97.9"
     ],
-    "wins": 94,
+    "wins": 99,
     "losses": 27
   },
   "FUCKIN#1": {
@@ -344,16 +346,16 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "GOLD 3",
-    "rating": 1721.2,
+    "rank": "PLATINUM 1",
+    "rating": 1760,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 13,
-    "losses": 8
+    "wins": 16,
+    "losses": 10
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -454,22 +456,22 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "SILVER 3",
-    "rating": 1350.4,
+    "rank": "GOLD 1",
+    "rating": 1526.3,
     "characters": [
-      "Kirby",
       "Doc",
-      "Roy",
+      "Mario",
+      "Kirby",
       "YLink"
     ],
     "percentages": [
-      "13.6",
-      "9.1",
-      "9.1",
-      "4.5"
+      "12.5",
+      "9.4",
+      "9.4",
+      "6.3"
     ],
-    "wins": 5,
-    "losses": 4
+    "wins": 9,
+    "losses": 5
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
@@ -627,17 +629,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1798.5,
+    "rating": 1795.6,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "97.0",
+      "96.9",
       "2.7"
     ],
-    "wins": 157,
-    "losses": 137
+    "wins": 159,
+    "losses": 140
   },
   "SMEG#879": {
     "name": "$",
@@ -728,19 +730,19 @@
   "CHAZ#100": {
     "name": "chase",
     "tag": "CHAZ#100",
-    "rank": "GOLD 2",
-    "rating": 1624.4,
+    "rank": "GOLD 3",
+    "rating": 1665.6,
     "characters": [
       "Fox",
       "Marth",
       "Falco"
     ],
     "percentages": [
-      "54.1",
+      "54.3",
       "38.2",
-      "6.7"
+      "6.6"
     ],
-    "wins": 104,
+    "wins": 108,
     "losses": 110
   }
 }
