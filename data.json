@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "ArcadianWarmUp",
+    "name": "Midwest Ope",
     "tag": "WWJ#916",
     "rank": "PENDING",
     "rating": 4,
@@ -161,19 +161,17 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "GOLD 1",
-    "rating": 1469.2,
+    "rating": 1447.9,
     "characters": [
       "Peach",
-      "Fox",
-      "G&W"
+      "Fox"
     ],
     "percentages": [
-      "93.9",
-      "4.1",
-      "2.0"
+      "94.1",
+      "3.9"
     ],
     "wins": 13,
-    "losses": 9
+    "losses": 10
   },
   "FRUM#591": {
     "name": "Unc",
@@ -730,19 +728,19 @@
   "CHAZ#100": {
     "name": "chase",
     "tag": "CHAZ#100",
-    "rank": "GOLD 3",
-    "rating": 1733,
+    "rank": "PLATINUM 1",
+    "rating": 1757,
     "characters": [
       "Fox",
       "Marth",
       "Falco"
     ],
     "percentages": [
-      "55.2",
-      "36.3",
-      "7.6"
+      "55.7",
+      "35.9",
+      "7.5"
     ],
-    "wins": 118,
+    "wins": 121,
     "losses": 114
   }
 }
