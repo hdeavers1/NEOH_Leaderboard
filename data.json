@@ -305,14 +305,14 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2450.3,
+    "rating": 2460.4,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "97.9"
     ],
-    "wins": 99,
+    "wins": 101,
     "losses": 27
   },
   "FUCKIN#1": {
@@ -391,17 +391,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1908.4,
+    "rating": 1901.7,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.3",
-      "14.8"
+      "83.8",
+      "14.3"
     ],
-    "wins": 68,
-    "losses": 65
+    "wins": 69,
+    "losses": 68
   },
   "SURF#666": {
     "name": "Degausser",
@@ -731,18 +731,18 @@
     "name": "chase",
     "tag": "CHAZ#100",
     "rank": "GOLD 3",
-    "rating": 1665.6,
+    "rating": 1733,
     "characters": [
       "Fox",
       "Marth",
       "Falco"
     ],
     "percentages": [
-      "54.3",
-      "38.2",
-      "6.6"
+      "55.2",
+      "36.3",
+      "7.6"
     ],
-    "wins": 108,
-    "losses": 110
+    "wins": 118,
+    "losses": 114
   }
 }
