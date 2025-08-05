@@ -119,17 +119,19 @@
     "name": "Jub Lee",
     "tag": "SPOR#247",
     "rank": "SILVER 3",
-    "rating": 1344.9,
+    "rating": 1400.5,
     "characters": [
       "Falcon",
-      "Fox"
+      "Fox",
+      "Doc"
     ],
     "percentages": [
-      "87.5",
-      "12.5"
+      "76.7",
+      "20.0",
+      "3.3"
     ],
-    "wins": 6,
-    "losses": 4
+    "wins": 8,
+    "losses": 5
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -346,8 +348,8 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 1",
-    "rating": 1760,
+    "rank": "GOLD 3",
+    "rating": 1741.7,
     "characters": [
       "Marth"
     ],
@@ -355,7 +357,7 @@
       "100.0"
     ],
     "wins": 16,
-    "losses": 10
+    "losses": 11
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -546,18 +548,20 @@
     "losses": 0
   },
   "EGAG#906": {
-    "name": "mr lose it all",
+    "name": "developer",
     "tag": "EGAG#906",
-    "rank": "PENDING",
-    "rating": 2,
+    "rank": "SILVER 1",
+    "rating": 1162.5,
     "characters": [
-      "Peach"
+      "Peach",
+      "Falco"
     ],
     "percentages": [
-      "100.0"
+      "83.3",
+      "16.7"
     ],
     "wins": 2,
-    "losses": 1
+    "losses": 3
   },
   "WICE#699": {
     "name": "Weiss",
@@ -577,14 +581,14 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1397.8,
+    "rating": 1407.3,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 71,
+    "wins": 72,
     "losses": 70
   },
   "NCRO#183": {
@@ -609,17 +613,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1795.6,
+    "rating": 1771.8,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.9",
-      "2.7"
+      "96.8",
+      "2.6"
     ],
-    "wins": 159,
-    "losses": 140
+    "wins": 160,
+    "losses": 144
   },
   "SMEG#879": {
     "name": "$",
