@@ -237,15 +237,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2291.9,
+    "rating": 2352.6,
     "characters": [
       "Sheik"
     ],
     "percentages": [
-      "100.0"
+      "99.0"
     ],
-    "wins": 57,
-    "losses": 22
+    "wins": 61,
+    "losses": 23
   },
   "SPOT#861": {
     "name": "invader zyn",
@@ -393,17 +393,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1905.1,
+    "rating": 1904.2,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "82.4",
-      "15.3"
+      "82.7",
+      "15.1"
     ],
-    "wins": 74,
-    "losses": 73
+    "wins": 75,
+    "losses": 74
   },
   "DNZO#333": {
     "name": "the thinker",
