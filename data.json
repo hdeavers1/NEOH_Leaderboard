@@ -1,4 +1,18 @@
 {
+  "WWJ#916": {
+    "name": "ABC Chump Check",
+    "tag": "WWJ#916",
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
+    "losses": 0
+  },
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
@@ -497,7 +511,7 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1693.7,
+    "rating": 1673.9,
     "characters": [
       "Yoshi",
       "DK"
@@ -507,7 +521,7 @@
       "25.9"
     ],
     "wins": 255,
-    "losses": 239
+    "losses": 241
   },
   "DEE#218": {
     "name": "pink popo club",
