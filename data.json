@@ -376,7 +376,7 @@
     "losses": 1
   },
   "PEE#658": {
-    "name": "Rat Desire",
+    "name": "DraftKylePitts",
     "tag": "PEE#658",
     "rank": "PLATINUM 1",
     "rating": 1769.2,
@@ -393,17 +393,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1904.2,
+    "rating": 1914.3,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "82.7",
-      "15.1"
+      "82.6",
+      "15.2"
     ],
-    "wins": 75,
-    "losses": 74
+    "wins": 76,
+    "losses": 75
   },
   "DNZO#333": {
     "name": "the thinker",
