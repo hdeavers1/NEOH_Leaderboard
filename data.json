@@ -136,15 +136,15 @@
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
-    "rank": "SILVER 3",
-    "rating": 1411.9,
+    "rank": "GOLD 1",
+    "rating": 1465.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.2"
     ],
-    "wins": 26,
+    "wins": 29,
     "losses": 27
   },
   "JARD#561": {
@@ -439,7 +439,7 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 2",
-    "rating": 1607,
+    "rating": 1567.8,
     "characters": [
       "Doc",
       "YLink",
@@ -447,13 +447,13 @@
       "Mario"
     ],
     "percentages": [
-      "14.6",
-      "8.3",
-      "8.3",
-      "6.3"
+      "14.5",
+      "8.1",
+      "8.1",
+      "4.8"
     ],
-    "wins": 12,
-    "losses": 8
+    "wins": 14,
+    "losses": 13
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
