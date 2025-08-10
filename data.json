@@ -161,6 +161,22 @@
     "wins": 20,
     "losses": 17
   },
+  "FUEL#375": {
+    "name": "Fuelperks",
+    "tag": "FUEL#375",
+    "rank": "GOLD 1",
+    "rating": 1447.9,
+    "characters": [
+      "Peach",
+      "Fox"
+    ],
+    "percentages": [
+      "94.1",
+      "3.9"
+    ],
+    "wins": 13,
+    "losses": 10
+  },
   "FRUM#591": {
     "name": "Unc",
     "tag": "FRUM#591",
@@ -300,6 +316,20 @@
     ],
     "wins": 101,
     "losses": 27
+  },
+  "FUCKIN#1": {
+    "name": "fknsilver",
+    "tag": "FUCKIN#1",
+    "rank": "DIAMOND 3",
+    "rating": 2163.3,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "97.6"
+    ],
+    "wins": 130,
+    "losses": 62
   },
   "JINK#1": {
     "name": "Pinky Promise",
