@@ -439,21 +439,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 2",
-    "rating": 1608,
+    "rating": 1642.5,
     "characters": [
       "Doc",
       "DK",
-      "YLink",
+      "Kirby",
       "Pikachu"
     ],
     "percentages": [
-      "9.6",
+      "8.5",
       "7.7",
-      "6.7",
-      "6.7"
+      "6.8",
+      "6.8"
     ],
-    "wins": 22,
-    "losses": 22
+    "wins": 25,
+    "losses": 24
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
