@@ -3,14 +3,14 @@
     "name": "ABC Chump Check",
     "tag": "WWJ#916",
     "rank": "PENDING",
-    "rating": 4,
+    "rating": 1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
+    "wins": 4,
     "losses": 0
   },
   "JUBS#579": {
@@ -335,15 +335,15 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2128.2,
+    "rating": 2128.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 204,
-    "losses": 156
+    "wins": 205,
+    "losses": 157
   },
   "FLOW#08": {
     "name": "Flow",
@@ -473,15 +473,15 @@
     "name": "ttv/sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 3",
-    "rating": 1978.5,
+    "rating": 1957.4,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 24,
-    "losses": 12
+    "wins": 26,
+    "losses": 16
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -522,6 +522,20 @@
     ],
     "wins": 257,
     "losses": 245
+  },
+  "DEE#218": {
+    "name": "pink popo club",
+    "tag": "DEE#218",
+    "rank": "GOLD 3",
+    "rating": 1694.8,
+    "characters": [
+      "ICs"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 73,
+    "losses": 65
   },
   "SUCC#860": {
     "name": "Wahey",
