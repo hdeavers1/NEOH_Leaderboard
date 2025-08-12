@@ -439,7 +439,7 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 2",
-    "rating": 1642.5,
+    "rating": 1626.2,
     "characters": [
       "Doc",
       "DK",
@@ -447,13 +447,13 @@
       "Pikachu"
     ],
     "percentages": [
-      "8.5",
-      "7.7",
-      "6.8",
-      "6.8"
+      "7.5",
+      "7.5",
+      "6.0",
+      "6.0"
     ],
-    "wins": 25,
-    "losses": 24
+    "wins": 28,
+    "losses": 29
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
@@ -610,7 +610,7 @@
     "losses": 29
   },
   "MOSHI#0": {
-    "name": "Charles Pingus",
+    "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1804.3,
