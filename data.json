@@ -473,15 +473,15 @@
     "name": "ttv/sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 2",
-    "rating": 1862.5,
+    "rating": 1874.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 18,
-    "losses": 9
+    "wins": 19,
+    "losses": 10
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -613,17 +613,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1804.3,
+    "rating": 1795.9,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.7",
+      "96.6",
       "2.6"
     ],
     "wins": 165,
-    "losses": 145
+    "losses": 146
   },
   "SMEG#879": {
     "name": "$",
