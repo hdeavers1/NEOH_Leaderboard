@@ -223,7 +223,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1876.3,
+    "rating": 1852.9,
     "characters": [
       "Falcon"
     ],
@@ -231,7 +231,7 @@
       "100.0"
     ],
     "wins": 87,
-    "losses": 62
+    "losses": 64
   },
   "JUST#577": {
     "name": "Just",
@@ -470,7 +470,7 @@
     "losses": 14
   },
   "SERE#225": {
-    "name": "sp1nda",
+    "name": "ttv/sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 2",
     "rating": 1862.5,
