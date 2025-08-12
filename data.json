@@ -2,8 +2,8 @@
   "WWJ#916": {
     "name": "ABC Chump Check",
     "tag": "WWJ#916",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "GOLD 1",
+    "rating": 1460.5,
     "characters": [
       "Falcon"
     ],
@@ -11,7 +11,7 @@
       "100.0"
     ],
     "wins": 4,
-    "losses": 0
+    "losses": 1
   },
   "JUBS#579": {
     "name": "Jubly",
@@ -335,7 +335,7 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2128.4,
+    "rating": 2102,
     "characters": [
       "Marth"
     ],
@@ -343,7 +343,7 @@
       "98.1"
     ],
     "wins": 205,
-    "losses": 157
+    "losses": 159
   },
   "FLOW#08": {
     "name": "Flow",
@@ -472,16 +472,16 @@
   "SERE#225": {
     "name": "ttv/sp1nda",
     "tag": "SERE#225",
-    "rank": "PLATINUM 3",
-    "rating": 1957.4,
+    "rank": "DIAMOND 1",
+    "rating": 2014.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 26,
-    "losses": 16
+    "wins": 30,
+    "losses": 17
   },
   "MARF#811": {
     "name": "Marfweasel",
