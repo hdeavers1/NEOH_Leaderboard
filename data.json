@@ -439,7 +439,7 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 2",
-    "rating": 1626.2,
+    "rating": 1643.9,
     "characters": [
       "Doc",
       "DK",
@@ -447,12 +447,12 @@
       "Pikachu"
     ],
     "percentages": [
-      "7.5",
-      "7.5",
-      "6.0",
-      "6.0"
+      "7.3",
+      "7.3",
+      "5.8",
+      "5.8"
     ],
-    "wins": 28,
+    "wins": 29,
     "losses": 29
   },
   "MEDIC#0": {
@@ -472,16 +472,16 @@
   "SERE#225": {
     "name": "ttv/sp1nda",
     "tag": "SERE#225",
-    "rank": "PLATINUM 2",
-    "rating": 1874.5,
+    "rank": "PLATINUM 3",
+    "rating": 1978.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 19,
-    "losses": 10
+    "wins": 24,
+    "losses": 12
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -522,20 +522,6 @@
     ],
     "wins": 257,
     "losses": 245
-  },
-  "DEE#218": {
-    "name": "pink popo club",
-    "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1694.8,
-    "characters": [
-      "ICs"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 73,
-    "losses": 65
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -613,17 +599,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1795.9,
+    "rating": 1787.7,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
       "96.6",
-      "2.6"
+      "2.5"
     ],
     "wins": 165,
-    "losses": 146
+    "losses": 147
   },
   "SMEG#879": {
     "name": "$",
