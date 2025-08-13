@@ -1,4 +1,138 @@
 {
+  "WWJ#916": {
+    "name": "ABC Chump Check",
+    "tag": "WWJ#916",
+    "rank": "GOLD 1",
+    "rating": 1460.5,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 1
+  },
+  "JUBS#579": {
+    "name": "Jubly",
+    "tag": "JUBS#579",
+    "rank": "GOLD 2",
+    "rating": 1610.6,
+    "characters": [
+      "Falco",
+      "Falcon"
+    ],
+    "percentages": [
+      "95.9",
+      "4.1"
+    ],
+    "wins": 12,
+    "losses": 8
+  },
+  "BIGO#869": {
+    "name": "fuelTwerks",
+    "tag": "BIGO#869",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "QCUM#685": {
+    "name": "Aspiring HM",
+    "tag": "QCUM#685",
+    "rank": "GOLD 3",
+    "rating": 1699.3,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 18,
+    "losses": 11
+  },
+  "MAYO#795": {
+    "name": "Mayonaisaurus",
+    "tag": "MAYO#795",
+    "rank": "PLATINUM 3",
+    "rating": 1934.1,
+    "characters": [
+      "DK"
+    ],
+    "percentages": [
+      "99.2"
+    ],
+    "wins": 261,
+    "losses": 251
+  },
+  "CHAR#991": {
+    "name": "Char",
+    "tag": "CHAR#991",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "PANC#613": {
+    "name": "panchito$",
+    "tag": "PANC#613",
+    "rank": "GOLD 2",
+    "rating": 1560.5,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 21,
+    "losses": 16
+  },
+  "LVLM#792": {
+    "name": "Michael Jelqs",
+    "tag": "LVLM#792",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "NECK#152": {
+    "name": "neckboy",
+    "tag": "NECK#152",
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 0,
+    "losses": 1
+  },
+  "SPOR#247": {
+    "name": "Jub Lee",
+    "tag": "SPOR#247",
+    "rank": "SILVER 3",
+    "rating": 1400.5,
+    "characters": [
+      "Falcon",
+      "Fox",
+      "Doc"
+    ],
+    "percentages": [
+      "76.7",
+      "20.0",
+      "3.3"
+    ],
+    "wins": 8,
+    "losses": 5
+  },
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
@@ -525,17 +659,17 @@
     "name": "Matt Newman",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 3",
-    "rating": 1966,
+    "rating": 1927.4,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "89.1",
-      "10.5"
+      "88.5",
+      "10.4"
     ],
-    "wins": 554,
-    "losses": 501
+    "wins": 555,
+    "losses": 506
   },
   "ELDE#792": {
     "name": "EldenLord",
