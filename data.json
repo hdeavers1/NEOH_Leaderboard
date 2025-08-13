@@ -613,17 +613,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1745.1,
+    "rating": 1728.5,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.6",
-      "2.5"
+      "96.5",
+      "2.4"
     ],
-    "wins": 167,
-    "losses": 153
+    "wins": 168,
+    "losses": 157
   },
   "SMEG#879": {
     "name": "$",
@@ -659,17 +659,17 @@
     "name": "Matt Newman",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 1",
-    "rating": 1814.6,
+    "rating": 1798.6,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "87.6",
+      "87.5",
       "10.3"
     ],
     "wins": 557,
-    "losses": 516
+    "losses": 517
   },
   "ELDE#792": {
     "name": "EldenLord",
@@ -696,5 +696,23 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "CHAZ#100": {
+    "name": "chase",
+    "tag": "CHAZ#100",
+    "rank": "PLATINUM 1",
+    "rating": 1757,
+    "characters": [
+      "Fox",
+      "Marth",
+      "Falco"
+    ],
+    "percentages": [
+      "55.7",
+      "35.9",
+      "7.5"
+    ],
+    "wins": 121,
+    "losses": 114
   }
 }
