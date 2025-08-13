@@ -262,7 +262,7 @@
     "losses": 9
   },
   "PLAY#647": {
-    "name": "downtosssideair",
+    "name": "Clanker",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
     "rating": 2130.6,
@@ -658,18 +658,18 @@
   "BRIDGE#0": {
     "name": "Matt Newman",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 3",
-    "rating": 1927.4,
+    "rank": "PLATINUM 2",
+    "rating": 1859.3,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "88.5",
+      "88.2",
       "10.4"
     ],
     "wins": 555,
-    "losses": 506
+    "losses": 510
   },
   "ELDE#792": {
     "name": "EldenLord",
