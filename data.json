@@ -613,7 +613,7 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1787.7,
+    "rating": 1797,
     "characters": [
       "Peach",
       "Ness"
@@ -622,7 +622,7 @@
       "96.6",
       "2.5"
     ],
-    "wins": 165,
+    "wins": 166,
     "losses": 147
   },
   "SMEG#879": {
@@ -658,18 +658,18 @@
   "BRIDGE#0": {
     "name": "Matt Newman",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 2",
-    "rating": 1859.3,
+    "rank": "PLATINUM 1",
+    "rating": 1824.1,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "88.2",
-      "10.4"
+      "87.6",
+      "10.3"
     ],
-    "wins": 555,
-    "losses": 510
+    "wins": 557,
+    "losses": 515
   },
   "ELDE#792": {
     "name": "EldenLord",
