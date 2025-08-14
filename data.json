@@ -307,15 +307,15 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2460.4,
+    "rating": 2427.5,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "97.9"
+      "98.0"
     ],
-    "wins": 101,
-    "losses": 27
+    "wins": 102,
+    "losses": 29
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -438,22 +438,22 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "GOLD 2",
-    "rating": 1643.9,
+    "rank": "GOLD 3",
+    "rating": 1656.8,
     "characters": [
       "Doc",
       "DK",
-      "Kirby",
-      "Pikachu"
+      "Mario",
+      "Kirby"
     ],
     "percentages": [
-      "7.3",
-      "7.3",
-      "5.8",
-      "5.8"
+      "7.5",
+      "6.8",
+      "5.5",
+      "5.5"
     ],
-    "wins": 29,
-    "losses": 29
+    "wins": 31,
+    "losses": 30
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
@@ -470,7 +470,7 @@
     "losses": 14
   },
   "SERE#225": {
-    "name": "ttv/sp1nda",
+    "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "DIAMOND 1",
     "rating": 2014.3,
@@ -612,8 +612,8 @@
   "MOSHI#0": {
     "name": "moshi",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1728.5,
+    "rank": "PLATINUM 1",
+    "rating": 1752.5,
     "characters": [
       "Peach",
       "Ness"
@@ -622,7 +622,7 @@
       "96.5",
       "2.4"
     ],
-    "wins": 168,
+    "wins": 170,
     "losses": 157
   },
   "SMEG#879": {
@@ -656,20 +656,20 @@
     "losses": 48
   },
   "BRIDGE#0": {
-    "name": "Matt Newman",
+    "name": "bridget",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 1",
-    "rating": 1798.6,
+    "rating": 1780.1,
     "characters": [
       "Fox",
       "Falco"
     ],
     "percentages": [
-      "87.5",
+      "87.4",
       "10.3"
     ],
     "wins": 557,
-    "losses": 517
+    "losses": 518
   },
   "ELDE#792": {
     "name": "EldenLord",
