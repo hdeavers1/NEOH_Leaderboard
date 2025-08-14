@@ -133,6 +133,20 @@
     "wins": 8,
     "losses": 5
   },
+  "ANT#480": {
+    "name": "Zantryx",
+    "tag": "ANT#480",
+    "rank": "GOLD 1",
+    "rating": 1441,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "99.3"
+    ],
+    "wins": 29,
+    "losses": 31
+  },
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
@@ -532,6 +546,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "EGAG#906": {
+    "name": "my head hurts",
+    "tag": "EGAG#906",
+    "rank": "SILVER 1",
+    "rating": 1162.5,
+    "characters": [
+      "Peach",
+      "Falco"
+    ],
+    "percentages": [
+      "83.3",
+      "16.7"
+    ],
+    "wins": 2,
+    "losses": 3
   },
   "WICE#699": {
     "name": "Weiss",
