@@ -658,20 +658,20 @@
   "BRIDGE#0": {
     "name": "wishmaster",
     "tag": "BRIDGE#0",
-    "rank": "PLATINUM 1",
-    "rating": 1765,
+    "rank": "GOLD 3",
+    "rating": 1744.6,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "87.1",
+      "87.0",
       "10.2",
       "2.4"
     ],
     "wins": 558,
-    "losses": 521
+    "losses": 522
   },
   "ELDE#792": {
     "name": "EldenLord",
