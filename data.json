@@ -622,8 +622,8 @@
       "96.5",
       "2.4"
     ],
-    "wins": 170,
-    "losses": 157
+    "wins": 171,
+    "losses": 158
   },
   "SMEG#879": {
     "name": "$",
@@ -659,17 +659,19 @@
     "name": "wishmaster",
     "tag": "BRIDGE#0",
     "rank": "PLATINUM 1",
-    "rating": 1780.1,
+    "rating": 1765,
     "characters": [
       "Fox",
-      "Falco"
+      "Falco",
+      "Peach"
     ],
     "percentages": [
-      "87.4",
-      "10.3"
+      "87.1",
+      "10.2",
+      "2.4"
     ],
-    "wins": 557,
-    "losses": 518
+    "wins": 558,
+    "losses": 521
   },
   "ELDE#792": {
     "name": "EldenLord",
