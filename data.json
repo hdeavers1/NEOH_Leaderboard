@@ -566,16 +566,16 @@
   "WICE#699": {
     "name": "Dougie Jones",
     "tag": "WICE#699",
-    "rank": "PLATINUM 2",
-    "rating": 1907.8,
+    "rank": "PLATINUM 3",
+    "rating": 1961.6,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 13,
-    "losses": 4
+    "wins": 16,
+    "losses": 6
   },
   "DANK#954": {
     "name": "DankKnight",
@@ -613,7 +613,7 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1752.5,
+    "rating": 1759.1,
     "characters": [
       "Peach",
       "Ness"
@@ -622,7 +622,7 @@
       "96.5",
       "2.4"
     ],
-    "wins": 171,
+    "wins": 172,
     "losses": 158
   },
   "SMEG#879": {
@@ -640,5 +640,81 @@
     ],
     "wins": 41,
     "losses": 46
+  },
+  "BOZO#386": {
+    "name": "super pichu",
+    "tag": "BOZO#386",
+    "rank": "DIAMOND 1",
+    "rating": 2009.6,
+    "characters": [
+      "Pichu"
+    ],
+    "percentages": [
+      "99.6"
+    ],
+    "wins": 60,
+    "losses": 48
+  },
+  "BRIDGE#0": {
+    "name": "wishmaster",
+    "tag": "BRIDGE#0",
+    "rank": "GOLD 3",
+    "rating": 1729.3,
+    "characters": [
+      "Fox",
+      "Falco",
+      "Peach"
+    ],
+    "percentages": [
+      "86.9",
+      "10.2",
+      "2.6"
+    ],
+    "wins": 558,
+    "losses": 523
+  },
+  "ELDE#792": {
+    "name": "EldenLord",
+    "tag": "ELDE#792",
+    "rank": "SILVER 3",
+    "rating": 1384.1,
+    "characters": [
+      "DK",
+      "Yoshi"
+    ],
+    "percentages": [
+      "76.0",
+      "24.0"
+    ],
+    "wins": 5,
+    "losses": 5
+  },
+  "SYS#0": {
+    "name": "Syspen",
+    "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "CHAZ#100": {
+    "name": "chase",
+    "tag": "CHAZ#100",
+    "rank": "PLATINUM 1",
+    "rating": 1757,
+    "characters": [
+      "Fox",
+      "Marth",
+      "Falco"
+    ],
+    "percentages": [
+      "55.7",
+      "35.9",
+      "7.5"
+    ],
+    "wins": 121,
+    "losses": 114
   }
 }
