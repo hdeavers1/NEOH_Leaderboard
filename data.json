@@ -335,15 +335,15 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2102,
+    "rating": 2084.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.1"
+      "98.0"
     ],
     "wins": 205,
-    "losses": 159
+    "losses": 160
   },
   "FLOW#08": {
     "name": "Flow",
@@ -473,7 +473,7 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "DIAMOND 1",
-    "rating": 2063.6,
+    "rating": 2036.7,
     "characters": [
       "Fox"
     ],
@@ -481,7 +481,7 @@
       "98.7"
     ],
     "wins": 39,
-    "losses": 22
+    "losses": 23
   },
   "MARF#811": {
     "name": "Marfweasel",
