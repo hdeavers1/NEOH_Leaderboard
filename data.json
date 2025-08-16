@@ -165,19 +165,19 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "SILVER 3",
-    "rating": 1424.9,
+    "rating": 1383.6,
     "characters": [
       "Peach",
-      "Fox",
-      "Pikachu"
+      "Pikachu",
+      "Fox"
     ],
     "percentages": [
-      "90.6",
-      "3.8",
-      "3.8"
+      "81.7",
+      "10.0",
+      "5.0"
     ],
-    "wins": 13,
-    "losses": 11
+    "wins": 14,
+    "losses": 13
   },
   "FRUM#591": {
     "name": "Unc",
@@ -337,14 +337,14 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2095,
+    "rating": 2125.5,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.0"
     ],
-    "wins": 206,
+    "wins": 208,
     "losses": 161
   },
   "FLOW#08": {
@@ -474,15 +474,15 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "DIAMOND 1",
-    "rating": 2057.8,
+    "rank": "DIAMOND 2",
+    "rating": 2093.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "98.8"
+      "98.9"
     ],
-    "wins": 43,
+    "wins": 46,
     "losses": 26
   },
   "MARF#811": {
@@ -553,17 +553,19 @@
     "name": "my head hurts",
     "tag": "EGAG#906",
     "rank": "SILVER 1",
-    "rating": 1162.5,
+    "rating": 1130.5,
     "characters": [
       "Peach",
-      "Falco"
+      "Falco",
+      "Fox"
     ],
     "percentages": [
-      "83.3",
-      "16.7"
+      "71.4",
+      "14.3",
+      "14.3"
     ],
     "wins": 2,
-    "losses": 3
+    "losses": 4
   },
   "WICE#699": {
     "name": "Dougie Jones",
@@ -615,7 +617,7 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1759.1,
+    "rating": 1764,
     "characters": [
       "Peach",
       "Ness"
@@ -624,7 +626,7 @@
       "96.5",
       "2.4"
     ],
-    "wins": 172,
+    "wins": 173,
     "losses": 158
   },
   "SMEG#879": {
