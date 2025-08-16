@@ -164,18 +164,20 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "GOLD 1",
-    "rating": 1447.9,
+    "rank": "SILVER 3",
+    "rating": 1424.9,
     "characters": [
       "Peach",
-      "Fox"
+      "Fox",
+      "Pikachu"
     ],
     "percentages": [
-      "94.1",
-      "3.9"
+      "90.6",
+      "3.8",
+      "3.8"
     ],
     "wins": 13,
-    "losses": 10
+    "losses": 11
   },
   "FRUM#591": {
     "name": "Unc",
@@ -335,15 +337,15 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2084.6,
+    "rating": 2095,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.0"
     ],
-    "wins": 205,
-    "losses": 160
+    "wins": 206,
+    "losses": 161
   },
   "FLOW#08": {
     "name": "Flow",
@@ -473,15 +475,15 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "DIAMOND 1",
-    "rating": 2036.7,
+    "rating": 2057.8,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "98.7"
+      "98.8"
     ],
-    "wins": 39,
-    "losses": 23
+    "wins": 43,
+    "losses": 26
   },
   "MARF#811": {
     "name": "Marfweasel",
