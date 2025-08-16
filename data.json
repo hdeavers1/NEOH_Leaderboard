@@ -137,14 +137,14 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1441,
+    "rating": 1457.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.3"
     ],
-    "wins": 29,
+    "wins": 30,
     "losses": 31
   },
   "JARD#561": {
@@ -659,19 +659,19 @@
     "name": "wishmaster",
     "tag": "BRIDGE#0",
     "rank": "GOLD 3",
-    "rating": 1744.6,
+    "rating": 1729.3,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "87.0",
+      "86.9",
       "10.2",
-      "2.4"
+      "2.6"
     ],
     "wins": 558,
-    "losses": 522
+    "losses": 523
   },
   "ELDE#792": {
     "name": "EldenLord",
