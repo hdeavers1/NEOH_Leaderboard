@@ -441,7 +441,7 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1656.8,
+    "rating": 1674.6,
     "characters": [
       "Doc",
       "DK",
@@ -449,12 +449,12 @@
       "Kirby"
     ],
     "percentages": [
-      "7.5",
+      "8.1",
       "6.8",
-      "5.5",
-      "5.5"
+      "5.4",
+      "5.4"
     ],
-    "wins": 31,
+    "wins": 32,
     "losses": 30
   },
   "MEDIC#0": {
@@ -474,8 +474,8 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "DIAMOND 2",
-    "rating": 2093.5,
+    "rank": "DIAMOND 1",
+    "rating": 2065.6,
     "characters": [
       "Fox"
     ],
@@ -483,7 +483,7 @@
       "98.9"
     ],
     "wins": 46,
-    "losses": 26
+    "losses": 29
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -663,19 +663,19 @@
     "name": "wishmaster",
     "tag": "BRIDGE#0",
     "rank": "GOLD 3",
-    "rating": 1729.3,
+    "rating": 1695.9,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "86.9",
+      "86.7",
       "10.2",
-      "2.6"
+      "2.7"
     ],
     "wins": 558,
-    "losses": 523
+    "losses": 525
   },
   "ELDE#792": {
     "name": "EldenLord",
