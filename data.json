@@ -335,7 +335,7 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2125.5,
+    "rating": 2122.4,
     "characters": [
       "Marth"
     ],
@@ -343,7 +343,7 @@
       "98.0"
     ],
     "wins": 208,
-    "losses": 161
+    "losses": 162
   },
   "FLOW#08": {
     "name": "Flow",
@@ -568,16 +568,16 @@
   "WICE#699": {
     "name": "Dougie Jones",
     "tag": "WICE#699",
-    "rank": "DIAMOND 3",
-    "rating": 2136.4,
+    "rank": "DIAMOND 2",
+    "rating": 2119.7,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 33,
-    "losses": 17
+    "wins": 36,
+    "losses": 20
   },
   "DANK#954": {
     "name": "DankKnight",
@@ -614,18 +614,18 @@
   "MOSHI#0": {
     "name": "moshi",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1749.7,
+    "rank": "PLATINUM 1",
+    "rating": 1772,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
       "96.6",
-      "2.4"
+      "2.3"
     ],
-    "wins": 174,
-    "losses": 161
+    "wins": 177,
+    "losses": 163
   },
   "SMEG#879": {
     "name": "$",
