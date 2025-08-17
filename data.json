@@ -439,21 +439,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1732.6,
+    "rating": 1715.4,
     "characters": [
       "Doc",
       "DK",
       "Fox",
-      "Mario"
+      "YLink"
     ],
     "percentages": [
-      "7.9",
+      "7.8",
       "5.6",
       "5.6",
-      "5.1"
+      "5.0"
     ],
     "wins": 40,
-    "losses": 35
+    "losses": 36
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
@@ -661,19 +661,19 @@
     "name": "wishmaster",
     "tag": "BRIDGE#0",
     "rank": "GOLD 3",
-    "rating": 1685.6,
+    "rating": 1674.8,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "86.6",
+      "86.5",
       "10.2",
-      "2.8"
+      "3.0"
     ],
     "wins": 558,
-    "losses": 526
+    "losses": 527
   },
   "ELDE#792": {
     "name": "EldenLord",
