@@ -439,21 +439,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1713.3,
+    "rating": 1695.3,
     "characters": [
       "Doc",
       "DK",
       "Mario",
-      "Marth"
+      "Pikachu"
     ],
     "percentages": [
-      "8.2",
-      "6.3",
-      "5.7",
-      "5.7"
+      "8.0",
+      "6.1",
+      "5.5",
+      "5.5"
     ],
     "wins": 36,
-    "losses": 31
+    "losses": 33
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
