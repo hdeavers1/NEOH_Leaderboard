@@ -198,18 +198,18 @@
   "CUTS#327": {
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 3",
-    "rating": 1990,
+    "rank": "DIAMOND 1",
+    "rating": 2034.5,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.9",
-      "2.1"
+      "98.0",
+      "2.0"
     ],
-    "wins": 159,
-    "losses": 138
+    "wins": 166,
+    "losses": 143
   },
   "DOUG#405": {
     "name": "ひ",
@@ -441,21 +441,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1674.6,
+    "rating": 1713.3,
     "characters": [
       "Doc",
       "DK",
       "Mario",
-      "Kirby"
+      "Marth"
     ],
     "percentages": [
-      "8.1",
-      "6.8",
-      "5.4",
-      "5.4"
+      "8.2",
+      "6.3",
+      "5.7",
+      "5.7"
     ],
-    "wins": 32,
-    "losses": 30
+    "wins": 36,
+    "losses": 31
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
@@ -475,15 +475,15 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "DIAMOND 1",
-    "rating": 2065.6,
+    "rating": 2061.9,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "98.9"
+      "99.0"
     ],
-    "wins": 46,
-    "losses": 29
+    "wins": 50,
+    "losses": 34
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -570,16 +570,16 @@
   "WICE#699": {
     "name": "Dougie Jones",
     "tag": "WICE#699",
-    "rank": "DIAMOND 1",
-    "rating": 2023.3,
+    "rank": "DIAMOND 2",
+    "rating": 2122.1,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 24,
-    "losses": 11
+    "wins": 31,
+    "losses": 15
   },
   "DANK#954": {
     "name": "DankKnight",
