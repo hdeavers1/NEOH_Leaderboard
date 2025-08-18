@@ -137,7 +137,7 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1426.7,
+    "rating": 1412.5,
     "characters": [
       "Marth"
     ],
@@ -145,7 +145,7 @@
       "99.3"
     ],
     "wins": 31,
-    "losses": 34
+    "losses": 35
   },
   "JARD#561": {
     "name": "pingas",
@@ -165,18 +165,18 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "SILVER 3",
-    "rating": 1383.6,
+    "rating": 1413,
     "characters": [
       "Peach",
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "81.7",
-      "10.0",
-      "5.0"
+      "82.5",
+      "9.5",
+      "4.8"
     ],
-    "wins": 14,
+    "wins": 15,
     "losses": 13
   },
   "FRUM#591": {
@@ -307,15 +307,15 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2431.8,
+    "rating": 2400,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "98.0"
+      "98.1"
     ],
-    "wins": 103,
-    "losses": 29
+    "wins": 105,
+    "losses": 32
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -393,16 +393,16 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1895.8,
+    "rating": 1899.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.7",
-      "14.4"
+      "83.3",
+      "14.8"
     ],
-    "wins": 86,
+    "wins": 87,
     "losses": 84
   },
   "DNZO#333": {
