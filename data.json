@@ -164,20 +164,20 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "SILVER 3",
-    "rating": 1413,
+    "rank": "GOLD 1",
+    "rating": 1478,
     "characters": [
       "Peach",
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "82.5",
-      "9.5",
-      "4.8"
+      "84.5",
+      "8.5",
+      "4.2"
     ],
-    "wins": 15,
-    "losses": 13
+    "wins": 18,
+    "losses": 14
   },
   "FRUM#591": {
     "name": "Unc",
@@ -569,7 +569,7 @@
     "name": "Dougie Jones",
     "tag": "WICE#699",
     "rank": "DIAMOND 2",
-    "rating": 2134.6,
+    "rating": 2100.1,
     "characters": [
       "ICs"
     ],
@@ -577,7 +577,7 @@
       "100.0"
     ],
     "wins": 37,
-    "losses": 20
+    "losses": 23
   },
   "DANK#954": {
     "name": "DankKnight",
@@ -615,17 +615,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1772,
+    "rating": 1785.6,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.6",
+      "96.5",
       "2.3"
     ],
-    "wins": 177,
-    "losses": 163
+    "wins": 178,
+    "losses": 164
   },
   "SMEG#879": {
     "name": "$",
