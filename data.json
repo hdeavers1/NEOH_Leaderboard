@@ -307,14 +307,14 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2400,
+    "rating": 2404.1,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 105,
+    "wins": 106,
     "losses": 32
   },
   "FUCKIN#1": {
@@ -569,7 +569,7 @@
     "name": "Dougie Jones",
     "tag": "WICE#699",
     "rank": "DIAMOND 2",
-    "rating": 2100.1,
+    "rating": 2098.9,
     "characters": [
       "ICs"
     ],
@@ -577,7 +577,7 @@
       "100.0"
     ],
     "wins": 37,
-    "losses": 23
+    "losses": 24
   },
   "DANK#954": {
     "name": "DankKnight",
