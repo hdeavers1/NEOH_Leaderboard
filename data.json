@@ -56,15 +56,15 @@
   "MAYO#795": {
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 2",
-    "rating": 1925.5,
+    "rank": "PLATINUM 3",
+    "rating": 1946.6,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.2"
     ],
-    "wins": 267,
+    "wins": 269,
     "losses": 256
   },
   "CHAR#991": {
@@ -661,19 +661,19 @@
     "name": "wishmaster",
     "tag": "BRIDGE#0",
     "rank": "GOLD 2",
-    "rating": 1647.6,
+    "rating": 1603.6,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "86.4",
+      "86.0",
       "10.1",
-      "3.1"
+      "3.5"
     ],
     "wins": 558,
-    "losses": 529
+    "losses": 533
   },
   "ELDE#792": {
     "name": "EldenLord",
