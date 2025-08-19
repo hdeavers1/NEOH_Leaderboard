@@ -658,22 +658,22 @@
     "losses": 48
   },
   "BRIDGE#0": {
-    "name": "wishmaster",
+    "name": "20poundtoddler",
     "tag": "BRIDGE#0",
     "rank": "GOLD 2",
-    "rating": 1557.7,
+    "rating": 1553.2,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "85.0",
-      "10.0",
-      "4.6"
+      "84.6",
+      "9.9",
+      "5.1"
     ],
-    "wins": 563,
-    "losses": 543
+    "wins": 565,
+    "losses": 546
   },
   "ELDE#792": {
     "name": "EldenLord",
