@@ -57,15 +57,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 3",
-    "rating": 1946.6,
+    "rating": 1944.2,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.2"
     ],
-    "wins": 269,
-    "losses": 256
+    "wins": 270,
+    "losses": 259
   },
   "CHAR#991": {
     "name": "Char",
@@ -237,15 +237,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2365,
+    "rating": 2320.7,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 65,
-    "losses": 24
+    "wins": 67,
+    "losses": 26
   },
   "SPOT#861": {
     "name": "invader zyn",
@@ -307,14 +307,14 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2423.6,
+    "rating": 2454.3,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "98.2"
     ],
-    "wins": 110,
+    "wins": 115,
     "losses": 33
   },
   "FUCKIN#1": {
