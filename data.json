@@ -348,16 +348,16 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "GOLD 3",
-    "rating": 1741.7,
+    "rank": "PLATINUM 1",
+    "rating": 1818.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 16,
-    "losses": 11
+    "wins": 20,
+    "losses": 12
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -660,20 +660,20 @@
   "BRIDGE#0": {
     "name": "20poundtoddler",
     "tag": "BRIDGE#0",
-    "rank": "GOLD 2",
-    "rating": 1553.2,
+    "rank": "GOLD 1",
+    "rating": 1544.3,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "84.6",
+      "84.2",
       "9.9",
-      "5.1"
+      "5.6"
     ],
-    "wins": 565,
-    "losses": 546
+    "wins": 569,
+    "losses": 550
   },
   "ELDE#792": {
     "name": "EldenLord",
