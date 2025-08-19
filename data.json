@@ -57,14 +57,14 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 3",
-    "rating": 1944.2,
+    "rating": 1967,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.2"
     ],
-    "wins": 270,
+    "wins": 272,
     "losses": 259
   },
   "CHAR#991": {
@@ -348,15 +348,15 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 1",
-    "rating": 1818.7,
+    "rank": "PLATINUM 2",
+    "rating": 1845.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 20,
+    "wins": 21,
     "losses": 12
   },
   "ZBOO#991": {
@@ -660,20 +660,20 @@
   "BRIDGE#0": {
     "name": "20poundtoddler",
     "tag": "BRIDGE#0",
-    "rank": "GOLD 1",
-    "rating": 1544.3,
+    "rank": "GOLD 2",
+    "rating": 1556,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "84.2",
+      "84.0",
       "9.9",
-      "5.6"
+      "5.8"
     ],
-    "wins": 569,
-    "losses": 550
+    "wins": 571,
+    "losses": 551
   },
   "ELDE#792": {
     "name": "EldenLord",
