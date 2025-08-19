@@ -223,15 +223,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1868,
+    "rating": 1843.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 88,
-    "losses": 64
+    "wins": 89,
+    "losses": 67
   },
   "JUST#577": {
     "name": "Just",
@@ -439,21 +439,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "PLATINUM 1",
-    "rating": 1785.7,
+    "rating": 1792.5,
     "characters": [
       "Doc",
       "Fox",
-      "YLink",
-      "Kirby"
+      "Kirby",
+      "YLink"
     ],
     "percentages": [
-      "7.6",
-      "6.6",
-      "5.1",
-      "5.1"
+      "7.4",
+      "6.4",
+      "5.4",
+      "4.9"
     ],
-    "wins": 46,
-    "losses": 38
+    "wins": 47,
+    "losses": 39
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
@@ -661,19 +661,19 @@
     "name": "wishmaster",
     "tag": "BRIDGE#0",
     "rank": "GOLD 2",
-    "rating": 1603.8,
+    "rating": 1593.2,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "85.7",
+      "85.6",
       "10.1",
-      "3.9"
+      "4.0"
     ],
     "wins": 559,
-    "losses": 536
+    "losses": 537
   },
   "ELDE#792": {
     "name": "EldenLord",
