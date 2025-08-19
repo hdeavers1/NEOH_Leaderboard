@@ -237,15 +237,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2352.6,
+    "rating": 2365,
     "characters": [
       "Sheik"
     ],
     "percentages": [
-      "99.0"
+      "99.1"
     ],
-    "wins": 61,
-    "losses": 23
+    "wins": 65,
+    "losses": 24
   },
   "SPOT#861": {
     "name": "invader zyn",
@@ -307,15 +307,15 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2420,
+    "rating": 2423.6,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "98.1"
+      "98.2"
     ],
-    "wins": 107,
-    "losses": 32
+    "wins": 110,
+    "losses": 33
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -661,19 +661,19 @@
     "name": "wishmaster",
     "tag": "BRIDGE#0",
     "rank": "GOLD 2",
-    "rating": 1593.2,
+    "rating": 1581.9,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "85.6",
-      "10.1",
-      "4.0"
+      "85.5",
+      "10.0",
+      "4.1"
     ],
-    "wins": 559,
-    "losses": 537
+    "wins": 560,
+    "losses": 539
   },
   "ELDE#792": {
     "name": "EldenLord",
