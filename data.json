@@ -57,7 +57,7 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 3",
-    "rating": 1967,
+    "rating": 1964.1,
     "characters": [
       "DK"
     ],
@@ -65,7 +65,7 @@
       "99.2"
     ],
     "wins": 272,
-    "losses": 259
+    "losses": 260
   },
   "CHAR#991": {
     "name": "Char",
@@ -660,20 +660,20 @@
   "BRIDGE#0": {
     "name": "20poundtoddler",
     "tag": "BRIDGE#0",
-    "rank": "GOLD 2",
-    "rating": 1556,
+    "rank": "GOLD 1",
+    "rating": 1543.6,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "84.0",
-      "9.9",
-      "5.8"
+      "83.8",
+      "9.8",
+      "6.0"
     ],
-    "wins": 571,
-    "losses": 551
+    "wins": 572,
+    "losses": 553
   },
   "ELDE#792": {
     "name": "EldenLord",
