@@ -661,19 +661,19 @@
     "name": "wishmaster",
     "tag": "BRIDGE#0",
     "rank": "GOLD 2",
-    "rating": 1581.9,
+    "rating": 1578,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "85.5",
+      "85.3",
       "10.0",
-      "4.1"
+      "4.3"
     ],
-    "wins": 560,
-    "losses": 539
+    "wins": 561,
+    "losses": 541
   },
   "ELDE#792": {
     "name": "EldenLord",
