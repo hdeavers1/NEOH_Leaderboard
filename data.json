@@ -439,7 +439,7 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "PLATINUM 1",
-    "rating": 1792.5,
+    "rating": 1791,
     "characters": [
       "Doc",
       "Fox",
@@ -447,13 +447,13 @@
       "YLink"
     ],
     "percentages": [
-      "7.4",
+      "6.8",
       "6.4",
-      "5.4",
-      "4.9"
+      "5.5",
+      "5.0"
     ],
-    "wins": 47,
-    "losses": 39
+    "wins": 50,
+    "losses": 43
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
@@ -658,22 +658,22 @@
     "losses": 48
   },
   "BRIDGE#0": {
-    "name": "20poundtoddler",
+    "name": "ilovefunny123",
     "tag": "BRIDGE#0",
     "rank": "GOLD 1",
-    "rating": 1532.4,
+    "rating": 1506,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "83.7",
+      "83.6",
       "9.8",
-      "6.1"
+      "6.3"
     ],
     "wins": 572,
-    "losses": 554
+    "losses": 556
   },
   "ELDE#792": {
     "name": "EldenLord",
