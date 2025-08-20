@@ -335,15 +335,15 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 3",
-    "rating": 2145.4,
+    "rating": 2175.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "97.9"
     ],
-    "wins": 211,
-    "losses": 163
+    "wins": 214,
+    "losses": 165
   },
   "FLOW#08": {
     "name": "Flow",
@@ -612,7 +612,7 @@
     "losses": 29
   },
   "MOSHI#0": {
-    "name": "chungus tuesday",
+    "name": "chungus wednesd",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1785.6,
@@ -661,19 +661,19 @@
     "name": "ilovefunny123",
     "tag": "BRIDGE#0",
     "rank": "GOLD 1",
-    "rating": 1505.8,
+    "rating": 1471.5,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "83.4",
+      "83.0",
       "9.8",
-      "6.5"
+      "6.8"
     ],
-    "wins": 573,
-    "losses": 557
+    "wins": 574,
+    "losses": 561
   },
   "ELDE#792": {
     "name": "EldenLord",
