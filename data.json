@@ -199,15 +199,17 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2066.8,
+    "rating": 2036.2,
     "characters": [
-      "Samus"
+      "Samus",
+      "Falco"
     ],
     "percentages": [
-      "98.0"
+      "97.9",
+      "2.1"
     ],
-    "wins": 168,
-    "losses": 143
+    "wins": 170,
+    "losses": 147
   },
   "DOUG#405": {
     "name": "ひ",
@@ -223,15 +225,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1873.3,
+    "rating": 1897.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 91,
-    "losses": 67
+    "wins": 93,
+    "losses": 68
   },
   "JUST#577": {
     "name": "Just",
@@ -439,21 +441,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "PLATINUM 1",
-    "rating": 1791,
+    "rating": 1775.1,
     "characters": [
       "Doc",
       "Fox",
-      "Kirby",
+      "Mewtwo",
       "YLink"
     ],
     "percentages": [
-      "6.8",
-      "6.4",
+      "6.3",
+      "6.3",
       "5.5",
-      "5.0"
+      "5.1"
     ],
-    "wins": 50,
-    "losses": 43
+    "wins": 53,
+    "losses": 47
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
