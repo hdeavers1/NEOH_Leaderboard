@@ -57,7 +57,7 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "PLATINUM 3",
-    "rating": 1945.6,
+    "rating": 1931.3,
     "characters": [
       "DK"
     ],
@@ -65,7 +65,7 @@
       "99.2"
     ],
     "wins": 276,
-    "losses": 265
+    "losses": 266
   },
   "CHAR#991": {
     "name": "Char",
@@ -199,7 +199,7 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2036.2,
+    "rating": 2050.2,
     "characters": [
       "Samus",
       "Falco"
@@ -208,7 +208,7 @@
       "97.9",
       "2.1"
     ],
-    "wins": 170,
+    "wins": 171,
     "losses": 147
   },
   "DOUG#405": {
@@ -225,7 +225,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1897.4,
+    "rating": 1869.4,
     "characters": [
       "Falcon"
     ],
@@ -233,7 +233,7 @@
       "100.0"
     ],
     "wins": 93,
-    "losses": 68
+    "losses": 70
   },
   "JUST#577": {
     "name": "Just",
@@ -394,18 +394,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1907.2,
+    "rank": "PLATINUM 3",
+    "rating": 1976,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.3",
-      "14.9"
+      "83.6",
+      "14.6"
     ],
-    "wins": 89,
-    "losses": 87
+    "wins": 96,
+    "losses": 89
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -441,7 +441,7 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "PLATINUM 1",
-    "rating": 1775.1,
+    "rating": 1788.7,
     "characters": [
       "Doc",
       "Fox",
@@ -452,9 +452,9 @@
       "6.3",
       "6.3",
       "5.5",
-      "5.1"
+      "5.0"
     ],
-    "wins": 53,
+    "wins": 54,
     "losses": 47
   },
   "MEDIC#0": {
