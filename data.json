@@ -43,15 +43,15 @@
     "name": "Aspiring HM",
     "tag": "QCUM#685",
     "rank": "GOLD 3",
-    "rating": 1677.2,
+    "rating": 1700.4,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 19,
-    "losses": 15
+    "wins": 21,
+    "losses": 17
   },
   "MAYO#795": {
     "name": "Mayonaisaurus",
@@ -441,21 +441,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "PLATINUM 1",
-    "rating": 1788.7,
+    "rating": 1786.1,
     "characters": [
       "Doc",
       "Fox",
-      "Mewtwo",
-      "YLink"
+      "YLink",
+      "DK"
     ],
     "percentages": [
-      "6.3",
-      "6.3",
-      "5.5",
-      "5.0"
+      "6.0",
+      "6.0",
+      "5.2",
+      "5.2"
     ],
-    "wins": 54,
-    "losses": 47
+    "wins": 56,
+    "losses": 50
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
