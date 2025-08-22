@@ -441,21 +441,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "PLATINUM 1",
-    "rating": 1786.1,
+    "rating": 1770.7,
     "characters": [
+      "YLink",
       "Doc",
       "Fox",
-      "YLink",
       "DK"
     ],
     "percentages": [
-      "6.0",
-      "6.0",
-      "5.2",
-      "5.2"
+      "5.9",
+      "5.9",
+      "5.9",
+      "5.1"
     ],
     "wins": 56,
-    "losses": 50
+    "losses": 52
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
