@@ -441,7 +441,7 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1738.5,
+    "rating": 1740.6,
     "characters": [
       "YLink",
       "Doc",
@@ -449,13 +449,13 @@
       "Falcon"
     ],
     "percentages": [
-      "5.7",
-      "5.7",
-      "5.7",
-      "5.3"
+      "6.0",
+      "5.6",
+      "5.6",
+      "5.2"
     ],
-    "wins": 56,
-    "losses": 56
+    "wins": 57,
+    "losses": 57
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
@@ -550,7 +550,7 @@
     "losses": 0
   },
   "EGAG#906": {
-    "name": "my head hurts",
+    "name": "idk man",
     "tag": "EGAG#906",
     "rank": "SILVER 1",
     "rating": 1130.5,
