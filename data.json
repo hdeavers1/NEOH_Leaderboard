@@ -165,19 +165,19 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "SILVER 3",
-    "rating": 1404.7,
+    "rating": 1388.8,
     "characters": [
       "Peach",
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "62.0",
-      "33.0",
-      "3.0"
+      "60.8",
+      "34.3",
+      "2.9"
     ],
     "wins": 22,
-    "losses": 23
+    "losses": 24
   },
   "FRUM#591": {
     "name": "Unc",
