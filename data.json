@@ -165,19 +165,19 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "SILVER 3",
-    "rating": 1350.6,
+    "rating": 1338.5,
     "characters": [
       "Peach",
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "58.5",
-      "36.8",
+      "57.4",
+      "38.0",
       "2.8"
     ],
     "wins": 22,
-    "losses": 26
+    "losses": 27
   },
   "FRUM#591": {
     "name": "Unc",
@@ -692,6 +692,16 @@
     ],
     "wins": 5,
     "losses": 5
+  },
+  "SYS#0": {
+    "name": "Syspen",
+    "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "CHAZ#100": {
     "name": "chase",
