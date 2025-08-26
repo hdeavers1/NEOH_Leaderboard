@@ -394,18 +394,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 3",
-    "rating": 1934,
+    "rank": "PLATINUM 2",
+    "rating": 1920.5,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.8",
-      "14.6"
+      "83.7",
+      "14.7"
     ],
-    "wins": 105,
-    "losses": 101
+    "wins": 107,
+    "losses": 103
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -663,19 +663,19 @@
     "name": "ilovefunny123",
     "tag": "BRIDGE#0",
     "rank": "GOLD 1",
-    "rating": 1459.8,
+    "rating": 1447.6,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "83.0",
+      "82.9",
       "9.7",
-      "6.9"
+      "7.0"
     ],
     "wins": 574,
-    "losses": 562
+    "losses": 563
   },
   "ELDE#792": {
     "name": "EldenLord",
