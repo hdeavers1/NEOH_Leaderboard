@@ -151,7 +151,7 @@
     "name": "pingas",
     "tag": "JARD#561",
     "rank": "GOLD 1",
-    "rating": 1517,
+    "rating": 1474.6,
     "characters": [
       "Falcon"
     ],
@@ -159,7 +159,7 @@
       "100.0"
     ],
     "wins": 20,
-    "losses": 17
+    "losses": 19
   },
   "FUEL#375": {
     "name": "Fuelperks",
@@ -350,8 +350,8 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 2",
-    "rating": 1845.9,
+    "rank": "PLATINUM 1",
+    "rating": 1829.9,
     "characters": [
       "Marth"
     ],
@@ -359,7 +359,7 @@
       "100.0"
     ],
     "wins": 21,
-    "losses": 12
+    "losses": 14
   },
   "ZBOO#991": {
     "name": "(-:",
