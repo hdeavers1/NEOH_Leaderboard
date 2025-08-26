@@ -347,6 +347,20 @@
     "wins": 214,
     "losses": 165
   },
+  "FLOW#08": {
+    "name": "Flow",
+    "tag": "FLOW#08",
+    "rank": "PLATINUM 2",
+    "rating": 1845.9,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 21,
+    "losses": 12
+  },
   "ZBOO#991": {
     "name": "(-:",
     "tag": "ZBOO#991",
