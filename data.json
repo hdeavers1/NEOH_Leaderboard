@@ -662,20 +662,20 @@
   "BRIDGE#0": {
     "name": "ilovefunny123",
     "tag": "BRIDGE#0",
-    "rank": "GOLD 1",
-    "rating": 1493.2,
+    "rank": "GOLD 2",
+    "rating": 1564,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "82.6",
-      "9.7",
-      "7.4"
+      "82.1",
+      "9.6",
+      "8.0"
     ],
-    "wins": 578,
-    "losses": 564
+    "wins": 584,
+    "losses": 565
   },
   "ELDE#792": {
     "name": "EldenLord",
