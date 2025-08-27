@@ -151,7 +151,7 @@
     "name": "pingas",
     "tag": "JARD#561",
     "rank": "GOLD 1",
-    "rating": 1517,
+    "rating": 1474.6,
     "characters": [
       "Falcon"
     ],
@@ -159,7 +159,7 @@
       "100.0"
     ],
     "wins": 20,
-    "losses": 17
+    "losses": 19
   },
   "FUEL#375": {
     "name": "Fuelperks",
@@ -305,20 +305,6 @@
     "wins": 19,
     "losses": 12
   },
-  "BLSE#808": {
-    "name": "$hine Forever",
-    "tag": "BLSE#808",
-    "rank": "GRANDMASTER",
-    "rating": 2474.5,
-    "characters": [
-      "Pikachu"
-    ],
-    "percentages": [
-      "98.0"
-    ],
-    "wins": 119,
-    "losses": 33
-  },
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
@@ -350,8 +336,8 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 2",
-    "rating": 1845.9,
+    "rank": "PLATINUM 1",
+    "rating": 1829.9,
     "characters": [
       "Marth"
     ],
@@ -359,7 +345,7 @@
       "100.0"
     ],
     "wins": 21,
-    "losses": 12
+    "losses": 14
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -550,7 +536,7 @@
     "losses": 0
   },
   "EGAG#906": {
-    "name": "idk man",
+    "name": "new at this",
     "tag": "EGAG#906",
     "rank": "SILVER 1",
     "rating": 1130.5,
@@ -663,19 +649,19 @@
     "name": "ilovefunny123",
     "tag": "BRIDGE#0",
     "rank": "GOLD 1",
-    "rating": 1447.6,
+    "rating": 1543.2,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "82.9",
-      "9.7",
-      "7.0"
+      "81.5",
+      "9.6",
+      "8.6"
     ],
-    "wins": 574,
-    "losses": 563
+    "wins": 587,
+    "losses": 570
   },
   "ELDE#792": {
     "name": "EldenLord",
@@ -720,5 +706,19 @@
     ],
     "wins": 121,
     "losses": 114
+  },
+  "VYV#0": {
+    "name": "vyv",
+    "tag": "VYV#0",
+    "rank": "SILVER 2",
+    "rating": 1220.2,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 51,
+    "losses": 53
   }
 }
