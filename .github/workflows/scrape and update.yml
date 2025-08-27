@@ -33,11 +33,14 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
 
-          git pull --rebase origin main
-
           git add data.json
           git diff --cached --quiet || git commit -m "⏰ Hourly data update"
 
+
+          git pull --rebase origin main
+
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/hdeavers1/NEOH_Leaderboard
           git push origin HEAD
+
+          
           
