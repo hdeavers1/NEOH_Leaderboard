@@ -305,20 +305,6 @@
     "wins": 19,
     "losses": 12
   },
-  "BLSE#808": {
-    "name": "$hine Forever",
-    "tag": "BLSE#808",
-    "rank": "GRANDMASTER",
-    "rating": 2474.5,
-    "characters": [
-      "Pikachu"
-    ],
-    "percentages": [
-      "98.0"
-    ],
-    "wins": 119,
-    "losses": 33
-  },
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
@@ -662,20 +648,20 @@
   "BRIDGE#0": {
     "name": "ilovefunny123",
     "tag": "BRIDGE#0",
-    "rank": "GOLD 2",
-    "rating": 1560.3,
+    "rank": "GOLD 1",
+    "rating": 1543.2,
     "characters": [
       "Fox",
       "Falco",
       "Peach"
     ],
     "percentages": [
-      "81.6",
+      "81.5",
       "9.6",
-      "8.5"
+      "8.6"
     ],
     "wins": 587,
-    "losses": 568
+    "losses": 570
   },
   "ELDE#792": {
     "name": "EldenLord",
