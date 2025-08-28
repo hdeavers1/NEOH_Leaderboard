@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "ABC Chump Check",
+    "name": "BarkForMe",
     "tag": "WWJ#916",
     "rank": "GOLD 1",
     "rating": 1460.5,
@@ -67,16 +67,6 @@
     "wins": 280,
     "losses": 277
   },
-  "CHAR#991": {
-    "name": "Char",
-    "tag": "CHAR#991",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -136,15 +126,15 @@
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
-    "rank": "SILVER 3",
-    "rating": 1396.8,
+    "rank": "GOLD 1",
+    "rating": 1439.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 32,
+    "wins": 35,
     "losses": 37
   },
   "JARD#561": {
@@ -210,16 +200,6 @@
     ],
     "wins": 171,
     "losses": 147
-  },
-  "DOUG#405": {
-    "name": "ひ",
-    "tag": "DOUG#405",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "ASIG#701": {
     "name": "aSig",
@@ -305,6 +285,20 @@
     "wins": 19,
     "losses": 12
   },
+  "BLSE#808": {
+    "name": "$hine Forever",
+    "tag": "BLSE#808",
+    "rank": "GRANDMASTER",
+    "rating": 2474.5,
+    "characters": [
+      "Pikachu"
+    ],
+    "percentages": [
+      "98.0"
+    ],
+    "wins": 119,
+    "losses": 33
+  },
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
@@ -380,18 +374,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 3",
-    "rating": 1956.5,
+    "rank": "PLATINUM 2",
+    "rating": 1915.4,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "84.0",
-      "14.5"
+      "83.5",
+      "15.0"
     ],
-    "wins": 110,
-    "losses": 104
+    "wins": 112,
+    "losses": 111
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -644,40 +638,6 @@
     ],
     "wins": 60,
     "losses": 48
-  },
-  "BRIDGE#0": {
-    "name": "ilovefunny123",
-    "tag": "BRIDGE#0",
-    "rank": "GOLD 1",
-    "rating": 1543.2,
-    "characters": [
-      "Fox",
-      "Falco",
-      "Peach"
-    ],
-    "percentages": [
-      "81.5",
-      "9.6",
-      "8.6"
-    ],
-    "wins": 587,
-    "losses": 570
-  },
-  "ELDE#792": {
-    "name": "EldenLord",
-    "tag": "ELDE#792",
-    "rank": "SILVER 3",
-    "rating": 1384.1,
-    "characters": [
-      "DK",
-      "Yoshi"
-    ],
-    "percentages": [
-      "76.0",
-      "24.0"
-    ],
-    "wins": 5,
-    "losses": 5
   },
   "SYS#0": {
     "name": "Syspen",
