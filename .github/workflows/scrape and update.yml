@@ -20,11 +20,18 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Remove puppeteer-core (if exists)
+        run: npm uninstall puppeteer-core
+
       - name: Install dependencies
         run: npm install puppeteer@latest
 
+      - name: Ensure Chromium is available
+        run: npx puppeteer browsers install chrome
+
       - name: Run scraper
         run: node server.js
+
 
       - name: Commit and push data
         env:
