@@ -205,15 +205,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1873.3,
+    "rating": 1883.6,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 95,
-    "losses": 71
+    "wins": 98,
+    "losses": 73
   },
   "JUST#577": {
     "name": "Just",
@@ -317,15 +317,15 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 3",
-    "rating": 2175.4,
+    "rating": 2151,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.9"
+      "98.0"
     ],
-    "wins": 214,
-    "losses": 165
+    "wins": 217,
+    "losses": 168
   },
   "FLOW#08": {
     "name": "Flow",
