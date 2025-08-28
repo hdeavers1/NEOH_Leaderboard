@@ -316,16 +316,16 @@
   "JINK#1": {
     "name": "Pinky Promise",
     "tag": "JINK#1",
-    "rank": "DIAMOND 3",
-    "rating": 2151,
+    "rank": "DIAMOND 2",
+    "rating": 2110.5,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.0"
+      "97.9"
     ],
-    "wins": 217,
-    "losses": 168
+    "wins": 219,
+    "losses": 172
   },
   "FLOW#08": {
     "name": "Flow",
