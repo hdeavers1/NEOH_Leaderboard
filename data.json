@@ -1,18 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "BarkForMe",
-    "tag": "WWJ#916",
-    "rank": "GOLD 1",
-    "rating": 1460.5,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 1
-  },
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
@@ -377,17 +363,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1944.4,
+    "rating": 1929.8,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.7",
-      "14.9"
+      "83.8",
+      "14.8"
     ],
     "wins": 116,
-    "losses": 112
+    "losses": 113
   },
   "DNZO#333": {
     "name": "the thinker",
