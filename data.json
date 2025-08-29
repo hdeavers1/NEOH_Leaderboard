@@ -376,18 +376,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1915.4,
+    "rank": "PLATINUM 3",
+    "rating": 1944.4,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.5",
-      "15.0"
+      "83.7",
+      "14.9"
     ],
-    "wins": 112,
-    "losses": 111
+    "wins": 116,
+    "losses": 112
   },
   "DNZO#333": {
     "name": "the thinker",
