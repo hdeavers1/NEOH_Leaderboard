@@ -108,20 +108,22 @@
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
-    "rank": "SILVER 3",
-    "rating": 1400.5,
+    "rank": "GOLD 1",
+    "rating": 1463.8,
     "characters": [
       "Falcon",
       "Fox",
+      "Mario",
       "Doc"
     ],
     "percentages": [
-      "76.7",
+      "73.3",
       "20.0",
-      "3.3"
+      "4.4",
+      "2.2"
     ],
-    "wins": 8,
-    "losses": 5
+    "wins": 11,
+    "losses": 8
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -219,15 +221,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2320.7,
+    "rating": 2320,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 67,
-    "losses": 26
+    "wins": 68,
+    "losses": 28
   },
   "SPOT#861": {
     "name": "invader zyn",
@@ -614,18 +616,18 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PLATINUM 2",
-    "rating": 1912.3,
+    "rank": "PLATINUM 3",
+    "rating": 1927.3,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "91.9",
-      "5.9"
+      "92.1",
+      "5.8"
     ],
-    "wins": 47,
-    "losses": 49
+    "wins": 48,
+    "losses": 50
   },
   "BOZO#386": {
     "name": "super pichu",
