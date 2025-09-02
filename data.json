@@ -108,22 +108,20 @@
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
-    "rank": "GOLD 1",
-    "rating": 1463.8,
+    "rank": "GOLD 2",
+    "rating": 1589.8,
     "characters": [
       "Falcon",
       "Fox",
-      "Mario",
-      "Doc"
+      "Mario"
     ],
     "percentages": [
-      "73.3",
-      "20.0",
-      "4.4",
-      "2.2"
+      "72.6",
+      "22.6",
+      "3.2"
     ],
-    "wins": 11,
-    "losses": 8
+    "wins": 16,
+    "losses": 10
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -221,15 +219,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2320,
+    "rating": 2297.5,
     "characters": [
       "Sheik"
     ],
     "percentages": [
-      "99.1"
+      "99.2"
     ],
     "wins": 68,
-    "losses": 28
+    "losses": 30
   },
   "SPOT#861": {
     "name": "invader zyn",
@@ -291,15 +289,15 @@
     "name": "$hine Forever",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2485.1,
+    "rating": 2460.3,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "98.0"
+      "98.1"
     ],
-    "wins": 123,
-    "losses": 33
+    "wins": 127,
+    "losses": 35
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -378,18 +376,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 3",
-    "rating": 1929.8,
+    "rank": "PLATINUM 2",
+    "rating": 1922.8,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.8",
-      "14.8"
+      "83.6",
+      "14.9"
     ],
-    "wins": 116,
-    "losses": 113
+    "wins": 117,
+    "losses": 115
   },
   "DNZO#333": {
     "name": "the thinker",
