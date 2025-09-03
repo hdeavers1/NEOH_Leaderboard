@@ -219,15 +219,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2328.7,
+    "rating": 2370.1,
     "characters": [
       "Sheik"
     ],
     "percentages": [
-      "99.2"
+      "99.3"
     ],
-    "wins": 74,
-    "losses": 32
+    "wins": 80,
+    "losses": 33
   },
   "SPOT#861": {
     "name": "invader zyn",
@@ -615,17 +615,17 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "DIAMOND 1",
-    "rating": 2034.7,
+    "rating": 2016,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "92.9",
+      "93.0",
       "5.2"
     ],
     "wins": 56,
-    "losses": 53
+    "losses": 55
   },
   "BOZO#386": {
     "name": "super pichu",
