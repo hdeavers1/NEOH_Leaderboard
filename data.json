@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "BarkForMe",
+    "name": "KeepTheChange",
     "tag": "WWJ#916",
     "rank": "GOLD 1",
     "rating": 1460.5,
@@ -17,17 +17,17 @@
     "name": "Jubly",
     "tag": "JUBS#579",
     "rank": "GOLD 3",
-    "rating": 1694.3,
+    "rating": 1707.9,
     "characters": [
       "Falco",
       "Falcon"
     ],
     "percentages": [
-      "97.0",
-      "3.0"
+      "97.4",
+      "2.6"
     ],
-    "wins": 17,
-    "losses": 10
+    "wins": 19,
+    "losses": 12
   },
   "BIGO#869": {
     "name": "fuelTwerks",
@@ -126,16 +126,16 @@
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
-    "rank": "GOLD 1",
-    "rating": 1496,
+    "rank": "GOLD 2",
+    "rating": 1564.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.8"
+      "97.9"
     ],
-    "wins": 40,
-    "losses": 39
+    "wins": 46,
+    "losses": 40
   },
   "JARD#561": {
     "name": "pingas",
