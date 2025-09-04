@@ -127,14 +127,14 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 2",
-    "rating": 1564.7,
+    "rating": 1580.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.9"
+      "98.0"
     ],
-    "wins": 46,
+    "wins": 47,
     "losses": 40
   },
   "JARD#561": {
@@ -219,7 +219,7 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2370.1,
+    "rating": 2355.4,
     "characters": [
       "Sheik"
     ],
@@ -227,7 +227,7 @@
       "99.3"
     ],
     "wins": 80,
-    "losses": 33
+    "losses": 35
   },
   "SPOT#861": {
     "name": "invader zyn",
@@ -377,17 +377,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1922.8,
+    "rating": 1906.6,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.6",
-      "14.9"
+      "82.9",
+      "15.7"
     ],
-    "wins": 117,
-    "losses": 115
+    "wins": 120,
+    "losses": 119
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -615,16 +615,16 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "DIAMOND 1",
-    "rating": 2016,
+    "rating": 2049.9,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "93.0",
-      "5.2"
+      "93.1",
+      "5.1"
     ],
-    "wins": 56,
+    "wins": 58,
     "losses": 55
   },
   "BOZO#386": {
