@@ -188,8 +188,8 @@
   "CUTS#327": {
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
-    "rank": "DIAMOND 1",
-    "rating": 2041.6,
+    "rank": "DIAMOND 2",
+    "rating": 2090.7,
     "characters": [
       "Samus",
       "Falco"
@@ -198,7 +198,7 @@
       "97.9",
       "2.1"
     ],
-    "wins": 177,
+    "wins": 183,
     "losses": 152
   },
   "ASIG#701": {
