@@ -549,6 +549,20 @@
     "wins": 2,
     "losses": 4
   },
+  "WICE#699": {
+    "name": "Dougie Jones",
+    "tag": "WICE#699",
+    "rank": "DIAMOND 2",
+    "rating": 2098.9,
+    "characters": [
+      "ICs"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 37,
+    "losses": 24
+  },
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
