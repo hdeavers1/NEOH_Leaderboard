@@ -127,15 +127,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 2",
-    "rating": 1583,
+    "rating": 1555.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.0"
+      "98.1"
     ],
     "wins": 48,
-    "losses": 41
+    "losses": 43
   },
   "JARD#561": {
     "name": "pingas",
@@ -481,15 +481,15 @@
     "name": "JHTL",
     "tag": "JHTL#587",
     "rank": "PLATINUM 3",
-    "rating": 1972.1,
+    "rating": 1975.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 30,
-    "losses": 15
+    "wins": 31,
+    "losses": 16
   },
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
@@ -548,20 +548,6 @@
     ],
     "wins": 2,
     "losses": 4
-  },
-  "WICE#699": {
-    "name": "Dougie Jones",
-    "tag": "WICE#699",
-    "rank": "DIAMOND 2",
-    "rating": 2098.9,
-    "characters": [
-      "ICs"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 37,
-    "losses": 24
   },
   "DANK#954": {
     "name": "DankKnight",
