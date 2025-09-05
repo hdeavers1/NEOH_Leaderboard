@@ -189,17 +189,17 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2043.4,
+    "rating": 2025.4,
     "characters": [
       "Samus",
       "Falco"
     ],
     "percentages": [
-      "97.9",
-      "2.1"
+      "97.8",
+      "2.2"
     ],
-    "wins": 171,
-    "losses": 148
+    "wins": 174,
+    "losses": 151
   },
   "ASIG#701": {
     "name": "aSig",
@@ -244,7 +244,7 @@
     "losses": 9
   },
   "PLAY#647": {
-    "name": "Beak Thing",
+    "name": "Skilled Pro",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
     "rating": 2130.6,
