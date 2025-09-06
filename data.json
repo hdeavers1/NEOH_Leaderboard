@@ -301,17 +301,17 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "DIAMOND 3",
-    "rating": 2159.6,
+    "rating": 2166.2,
     "characters": [
       "Samus",
       "Fox"
     ],
     "percentages": [
-      "97.4",
+      "97.5",
       "2.1"
     ],
-    "wins": 133,
-    "losses": 65
+    "wins": 135,
+    "losses": 67
   },
   "JINK#1": {
     "name": "Pinky Promise",
@@ -596,20 +596,20 @@
     "losses": 29
   },
   "MOSHI#0": {
-    "name": "1mLBSOfRatMeat",
+    "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1778.1,
+    "rating": 1766.5,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.5",
-      "2.3"
+      "96.2",
+      "2.5"
     ],
     "wins": 186,
-    "losses": 174
+    "losses": 175
   },
   "SMEG#879": {
     "name": "$",
