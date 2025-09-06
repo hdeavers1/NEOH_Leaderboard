@@ -127,15 +127,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1512.1,
+    "rating": 1514.8,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.1"
+      "98.2"
     ],
-    "wins": 48,
-    "losses": 46
+    "wins": 49,
+    "losses": 47
   },
   "JARD#561": {
     "name": "pingas",
@@ -301,15 +301,17 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "DIAMOND 3",
-    "rating": 2163.3,
+    "rating": 2159.6,
     "characters": [
-      "Samus"
+      "Samus",
+      "Fox"
     ],
     "percentages": [
-      "97.6"
+      "97.4",
+      "2.1"
     ],
-    "wins": 130,
-    "losses": 62
+    "wins": 133,
+    "losses": 65
   },
   "JINK#1": {
     "name": "Pinky Promise",
