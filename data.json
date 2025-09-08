@@ -439,6 +439,20 @@
     "wins": 61,
     "losses": 61
   },
+  "MEDIC#0": {
+    "name": "TheGreenGoober",
+    "tag": "MEDIC#0",
+    "rank": "BRONZE 3",
+    "rating": 913.9,
+    "characters": [
+      "Luigi"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 14
+  },
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
