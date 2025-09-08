@@ -127,15 +127,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1514.8,
+    "rating": 1521.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.2"
     ],
-    "wins": 49,
-    "losses": 47
+    "wins": 50,
+    "losses": 48
   },
   "JARD#561": {
     "name": "pingas",
@@ -599,16 +599,16 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1766.5,
+    "rating": 1820.6,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.2",
+      "96.3",
       "2.5"
     ],
-    "wins": 186,
+    "wins": 192,
     "losses": 175
   },
   "SMEG#879": {
