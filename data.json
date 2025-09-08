@@ -203,7 +203,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1924.6,
+    "rating": 1896,
     "characters": [
       "Falcon"
     ],
@@ -211,7 +211,7 @@
       "100.0"
     ],
     "wins": 111,
-    "losses": 84
+    "losses": 86
   },
   "JUST#577": {
     "name": "Just",
@@ -438,20 +438,6 @@
     ],
     "wins": 61,
     "losses": 61
-  },
-  "MEDIC#0": {
-    "name": "TheGreenGoober",
-    "tag": "MEDIC#0",
-    "rank": "BRONZE 3",
-    "rating": 913.9,
-    "characters": [
-      "Luigi"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 14
   },
   "SERE#225": {
     "name": "sp1nda",
