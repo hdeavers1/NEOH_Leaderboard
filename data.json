@@ -155,19 +155,19 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "SILVER 3",
-    "rating": 1351.7,
+    "rating": 1350.3,
     "characters": [
-      "Peach",
       "Pikachu",
+      "Peach",
       "Fox"
     ],
     "percentages": [
-      "52.5",
-      "43.2",
-      "2.5"
+      "48.5",
+      "47.7",
+      "2.3"
     ],
-    "wins": 24,
-    "losses": 29
+    "wins": 26,
+    "losses": 32
   },
   "FRUM#591": {
     "name": "Unc",
@@ -203,15 +203,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1899.3,
+    "rating": 1887.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 104,
-    "losses": 78
+    "wins": 106,
+    "losses": 81
   },
   "JUST#577": {
     "name": "Just",
@@ -615,17 +615,17 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "DIAMOND 1",
-    "rating": 2046.5,
+    "rating": 2042.6,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
       "93.7",
-      "4.8"
+      "4.7"
     ],
     "wins": 68,
-    "losses": 61
+    "losses": 62
   },
   "BOZO#386": {
     "name": "super pichu",
