@@ -615,17 +615,17 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "DIAMOND 1",
-    "rating": 2042.6,
+    "rating": 2058.5,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "93.7",
-      "4.7"
+      "94.0",
+      "4.5"
     ],
-    "wins": 68,
-    "losses": 62
+    "wins": 72,
+    "losses": 65
   },
   "BOZO#386": {
     "name": "super pichu",
