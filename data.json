@@ -614,18 +614,18 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "DIAMOND 1",
-    "rating": 2018.5,
+    "rank": "PLATINUM 3",
+    "rating": 1978.7,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "94.2",
-      "4.3"
+      "94.4",
+      "4.2"
     ],
-    "wins": 73,
-    "losses": 68
+    "wins": 75,
+    "losses": 72
   },
   "BOZO#386": {
     "name": "super pichu",
