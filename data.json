@@ -56,16 +56,16 @@
   "MAYO#795": {
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 2",
-    "rating": 1870,
+    "rank": "PLATINUM 1",
+    "rating": 1827.7,
     "characters": [
       "DK"
     ],
     "percentages": [
       "99.2"
     ],
-    "wins": 285,
-    "losses": 283
+    "wins": 286,
+    "losses": 286
   },
   "PANC#613": {
     "name": "panchito$",
@@ -127,15 +127,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1521.2,
+    "rating": 1528.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.2"
+      "98.3"
     ],
-    "wins": 50,
-    "losses": 48
+    "wins": 52,
+    "losses": 49
   },
   "JARD#561": {
     "name": "pingas",
@@ -317,17 +317,17 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2128.9,
+    "rating": 2124.2,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.8",
+      "97.9",
       "2.0"
     ],
-    "wins": 224,
-    "losses": 177
+    "wins": 226,
+    "losses": 178
   },
   "FLOW#08": {
     "name": "Flow",
