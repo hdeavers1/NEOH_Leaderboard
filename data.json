@@ -317,15 +317,15 @@
     "name": "Pinky Promise",
     "tag": "JINK#1",
     "rank": "MASTER 1",
-    "rating": 2215.3,
+    "rating": 2218.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.9"
+      "98.0"
     ],
-    "wins": 238,
-    "losses": 180
+    "wins": 240,
+    "losses": 182
   },
   "FLOW#08": {
     "name": "Flow",
@@ -441,15 +441,15 @@
     "name": "TheGreenGoober",
     "tag": "MEDIC#0",
     "rank": "BRONZE 3",
-    "rating": 913.9,
+    "rating": 1029.5,
     "characters": [
       "Luigi"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
-    "losses": 14
+    "wins": 8,
+    "losses": 15
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -597,7 +597,7 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1809.9,
+    "rating": 1790.2,
     "characters": [
       "Peach",
       "Ness"
@@ -607,7 +607,7 @@
       "2.5"
     ],
     "wins": 193,
-    "losses": 177
+    "losses": 179
   },
   "SMEG#879": {
     "name": "$",
