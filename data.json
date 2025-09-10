@@ -440,15 +440,15 @@
   "MEDIC#0": {
     "name": "TheGreenGoober",
     "tag": "MEDIC#0",
-    "rank": "BRONZE 3",
-    "rating": 1029.5,
+    "rank": "SILVER 1",
+    "rating": 1063,
     "characters": [
       "Luigi"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 8,
+    "wins": 9,
     "losses": 15
   },
   "SERE#225": {
