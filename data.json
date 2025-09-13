@@ -105,24 +105,6 @@
     "wins": 4,
     "losses": 5
   },
-  "SPOR#247": {
-    "name": "Jub Lee",
-    "tag": "SPOR#247",
-    "rank": "GOLD 2",
-    "rating": 1589.8,
-    "characters": [
-      "Falcon",
-      "Fox",
-      "Mario"
-    ],
-    "percentages": [
-      "72.6",
-      "22.6",
-      "3.2"
-    ],
-    "wins": 16,
-    "losses": 10
-  },
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
