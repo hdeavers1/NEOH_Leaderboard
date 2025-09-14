@@ -375,7 +375,7 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1930.1,
+    "rating": 1937.7,
     "characters": [
       "Fox",
       "Marth"
@@ -384,8 +384,8 @@
       "83.1",
       "15.7"
     ],
-    "wins": 136,
-    "losses": 134
+    "wins": 138,
+    "losses": 136
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -420,8 +420,8 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "PLATINUM 1",
-    "rating": 1757.9,
+    "rank": "GOLD 3",
+    "rating": 1704.7,
     "characters": [
       "YLink",
       "Doc",
@@ -429,13 +429,13 @@
       "ICs"
     ],
     "percentages": [
-      "6.0",
-      "5.6",
-      "5.6",
-      "5.3"
+      "5.8",
+      "5.8",
+      "5.4",
+      "5.1"
     ],
     "wins": 61,
-    "losses": 61
+    "losses": 65
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
