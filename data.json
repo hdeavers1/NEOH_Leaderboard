@@ -330,15 +330,15 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 1",
-    "rating": 1829.9,
+    "rank": "PLATINUM 2",
+    "rating": 1877.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 21,
+    "wins": 23,
     "losses": 14
   },
   "ZBOO#991": {
@@ -374,18 +374,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 3",
-    "rating": 1945,
+    "rank": "PLATINUM 2",
+    "rating": 1911.5,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.1",
-      "15.8"
+      "83.2",
+      "15.6"
     ],
     "wins": 139,
-    "losses": 137
+    "losses": 139
   },
   "DNZO#333": {
     "name": "the thinker",
