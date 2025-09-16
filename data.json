@@ -57,15 +57,15 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1734.8,
+    "rating": 1731.7,
     "characters": [
       "DK"
     ],
     "percentages": [
-      "98.6"
+      "98.5"
     ],
-    "wins": 294,
-    "losses": 300
+    "wins": 295,
+    "losses": 301
   },
   "PANC#613": {
     "name": "panchito$",
@@ -375,17 +375,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1911.5,
+    "rating": 1911.7,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.2",
-      "15.6"
+      "83.4",
+      "15.4"
     ],
-    "wins": 139,
-    "losses": 139
+    "wins": 140,
+    "losses": 141
   },
   "DNZO#333": {
     "name": "the thinker",
