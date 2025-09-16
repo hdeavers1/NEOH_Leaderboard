@@ -57,14 +57,14 @@
     "name": "Mayonaisaurus",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1731.7,
+    "rating": 1740.7,
     "characters": [
       "DK"
     ],
     "percentages": [
       "98.5"
     ],
-    "wins": 295,
+    "wins": 296,
     "losses": 301
   },
   "PANC#613": {
@@ -670,8 +670,8 @@
   "VYV#0": {
     "name": "vyv",
     "tag": "VYV#0",
-    "rank": "SILVER 2",
-    "rating": 1207.7,
+    "rank": "SILVER 1",
+    "rating": 1179.3,
     "characters": [
       "Fox"
     ],
@@ -679,6 +679,6 @@
       "100.0"
     ],
     "wins": 51,
-    "losses": 54
+    "losses": 56
   }
 }
