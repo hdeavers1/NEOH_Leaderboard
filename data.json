@@ -189,15 +189,15 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "DIAMOND 2",
-    "rating": 2110.8,
+    "rating": 2116.3,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "98.0"
+      "98.1"
     ],
-    "wins": 198,
-    "losses": 158
+    "wins": 201,
+    "losses": 161
   },
   "ASIG#701": {
     "name": "aSig",
