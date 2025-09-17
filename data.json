@@ -283,6 +283,20 @@
     "wins": 19,
     "losses": 12
   },
+  "BLSE#808": {
+    "name": "$hine Forever",
+    "tag": "BLSE#808",
+    "rank": "GRANDMASTER",
+    "rating": 2477,
+    "characters": [
+      "Pikachu"
+    ],
+    "percentages": [
+      "97.9"
+    ],
+    "wins": 131,
+    "losses": 36
+  },
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
@@ -302,16 +316,16 @@
   "JINK#1": {
     "name": "Pinky Promise",
     "tag": "JINK#1",
-    "rank": "MASTER 1",
-    "rating": 2208.1,
+    "rank": "DIAMOND 3",
+    "rating": 2190.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.0"
     ],
-    "wins": 244,
-    "losses": 184
+    "wins": 245,
+    "losses": 187
   },
   "FLOW#08": {
     "name": "Flow",
