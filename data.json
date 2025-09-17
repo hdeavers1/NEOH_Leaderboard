@@ -188,16 +188,16 @@
   "CUTS#327": {
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
-    "rank": "DIAMOND 3",
-    "rating": 2139.8,
+    "rank": "DIAMOND 2",
+    "rating": 2106.2,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 204,
-    "losses": 162
+    "wins": 205,
+    "losses": 168
   },
   "ASIG#701": {
     "name": "aSig",
@@ -375,17 +375,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1911.7,
+    "rating": 1904.8,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.4",
-      "15.4"
+      "83.3",
+      "15.5"
     ],
     "wins": 140,
-    "losses": 141
+    "losses": 142
   },
   "DNZO#333": {
     "name": "the thinker",
