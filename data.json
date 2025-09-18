@@ -375,17 +375,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1908,
+    "rating": 1905.6,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.5",
-      "15.4"
+      "83.2",
+      "15.7"
     ],
-    "wins": 141,
-    "losses": 143
+    "wins": 143,
+    "losses": 146
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -597,17 +597,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1790.2,
+    "rating": 1805.8,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.4",
-      "2.5"
+      "96.3",
+      "2.4"
     ],
-    "wins": 193,
-    "losses": 179
+    "wins": 197,
+    "losses": 181
   },
   "SMEG#879": {
     "name": "$",
