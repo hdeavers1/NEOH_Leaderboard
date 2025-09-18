@@ -408,7 +408,7 @@
     "losses": 0
   },
   "DREW#175": {
-    "name": "Drew",
+    "name": "Unc",
     "tag": "DREW#175",
     "rank": "NONE",
     "rating": 0,
@@ -564,16 +564,16 @@
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1447.1,
+    "rank": "SILVER 3",
+    "rating": 1424.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 77,
-    "losses": 71
+    "wins": 78,
+    "losses": 74
   },
   "NCRO#183": {
     "name": "Ncro",
