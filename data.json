@@ -127,14 +127,14 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1498,
+    "rating": 1499.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.4"
+      "98.0"
     ],
-    "wins": 55,
+    "wins": 56,
     "losses": 55
   },
   "JARD#561": {
@@ -375,17 +375,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1895.8,
+    "rating": 1914.6,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "83.0",
+      "83.1",
       "15.9"
     ],
-    "wins": 148,
-    "losses": 153
+    "wins": 150,
+    "losses": 154
   },
   "DNZO#333": {
     "name": "the thinker",
