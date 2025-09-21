@@ -317,15 +317,15 @@
     "name": "PNKY (bo5)",
     "tag": "JINK#1",
     "rank": "MASTER 1",
-    "rating": 2241.6,
+    "rating": 2214.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.0"
+      "98.1"
     ],
-    "wins": 250,
-    "losses": 188
+    "wins": 252,
+    "losses": 191
   },
   "FLOW#08": {
     "name": "Flow",
