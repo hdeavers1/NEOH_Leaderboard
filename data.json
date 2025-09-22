@@ -57,7 +57,7 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1740.7,
+    "rating": 1734.8,
     "characters": [
       "DK"
     ],
@@ -65,7 +65,7 @@
       "98.5"
     ],
     "wins": 296,
-    "losses": 301
+    "losses": 302
   },
   "PANC#613": {
     "name": "panchito$",
@@ -189,15 +189,15 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "DIAMOND 2",
-    "rating": 2106.2,
+    "rating": 2105,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 205,
-    "losses": 168
+    "wins": 206,
+    "losses": 169
   },
   "ASIG#701": {
     "name": "aSig",
@@ -565,15 +565,15 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1411.4,
+    "rating": 1414.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 78,
-    "losses": 75
+    "wins": 80,
+    "losses": 77
   },
   "NCRO#183": {
     "name": "Ncro",
