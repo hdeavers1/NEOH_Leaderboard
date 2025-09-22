@@ -297,24 +297,8 @@
     "wins": 131,
     "losses": 36
   },
-  "FUCKIN#1": {
-    "name": "fknsilver",
-    "tag": "FUCKIN#1",
-    "rank": "DIAMOND 3",
-    "rating": 2179.8,
-    "characters": [
-      "Samus",
-      "Fox"
-    ],
-    "percentages": [
-      "97.5",
-      "2.0"
-    ],
-    "wins": 138,
-    "losses": 69
-  },
   "JINK#1": {
-    "name": "PNKY (bo5)",
+    "name": "PNKY",
     "tag": "JINK#1",
     "rank": "MASTER 1",
     "rating": 2214.1,
@@ -375,7 +359,7 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1976.2,
+    "rating": 1963.6,
     "characters": [
       "Fox",
       "Marth"
@@ -384,8 +368,8 @@
       "81.9",
       "17.0"
     ],
-    "wins": 169,
-    "losses": 167
+    "wins": 170,
+    "losses": 169
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -474,20 +458,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "JHTL#587": {
-    "name": "JHTL",
-    "tag": "JHTL#587",
-    "rank": "PLATINUM 3",
-    "rating": 1975.7,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 31,
-    "losses": 16
   },
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
