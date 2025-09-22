@@ -421,21 +421,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1704.7,
+    "rating": 1688.8,
     "characters": [
       "YLink",
       "Doc",
-      "Fox",
-      "ICs"
+      "ICs",
+      "Fox"
     ],
     "percentages": [
-      "5.8",
-      "5.8",
-      "5.4",
-      "5.1"
+      "5.6",
+      "5.6",
+      "5.3",
+      "5.3"
     ],
-    "wins": 61,
-    "losses": 65
+    "wins": 62,
+    "losses": 68
   },
   "MEDIC#0": {
     "name": "TheGreenGoober",
@@ -565,7 +565,7 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1424.6,
+    "rating": 1411.4,
     "characters": [
       "Marth"
     ],
@@ -573,7 +573,7 @@
       "99.4"
     ],
     "wins": 78,
-    "losses": 74
+    "losses": 75
   },
   "NCRO#183": {
     "name": "Ncro",
