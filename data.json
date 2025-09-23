@@ -297,6 +297,22 @@
     "wins": 131,
     "losses": 36
   },
+  "FUCKIN#1": {
+    "name": "fknsilver",
+    "tag": "FUCKIN#1",
+    "rank": "DIAMOND 3",
+    "rating": 2179.8,
+    "characters": [
+      "Samus",
+      "Fox"
+    ],
+    "percentages": [
+      "97.5",
+      "2.0"
+    ],
+    "wins": 138,
+    "losses": 69
+  },
   "JINK#1": {
     "name": "PNKY",
     "tag": "JINK#1",
@@ -459,6 +475,20 @@
     "wins": 0,
     "losses": 0
   },
+  "JHTL#587": {
+    "name": "JHTL",
+    "tag": "JHTL#587",
+    "rank": "PLATINUM 3",
+    "rating": 1975.7,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 31,
+    "losses": 16
+  },
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
@@ -567,17 +597,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1805.8,
+    "rating": 1800.5,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
       "96.3",
-      "2.4"
+      "2.5"
     ],
-    "wins": 197,
-    "losses": 181
+    "wins": 200,
+    "losses": 184
   },
   "SMEG#879": {
     "name": "$",
