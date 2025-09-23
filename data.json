@@ -593,22 +593,6 @@
     "wins": 36,
     "losses": 29
   },
-  "MOSHI#0": {
-    "name": "moshi",
-    "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1800.5,
-    "characters": [
-      "Peach",
-      "Ness"
-    ],
-    "percentages": [
-      "96.3",
-      "2.5"
-    ],
-    "wins": 200,
-    "losses": 184
-  },
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
