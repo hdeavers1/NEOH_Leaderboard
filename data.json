@@ -169,22 +169,6 @@
     "wins": 26,
     "losses": 32
   },
-  "FRUM#591": {
-    "name": "Glass House",
-    "tag": "FRUM#591",
-    "rank": "SILVER 2",
-    "rating": 1310.7,
-    "characters": [
-      "Falco",
-      "Fox"
-    ],
-    "percentages": [
-      "81.8",
-      "18.2"
-    ],
-    "wins": 3,
-    "losses": 2
-  },
   "CUTS#327": {
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
