@@ -127,15 +127,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1499,
+    "rating": 1494.8,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 58,
-    "losses": 57
+    "wins": 59,
+    "losses": 58
   },
   "JARD#561": {
     "name": "pingas",
@@ -506,7 +506,7 @@
     "losses": 251
   },
   "DEE#218": {
-    "name": "pink popo club",
+    "name": "tweepop curtis",
     "tag": "DEE#218",
     "rank": "GOLD 3",
     "rating": 1694.8,
