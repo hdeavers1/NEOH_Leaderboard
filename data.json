@@ -91,6 +91,20 @@
     "wins": 0,
     "losses": 0
   },
+  "NECK#152": {
+    "name": "neckboy",
+    "tag": "NECK#152",
+    "rank": "SILVER 2",
+    "rating": 1249.3,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 5
+  },
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
