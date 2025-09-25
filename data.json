@@ -127,7 +127,7 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1511.7,
+    "rating": 1499.9,
     "characters": [
       "Marth"
     ],
@@ -135,7 +135,7 @@
       "97.5"
     ],
     "wins": 62,
-    "losses": 60
+    "losses": 61
   },
   "JARD#561": {
     "name": "pingas",
@@ -316,8 +316,8 @@
   "JINK#1": {
     "name": "PNKY",
     "tag": "JINK#1",
-    "rank": "MASTER 1",
-    "rating": 2214.1,
+    "rank": "DIAMOND 3",
+    "rating": 2185.6,
     "characters": [
       "Marth"
     ],
@@ -325,7 +325,7 @@
       "98.1"
     ],
     "wins": 252,
-    "losses": 191
+    "losses": 193
   },
   "FLOW#08": {
     "name": "Flow",
@@ -509,15 +509,15 @@
     "name": "tweepop curtis",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1694.8,
+    "rating": 1669.4,
     "characters": [
       "ICs"
     ],
     "percentages": [
-      "100.0"
+      "99.7"
     ],
     "wins": 73,
-    "losses": 65
+    "losses": 67
   },
   "SUCC#860": {
     "name": "Wahey",
