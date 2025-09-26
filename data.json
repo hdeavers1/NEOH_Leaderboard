@@ -81,6 +81,16 @@
     "wins": 21,
     "losses": 16
   },
+  "LVLM#792": {
+    "name": "Uncut Jim",
+    "tag": "LVLM#792",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "NECK#152": {
     "name": "neckboy",
     "tag": "NECK#152",
@@ -307,15 +317,15 @@
     "name": "PNKY",
     "tag": "JINK#1",
     "rank": "MASTER 1",
-    "rating": 2216.3,
+    "rating": 2206.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 255,
-    "losses": 194
+    "wins": 256,
+    "losses": 196
   },
   "FLOW#08": {
     "name": "Flow",
@@ -365,17 +375,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1975.8,
+    "rating": 1960.5,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "81.8",
-      "17.1"
+      "81.6",
+      "17.3"
     ],
     "wins": 173,
-    "losses": 171
+    "losses": 172
   },
   "DNZO#333": {
     "name": "the thinker",
