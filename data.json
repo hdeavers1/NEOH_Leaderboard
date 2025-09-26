@@ -316,16 +316,16 @@
   "JINK#1": {
     "name": "PNKY",
     "tag": "JINK#1",
-    "rank": "DIAMOND 3",
-    "rating": 2185.6,
+    "rank": "MASTER 1",
+    "rating": 2193.8,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 252,
-    "losses": 193
+    "wins": 253,
+    "losses": 194
   },
   "FLOW#08": {
     "name": "Flow",
@@ -508,8 +508,8 @@
   "DEE#218": {
     "name": "tweepop curtis",
     "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1669.4,
+    "rank": "GOLD 2",
+    "rating": 1652.5,
     "characters": [
       "ICs"
     ],
@@ -517,7 +517,7 @@
       "99.7"
     ],
     "wins": 73,
-    "losses": 67
+    "losses": 68
   },
   "SUCC#860": {
     "name": "Wahey",
