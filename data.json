@@ -16,18 +16,20 @@
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
-    "rank": "GOLD 3",
-    "rating": 1707.9,
+    "rank": "GOLD 2",
+    "rating": 1651.4,
     "characters": [
       "Falco",
+      "Fox",
       "Falcon"
     ],
     "percentages": [
-      "97.4",
-      "2.6"
+      "89.4",
+      "8.2",
+      "2.4"
     ],
     "wins": 19,
-    "losses": 12
+    "losses": 15
   },
   "BIGO#869": {
     "name": "fuelTwerks",
