@@ -59,14 +59,14 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "PLATINUM 3",
-    "rating": 1931.2,
+    "rating": 1947,
     "characters": [
       "DK"
     ],
     "percentages": [
       "98.4"
     ],
-    "wins": 330,
+    "wins": 331,
     "losses": 323
   },
   "PANC#613": {
@@ -191,15 +191,15 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2035.2,
+    "rating": 2022.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "98.3"
+      "98.4"
     ],
-    "wins": 226,
-    "losses": 196
+    "wins": 227,
+    "losses": 200
   },
   "ASIG#701": {
     "name": "aSig",
@@ -318,16 +318,16 @@
   "JINK#1": {
     "name": "PNKY",
     "tag": "JINK#1",
-    "rank": "MASTER 1",
-    "rating": 2206.4,
+    "rank": "DIAMOND 3",
+    "rating": 2188,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 256,
-    "losses": 196
+    "wins": 257,
+    "losses": 198
   },
   "FLOW#08": {
     "name": "Flow",
@@ -510,8 +510,8 @@
   "DEE#218": {
     "name": "iyf. sinister",
     "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1666,
+    "rank": "GOLD 2",
+    "rating": 1641.4,
     "characters": [
       "ICs"
     ],
@@ -519,7 +519,7 @@
       "99.1"
     ],
     "wins": 75,
-    "losses": 70
+    "losses": 72
   },
   "SUCC#860": {
     "name": "Wahey",
