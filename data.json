@@ -58,15 +58,15 @@
   "MAYO#795": {
     "name": "dk doomer",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 2",
-    "rating": 1915.2,
+    "rank": "PLATINUM 3",
+    "rating": 1931.2,
     "characters": [
       "DK"
     ],
     "percentages": [
       "98.4"
     ],
-    "wins": 329,
+    "wins": 330,
     "losses": 323
   },
   "PANC#613": {
@@ -111,19 +111,19 @@
     "name": "Jub Lee",
     "tag": "SPOR#247",
     "rank": "GOLD 2",
-    "rating": 1556.3,
+    "rating": 1550.9,
     "characters": [
       "Falcon",
       "Fox",
       "Mario"
     ],
     "percentages": [
-      "68.2",
-      "27.3",
-      "3.0"
+      "66.2",
+      "29.6",
+      "2.8"
     ],
-    "wins": 16,
-    "losses": 12
+    "wins": 17,
+    "losses": 13
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -191,15 +191,15 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2055,
+    "rating": 2051.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "98.3"
     ],
-    "wins": 224,
-    "losses": 192
+    "wins": 225,
+    "losses": 193
   },
   "ASIG#701": {
     "name": "aSig",
