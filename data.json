@@ -59,29 +59,29 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1884.7,
+    "rating": 1874.7,
     "characters": [
       "DK"
     ],
     "percentages": [
       "98.4"
     ],
-    "wins": 322,
-    "losses": 318
+    "wins": 323,
+    "losses": 320
   },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
-    "rank": "GOLD 2",
-    "rating": 1560.5,
+    "rank": "GOLD 1",
+    "rating": 1539.5,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 21,
-    "losses": 16
+    "wins": 24,
+    "losses": 20
   },
   "LVLM#792": {
     "name": "Uncut Jim",
