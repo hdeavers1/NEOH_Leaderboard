@@ -93,20 +93,6 @@
     "wins": 0,
     "losses": 0
   },
-  "NECK#152": {
-    "name": "neckboy",
-    "tag": "NECK#152",
-    "rank": "SILVER 2",
-    "rating": 1249.3,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 5
-  },
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
@@ -191,15 +177,15 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2023.6,
+    "rating": 2055,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "98.3"
     ],
-    "wins": 221,
-    "losses": 191
+    "wins": 224,
+    "losses": 192
   },
   "ASIG#701": {
     "name": "aSig",
