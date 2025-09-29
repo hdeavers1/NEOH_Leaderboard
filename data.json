@@ -191,15 +191,15 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2051.6,
+    "rating": 2035.2,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "98.3"
     ],
-    "wins": 225,
-    "losses": 193
+    "wins": 226,
+    "losses": 196
   },
   "ASIG#701": {
     "name": "aSig",
@@ -510,16 +510,16 @@
   "DEE#218": {
     "name": "iyf. sinister",
     "tag": "DEE#218",
-    "rank": "GOLD 2",
-    "rating": 1646.3,
+    "rank": "GOLD 3",
+    "rating": 1666,
     "characters": [
       "ICs"
     ],
     "percentages": [
-      "99.7"
+      "99.1"
     ],
-    "wins": 73,
-    "losses": 69
+    "wins": 75,
+    "losses": 70
   },
   "SUCC#860": {
     "name": "Wahey",
