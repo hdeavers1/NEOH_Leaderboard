@@ -58,16 +58,16 @@
   "MAYO#795": {
     "name": "dk doomer",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 2",
-    "rating": 1914.7,
+    "rank": "PLATINUM 3",
+    "rating": 1937.6,
     "characters": [
       "DK"
     ],
     "percentages": [
-      "98.4"
+      "98.5"
     ],
-    "wins": 336,
-    "losses": 333
+    "wins": 341,
+    "losses": 335
   },
   "PANC#613": {
     "name": "panchito$",
@@ -205,15 +205,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1878.3,
+    "rating": 1883.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 117,
-    "losses": 95
+    "wins": 119,
+    "losses": 96
   },
   "JUST#577": {
     "name": "Just",
