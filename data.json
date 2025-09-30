@@ -73,14 +73,14 @@
     "name": "panchito$",
     "tag": "PANC#613",
     "rank": "GOLD 2",
-    "rating": 1583.6,
+    "rating": 1604.9,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 27,
+    "wins": 28,
     "losses": 21
   },
   "LVLM#792": {
@@ -174,18 +174,18 @@
   "FRUM#591": {
     "name": "Glass House",
     "tag": "FRUM#591",
-    "rank": "SILVER 2",
-    "rating": 1310.7,
+    "rank": "GOLD 1",
+    "rating": 1442.1,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "81.8",
-      "18.2"
+      "83.3",
+      "16.7"
     ],
-    "wins": 3,
-    "losses": 2
+    "wins": 5,
+    "losses": 3
   },
   "CUTS#327": {
     "name": "LonzoMorphBall",
