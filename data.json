@@ -141,6 +141,20 @@
     "wins": 72,
     "losses": 68
   },
+  "JARD#561": {
+    "name": "pingas",
+    "tag": "JARD#561",
+    "rank": "GOLD 1",
+    "rating": 1518.9,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 23,
+    "losses": 20
+  },
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
@@ -586,7 +600,7 @@
     "losses": 31
   },
   "MOSHI#0": {
-    "name": "Reppertar",
+    "name": "RepMonster",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1800.5,
