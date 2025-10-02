@@ -45,15 +45,15 @@
     "name": "Aspiring HM",
     "tag": "QCUM#685",
     "rank": "GOLD 3",
-    "rating": 1695.1,
+    "rating": 1660,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 23,
-    "losses": 19
+    "wins": 24,
+    "losses": 22
   },
   "MAYO#795": {
     "name": "dk doomer",
@@ -84,7 +84,7 @@
     "losses": 21
   },
   "LVLM#792": {
-    "name": "Uncut Jim",
+    "name": "Noho Hank",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
