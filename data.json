@@ -1,46 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "KeepTheChange",
-    "tag": "WWJ#916",
-    "rank": "GOLD 1",
-    "rating": 1460.5,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 1
-  },
-  "JUBS#579": {
-    "name": "Jubly",
-    "tag": "JUBS#579",
-    "rank": "GOLD 3",
-    "rating": 1665.4,
-    "characters": [
-      "Falco",
-      "Fox",
-      "Falcon"
-    ],
-    "percentages": [
-      "83.7",
-      "14.3",
-      "2.0"
-    ],
-    "wins": 22,
-    "losses": 18
-  },
-  "BIGO#869": {
-    "name": "fuelTwerks",
-    "tag": "BIGO#869",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "QCUM#685": {
     "name": "Aspiring HM",
     "tag": "QCUM#685",
@@ -193,15 +151,15 @@
     "name": "LonzoMorphBall",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2062.5,
+    "rating": 2061.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "98.4"
     ],
-    "wins": 238,
-    "losses": 208
+    "wins": 239,
+    "losses": 210
   },
   "ASIG#701": {
     "name": "aSig",
