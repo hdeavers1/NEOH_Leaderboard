@@ -321,15 +321,15 @@
     "name": "PNKY",
     "tag": "JINK#1",
     "rank": "MASTER 1",
-    "rating": 2210.7,
+    "rating": 2218.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 260,
-    "losses": 198
+    "wins": 263,
+    "losses": 201
   },
   "FLOW#08": {
     "name": "Flow",
@@ -550,20 +550,6 @@
     ],
     "wins": 2,
     "losses": 4
-  },
-  "WICE#699": {
-    "name": "Dougie Jones",
-    "tag": "WICE#699",
-    "rank": "DIAMOND 2",
-    "rating": 2098.9,
-    "characters": [
-      "ICs"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 37,
-    "losses": 24
   },
   "DANK#954": {
     "name": "DankKnight",
