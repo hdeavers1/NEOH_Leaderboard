@@ -57,7 +57,7 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1909.8,
+    "rating": 1899.9,
     "characters": [
       "DK"
     ],
@@ -65,7 +65,7 @@
       "98.5"
     ],
     "wins": 342,
-    "losses": 338
+    "losses": 340
   },
   "PANC#613": {
     "name": "panchito$",
@@ -126,8 +126,8 @@
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
-    "rank": "GOLD 1",
-    "rating": 1529.2,
+    "rank": "GOLD 2",
+    "rating": 1551.8,
     "characters": [
       "Marth",
       "Fox"
@@ -136,7 +136,7 @@
       "97.3",
       "2.1"
     ],
-    "wins": 74,
+    "wins": 76,
     "losses": 69
   },
   "JARD#561": {
@@ -601,17 +601,17 @@
     "name": "Ms.Doesn't Miss",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1800.5,
+    "rating": 1780.5,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.3",
-      "2.5"
+      "96.1",
+      "2.7"
     ],
     "wins": 200,
-    "losses": 184
+    "losses": 186
   },
   "SMEG#879": {
     "name": "$",
