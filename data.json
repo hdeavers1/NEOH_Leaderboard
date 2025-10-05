@@ -57,15 +57,15 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1899.9,
+    "rating": 1888.4,
     "characters": [
       "DK"
     ],
     "percentages": [
       "98.5"
     ],
-    "wins": 342,
-    "losses": 340
+    "wins": 343,
+    "losses": 342
   },
   "PANC#613": {
     "name": "panchito$",
@@ -601,17 +601,17 @@
     "name": "Ms.Doesn't Miss",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1780.5,
+    "rating": 1779.7,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "96.1",
-      "2.7"
+      "96.0",
+      "2.8"
     ],
-    "wins": 200,
-    "losses": 186
+    "wins": 201,
+    "losses": 187
   },
   "SMEG#879": {
     "name": "$",
