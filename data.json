@@ -127,16 +127,16 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1539,
+    "rating": 1540.6,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.2",
+      "97.3",
       "2.1"
     ],
-    "wins": 73,
+    "wins": 74,
     "losses": 68
   },
   "JARD#561": {
@@ -566,15 +566,15 @@
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
-    "rank": "SILVER 3",
-    "rating": 1414,
+    "rank": "GOLD 1",
+    "rating": 1438.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 84,
+    "wins": 86,
     "losses": 82
   },
   "NCRO#183": {
