@@ -1,19 +1,33 @@
 {
+  "WWJ#916": {
+    "name": "KeepTheChange",
+    "tag": "WWJ#916",
+    "rank": "GOLD 1",
+    "rating": 1460.5,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 1
+  },
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
     "rank": "GOLD 3",
-    "rating": 1685.1,
+    "rating": 1672.2,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "84.2",
-      "13.9"
+      "84.6",
+      "13.5"
     ],
     "wins": 23,
-    "losses": 18
+    "losses": 19
   },
   "BIGO#869": {
     "name": "fuelTwerks",
@@ -200,6 +214,20 @@
     ],
     "wins": 123,
     "losses": 100
+  },
+  "JUST#577": {
+    "name": "Just",
+    "tag": "JUST#577",
+    "rank": "GRANDMASTER",
+    "rating": 2334.8,
+    "characters": [
+      "Sheik"
+    ],
+    "percentages": [
+      "99.3"
+    ],
+    "wins": 81,
+    "losses": 37
   },
   "SPOT#861": {
     "name": "invader zyn",
