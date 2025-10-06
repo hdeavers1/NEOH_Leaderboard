@@ -57,15 +57,15 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1888.4,
+    "rating": 1873.5,
     "characters": [
       "DK"
     ],
     "percentages": [
-      "98.5"
+      "98.4"
     ],
-    "wins": 343,
-    "losses": 342
+    "wins": 344,
+    "losses": 344
   },
   "PANC#613": {
     "name": "panchito$",
@@ -205,14 +205,14 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1874.4,
+    "rating": 1883.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 123,
+    "wins": 124,
     "losses": 100
   },
   "JUST#577": {
@@ -377,17 +377,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1918.1,
+    "rating": 1909.3,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "81.0",
-      "17.8"
+      "81.1",
+      "17.7"
     ],
     "wins": 183,
-    "losses": 188
+    "losses": 189
   },
   "DNZO#333": {
     "name": "the thinker",
