@@ -105,6 +105,24 @@
     "wins": 4,
     "losses": 5
   },
+  "SPOR#247": {
+    "name": "Jub Lee",
+    "tag": "SPOR#247",
+    "rank": "GOLD 2",
+    "rating": 1550.9,
+    "characters": [
+      "Falcon",
+      "Fox",
+      "Mario"
+    ],
+    "percentages": [
+      "66.2",
+      "29.6",
+      "2.8"
+    ],
+    "wins": 17,
+    "losses": 13
+  },
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
@@ -324,22 +342,6 @@
     ],
     "wins": 26,
     "losses": 14
-  },
-  "ZBOO#991": {
-    "name": "(-:",
-    "tag": "ZBOO#991",
-    "rank": "PLATINUM 1",
-    "rating": 1770.2,
-    "characters": [
-      "Fox",
-      "G&W"
-    ],
-    "percentages": [
-      "96.3",
-      "3.7"
-    ],
-    "wins": 10,
-    "losses": 2
   },
   "PEE#658": {
     "name": "DraftKylePitts",
