@@ -56,16 +56,16 @@
   "MAYO#795": {
     "name": "dk doomer",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1839.5,
+    "rank": "PLATINUM 2",
+    "rating": 1858.3,
     "characters": [
       "DK"
     ],
     "percentages": [
-      "98.3"
+      "98.2"
     ],
-    "wins": 352,
-    "losses": 353
+    "wins": 356,
+    "losses": 354
   },
   "PANC#613": {
     "name": "panchito$",
@@ -284,20 +284,6 @@
     ],
     "wins": 19,
     "losses": 12
-  },
-  "BLSE#808": {
-    "name": "$hine Forever",
-    "tag": "BLSE#808",
-    "rank": "GRANDMASTER",
-    "rating": 2481.2,
-    "characters": [
-      "Pikachu"
-    ],
-    "percentages": [
-      "98.0"
-    ],
-    "wins": 132,
-    "losses": 36
   },
   "FUCKIN#1": {
     "name": "fknsilver",
