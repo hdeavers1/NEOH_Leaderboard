@@ -343,6 +343,22 @@
     "wins": 26,
     "losses": 14
   },
+  "ZBOO#991": {
+    "name": "(-:",
+    "tag": "ZBOO#991",
+    "rank": "PLATINUM 1",
+    "rating": 1770.2,
+    "characters": [
+      "Fox",
+      "G&W"
+    ],
+    "percentages": [
+      "96.3",
+      "3.7"
+    ],
+    "wins": 10,
+    "losses": 2
+  },
   "PEE#658": {
     "name": "DraftKylePitts",
     "tag": "PEE#658",
