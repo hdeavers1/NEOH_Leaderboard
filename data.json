@@ -1,18 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "KeepTheChange",
-    "tag": "WWJ#916",
-    "rank": "GOLD 1",
-    "rating": 1460.5,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 1
-  },
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
@@ -57,15 +43,15 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1907.1,
+    "rating": 1888.6,
     "characters": [
       "DK"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 369,
-    "losses": 363
+    "wins": 370,
+    "losses": 366
   },
   "PANC#613": {
     "name": "panchito$",
@@ -314,20 +300,6 @@
     ],
     "wins": 138,
     "losses": 69
-  },
-  "JINK#1": {
-    "name": "PNKY",
-    "tag": "JINK#1",
-    "rank": "MASTER 1",
-    "rating": 2222.1,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "98.1"
-    ],
-    "wins": 264,
-    "losses": 201
   },
   "FLOW#08": {
     "name": "Flow",
