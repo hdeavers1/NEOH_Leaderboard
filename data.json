@@ -613,6 +613,22 @@
     "wins": 201,
     "losses": 187
   },
+  "SMEG#879": {
+    "name": "$",
+    "tag": "SMEG#879",
+    "rank": "PLATINUM 3",
+    "rating": 1973,
+    "characters": [
+      "Fox",
+      "Pikachu"
+    ],
+    "percentages": [
+      "94.6",
+      "4.1"
+    ],
+    "wins": 76,
+    "losses": 75
+  },
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
