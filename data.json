@@ -1,4 +1,18 @@
 {
+  "WWJ#916": {
+    "name": "KeepTheChange",
+    "tag": "WWJ#916",
+    "rank": "GOLD 1",
+    "rating": 1460.5,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 1
+  },
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
@@ -43,14 +57,14 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1888.6,
+    "rating": 1912,
     "characters": [
       "DK"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 370,
+    "wins": 372,
     "losses": 366
   },
   "PANC#613": {
@@ -205,15 +219,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2334.8,
+    "rating": 2333.1,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "99.3"
     ],
-    "wins": 81,
-    "losses": 37
+    "wins": 84,
+    "losses": 39
   },
   "SPOT#861": {
     "name": "invader zyn",
@@ -300,6 +314,20 @@
     ],
     "wins": 138,
     "losses": 69
+  },
+  "JINK#1": {
+    "name": "PNKY",
+    "tag": "JINK#1",
+    "rank": "MASTER 1",
+    "rating": 2222.1,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "98.1"
+    ],
+    "wins": 264,
+    "losses": 201
   },
   "FLOW#08": {
     "name": "Flow",
@@ -584,22 +612,6 @@
     ],
     "wins": 201,
     "losses": 187
-  },
-  "SMEG#879": {
-    "name": "$",
-    "tag": "SMEG#879",
-    "rank": "PLATINUM 3",
-    "rating": 1973,
-    "characters": [
-      "Fox",
-      "Pikachu"
-    ],
-    "percentages": [
-      "94.6",
-      "4.1"
-    ],
-    "wins": 76,
-    "losses": 75
   },
   "BOZO#386": {
     "name": "super pichu",
