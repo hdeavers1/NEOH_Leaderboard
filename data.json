@@ -303,14 +303,14 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "MASTER 1",
-    "rating": 2240.9,
+    "rating": 2258,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "97.8"
     ],
-    "wins": 154,
+    "wins": 158,
     "losses": 73
   },
   "JINK#1": {
@@ -386,16 +386,6 @@
     ],
     "wins": 186,
     "losses": 194
-  },
-  "DNZO#333": {
-    "name": "the thinker",
-    "tag": "DNZO#333",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "KM#12": {
     "name": "kneemaster12",
