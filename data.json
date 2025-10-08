@@ -303,17 +303,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "DIAMOND 3",
-    "rating": 2179.8,
+    "rating": 2164.9,
     "characters": [
-      "Samus",
-      "Fox"
+      "Samus"
     ],
     "percentages": [
-      "97.5",
-      "2.0"
+      "97.6"
     ],
-    "wins": 138,
-    "losses": 69
+    "wins": 140,
+    "losses": 72
   },
   "JINK#1": {
     "name": "PNKY",
@@ -628,20 +626,6 @@
     ],
     "wins": 76,
     "losses": 75
-  },
-  "BOZO#386": {
-    "name": "super pichu",
-    "tag": "BOZO#386",
-    "rank": "DIAMOND 1",
-    "rating": 2009.6,
-    "characters": [
-      "Pichu"
-    ],
-    "percentages": [
-      "99.6"
-    ],
-    "wins": 60,
-    "losses": 48
   },
   "SYS#0": {
     "name": "Syspen",
