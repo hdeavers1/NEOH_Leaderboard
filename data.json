@@ -330,8 +330,8 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 3",
-    "rating": 1937.7,
+    "rank": "PLATINUM 2",
+    "rating": 1924.7,
     "characters": [
       "Marth"
     ],
@@ -339,7 +339,7 @@
       "100.0"
     ],
     "wins": 26,
-    "losses": 14
+    "losses": 15
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -416,26 +416,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "PGH#412": {
-    "name": "Ft. PGH Carroll",
-    "tag": "PGH#412",
-    "rank": "GOLD 3",
-    "rating": 1688.8,
-    "characters": [
-      "YLink",
-      "Doc",
-      "ICs",
-      "Fox"
-    ],
-    "percentages": [
-      "5.6",
-      "5.6",
-      "5.3",
-      "5.3"
-    ],
-    "wins": 62,
-    "losses": 68
   },
   "MEDIC#0": {
     "name": "The Theorizer",
