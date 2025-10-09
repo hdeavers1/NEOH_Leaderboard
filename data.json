@@ -56,16 +56,16 @@
   "MAYO#795": {
     "name": "dk doomer",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 3",
-    "rating": 1940.8,
+    "rank": "PLATINUM 2",
+    "rating": 1926.4,
     "characters": [
       "DK"
     ],
     "percentages": [
       "98.2"
     ],
-    "wins": 377,
-    "losses": 369
+    "wins": 378,
+    "losses": 371
   },
   "PANC#613": {
     "name": "panchito$",
@@ -416,6 +416,26 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "PGH#412": {
+    "name": "Ft. PGH Carroll",
+    "tag": "PGH#412",
+    "rank": "GOLD 3",
+    "rating": 1660.5,
+    "characters": [
+      "YLink",
+      "Doc",
+      "ICs",
+      "Fox"
+    ],
+    "percentages": [
+      "5.5",
+      "5.5",
+      "5.2",
+      "5.2"
+    ],
+    "wins": 62,
+    "losses": 70
   },
   "MEDIC#0": {
     "name": "The Theorizer",
