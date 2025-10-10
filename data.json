@@ -421,7 +421,7 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 2",
-    "rating": 1641.9,
+    "rating": 1650.9,
     "characters": [
       "YLink",
       "Doc",
@@ -429,12 +429,12 @@
       "ICs"
     ],
     "percentages": [
-      "5.5",
-      "5.5",
-      "5.5",
-      "5.2"
+      "5.4",
+      "5.4",
+      "5.4",
+      "5.1"
     ],
-    "wins": 62,
+    "wins": 63,
     "losses": 71
   },
   "MEDIC#0": {
