@@ -303,15 +303,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "MASTER 1",
-    "rating": 2258,
+    "rating": 2263,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "97.8"
     ],
-    "wins": 158,
-    "losses": 73
+    "wins": 160,
+    "losses": 74
   },
   "JINK#1": {
     "name": "PNKY",
@@ -421,21 +421,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 2",
-    "rating": 1650.9,
+    "rating": 1642.8,
     "characters": [
-      "YLink",
       "Doc",
+      "YLink",
       "Fox",
-      "ICs"
+      "Kirby"
     ],
     "percentages": [
-      "5.4",
-      "5.4",
-      "5.4",
-      "5.1"
+      "5.8",
+      "5.2",
+      "5.2",
+      "4.9"
     ],
-    "wins": 63,
-    "losses": 71
+    "wins": 66,
+    "losses": 75
   },
   "MEDIC#0": {
     "name": "The Theorizer",
