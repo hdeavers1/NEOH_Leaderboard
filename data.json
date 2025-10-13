@@ -13,6 +13,22 @@
     "wins": 4,
     "losses": 1
   },
+  "JUBS#579": {
+    "name": "Jubly",
+    "tag": "JUBS#579",
+    "rank": "GOLD 3",
+    "rating": 1672.2,
+    "characters": [
+      "Falco",
+      "Fox"
+    ],
+    "percentages": [
+      "84.6",
+      "13.5"
+    ],
+    "wins": 23,
+    "losses": 19
+  },
   "BIGO#869": {
     "name": "fuelTwerks",
     "tag": "BIGO#869",
@@ -66,7 +82,7 @@
     "losses": 21
   },
   "LVLM#792": {
-    "name": "Noho Hank",
+    "name": "Ricky Spanish",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -359,17 +375,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1933.2,
+    "rating": 1961.3,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "79.8",
-      "19.1"
+      "79.2",
+      "19.7"
     ],
-    "wins": 198,
-    "losses": 203
+    "wins": 201,
+    "losses": 204
   },
   "DNZO#333": {
     "name": "the thinker",
