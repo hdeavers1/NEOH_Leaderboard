@@ -67,20 +67,6 @@
     "wins": 395,
     "losses": 389
   },
-  "PANC#613": {
-    "name": "panchito$",
-    "tag": "PANC#613",
-    "rank": "GOLD 2",
-    "rating": 1629,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 29,
-    "losses": 21
-  },
   "LVLM#792": {
     "name": "Ricky Spanish",
     "tag": "LVLM#792",
@@ -375,17 +361,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1971.4,
+    "rating": 1964.7,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
       "79.1",
-      "19.8"
+      "19.7"
     ],
     "wins": 204,
-    "losses": 208
+    "losses": 209
   },
   "DNZO#333": {
     "name": "the thinker",
