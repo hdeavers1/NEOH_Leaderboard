@@ -57,17 +57,15 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1875.6,
+    "rating": 1855.7,
     "characters": [
-      "DK",
-      "Falcon"
+      "DK"
     ],
     "percentages": [
-      "98.0",
-      "2.0"
+      "98.0"
     ],
     "wins": 398,
-    "losses": 395
+    "losses": 398
   },
   "PANC#613": {
     "name": "panchito$",
