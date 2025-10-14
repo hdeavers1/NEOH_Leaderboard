@@ -57,15 +57,31 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1911.4,
+    "rating": 1875.6,
     "characters": [
-      "DK"
+      "DK",
+      "Falcon"
     ],
     "percentages": [
-      "98.0"
+      "98.0",
+      "2.0"
     ],
-    "wins": 395,
-    "losses": 389
+    "wins": 398,
+    "losses": 395
+  },
+  "PANC#613": {
+    "name": "panchito$",
+    "tag": "PANC#613",
+    "rank": "GOLD 2",
+    "rating": 1629,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 29,
+    "losses": 21
   },
   "LVLM#792": {
     "name": "Ricky Spanish",
