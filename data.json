@@ -341,22 +341,6 @@
     "wins": 26,
     "losses": 15
   },
-  "ZBOO#991": {
-    "name": "(-:",
-    "tag": "ZBOO#991",
-    "rank": "PLATINUM 1",
-    "rating": 1770.2,
-    "characters": [
-      "Fox",
-      "G&W"
-    ],
-    "percentages": [
-      "96.3",
-      "3.7"
-    ],
-    "wins": 10,
-    "losses": 2
-  },
   "PEE#658": {
     "name": "DraftKylePitts",
     "tag": "PEE#658",
@@ -474,6 +458,20 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "JHTL#587": {
+    "name": "JHTL",
+    "tag": "JHTL#587",
+    "rank": "PLATINUM 3",
+    "rating": 1975.7,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 31,
+    "losses": 16
   },
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
