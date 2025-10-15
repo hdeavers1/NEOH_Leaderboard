@@ -105,24 +105,6 @@
     "wins": 4,
     "losses": 5
   },
-  "SPOR#247": {
-    "name": "Jub Lee",
-    "tag": "SPOR#247",
-    "rank": "GOLD 2",
-    "rating": 1550.9,
-    "characters": [
-      "Falcon",
-      "Fox",
-      "Mario"
-    ],
-    "percentages": [
-      "66.2",
-      "29.6",
-      "2.8"
-    ],
-    "wins": 17,
-    "losses": 13
-  },
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
@@ -186,20 +168,6 @@
     ],
     "wins": 7,
     "losses": 4
-  },
-  "CUTS#327": {
-    "name": "LonzoMorphBall",
-    "tag": "CUTS#327",
-    "rank": "DIAMOND 1",
-    "rating": 2071.1,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "98.5"
-    ],
-    "wins": 240,
-    "losses": 211
   },
   "ASIG#701": {
     "name": "aSig",
@@ -285,20 +253,6 @@
     "wins": 19,
     "losses": 12
   },
-  "BLSE#808": {
-    "name": "$hine Forever",
-    "tag": "BLSE#808",
-    "rank": "GRANDMASTER",
-    "rating": 2481.2,
-    "characters": [
-      "Pikachu"
-    ],
-    "percentages": [
-      "98.0"
-    ],
-    "wins": 132,
-    "losses": 36
-  },
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
@@ -356,20 +310,6 @@
     ],
     "wins": 10,
     "losses": 2
-  },
-  "PEE#658": {
-    "name": "DraftKylePitts",
-    "tag": "PEE#658",
-    "rank": "PLATINUM 1",
-    "rating": 1769.2,
-    "characters": [
-      "Ganon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 58,
-    "losses": 56
   },
   "WEGG#462": {
     "name": "Young Wunna",
