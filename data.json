@@ -400,11 +400,15 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Ganon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
     "losses": 0
   },
   "DREW#175": {
@@ -509,14 +513,14 @@
     "name": "iyf. sinister",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1698.7,
+    "rating": 1718.1,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "98.6"
     ],
-    "wins": 81,
+    "wins": 82,
     "losses": 74
   },
   "SUCC#860": {
