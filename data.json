@@ -289,7 +289,7 @@
     "name": "old jchu",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2497.2,
+    "rating": 2495.4,
     "characters": [
       "Pikachu"
     ],
@@ -297,7 +297,7 @@
       "98.0"
     ],
     "wins": 133,
-    "losses": 37
+    "losses": 38
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -400,16 +400,16 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "PENDING",
-    "rating": 3,
+    "rank": "GOLD 2",
+    "rating": 1569.1,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 2,
-    "losses": 0
+    "wins": 5,
+    "losses": 1
   },
   "DREW#175": {
     "name": "Unc",
