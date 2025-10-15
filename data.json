@@ -175,7 +175,7 @@
     "name": "Glass House",
     "tag": "FRUM#591",
     "rank": "GOLD 1",
-    "rating": 1442.1,
+    "rating": 1525.7,
     "characters": [
       "Falco",
       "Fox"
@@ -184,8 +184,8 @@
       "83.3",
       "16.7"
     ],
-    "wins": 5,
-    "losses": 3
+    "wins": 7,
+    "losses": 4
   },
   "CUTS#327": {
     "name": "LonzoMorphBall",
