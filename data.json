@@ -17,17 +17,17 @@
     "name": "Jubly",
     "tag": "JUBS#579",
     "rank": "GOLD 3",
-    "rating": 1672.2,
+    "rating": 1661,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "84.6",
-      "13.5"
+      "84.0",
+      "13.2"
     ],
     "wins": 23,
-    "losses": 19
+    "losses": 20
   },
   "BIGO#869": {
     "name": "fuelTwerks",
@@ -260,6 +260,16 @@
     ],
     "wins": 59,
     "losses": 27
+  },
+  "GRIM#801": {
+    "name": "Shiesty",
+    "tag": "GRIM#801",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "GHST#232": {
     "name": "Ghast",
