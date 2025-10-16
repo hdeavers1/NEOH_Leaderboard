@@ -511,20 +511,6 @@
     "wins": 274,
     "losses": 251
   },
-  "DEE#218": {
-    "name": "iyf. sinister",
-    "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1718.1,
-    "characters": [
-      "ICs"
-    ],
-    "percentages": [
-      "98.6"
-    ],
-    "wins": 82,
-    "losses": 74
-  },
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
@@ -605,17 +591,17 @@
     "name": "CaptainBoypussy",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1763.3,
+    "rating": 1794.4,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "95.8",
-      "2.9"
+      "95.9",
+      "2.8"
     ],
-    "wins": 204,
-    "losses": 192
+    "wins": 207,
+    "losses": 193
   },
   "SMEG#879": {
     "name": "$",
