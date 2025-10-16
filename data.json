@@ -67,20 +67,6 @@
     "wins": 405,
     "losses": 403
   },
-  "PANC#613": {
-    "name": "panchito$",
-    "tag": "PANC#613",
-    "rank": "GOLD 2",
-    "rating": 1629,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 29,
-    "losses": 21
-  },
   "LVLM#792": {
     "name": "Ricky Spanish",
     "tag": "LVLM#792",
@@ -300,20 +286,6 @@
     ],
     "wins": 133,
     "losses": 38
-  },
-  "FUCKIN#1": {
-    "name": "fknsilver",
-    "tag": "FUCKIN#1",
-    "rank": "GRANDMASTER",
-    "rating": 2373.1,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "98.1"
-    ],
-    "wins": 187,
-    "losses": 79
   },
   "JINK#1": {
     "name": "PNKY",
