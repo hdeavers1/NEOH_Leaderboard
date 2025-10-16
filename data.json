@@ -674,19 +674,5 @@
     ],
     "wins": 121,
     "losses": 114
-  },
-  "VYV#0": {
-    "name": "vyv",
-    "tag": "VYV#0",
-    "rank": "SILVER 1",
-    "rating": 1131.2,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 52,
-    "losses": 61
   }
 }
