@@ -317,15 +317,15 @@
     "name": "PNKY",
     "tag": "JINK#1",
     "rank": "MASTER 1",
-    "rating": 2220.9,
+    "rating": 2203.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "98.2"
     ],
-    "wins": 273,
-    "losses": 206
+    "wins": 274,
+    "losses": 208
   },
   "FLOW#08": {
     "name": "Flow",
@@ -358,7 +358,7 @@
     "losses": 2
   },
   "PEE#658": {
-    "name": "DraftKylePitts",
+    "name": "CamBrink>LeBron",
     "tag": "PEE#658",
     "rank": "PLATINUM 1",
     "rating": 1769.2,
