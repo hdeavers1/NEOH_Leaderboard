@@ -456,7 +456,7 @@
     "losses": 15
   },
   "SERE#225": {
-    "name": "sp1nda",
+    "name": "TOWMOTOR TIM",
     "tag": "SERE#225",
     "rank": "DIAMOND 2",
     "rating": 2116.5,
@@ -603,17 +603,17 @@
     "name": "Ms.Doesn't Miss",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1753.9,
+    "rating": 1763.3,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "95.9",
-      "2.8"
+      "95.8",
+      "2.9"
     ],
-    "wins": 202,
-    "losses": 191
+    "wins": 204,
+    "losses": 192
   },
   "SMEG#879": {
     "name": "$",
