@@ -17,17 +17,17 @@
     "name": "Jubly",
     "tag": "JUBS#579",
     "rank": "GOLD 3",
-    "rating": 1661,
+    "rating": 1669.4,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "84.0",
-      "13.2"
+      "84.5",
+      "12.7"
     ],
-    "wins": 23,
-    "losses": 20
+    "wins": 24,
+    "losses": 21
   },
   "BIGO#869": {
     "name": "fuelTwerks",
@@ -108,20 +108,22 @@
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
-    "rank": "GOLD 2",
-    "rating": 1550.9,
+    "rank": "GOLD 1",
+    "rating": 1516.8,
     "characters": [
       "Falcon",
       "Fox",
+      "Doc",
       "Mario"
     ],
     "percentages": [
-      "66.2",
-      "29.6",
-      "2.8"
+      "64.0",
+      "29.3",
+      "4.0",
+      "2.7"
     ],
     "wins": 17,
-    "losses": 13
+    "losses": 15
   },
   "ANT#480": {
     "name": "Zantryx",
