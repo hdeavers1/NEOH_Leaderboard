@@ -511,6 +511,20 @@
     "wins": 274,
     "losses": 251
   },
+  "DEE#218": {
+    "name": "iyf. sinister",
+    "tag": "DEE#218",
+    "rank": "GOLD 3",
+    "rating": 1718.1,
+    "characters": [
+      "ICs"
+    ],
+    "percentages": [
+      "98.6"
+    ],
+    "wins": 82,
+    "losses": 74
+  },
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
@@ -539,69 +553,21 @@
     "wins": 2,
     "losses": 4
   },
-  "WICE#699": {
-    "name": "Dougie Jones",
-    "tag": "WICE#699",
-    "rank": "DIAMOND 2",
-    "rating": 2098.9,
-    "characters": [
-      "ICs"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 37,
-    "losses": 24
-  },
-  "DANK#954": {
-    "name": "DankKnight",
-    "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1438.2,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "99.5"
-    ],
-    "wins": 86,
-    "losses": 82
-  },
-  "NCRO#183": {
-    "name": "Ncro",
-    "tag": "NCRO#183",
-    "rank": "PLATINUM 1",
-    "rating": 1819.3,
-    "characters": [
-      "Marth",
-      "Sheik",
-      "Fox",
-      "Doc"
-    ],
-    "percentages": [
-      "63.3",
-      "24.7",
-      "7.2",
-      "4.8"
-    ],
-    "wins": 38,
-    "losses": 31
-  },
   "MOSHI#0": {
     "name": "CaptainBoypussy",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1794.4,
+    "rating": 1781,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "95.9",
+      "95.8",
       "2.8"
     ],
-    "wins": 207,
-    "losses": 193
+    "wins": 208,
+    "losses": 194
   },
   "SMEG#879": {
     "name": "$",
