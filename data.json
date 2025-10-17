@@ -376,18 +376,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "DIAMOND 1",
-    "rating": 2007.7,
+    "rank": "PLATINUM 3",
+    "rating": 2003.5,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "79.4",
-      "19.4"
+      "79.6",
+      "19.3"
     ],
-    "wins": 210,
-    "losses": 210
+    "wins": 211,
+    "losses": 212
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -605,7 +605,7 @@
     "name": "CaptainBoypussy",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1791.8,
+    "rating": 1801.5,
     "characters": [
       "Peach",
       "Ness"
@@ -614,7 +614,7 @@
       "95.8",
       "2.8"
     ],
-    "wins": 209,
+    "wins": 210,
     "losses": 194
   },
   "SMEG#879": {
