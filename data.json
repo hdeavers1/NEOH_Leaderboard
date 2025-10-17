@@ -129,7 +129,7 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1493,
+    "rating": 1471.4,
     "characters": [
       "Marth",
       "Fox"
@@ -139,7 +139,7 @@
       "2.0"
     ],
     "wins": 76,
-    "losses": 73
+    "losses": 75
   },
   "JARD#561": {
     "name": "pingas",
@@ -377,17 +377,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 2003.5,
+    "rating": 1987.2,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "79.6",
-      "19.3"
+      "79.8",
+      "19.1"
     ],
-    "wins": 211,
-    "losses": 212
+    "wins": 212,
+    "losses": 216
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -605,17 +605,17 @@
     "name": "CaptainBoypussy",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1801.5,
+    "rating": 1784.3,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "95.8",
+      "95.7",
       "2.8"
     ],
-    "wins": 210,
-    "losses": 194
+    "wins": 211,
+    "losses": 197
   },
   "SMEG#879": {
     "name": "$",
