@@ -39,6 +39,20 @@
     "wins": 0,
     "losses": 0
   },
+  "QCUM#685": {
+    "name": "Aspiring HM",
+    "tag": "QCUM#685",
+    "rank": "GOLD 3",
+    "rating": 1660,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 24,
+    "losses": 22
+  },
   "MAYO#795": {
     "name": "dk doomer",
     "tag": "MAYO#795",
@@ -384,6 +398,20 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "KM#12": {
+    "name": "kneemaster12",
+    "tag": "KM#12",
+    "rank": "GOLD 2",
+    "rating": 1569.1,
+    "characters": [
+      "Ganon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 5,
+    "losses": 1
   },
   "DREW#175": {
     "name": "Unc",
