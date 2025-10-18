@@ -129,17 +129,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1471.4,
+    "rating": 1457.8,
     "characters": [
-      "Marth",
-      "Fox"
+      "Marth"
     ],
     "percentages": [
-      "97.4",
-      "2.0"
+      "97.4"
     ],
     "wins": 76,
-    "losses": 75
+    "losses": 76
   },
   "JARD#561": {
     "name": "pingas",
@@ -288,7 +286,7 @@
     "losses": 12
   },
   "BLSE#808": {
-    "name": "old jchu",
+    "name": "pee choo",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
     "rating": 2491.3,
