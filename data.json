@@ -42,16 +42,16 @@
   "MAYO#795": {
     "name": "dk doomer",
     "tag": "MAYO#795",
-    "rank": "PENDING",
-    "rating": 4,
+    "rank": "SILVER 2",
+    "rating": 1257.3,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
-    "losses": 0
+    "wins": 3,
+    "losses": 2
   },
   "PANC#613": {
     "name": "panchito$",
@@ -146,16 +146,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "SILVER 3",
+    "rating": 1325.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
-    "losses": 3
+    "wins": 6,
+    "losses": 5
   },
   "JUST#577": {
     "name": "Just",
@@ -270,11 +270,17 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Fox",
+      "Marth"
+    ],
+    "percentages": [
+      "50.0",
+      "50.0"
+    ],
+    "wins": 1,
     "losses": 0
   },
   "DNZO#333": {
