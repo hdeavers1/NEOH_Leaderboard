@@ -43,14 +43,14 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "SILVER 2",
-    "rating": 1257.3,
+    "rating": 1303.7,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
+    "wins": 4,
     "losses": 2
   },
   "PANC#613": {
@@ -147,15 +147,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "SILVER 2",
-    "rating": 1290.8,
+    "rating": 1272.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 6,
-    "losses": 6
+    "wins": 7,
+    "losses": 8
   },
   "JUST#577": {
     "name": "Just",
@@ -434,14 +434,18 @@
     "losses": 0
   },
   "MOSHI#0": {
-    "name": "Not the Clawer",
+    "name": "Ms.Doesn't Miss",
     "tag": "MOSHI#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Ness"
+    ],
+    "percentages": [
+      "100.0"
+    ],
     "wins": 0,
-    "losses": 0
+    "losses": 1
   },
   "SMEG#879": {
     "name": "$",
