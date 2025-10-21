@@ -436,16 +436,18 @@
   "MOSHI#0": {
     "name": "Ms.Doesn't Miss",
     "tag": "MOSHI#0",
-    "rank": "SILVER 1",
-    "rating": 1078.9,
+    "rank": "SILVER 2",
+    "rating": 1223.3,
     "characters": [
-      "Ness"
+      "Ness",
+      "Peach"
     ],
     "percentages": [
-      "100.0"
+      "73.1",
+      "26.9"
     ],
-    "wins": 2,
-    "losses": 4
+    "wins": 5,
+    "losses": 6
   },
   "SMEG#879": {
     "name": "$",
