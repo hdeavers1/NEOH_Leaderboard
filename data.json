@@ -42,16 +42,16 @@
   "MAYO#795": {
     "name": "dk doomer",
     "tag": "MAYO#795",
-    "rank": "SILVER 3",
-    "rating": 1363.4,
+    "rank": "GOLD 1",
+    "rating": 1459.4,
     "characters": [
       "DK"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
-    "losses": 2
+    "wins": 7,
+    "losses": 3
   },
   "PANC#613": {
     "name": "panchito$",
@@ -180,6 +180,16 @@
   "PLAY#647": {
     "name": "Skeeter Jean",
     "tag": "PLAY#647",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "GRIM#801": {
+    "name": "Shiesty",
+    "tag": "GRIM#801",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
