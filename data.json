@@ -270,18 +270,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "SILVER 2",
-    "rating": 1249.2,
+    "rank": "GOLD 1",
+    "rating": 1436.5,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "80.0",
-      "20.0"
+      "81.5",
+      "18.5"
     ],
-    "wins": 3,
-    "losses": 3
+    "wins": 7,
+    "losses": 4
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -436,16 +436,16 @@
   "MOSHI#0": {
     "name": "Ms.Doesn't Miss",
     "tag": "MOSHI#0",
-    "rank": "PENDING",
-    "rating": 4,
+    "rank": "SILVER 1",
+    "rating": 1078.9,
     "characters": [
       "Ness"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 0,
-    "losses": 1
+    "wins": 2,
+    "losses": 4
   },
   "SMEG#879": {
     "name": "$",
