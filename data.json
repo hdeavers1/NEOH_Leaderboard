@@ -136,15 +136,15 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "GOLD 1",
-    "rating": 1458.2,
+    "rank": "GOLD 2",
+    "rating": 1604.7,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 7,
+    "wins": 10,
     "losses": 3
   },
   "ASIG#701": {
@@ -374,17 +374,17 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "SILVER 3",
-    "rating": 1365,
+    "rank": "GOLD 1",
+    "rating": 1497.2,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "88.9",
-      "11.1"
+      "84.2",
+      "15.8"
     ],
-    "wins": 7,
+    "wins": 11,
     "losses": 5
   },
   "DEE#218": {
