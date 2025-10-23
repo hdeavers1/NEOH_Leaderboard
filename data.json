@@ -220,12 +220,16 @@
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "GOLD 2",
+    "rating": 1618.9,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 8,
+    "losses": 2
   },
   "JINK#1": {
     "name": "PNKY",
