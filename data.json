@@ -43,14 +43,16 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "GOLD 1",
-    "rating": 1511.4,
+    "rating": 1534.9,
     "characters": [
-      "DK"
+      "DK",
+      "Falcon"
     ],
     "percentages": [
-      "100.0"
+      "97.6",
+      "2.4"
     ],
-    "wins": 10,
+    "wins": 11,
     "losses": 9
   },
   "PANC#613": {
