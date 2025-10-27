@@ -43,17 +43,17 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "GOLD 1",
-    "rating": 1534.9,
+    "rating": 1514.7,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "97.6",
-      "2.4"
+      "95.9",
+      "4.1"
     ],
-    "wins": 11,
-    "losses": 9
+    "wins": 12,
+    "losses": 11
   },
   "PANC#613": {
     "name": "panchito$",
@@ -143,15 +143,15 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 1",
-    "rating": 1759.8,
+    "rating": 1752.2,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 18,
-    "losses": 8
+    "wins": 20,
+    "losses": 10
   },
   "ASIG#701": {
     "name": "aSig",
