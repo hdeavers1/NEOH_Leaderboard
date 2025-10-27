@@ -142,16 +142,16 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "GOLD 3",
-    "rating": 1736.4,
+    "rank": "PLATINUM 1",
+    "rating": 1759.8,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 14,
-    "losses": 5
+    "wins": 18,
+    "losses": 8
   },
   "ASIG#701": {
     "name": "aSig",
@@ -280,6 +280,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "WEGG#462": {
+    "name": "Young Wunna",
+    "tag": "WEGG#462",
+    "rank": "GOLD 3",
+    "rating": 1702.1,
+    "characters": [
+      "Fox",
+      "Marth"
+    ],
+    "percentages": [
+      "60.9",
+      "39.1"
+    ],
+    "wins": 17,
+    "losses": 9
   },
   "DNZO#333": {
     "name": "the thinker",
