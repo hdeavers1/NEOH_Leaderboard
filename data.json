@@ -89,14 +89,16 @@
     "name": "Jub Lee",
     "tag": "SPOR#247",
     "rank": "PENDING",
-    "rating": 2,
+    "rating": 1,
     "characters": [
-      "Doc"
+      "Doc",
+      "Falcon"
     ],
     "percentages": [
-      "100.0"
+      "80.0",
+      "20.0"
     ],
-    "wins": 2,
+    "wins": 3,
     "losses": 1
   },
   "ANT#480": {
@@ -297,17 +299,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "GOLD 3",
-    "rating": 1702.1,
+    "rating": 1708.6,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "60.9",
-      "39.1"
+      "64.5",
+      "35.5"
     ],
-    "wins": 17,
-    "losses": 9
+    "wins": 19,
+    "losses": 11
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -322,16 +324,16 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "GOLD 1",
+    "rating": 1484.1,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
-    "losses": 1
+    "wins": 5,
+    "losses": 2
   },
   "DREW#175": {
     "name": "Unc",
@@ -397,17 +399,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 1",
-    "rating": 1497.2,
+    "rating": 1463.3,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "84.2",
-      "15.8"
+      "83.0",
+      "17.0"
     ],
-    "wins": 11,
-    "losses": 5
+    "wins": 12,
+    "losses": 7
   },
   "DEE#218": {
     "name": "iyf. sinister",
