@@ -88,12 +88,16 @@
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Doc"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 1
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -318,12 +322,16 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 1,
+    "characters": [
+      "Ganon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 3,
+    "losses": 1
   },
   "DREW#175": {
     "name": "Unc",
@@ -346,7 +354,7 @@
     "losses": 0
   },
   "MEDIC#0": {
-    "name": "The Theorizer",
+    "name": "MEDIC!",
     "tag": "MEDIC#0",
     "rank": "NONE",
     "rating": 0,
@@ -404,18 +412,18 @@
   "DEE#218": {
     "name": "iyf. sinister",
     "tag": "DEE#218",
-    "rank": "SILVER 3",
-    "rating": 1431.6,
+    "rank": "GOLD 1",
+    "rating": 1516.4,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "95.8",
-      "4.2"
+      "96.8",
+      "3.2"
     ],
-    "wins": 6,
-    "losses": 4
+    "wins": 8,
+    "losses": 5
   },
   "SUCC#860": {
     "name": "Wahey",
