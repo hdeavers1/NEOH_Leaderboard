@@ -348,11 +348,15 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Peach"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 3,
     "losses": 0
   },
   "MEDIC#0": {
