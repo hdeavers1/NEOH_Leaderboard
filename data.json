@@ -43,16 +43,16 @@
     "name": "dk doomer",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1665.8,
+    "rating": 1701.1,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "97.0",
-      "3.0"
+      "97.1",
+      "2.9"
     ],
-    "wins": 17,
+    "wins": 18,
     "losses": 13
   },
   "PANC#613": {
@@ -403,17 +403,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 1",
-    "rating": 1455.9,
+    "rating": 1501.9,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "84.7",
-      "13.9"
+      "86.1",
+      "12.7"
     ],
-    "wins": 16,
-    "losses": 13
+    "wins": 18,
+    "losses": 14
   },
   "DEE#218": {
     "name": "iyf. sinister",
