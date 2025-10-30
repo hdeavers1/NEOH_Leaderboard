@@ -236,15 +236,15 @@
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
-    "rank": "GOLD 2",
-    "rating": 1618.9,
+    "rank": "GOLD 3",
+    "rating": 1666.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 8,
+    "wins": 9,
     "losses": 2
   },
   "JINK#1": {
@@ -402,17 +402,17 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 1",
-    "rating": 1501.9,
+    "rank": "GOLD 2",
+    "rating": 1562,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "86.1",
-      "12.7"
+      "87.1",
+      "11.8"
     ],
-    "wins": 18,
+    "wins": 20,
     "losses": 14
   },
   "DEE#218": {
