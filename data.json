@@ -265,6 +265,16 @@
     "wins": 4,
     "losses": 0
   },
+  "FLOW#08": {
+    "name": "Flow",
+    "tag": "FLOW#08",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "ZBOO#991": {
     "name": "(-:",
     "tag": "ZBOO#991",
