@@ -1,4 +1,14 @@
 {
+  "WWJ#916": {
+    "name": "KeepTheChange",
+    "tag": "WWJ#916",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
@@ -95,7 +105,7 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 2",
-    "rating": 1301.2,
+    "rating": 1278.7,
     "characters": [
       "Marth"
     ],
@@ -103,7 +113,7 @@
       "100.0"
     ],
     "wins": 5,
-    "losses": 6
+    "losses": 7
   },
   "JARD#561": {
     "name": "pingas",
@@ -360,7 +370,7 @@
     "losses": 0
   },
   "SERE#225": {
-    "name": "TOWMOTOR TIM",
+    "name": "spindustry.shop",
     "tag": "SERE#225",
     "rank": "NONE",
     "rating": 0,
