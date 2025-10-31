@@ -105,15 +105,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 2",
-    "rating": 1278.7,
+    "rating": 1282.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
-    "losses": 7
+    "wins": 6,
+    "losses": 9
   },
   "JARD#561": {
     "name": "pingas",
@@ -286,7 +286,7 @@
     "losses": 0
   },
   "PEE#658": {
-    "name": "Nick Chubb",
+    "name": "Bobby Trees",
     "tag": "PEE#658",
     "rank": "NONE",
     "rating": 0,
