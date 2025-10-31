@@ -148,16 +148,16 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 1",
-    "rating": 1837.1,
+    "rank": "PLATINUM 2",
+    "rating": 1872.9,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 30,
-    "losses": 17
+    "wins": 32,
+    "losses": 18
   },
   "ASIG#701": {
     "name": "aSig",
@@ -419,17 +419,17 @@
     "name": "iyf. sinister",
     "tag": "DEE#218",
     "rank": "GOLD 1",
-    "rating": 1533.9,
+    "rating": 1507.6,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "94.3",
-      "5.7"
+      "92.7",
+      "7.3"
     ],
-    "wins": 9,
-    "losses": 6
+    "wins": 10,
+    "losses": 8
   },
   "SUCC#860": {
     "name": "Wahey",
