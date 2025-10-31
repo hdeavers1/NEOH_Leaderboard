@@ -1,14 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "KeepTheChange",
-    "tag": "WWJ#916",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
@@ -42,18 +32,18 @@
   "MAYO#795": {
     "name": "dk doomer",
     "tag": "MAYO#795",
-    "rank": "GOLD 2",
-    "rating": 1642.7,
+    "rank": "GOLD 3",
+    "rating": 1666.5,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "97.2",
-      "2.8"
+      "97.5",
+      "2.5"
     ],
-    "wins": 26,
-    "losses": 23
+    "wins": 29,
+    "losses": 25
   },
   "PANC#613": {
     "name": "panchito$",
@@ -148,16 +138,16 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1902.4,
+    "rank": "PLATINUM 3",
+    "rating": 1934,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 42,
-    "losses": 26
+    "wins": 44,
+    "losses": 27
   },
   "ASIG#701": {
     "name": "aSig",
@@ -419,17 +409,17 @@
     "name": "iyf. sinister",
     "tag": "DEE#218",
     "rank": "GOLD 1",
-    "rating": 1507.6,
+    "rating": 1460,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "92.7",
-      "7.3"
+      "91.3",
+      "8.7"
     ],
     "wins": 10,
-    "losses": 8
+    "losses": 10
   },
   "SUCC#860": {
     "name": "Wahey",
