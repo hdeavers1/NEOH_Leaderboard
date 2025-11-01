@@ -236,16 +236,16 @@
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
-    "rank": "PLATINUM 3",
-    "rating": 1944,
+    "rank": "DIAMOND 2",
+    "rating": 2100.1,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 24,
-    "losses": 13
+    "wins": 34,
+    "losses": 14
   },
   "JINK#1": {
     "name": "PNKY",
@@ -418,18 +418,18 @@
   "DEE#218": {
     "name": "iyf. sinister",
     "tag": "DEE#218",
-    "rank": "GOLD 1",
-    "rating": 1505.4,
+    "rank": "GOLD 2",
+    "rating": 1570.1,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "91.8",
-      "8.2"
+      "93.7",
+      "6.3"
     ],
-    "wins": 11,
-    "losses": 10
+    "wins": 15,
+    "losses": 13
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -464,12 +464,20 @@
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Marth",
+      "Fox",
+      "Falcon"
+    ],
+    "percentages": [
+      "66.7",
+      "16.7",
+      "16.7"
+    ],
     "wins": 0,
-    "losses": 0
+    "losses": 3
   },
   "NCRO#183": {
     "name": "Ncro",
@@ -541,7 +549,7 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "PENDING",
-    "rating": 4,
+    "rating": 2,
     "characters": [
       "Fox"
     ],
@@ -549,6 +557,6 @@
       "100.0"
     ],
     "wins": 0,
-    "losses": 1
+    "losses": 3
   }
 }
