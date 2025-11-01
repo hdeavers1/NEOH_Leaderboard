@@ -236,16 +236,16 @@
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
-    "rank": "DIAMOND 2",
-    "rating": 2100.1,
+    "rank": "DIAMOND 3",
+    "rating": 2150.1,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 34,
-    "losses": 14
+    "wins": 39,
+    "losses": 15
   },
   "JINK#1": {
     "name": "PNKY",
@@ -464,19 +464,19 @@
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
-    "rank": "PENDING",
-    "rating": 2,
+    "rank": "SILVER 2",
+    "rating": 1194.5,
     "characters": [
       "Marth",
       "Fox",
       "Falcon"
     ],
     "percentages": [
-      "66.7",
-      "16.7",
-      "16.7"
+      "83.3",
+      "8.3",
+      "8.3"
     ],
-    "wins": 0,
+    "wins": 3,
     "losses": 3
   },
   "NCRO#183": {
