@@ -85,6 +85,22 @@
     "wins": 0,
     "losses": 0
   },
+  "SPOR#247": {
+    "name": "Jub Lee",
+    "tag": "SPOR#247",
+    "rank": "PENDING",
+    "rating": 1,
+    "characters": [
+      "Doc",
+      "Falcon"
+    ],
+    "percentages": [
+      "80.0",
+      "20.0"
+    ],
+    "wins": 3,
+    "losses": 1
+  },
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
