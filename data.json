@@ -494,18 +494,18 @@
   "MOSHI#0": {
     "name": "rat girl",
     "tag": "MOSHI#0",
-    "rank": "GOLD 2",
-    "rating": 1575.8,
+    "rank": "GOLD 1",
+    "rating": 1515.6,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "73.3",
-      "26.7"
+      "76.9",
+      "23.1"
     ],
-    "wins": 18,
-    "losses": 14
+    "wins": 20,
+    "losses": 19
   },
   "SMEG#879": {
     "name": "$",
