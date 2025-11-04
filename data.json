@@ -253,18 +253,18 @@
     "name": "PNKY",
     "tag": "JINK#1",
     "rank": "PLATINUM 1",
-    "rating": 1784.5,
+    "rating": 1802.8,
     "characters": [
       "Marth",
       "Fox",
       "Falcon"
     ],
     "percentages": [
-      "95.1",
-      "2.4",
-      "2.4"
+      "95.3",
+      "2.3",
+      "2.3"
     ],
-    "wins": 12,
+    "wins": 13,
     "losses": 7
   },
   "FLOW#08": {
@@ -421,17 +421,17 @@
     "name": "iyf. sinister",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1570.1,
+    "rating": 1589.5,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "93.7",
-      "6.3"
+      "92.6",
+      "7.4"
     ],
-    "wins": 15,
-    "losses": 13
+    "wins": 17,
+    "losses": 14
   },
   "SUCC#860": {
     "name": "Wahey",
