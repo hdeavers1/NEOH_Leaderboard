@@ -300,18 +300,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 3",
-    "rating": 1679.1,
+    "rank": "GOLD 2",
+    "rating": 1653.3,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "65.4",
-      "34.6"
+      "64.7",
+      "35.3"
     ],
-    "wins": 19,
-    "losses": 12
+    "wins": 20,
+    "losses": 14
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -495,17 +495,17 @@
     "name": "rat girl",
     "tag": "MOSHI#0",
     "rank": "GOLD 2",
-    "rating": 1585.9,
+    "rating": 1575.8,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "70.3",
-      "29.7"
+      "73.3",
+      "26.7"
     ],
-    "wins": 16,
-    "losses": 11
+    "wins": 18,
+    "losses": 14
   },
   "SMEG#879": {
     "name": "$",
