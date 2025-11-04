@@ -252,20 +252,20 @@
   "JINK#1": {
     "name": "PNKY",
     "tag": "JINK#1",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "GOLD 2",
+    "rating": 1626.2,
     "characters": [
       "Marth",
       "Fox",
       "Falcon"
     ],
     "percentages": [
-      "77.8",
-      "11.1",
-      "11.1"
+      "89.5",
+      "5.3",
+      "5.3"
     ],
-    "wins": 4,
-    "losses": 0
+    "wins": 7,
+    "losses": 2
   },
   "FLOW#08": {
     "name": "Flow",
