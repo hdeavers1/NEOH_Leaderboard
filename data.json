@@ -252,20 +252,20 @@
   "JINK#1": {
     "name": "PNKY",
     "tag": "JINK#1",
-    "rank": "GOLD 2",
-    "rating": 1626.2,
+    "rank": "PLATINUM 1",
+    "rating": 1804.8,
     "characters": [
       "Marth",
       "Fox",
       "Falcon"
     ],
     "percentages": [
-      "89.5",
-      "5.3",
-      "5.3"
+      "94.9",
+      "2.6",
+      "2.6"
     ],
-    "wins": 7,
-    "losses": 2
+    "wins": 12,
+    "losses": 6
   },
   "FLOW#08": {
     "name": "Flow",
@@ -405,17 +405,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1616.4,
+    "rating": 1611.9,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "88.6",
-      "10.5"
+      "89.7",
+      "9.5"
     ],
-    "wins": 26,
-    "losses": 17
+    "wins": 28,
+    "losses": 19
   },
   "DEE#218": {
     "name": "iyf. sinister",
