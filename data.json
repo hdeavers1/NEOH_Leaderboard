@@ -327,15 +327,15 @@
     "name": "kneemaster12",
     "tag": "KM#12",
     "rank": "GOLD 1",
-    "rating": 1484.1,
+    "rating": 1458.5,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
-    "losses": 2
+    "wins": 6,
+    "losses": 5
   },
   "DREW#175": {
     "name": "Unc",
@@ -495,17 +495,17 @@
     "name": "TYStealthyN00b",
     "tag": "MOSHI#0",
     "rank": "GOLD 2",
-    "rating": 1560.9,
+    "rating": 1616.3,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "80.6",
-      "19.4"
+      "82.4",
+      "17.6"
     ],
-    "wins": 24,
-    "losses": 22
+    "wins": 28,
+    "losses": 23
   },
   "SMEG#879": {
     "name": "$",
