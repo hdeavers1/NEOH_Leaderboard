@@ -185,6 +185,26 @@
     "wins": 0,
     "losses": 0
   },
+  "SPOT#861": {
+    "name": "invader zyn",
+    "tag": "SPOT#861",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "PLAY#647": {
+    "name": "Big Soft Nice",
+    "tag": "PLAY#647",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "GRIM#801": {
     "name": "Shiesty",
     "tag": "GRIM#801",
@@ -204,6 +224,30 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "BLSE#808": {
+    "name": "jchu but old",
+    "tag": "BLSE#808",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "FUCKIN#1": {
+    "name": "fknsilver",
+    "tag": "FUCKIN#1",
+    "rank": "DIAMOND 1",
+    "rating": 2063.2,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "98.5"
+    ],
+    "wins": 39,
+    "losses": 19
   },
   "JINK#1": {
     "name": "PNKY",
@@ -233,6 +277,16 @@
     "wins": 0,
     "losses": 0
   },
+  "ZBOO#991": {
+    "name": "(-:",
+    "tag": "ZBOO#991",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "PEE#658": {
     "name": "Bobby Trees",
     "tag": "PEE#658",
@@ -242,6 +296,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "WEGG#462": {
+    "name": "Young Wunna",
+    "tag": "WEGG#462",
+    "rank": "GOLD 2",
+    "rating": 1624.3,
+    "characters": [
+      "Fox",
+      "Marth"
+    ],
+    "percentages": [
+      "63.2",
+      "36.8"
+    ],
+    "wins": 20,
+    "losses": 15
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -366,6 +436,16 @@
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "EGAG#906": {
+    "name": "2000iqkilljoy",
+    "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
