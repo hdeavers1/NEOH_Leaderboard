@@ -130,11 +130,17 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Falcon",
+      "Peach"
+    ],
+    "percentages": [
+      "66.7",
+      "33.3"
+    ],
+    "wins": 1,
     "losses": 0
   },
   "FRUM#591": {
@@ -300,18 +306,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 3",
-    "rating": 1685.7,
+    "rank": "GOLD 2",
+    "rating": 1642.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "60.8",
-      "39.2"
+      "61.8",
+      "38.2"
     ],
     "wins": 23,
-    "losses": 16
+    "losses": 18
   },
   "DNZO#333": {
     "name": "the thinker",
