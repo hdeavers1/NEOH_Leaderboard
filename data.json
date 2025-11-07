@@ -380,18 +380,18 @@
   "SERE#225": {
     "name": "ForkliftCerty",
     "tag": "SERE#225",
-    "rank": "GOLD 3",
-    "rating": 1715.7,
+    "rank": "PLATINUM 1",
+    "rating": 1793.6,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "95.4",
-      "4.6"
+      "96.3",
+      "3.7"
     ],
-    "wins": 16,
-    "losses": 11
+    "wins": 21,
+    "losses": 14
   },
   "MARF#811": {
     "name": "Marfweasel",
