@@ -96,18 +96,22 @@
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "SILVER 2",
+    "rating": 1199.9,
     "characters": [
       "Doc",
-      "Falcon"
+      "Falcon",
+      "Fox",
+      "Marth"
     ],
     "percentages": [
-      "80.0",
-      "20.0"
+      "56.3",
+      "18.8",
+      "18.8",
+      "6.3"
     ],
     "wins": 3,
-    "losses": 1
+    "losses": 4
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -266,18 +270,16 @@
   "JINK#1": {
     "name": "PNKY",
     "tag": "JINK#1",
-    "rank": "PLATINUM 3",
-    "rating": 1955.1,
+    "rank": "PLATINUM 2",
+    "rating": 1877.8,
     "characters": [
-      "Marth",
-      "Fox"
+      "Marth"
     ],
     "percentages": [
-      "96.8",
-      "2.2"
+      "97.1"
     ],
     "wins": 25,
-    "losses": 14
+    "losses": 18
   },
   "FLOW#08": {
     "name": "Flow",
@@ -438,18 +440,18 @@
   "DEE#218": {
     "name": "iyf. sinister",
     "tag": "DEE#218",
-    "rank": "PLATINUM 1",
-    "rating": 1760.2,
+    "rank": "GOLD 3",
+    "rating": 1706.1,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "93.8",
-      "6.3"
+      "93.5",
+      "6.5"
     ],
-    "wins": 34,
-    "losses": 25
+    "wins": 35,
+    "losses": 29
   },
   "SUCC#860": {
     "name": "Wahey",
