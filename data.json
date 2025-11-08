@@ -380,18 +380,18 @@
   "SERE#225": {
     "name": "ForkliftCerty",
     "tag": "SERE#225",
-    "rank": "PLATINUM 2",
-    "rating": 1867.8,
+    "rank": "PLATINUM 1",
+    "rating": 1841.3,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "98.0",
-      "2.0"
+      "97.7",
+      "2.3"
     ],
-    "wins": 36,
-    "losses": 28
+    "wins": 40,
+    "losses": 36
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -504,20 +504,20 @@
     "losses": 0
   },
   "MOSHI#0": {
-    "name": "Ms.Doesn't Miss",
+    "name": "boner breath",
     "tag": "MOSHI#0",
-    "rank": "GOLD 2",
-    "rating": 1616.3,
+    "rank": "GOLD 3",
+    "rating": 1654,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "82.4",
-      "17.6"
+      "84.4",
+      "15.6"
     ],
-    "wins": 28,
-    "losses": 23
+    "wins": 32,
+    "losses": 26
   },
   "SMEG#879": {
     "name": "$",
