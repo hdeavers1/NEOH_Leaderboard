@@ -32,15 +32,15 @@
   "QCUM#685": {
     "name": "Aspiring HM",
     "tag": "QCUM#685",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "SILVER 2",
+    "rating": 1284.9,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 2,
+    "wins": 3,
     "losses": 2
   },
   "MAYO#795": {
@@ -263,19 +263,15 @@
     "name": "PNKY",
     "tag": "JINK#1",
     "rank": "PLATINUM 1",
-    "rating": 1802.8,
+    "rating": 1831.2,
     "characters": [
-      "Marth",
-      "Fox",
-      "Falcon"
+      "Marth"
     ],
     "percentages": [
-      "95.3",
-      "2.3",
-      "2.3"
+      "96.5"
     ],
-    "wins": 13,
-    "losses": 7
+    "wins": 16,
+    "losses": 9
   },
   "FLOW#08": {
     "name": "Flow",
