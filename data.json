@@ -432,18 +432,18 @@
   "DEE#218": {
     "name": "iyf. sinister",
     "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1655.8,
+    "rank": "GOLD 2",
+    "rating": 1630.3,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "93.2",
-      "6.8"
+      "93.0",
+      "7.0"
     ],
-    "wins": 23,
-    "losses": 19
+    "wins": 25,
+    "losses": 22
   },
   "SUCC#860": {
     "name": "Wahey",
