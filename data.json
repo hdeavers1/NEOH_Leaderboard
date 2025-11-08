@@ -33,7 +33,7 @@
     "name": "Aspiring HM",
     "tag": "QCUM#685",
     "rank": "SILVER 2",
-    "rating": 1284.9,
+    "rating": 1250.7,
     "characters": [
       "Fox"
     ],
@@ -41,7 +41,7 @@
       "100.0"
     ],
     "wins": 3,
-    "losses": 2
+    "losses": 3
   },
   "MAYO#795": {
     "name": "FalconArcDay0",
@@ -262,16 +262,18 @@
   "JINK#1": {
     "name": "PNKY",
     "tag": "JINK#1",
-    "rank": "PLATINUM 1",
-    "rating": 1793.1,
+    "rank": "PLATINUM 2",
+    "rating": 1853.6,
     "characters": [
-      "Marth"
+      "Marth",
+      "Fox"
     ],
     "percentages": [
-      "96.8"
+      "95.9",
+      "2.7"
     ],
-    "wins": 16,
-    "losses": 11
+    "wins": 19,
+    "losses": 12
   },
   "FLOW#08": {
     "name": "Flow",
@@ -306,18 +308,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 3",
-    "rating": 1677.1,
+    "rank": "GOLD 2",
+    "rating": 1643.2,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "60.9",
-      "39.1"
+      "60.8",
+      "39.2"
     ],
     "wins": 25,
-    "losses": 21
+    "losses": 23
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -432,17 +434,17 @@
   "DEE#218": {
     "name": "iyf. sinister",
     "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1749.9,
+    "rank": "PLATINUM 1",
+    "rating": 1772.9,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "93.3",
-      "6.7"
+      "93.4",
+      "6.6"
     ],
-    "wins": 32,
+    "wins": 33,
     "losses": 23
   },
   "SUCC#860": {
