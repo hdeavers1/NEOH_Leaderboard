@@ -12,11 +12,15 @@
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
     "losses": 0
   },
   "BIGO#869": {
@@ -262,18 +266,18 @@
   "JINK#1": {
     "name": "PNKY",
     "tag": "JINK#1",
-    "rank": "PLATINUM 2",
-    "rating": 1920.2,
+    "rank": "PLATINUM 3",
+    "rating": 1955.1,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "96.4",
-      "2.4"
+      "96.8",
+      "2.2"
     ],
-    "wins": 23,
-    "losses": 13
+    "wins": 25,
+    "losses": 14
   },
   "FLOW#08": {
     "name": "Flow",
@@ -435,17 +439,17 @@
     "name": "iyf. sinister",
     "tag": "DEE#218",
     "rank": "PLATINUM 1",
-    "rating": 1772.9,
+    "rating": 1760.2,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "93.4",
-      "6.6"
+      "93.8",
+      "6.3"
     ],
-    "wins": 33,
-    "losses": 23
+    "wins": 34,
+    "losses": 25
   },
   "SUCC#860": {
     "name": "Wahey",
