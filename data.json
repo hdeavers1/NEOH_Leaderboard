@@ -263,17 +263,17 @@
     "name": "PNKY",
     "tag": "JINK#1",
     "rank": "PLATINUM 2",
-    "rating": 1853.6,
+    "rating": 1920.2,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "95.9",
-      "2.7"
+      "96.4",
+      "2.4"
     ],
-    "wins": 19,
-    "losses": 12
+    "wins": 23,
+    "losses": 13
   },
   "FLOW#08": {
     "name": "Flow",
