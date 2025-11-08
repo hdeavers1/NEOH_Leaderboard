@@ -306,18 +306,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 2",
-    "rating": 1642.1,
+    "rank": "GOLD 3",
+    "rating": 1677.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "61.8",
-      "38.2"
+      "60.9",
+      "39.1"
     ],
-    "wins": 23,
-    "losses": 18
+    "wins": 25,
+    "losses": 21
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -380,18 +380,18 @@
   "SERE#225": {
     "name": "ForkliftCerty",
     "tag": "SERE#225",
-    "rank": "PLATINUM 1",
-    "rating": 1793.6,
+    "rank": "PLATINUM 2",
+    "rating": 1854.8,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "96.3",
-      "3.7"
+      "97.5",
+      "2.5"
     ],
-    "wins": 21,
-    "losses": 14
+    "wins": 30,
+    "losses": 22
   },
   "MARF#811": {
     "name": "Marfweasel",
