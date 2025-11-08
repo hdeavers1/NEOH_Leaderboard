@@ -105,16 +105,16 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 2",
-    "rating": 1290.4,
+    "rating": 1315.3,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "94.7",
-      "5.3"
+      "95.0",
+      "5.0"
     ],
-    "wins": 10,
+    "wins": 11,
     "losses": 14
   },
   "JARD#561": {
@@ -244,16 +244,16 @@
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
-    "rank": "DIAMOND 1",
-    "rating": 2063.2,
+    "rank": "DIAMOND 2",
+    "rating": 2092.3,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "98.5"
+      "98.6"
     ],
-    "wins": 39,
-    "losses": 19
+    "wins": 43,
+    "losses": 20
   },
   "JINK#1": {
     "name": "PNKY",
