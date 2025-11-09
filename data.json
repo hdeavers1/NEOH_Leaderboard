@@ -315,17 +315,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "GOLD 2",
-    "rating": 1643.2,
+    "rating": 1642.4,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "60.8",
-      "39.2"
+      "61.2",
+      "38.8"
     ],
-    "wins": 25,
-    "losses": 23
+    "wins": 27,
+    "losses": 25
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -340,15 +340,15 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "GOLD 1",
-    "rating": 1542.3,
+    "rank": "GOLD 2",
+    "rating": 1579.1,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 8,
+    "wins": 9,
     "losses": 5
   },
   "DREW#175": {
@@ -441,16 +441,16 @@
     "name": "iyf. sinister",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1706.1,
+    "rating": 1725.4,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "93.5",
-      "6.5"
+      "93.6",
+      "6.4"
     ],
-    "wins": 35,
+    "wins": 36,
     "losses": 29
   },
   "SUCC#860": {
@@ -464,7 +464,7 @@
     "losses": 0
   },
   "EGAG#906": {
-    "name": "2000iqkilljoy",
+    "name": "MtF Nose Drake",
     "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
@@ -515,17 +515,17 @@
     "name": "boner breath",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1681.9,
+    "rating": 1678.7,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "84.7",
-      "15.3"
+      "87.1",
+      "12.9"
     ],
-    "wins": 33,
-    "losses": 26
+    "wins": 39,
+    "losses": 33
   },
   "SMEG#879": {
     "name": "$",
