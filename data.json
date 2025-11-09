@@ -315,17 +315,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "GOLD 2",
-    "rating": 1621.9,
+    "rating": 1624.7,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "61.5",
-      "38.5"
+      "62.9",
+      "37.1"
     ],
-    "wins": 27,
-    "losses": 27
+    "wins": 28,
+    "losses": 28
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -514,8 +514,8 @@
   "MOSHI#0": {
     "name": "boner breath",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1666.4,
+    "rank": "GOLD 2",
+    "rating": 1643.6,
     "characters": [
       "Peach",
       "Ness"
@@ -524,8 +524,8 @@
       "88.5",
       "11.5"
     ],
-    "wins": 47,
-    "losses": 42
+    "wins": 48,
+    "losses": 45
   },
   "SMEG#879": {
     "name": "$",
