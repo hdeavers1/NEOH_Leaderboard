@@ -487,19 +487,19 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 1",
-    "rating": 1159.7,
+    "rating": 1096.3,
     "characters": [
       "Marth",
       "Fox",
       "Falcon"
     ],
     "percentages": [
-      "85.7",
-      "7.1",
-      "7.1"
+      "78.9",
+      "15.8",
+      "5.3"
     ],
     "wins": 3,
-    "losses": 4
+    "losses": 6
   },
   "NCRO#183": {
     "name": "Ncro",
