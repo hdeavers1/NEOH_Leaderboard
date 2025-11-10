@@ -314,17 +314,17 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 2",
-    "rating": 1624.7,
+    "rank": "GOLD 3",
+    "rating": 1705.5,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "62.9",
-      "37.1"
+      "65.3",
+      "34.7"
     ],
-    "wins": 28,
+    "wins": 32,
     "losses": 28
   },
   "DNZO#333": {
@@ -424,18 +424,18 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1559.2,
+    "rank": "GOLD 1",
+    "rating": 1496.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "90.7",
-      "8.6"
+      "91.1",
+      "8.2"
     ],
     "wins": 33,
-    "losses": 29
+    "losses": 32
   },
   "DEE#218": {
     "name": "iyf. sinister",
@@ -514,18 +514,18 @@
   "MOSHI#0": {
     "name": "boner breath",
     "tag": "MOSHI#0",
-    "rank": "GOLD 2",
-    "rating": 1610.5,
+    "rank": "GOLD 3",
+    "rating": 1664.4,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "88.6",
-      "11.4"
+      "89.1",
+      "10.9"
     ],
-    "wins": 54,
-    "losses": 54
+    "wins": 58,
+    "losses": 55
   },
   "SMEG#879": {
     "name": "$",
