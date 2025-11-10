@@ -117,16 +117,16 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1322.6,
+    "rating": 1350.4,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "93.8",
-      "4.6"
+      "94.1",
+      "4.4"
     ],
-    "wins": 12,
+    "wins": 13,
     "losses": 15
   },
   "JARD#561": {
@@ -425,16 +425,16 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 1",
-    "rating": 1496.8,
+    "rating": 1532.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "91.1",
-      "8.2"
+      "91.4",
+      "8.0"
     ],
-    "wins": 33,
+    "wins": 35,
     "losses": 32
   },
   "DEE#218": {
