@@ -217,17 +217,17 @@
     "name": "Big Soft Nice",
     "tag": "PLAY#647",
     "rank": "GOLD 1",
-    "rating": 1490.4,
+    "rating": 1444.4,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "92.9",
-      "7.1"
+      "95.5",
+      "4.5"
     ],
-    "wins": 6,
-    "losses": 1
+    "wins": 7,
+    "losses": 3
   },
   "GRIM#801": {
     "name": "Shiesty",
