@@ -48,7 +48,7 @@
     "losses": 3
   },
   "MAYO#795": {
-    "name": "FalconArcDay0",
+    "name": "FalconArcDay1",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
     "rating": 1740.1,
@@ -515,17 +515,17 @@
     "name": "boner breath",
     "tag": "MOSHI#0",
     "rank": "GOLD 2",
-    "rating": 1620.2,
+    "rating": 1610.5,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "88.5",
-      "11.5"
+      "88.6",
+      "11.4"
     ],
-    "wins": 52,
-    "losses": 51
+    "wins": 54,
+    "losses": 54
   },
   "SMEG#879": {
     "name": "$",
