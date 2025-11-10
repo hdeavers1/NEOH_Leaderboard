@@ -317,22 +317,6 @@
     "wins": 0,
     "losses": 0
   },
-  "WEGG#462": {
-    "name": "Young Wunna",
-    "tag": "WEGG#462",
-    "rank": "GOLD 3",
-    "rating": 1705.5,
-    "characters": [
-      "Fox",
-      "Marth"
-    ],
-    "percentages": [
-      "65.3",
-      "34.7"
-    ],
-    "wins": 32,
-    "losses": 28
-  },
   "DNZO#333": {
     "name": "the thinker",
     "tag": "DNZO#333",
