@@ -259,6 +259,20 @@
     "wins": 0,
     "losses": 0
   },
+  "FUCKIN#1": {
+    "name": "fknsilver",
+    "tag": "FUCKIN#1",
+    "rank": "DIAMOND 2",
+    "rating": 2111,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "98.9"
+    ],
+    "wins": 56,
+    "losses": 24
+  },
   "JINK#1": {
     "name": "PNKY",
     "tag": "JINK#1",
@@ -518,6 +532,16 @@
     ],
     "wins": 58,
     "losses": 55
+  },
+  "SMEG#879": {
+    "name": "$",
+    "tag": "SMEG#879",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "BOZO#386": {
     "name": "super pichu",
