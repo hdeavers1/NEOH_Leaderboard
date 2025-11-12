@@ -169,7 +169,7 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1911.7,
+    "rating": 1851.6,
     "characters": [
       "Samus"
     ],
@@ -177,7 +177,7 @@
       "99.5"
     ],
     "wins": 49,
-    "losses": 32
+    "losses": 36
   },
   "ASIG#701": {
     "name": "aSig",
@@ -324,18 +324,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 1",
-    "rating": 1770,
+    "rank": "GOLD 3",
+    "rating": 1735.8,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "64.5",
-      "35.5"
+      "65.3",
+      "34.7"
     ],
     "wins": 37,
-    "losses": 30
+    "losses": 32
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -524,18 +524,18 @@
   "MOSHI#0": {
     "name": "boner breath",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1664.4,
+    "rank": "GOLD 2",
+    "rating": 1619.3,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "89.1",
-      "10.9"
+      "89.6",
+      "10.4"
     ],
     "wins": 58,
-    "losses": 55
+    "losses": 59
   },
   "SMEG#879": {
     "name": "$",
