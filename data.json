@@ -117,17 +117,17 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1333.2,
+    "rating": 1318.4,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "94.6",
-      "4.1"
+      "94.7",
+      "3.9"
     ],
     "wins": 14,
-    "losses": 17
+    "losses": 18
   },
   "JARD#561": {
     "name": "pingas",
@@ -290,12 +290,16 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
+    "losses": 1
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -392,20 +396,20 @@
     "losses": 0
   },
   "SERE#225": {
-    "name": "ForkliftCerty",
+    "name": "sp1nda_pgh",
     "tag": "SERE#225",
     "rank": "PLATINUM 1",
-    "rating": 1841.3,
+    "rating": 1842.9,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "97.9",
+      "2.1"
     ],
-    "wins": 40,
-    "losses": 36
+    "wins": 43,
+    "losses": 41
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -431,16 +435,16 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1562.5,
+    "rating": 1572.7,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "91.9",
-      "7.6"
+      "91.0",
+      "8.5"
     ],
-    "wins": 40,
+    "wins": 41,
     "losses": 36
   },
   "DEE#218": {
