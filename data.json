@@ -169,15 +169,15 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1851.6,
+    "rating": 1869.5,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 49,
-    "losses": 36
+    "wins": 53,
+    "losses": 39
   },
   "ASIG#701": {
     "name": "aSig",
@@ -399,17 +399,17 @@
     "name": "sp1nda_pgh",
     "tag": "SERE#225",
     "rank": "PLATINUM 2",
-    "rating": 1851.5,
+    "rating": 1854.2,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "97.9",
+      "2.1"
     ],
-    "wins": 48,
-    "losses": 46
+    "wins": 51,
+    "losses": 50
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -525,7 +525,7 @@
     "name": "boner breath",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1669.3,
+    "rating": 1674.2,
     "characters": [
       "Peach",
       "Ness"
@@ -534,8 +534,8 @@
       "90.2",
       "9.8"
     ],
-    "wins": 64,
-    "losses": 61
+    "wins": 67,
+    "losses": 63
   },
   "SMEG#879": {
     "name": "$",
