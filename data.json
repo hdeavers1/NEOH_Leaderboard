@@ -252,11 +252,15 @@
   "BLSE#808": {
     "name": "jchu but old",
     "tag": "BLSE#808",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 1,
+    "characters": [
+      "Pikachu"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
     "losses": 0
   },
   "FUCKIN#1": {
