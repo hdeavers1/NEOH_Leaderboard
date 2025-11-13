@@ -169,29 +169,29 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1869.5,
+    "rating": 1902.9,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "99.5"
+      "99.6"
     ],
-    "wins": 53,
-    "losses": 39
+    "wins": 58,
+    "losses": 41
   },
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "SILVER 2",
-    "rating": 1272.7,
+    "rank": "GOLD 1",
+    "rating": 1439.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 7,
-    "losses": 8
+    "wins": 12,
+    "losses": 10
   },
   "JUST#577": {
     "name": "Just",
@@ -262,15 +262,15 @@
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
-    "rank": "DIAMOND 2",
-    "rating": 2111,
+    "rank": "DIAMOND 3",
+    "rating": 2145,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "98.9"
     ],
-    "wins": 56,
+    "wins": 60,
     "losses": 24
   },
   "JINK#1": {
