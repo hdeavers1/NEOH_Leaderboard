@@ -216,18 +216,18 @@
   "PLAY#647": {
     "name": "BornAgainLuigi",
     "tag": "PLAY#647",
-    "rank": "GOLD 1",
-    "rating": 1539.3,
+    "rank": "PLATINUM 1",
+    "rating": 1758.4,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "96.2",
-      "3.8"
+      "92.3",
+      "7.7"
     ],
-    "wins": 9,
-    "losses": 3
+    "wins": 13,
+    "losses": 4
   },
   "GRIM#801": {
     "name": "Shiesty",
