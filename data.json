@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "KeepTheChange",
+    "name": "MidwestOpe",
     "tag": "WWJ#916",
     "rank": "NONE",
     "rating": 0,
@@ -96,22 +96,22 @@
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
-    "rank": "SILVER 2",
-    "rating": 1267.6,
+    "rank": "SILVER 3",
+    "rating": 1389.3,
     "characters": [
-      "Doc",
-      "Falcon",
+      "Marth",
       "Fox",
-      "Marth"
+      "Doc",
+      "Falcon"
     ],
     "percentages": [
-      "34.6",
-      "30.8",
-      "30.8",
-      "3.8"
+      "27.0",
+      "27.0",
+      "24.3",
+      "21.6"
     ],
-    "wins": 6,
-    "losses": 6
+    "wins": 9,
+    "losses": 7
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -324,18 +324,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 3",
-    "rating": 1735.8,
+    "rank": "PLATINUM 1",
+    "rating": 1758.6,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "65.3",
-      "34.7"
+      "65.2",
+      "34.8"
     ],
-    "wins": 37,
-    "losses": 32
+    "wins": 39,
+    "losses": 33
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -399,17 +399,17 @@
     "name": "sp1nda_pgh",
     "tag": "SERE#225",
     "rank": "PLATINUM 2",
-    "rating": 1850.9,
+    "rating": 1851.5,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "98.0",
-      "2.0"
+      "97.7",
+      "2.3"
     ],
-    "wins": 44,
-    "losses": 41
+    "wins": 48,
+    "losses": 46
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -524,18 +524,18 @@
   "MOSHI#0": {
     "name": "boner breath",
     "tag": "MOSHI#0",
-    "rank": "GOLD 2",
-    "rating": 1619.3,
+    "rank": "GOLD 3",
+    "rating": 1669.3,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "89.6",
-      "10.4"
+      "90.2",
+      "9.8"
     ],
-    "wins": 58,
-    "losses": 59
+    "wins": 64,
+    "losses": 61
   },
   "SMEG#879": {
     "name": "$",
