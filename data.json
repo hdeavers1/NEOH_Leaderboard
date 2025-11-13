@@ -117,17 +117,17 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1337.8,
+    "rating": 1317.4,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "95.4",
-      "3.4"
+      "95.7",
+      "3.2"
     ],
-    "wins": 16,
-    "losses": 20
+    "wins": 17,
+    "losses": 22
   },
   "JARD#561": {
     "name": "pingas",
@@ -262,16 +262,16 @@
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
-    "rank": "DIAMOND 2",
-    "rating": 2126.5,
+    "rank": "DIAMOND 3",
+    "rating": 2167.2,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "98.4"
+      "98.5"
     ],
-    "wins": 61,
-    "losses": 26
+    "wins": 65,
+    "losses": 27
   },
   "JINK#1": {
     "name": "PNKY",
@@ -434,8 +434,8 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 1",
-    "rating": 1546.2,
+    "rank": "GOLD 2",
+    "rating": 1563,
     "characters": [
       "Yoshi",
       "DK"
@@ -444,8 +444,8 @@
       "91.2",
       "8.3"
     ],
-    "wins": 41,
-    "losses": 38
+    "wins": 44,
+    "losses": 40
   },
   "DEE#218": {
     "name": "iyf. sinister",
