@@ -117,17 +117,17 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1385.5,
+    "rating": 1416.4,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "96.2",
-      "2.9"
+      "96.6",
+      "2.5"
     ],
-    "wins": 21,
-    "losses": 23
+    "wins": 24,
+    "losses": 25
   },
   "JARD#561": {
     "name": "pingas",
@@ -531,17 +531,17 @@
     "name": "boner breath",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1674.2,
+    "rating": 1676.5,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "90.2",
-      "9.8"
+      "90.4",
+      "9.6"
     ],
-    "wins": 67,
-    "losses": 63
+    "wins": 68,
+    "losses": 64
   },
   "SMEG#879": {
     "name": "$",
