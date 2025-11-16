@@ -408,18 +408,18 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "PLATINUM 2",
-    "rating": 1878.3,
+    "rank": "PLATINUM 1",
+    "rating": 1828.4,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "97.8",
+      "2.2"
     ],
-    "wins": 58,
-    "losses": 55
+    "wins": 59,
+    "losses": 60
   },
   "MARF#811": {
     "name": "Marfweasel",
