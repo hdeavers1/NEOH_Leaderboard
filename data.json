@@ -359,14 +359,14 @@
     "name": "kneemaster12",
     "tag": "KM#12",
     "rank": "GOLD 2",
-    "rating": 1579.1,
+    "rating": 1609.3,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 9,
+    "wins": 10,
     "losses": 5
   },
   "DREW#175": {
@@ -409,7 +409,7 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 2",
-    "rating": 1854.2,
+    "rating": 1870.2,
     "characters": [
       "Fox",
       "Marth"
@@ -418,8 +418,8 @@
       "97.9",
       "2.1"
     ],
-    "wins": 51,
-    "losses": 50
+    "wins": 53,
+    "losses": 51
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -461,7 +461,7 @@
     "name": "5D",
     "tag": "DEE#218",
     "rank": "PLATINUM 1",
-    "rating": 1765.2,
+    "rating": 1771.9,
     "characters": [
       "ICs",
       "YLink"
@@ -470,7 +470,7 @@
       "94.2",
       "5.8"
     ],
-    "wins": 39,
+    "wins": 40,
     "losses": 31
   },
   "SUCC#860": {
