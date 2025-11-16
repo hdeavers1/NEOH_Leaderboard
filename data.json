@@ -282,16 +282,18 @@
   "JINK#1": {
     "name": "harper",
     "tag": "JINK#1",
-    "rank": "PLATINUM 2",
-    "rating": 1877.8,
+    "rank": "PLATINUM 3",
+    "rating": 1941.1,
     "characters": [
-      "Marth"
+      "Marth",
+      "Fox"
     ],
     "percentages": [
-      "97.1"
+      "96.5",
+      "2.6"
     ],
-    "wins": 25,
-    "losses": 18
+    "wins": 28,
+    "losses": 19
   },
   "FLOW#08": {
     "name": "Flow",
