@@ -1,4 +1,38 @@
 {
+  "WWJ#916": {
+    "name": "Jee Will Ichers",
+    "tag": "WWJ#916",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "JUBS#579": {
+    "name": "Jubly",
+    "tag": "JUBS#579",
+    "rank": "GOLD 1",
+    "rating": 1436.1,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 6,
+    "losses": 4
+  },
+  "BIGO#869": {
+    "name": "fuelTwerks",
+    "tag": "BIGO#869",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "QCUM#685": {
     "name": "Fat Chud",
     "tag": "QCUM#685",
