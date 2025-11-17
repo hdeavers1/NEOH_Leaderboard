@@ -409,17 +409,17 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 1",
-    "rating": 1828.4,
+    "rating": 1839.9,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "97.8",
-      "2.2"
+      "97.7",
+      "2.3"
     ],
-    "wins": 59,
-    "losses": 60
+    "wins": 66,
+    "losses": 65
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -461,17 +461,17 @@
     "name": "5D",
     "tag": "DEE#218",
     "rank": "PLATINUM 1",
-    "rating": 1793.2,
+    "rating": 1814.8,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "94.4",
-      "5.6"
+      "94.1",
+      "5.9"
     ],
-    "wins": 42,
-    "losses": 32
+    "wins": 44,
+    "losses": 34
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -484,7 +484,7 @@
     "losses": 0
   },
   "EGAG#906": {
-    "name": "MtF Nose Drake",
+    "name": "kaz kaan (mtf)",
     "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
@@ -532,7 +532,7 @@
     "losses": 0
   },
   "MOSHI#0": {
-    "name": "I am evil now",
+    "name": "cl_showpaws 1",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1715.3,
