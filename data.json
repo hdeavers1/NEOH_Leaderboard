@@ -1,38 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "Jee Will Ichers",
-    "tag": "WWJ#916",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "JUBS#579": {
-    "name": "Jubly",
-    "tag": "JUBS#579",
-    "rank": "GOLD 1",
-    "rating": 1436.1,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 6,
-    "losses": 4
-  },
-  "BIGO#869": {
-    "name": "fuelTwerks",
-    "tag": "BIGO#869",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "QCUM#685": {
     "name": "Fat Chud",
     "tag": "QCUM#685",
@@ -117,17 +83,17 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1403.8,
+    "rating": 1386.3,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "96.8",
-      "2.4"
+      "96.9",
+      "2.3"
     ],
     "wins": 25,
-    "losses": 27
+    "losses": 28
   },
   "JARD#561": {
     "name": "pingas",
