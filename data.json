@@ -182,16 +182,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 1",
-    "rating": 1542.1,
+    "rank": "GOLD 2",
+    "rating": 1578.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 17,
-    "losses": 13
+    "wins": 20,
+    "losses": 14
   },
   "JUST#577": {
     "name": "Just",
