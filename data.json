@@ -250,20 +250,20 @@
     "losses": 0
   },
   "BLSE#808": {
-    "name": "8",
+    "name": "BURNT OUT",
     "tag": "BLSE#808",
-    "rank": "PLATINUM 2",
-    "rating": 1903.5,
+    "rank": "DIAMOND 1",
+    "rating": 2005,
     "characters": [
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "95.7",
-      "4.3"
+      "96.9",
+      "3.1"
     ],
-    "wins": 15,
-    "losses": 5
+    "wins": 21,
+    "losses": 6
   },
   "FUCKIN#1": {
     "name": "fknsilver",
