@@ -253,17 +253,17 @@
     "name": "BURNT OUT",
     "tag": "BLSE#808",
     "rank": "DIAMOND 1",
-    "rating": 2005,
+    "rating": 2026.2,
     "characters": [
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "96.9",
-      "3.1"
+      "97.2",
+      "2.8"
     ],
-    "wins": 21,
-    "losses": 6
+    "wins": 23,
+    "losses": 7
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -566,39 +566,5 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "SYS#0": {
-    "name": "Syspen",
-    "tag": "SYS#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "VYV#0": {
-    "name": "vyv",
-    "tag": "VYV#0",
-    "rank": "PENDING",
-    "rating": 2,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 0,
-    "losses": 3
   }
 }
