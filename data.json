@@ -50,18 +50,18 @@
   "MAYO#795": {
     "name": "FalconArc",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1705,
+    "rank": "GOLD 2",
+    "rating": 1629.6,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "92.2",
-      "7.8"
+      "85.5",
+      "14.5"
     ],
-    "wins": 37,
-    "losses": 31
+    "wins": 38,
+    "losses": 36
   },
   "PANC#613": {
     "name": "panchito$",
@@ -183,15 +183,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 2",
-    "rating": 1560.4,
+    "rating": 1579.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 20,
-    "losses": 15
+    "wins": 22,
+    "losses": 17
   },
   "JUST#577": {
     "name": "Just",
@@ -445,16 +445,16 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1585.1,
+    "rating": 1603.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "91.3",
-      "8.3"
+      "91.0",
+      "8.6"
     ],
-    "wins": 57,
+    "wins": 58,
     "losses": 53
   },
   "DEE#218": {
