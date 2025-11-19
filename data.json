@@ -383,17 +383,17 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1747.9,
+    "rating": 1745.6,
     "characters": [
       "Peach",
       "Fox"
     ],
     "percentages": [
-      "96.3",
-      "3.7"
+      "94.6",
+      "5.4"
     ],
-    "wins": 10,
-    "losses": 2
+    "wins": 11,
+    "losses": 5
   },
   "MEDIC#0": {
     "name": "MEDIC!",
@@ -408,18 +408,18 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "PLATINUM 1",
-    "rating": 1832.1,
+    "rank": "PLATINUM 3",
+    "rating": 1931,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "97.7",
+      "2.3"
     ],
-    "wins": 68,
-    "losses": 68
+    "wins": 77,
+    "losses": 72
   },
   "MARF#811": {
     "name": "Marfweasel",
