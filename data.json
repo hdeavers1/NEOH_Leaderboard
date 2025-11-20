@@ -250,7 +250,7 @@
     "losses": 0
   },
   "BLSE#808": {
-    "name": "BURNT OUT",
+    "name": "not BURNT OUT",
     "tag": "BLSE#808",
     "rank": "DIAMOND 1",
     "rating": 2026.2,
@@ -445,17 +445,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1573.6,
+    "rating": 1561.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "91.6",
-      "8.0"
+      "91.3",
+      "8.3"
     ],
     "wins": 61,
-    "losses": 58
+    "losses": 59
   },
   "DEE#218": {
     "name": "5D",
