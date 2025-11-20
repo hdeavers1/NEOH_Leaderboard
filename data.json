@@ -531,22 +531,6 @@
     "wins": 0,
     "losses": 0
   },
-  "MOSHI#0": {
-    "name": "cl_showpaws 1",
-    "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1715.3,
-    "characters": [
-      "Peach",
-      "Ness"
-    ],
-    "percentages": [
-      "91.7",
-      "8.3"
-    ],
-    "wins": 84,
-    "losses": 78
-  },
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
