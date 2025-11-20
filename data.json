@@ -169,7 +169,7 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1905.4,
+    "rating": 1861.7,
     "characters": [
       "Samus"
     ],
@@ -177,7 +177,7 @@
       "99.6"
     ],
     "wins": 59,
-    "losses": 42
+    "losses": 46
   },
   "ASIG#701": {
     "name": "aSig",
@@ -461,16 +461,16 @@
     "name": "5D",
     "tag": "DEE#218",
     "rank": "PLATINUM 2",
-    "rating": 1847.1,
+    "rating": 1862.9,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "94.4",
-      "5.6"
+      "94.5",
+      "5.5"
     ],
-    "wins": 47,
+    "wins": 48,
     "losses": 35
   },
   "SUCC#860": {
