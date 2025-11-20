@@ -445,17 +445,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1620.5,
+    "rating": 1573.6,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "91.1",
-      "8.5"
+      "91.6",
+      "8.0"
     ],
-    "wins": 59,
-    "losses": 53
+    "wins": 61,
+    "losses": 58
   },
   "DEE#218": {
     "name": "5D",
@@ -550,16 +550,16 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "GOLD 1",
+    "rating": 1520.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
-    "losses": 0
+    "wins": 6,
+    "losses": 2
   },
   "BOZO#386": {
     "name": "super pichu",
