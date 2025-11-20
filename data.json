@@ -550,11 +550,15 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 1,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
     "losses": 0
   },
   "BOZO#386": {
