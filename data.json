@@ -13,7 +13,7 @@
     "name": "Jubly",
     "tag": "JUBS#579",
     "rank": "GOLD 2",
-    "rating": 1603,
+    "rating": 1563.5,
     "characters": [
       "Falco"
     ],
@@ -21,7 +21,7 @@
       "100.0"
     ],
     "wins": 9,
-    "losses": 4
+    "losses": 5
   },
   "BIGO#869": {
     "name": "fuelTwerks",
@@ -97,7 +97,7 @@
     "name": "Jub Lee",
     "tag": "SPOR#247",
     "rank": "SILVER 3",
-    "rating": 1392.3,
+    "rating": 1371.4,
     "characters": [
       "Fox",
       "Doc",
@@ -105,13 +105,13 @@
       "Falcon"
     ],
     "percentages": [
-      "31.8",
-      "27.3",
-      "22.7",
-      "18.2"
+      "34.0",
+      "25.5",
+      "21.3",
+      "19.1"
     ],
     "wins": 10,
-    "losses": 9
+    "losses": 10
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -169,15 +169,15 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1862.8,
+    "rating": 1849.4,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.6"
     ],
-    "wins": 61,
-    "losses": 48
+    "wins": 64,
+    "losses": 53
   },
   "ASIG#701": {
     "name": "aSig",
