@@ -168,16 +168,16 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 1",
-    "rating": 1839.4,
+    "rank": "PLATINUM 2",
+    "rating": 1859.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.7"
     ],
-    "wins": 68,
-    "losses": 59
+    "wins": 72,
+    "losses": 62
   },
   "ASIG#701": {
     "name": "aSig",
@@ -253,17 +253,17 @@
     "name": "not BURNT OUT",
     "tag": "BLSE#808",
     "rank": "DIAMOND 2",
-    "rating": 2080,
+    "rating": 2111.4,
     "characters": [
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "96.8",
+      "2.1"
     ],
-    "wins": 25,
-    "losses": 8
+    "wins": 30,
+    "losses": 9
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -409,7 +409,7 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 3",
-    "rating": 1956.2,
+    "rating": 1965.5,
     "characters": [
       "Fox",
       "Marth"
@@ -418,7 +418,7 @@
       "97.6",
       "2.4"
     ],
-    "wins": 83,
+    "wins": 84,
     "losses": 76
   },
   "MARF#811": {
