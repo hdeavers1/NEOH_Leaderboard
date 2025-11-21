@@ -97,7 +97,7 @@
     "name": "Jub Lee",
     "tag": "SPOR#247",
     "rank": "SILVER 3",
-    "rating": 1371.4,
+    "rating": 1354.4,
     "characters": [
       "Fox",
       "Doc",
@@ -105,13 +105,13 @@
       "Falcon"
     ],
     "percentages": [
-      "34.0",
-      "25.5",
-      "21.3",
-      "19.1"
+      "32.7",
+      "24.5",
+      "22.4",
+      "20.4"
     ],
     "wins": 10,
-    "losses": 10
+    "losses": 11
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -168,16 +168,16 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1849.4,
+    "rank": "PLATINUM 1",
+    "rating": 1818.8,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "99.6"
+      "99.7"
     ],
-    "wins": 64,
-    "losses": 53
+    "wins": 65,
+    "losses": 58
   },
   "ASIG#701": {
     "name": "aSig",
@@ -252,18 +252,18 @@
   "BLSE#808": {
     "name": "not BURNT OUT",
     "tag": "BLSE#808",
-    "rank": "DIAMOND 1",
-    "rating": 2026.2,
+    "rank": "DIAMOND 2",
+    "rating": 2080,
     "characters": [
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "97.2",
-      "2.8"
+      "97.5",
+      "2.5"
     ],
-    "wins": 23,
-    "losses": 7
+    "wins": 25,
+    "losses": 8
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -409,17 +409,17 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 3",
-    "rating": 1931,
+    "rating": 1956.2,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "97.6",
+      "2.4"
     ],
-    "wins": 77,
-    "losses": 72
+    "wins": 83,
+    "losses": 76
   },
   "MARF#811": {
     "name": "Marfweasel",
