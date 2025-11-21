@@ -461,17 +461,17 @@
     "name": "5D",
     "tag": "DEE#218",
     "rank": "PLATINUM 2",
-    "rating": 1862.9,
+    "rating": 1881.9,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "94.5",
-      "5.5"
+      "94.2",
+      "5.8"
     ],
-    "wins": 48,
-    "losses": 35
+    "wins": 50,
+    "losses": 36
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -532,7 +532,7 @@
     "losses": 0
   },
   "MOSHI#0": {
-    "name": "cl_showpaws 1",
+    "name": "PandorasCocks",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1715.3,
