@@ -51,17 +51,17 @@
     "name": "FalconArc",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1622.1,
+    "rating": 1604.9,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "79.0",
-      "21.0"
+      "75.8",
+      "24.2"
     ],
-    "wins": 41,
-    "losses": 40
+    "wins": 43,
+    "losses": 42
   },
   "PANC#613": {
     "name": "panchito$",
@@ -331,17 +331,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1895.4,
+    "rating": 1879,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "64.9",
-      "34.7"
+      "65.0",
+      "34.6"
     ],
-    "wins": 56,
-    "losses": 45
+    "wins": 57,
+    "losses": 47
   },
   "DNZO#333": {
     "name": "the thinker",
