@@ -380,18 +380,18 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "GOLD 3",
-    "rating": 1745.6,
+    "rank": "PLATINUM 2",
+    "rating": 1884.9,
     "characters": [
       "Peach",
       "Fox"
     ],
     "percentages": [
-      "94.6",
-      "5.4"
+      "95.7",
+      "4.3"
     ],
-    "wins": 11,
-    "losses": 5
+    "wins": 14,
+    "losses": 6
   },
   "MEDIC#0": {
     "name": "MEDIC!",
