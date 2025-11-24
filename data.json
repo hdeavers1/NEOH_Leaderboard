@@ -331,17 +331,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1879,
+    "rating": 1902.3,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "65.0",
-      "34.6"
+      "64.7",
+      "34.9"
     ],
-    "wins": 57,
-    "losses": 47
+    "wins": 60,
+    "losses": 50
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -564,16 +564,6 @@
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "SYS#0": {
-    "name": "Syspen",
-    "tag": "SYS#0",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
