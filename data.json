@@ -117,17 +117,15 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1362.6,
+    "rating": 1350.8,
     "characters": [
-      "Marth",
-      "Fox"
+      "Marth"
     ],
     "percentages": [
-      "96.7",
-      "2.0"
+      "96.7"
     ],
     "wins": 28,
-    "losses": 34
+    "losses": 35
   },
   "JARD#561": {
     "name": "pingas",
@@ -330,18 +328,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1902.3,
+    "rank": "PLATINUM 1",
+    "rating": 1840.9,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
       "64.7",
-      "34.9"
+      "35.0"
     ],
     "wins": 60,
-    "losses": 50
+    "losses": 54
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -564,6 +562,16 @@
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "SYS#0": {
+    "name": "Syspen",
+    "tag": "SYS#0",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
