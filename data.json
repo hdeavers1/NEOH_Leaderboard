@@ -50,18 +50,18 @@
   "MAYO#795": {
     "name": "FalconArc",
     "tag": "MAYO#795",
-    "rank": "GOLD 2",
-    "rating": 1604.9,
+    "rank": "GOLD 1",
+    "rating": 1533.1,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "75.8",
-      "24.2"
+      "69.7",
+      "30.3"
     ],
-    "wins": 43,
-    "losses": 42
+    "wins": 45,
+    "losses": 49
   },
   "PANC#613": {
     "name": "panchito$",
@@ -405,17 +405,15 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 3",
-    "rating": 1939.5,
+    "rating": 1972.9,
     "characters": [
-      "Fox",
-      "Marth"
+      "Fox"
     ],
     "percentages": [
-      "98.0",
-      "2.0"
+      "98.1"
     ],
-    "wins": 98,
-    "losses": 90
+    "wins": 105,
+    "losses": 92
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -441,16 +439,16 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1561.1,
+    "rating": 1571.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "91.3",
-      "8.3"
+      "91.4",
+      "8.2"
     ],
-    "wins": 61,
+    "wins": 62,
     "losses": 59
   },
   "DEE#218": {
