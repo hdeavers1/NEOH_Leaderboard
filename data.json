@@ -279,17 +279,15 @@
     "name": "harper",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2074.8,
+    "rating": 2103.1,
     "characters": [
-      "Marth",
-      "Fox"
+      "Marth"
     ],
     "percentages": [
-      "97.2",
-      "2.1"
+      "97.4"
     ],
-    "wins": 38,
-    "losses": 22
+    "wins": 41,
+    "losses": 23
   },
   "FLOW#08": {
     "name": "Flow",
@@ -439,17 +437,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1607.6,
+    "rating": 1625.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "91.4",
-      "8.2"
+      "91.8",
+      "7.9"
     ],
-    "wins": 66,
-    "losses": 60
+    "wins": 69,
+    "losses": 62
   },
   "DEE#218": {
     "name": "5D",
