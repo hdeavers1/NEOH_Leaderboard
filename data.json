@@ -215,17 +215,17 @@
     "name": "BornAgainLuigi",
     "tag": "PLAY#647",
     "rank": "PLATINUM 2",
-    "rating": 1889.4,
+    "rating": 1896.7,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "95.5",
-      "4.5"
+      "95.8",
+      "4.2"
     ],
-    "wins": 20,
-    "losses": 9
+    "wins": 21,
+    "losses": 10
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -326,18 +326,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1855.1,
+    "rank": "PLATINUM 1",
+    "rating": 1837.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "64.7",
-      "35.0"
+      "64.1",
+      "35.5"
     ],
-    "wins": 61,
-    "losses": 54
+    "wins": 62,
+    "losses": 56
   },
   "DNZO#333": {
     "name": "the thinker",
