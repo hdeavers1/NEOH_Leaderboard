@@ -181,14 +181,14 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 2",
-    "rating": 1589.9,
+    "rating": 1617.5,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 23,
+    "wins": 24,
     "losses": 17
   },
   "JUST#577": {
@@ -376,18 +376,18 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "PLATINUM 3",
-    "rating": 1941.8,
+    "rank": "PLATINUM 2",
+    "rating": 1920.1,
     "characters": [
       "Peach",
       "Fox"
     ],
     "percentages": [
-      "93.9",
-      "6.1"
+      "95.0",
+      "5.0"
     ],
-    "wins": 15,
-    "losses": 6
+    "wins": 17,
+    "losses": 9
   },
   "MEDIC#0": {
     "name": "MEDIC!",
@@ -527,17 +527,17 @@
     "name": "rat girl",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1715.3,
+    "rating": 1718.3,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "91.7",
-      "8.3"
+      "91.8",
+      "8.2"
     ],
-    "wins": 84,
-    "losses": 78
+    "wins": 85,
+    "losses": 79
   },
   "SMEG#879": {
     "name": "$",
