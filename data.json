@@ -403,14 +403,14 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "DIAMOND 1",
-    "rating": 2017.6,
+    "rating": 2021.2,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 108,
+    "wins": 109,
     "losses": 92
   },
   "MARF#811": {
@@ -524,20 +524,20 @@
     "losses": 0
   },
   "MOSHI#0": {
-    "name": "rat girl",
+    "name": "KongDesGarcons",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1705.4,
+    "rating": 1701.3,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "92.4",
-      "7.6"
+      "92.6",
+      "7.4"
     ],
-    "wins": 91,
-    "losses": 86
+    "wins": 93,
+    "losses": 88
   },
   "SMEG#879": {
     "name": "$",
