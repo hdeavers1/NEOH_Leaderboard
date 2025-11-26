@@ -180,16 +180,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 2",
-    "rating": 1617.5,
+    "rank": "GOLD 3",
+    "rating": 1658.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 24,
-    "losses": 17
+    "wins": 28,
+    "losses": 20
   },
   "JUST#577": {
     "name": "Just",
@@ -527,17 +527,17 @@
     "name": "rat girl",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1718.3,
+    "rating": 1676.6,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "91.8",
-      "8.2"
+      "92.1",
+      "7.9"
     ],
-    "wins": 85,
-    "losses": 79
+    "wins": 86,
+    "losses": 84
   },
   "SMEG#879": {
     "name": "$",
