@@ -575,16 +575,6 @@
     "wins": 0,
     "losses": 0
   },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "VYV#0": {
     "name": "vyv",
     "tag": "VYV#0",
