@@ -542,18 +542,18 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "GOLD 1",
-    "rating": 1520.9,
+    "rank": "GOLD 2",
+    "rating": 1558.1,
     "characters": [
       "Falcon",
       "Marth"
     ],
     "percentages": [
-      "97.4",
-      "2.6"
+      "97.7",
+      "2.3"
     ],
-    "wins": 10,
-    "losses": 7
+    "wins": 11,
+    "losses": 8
   },
   "BOZO#386": {
     "name": "super pichu",
@@ -568,6 +568,16 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "CHAZ#100": {
+    "name": "chase",
+    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
