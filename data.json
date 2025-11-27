@@ -543,17 +543,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "GOLD 2",
-    "rating": 1558.1,
+    "rating": 1653.4,
     "characters": [
-      "Falcon",
-      "Marth"
+      "Falcon"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "98.3"
     ],
-    "wins": 11,
-    "losses": 8
+    "wins": 16,
+    "losses": 10
   },
   "BOZO#386": {
     "name": "super pichu",
