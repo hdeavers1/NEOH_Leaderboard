@@ -163,6 +163,20 @@
     "wins": 0,
     "losses": 0
   },
+  "CUTS#327": {
+    "name": "PaulBetDavidson",
+    "tag": "CUTS#327",
+    "rank": "PLATINUM 2",
+    "rating": 1851.9,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "99.1"
+    ],
+    "wins": 75,
+    "losses": 66
+  },
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
