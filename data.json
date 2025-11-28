@@ -51,17 +51,17 @@
     "name": "FalconArc",
     "tag": "MAYO#795",
     "rank": "GOLD 1",
-    "rating": 1536,
+    "rating": 1518,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "65.0",
-      "35.0"
+      "62.0",
+      "38.0"
     ],
-    "wins": 48,
-    "losses": 52
+    "wins": 51,
+    "losses": 56
   },
   "PANC#613": {
     "name": "panchito$",
