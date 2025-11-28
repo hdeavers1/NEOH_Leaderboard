@@ -204,16 +204,18 @@
   "SPOT#861": {
     "name": "invader zyn",
     "tag": "SPOT#861",
-    "rank": "PENDING",
-    "rating": 2,
+    "rank": "SILVER 2",
+    "rating": 1264.8,
     "characters": [
-      "Fox"
+      "Fox",
+      "Sheik"
     ],
     "percentages": [
-      "100.0"
+      "75.0",
+      "25.0"
     ],
-    "wins": 2,
-    "losses": 1
+    "wins": 3,
+    "losses": 2
   },
   "PLAY#647": {
     "name": "BornAgainLuigi",
