@@ -50,18 +50,18 @@
   "MAYO#795": {
     "name": "FalconArc",
     "tag": "MAYO#795",
-    "rank": "GOLD 1",
-    "rating": 1543.6,
+    "rank": "GOLD 2",
+    "rating": 1570.2,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "59.9",
-      "40.1"
+      "58.9",
+      "41.1"
     ],
-    "wins": 54,
-    "losses": 57
+    "wins": 56,
+    "losses": 58
   },
   "PANC#613": {
     "name": "panchito$",
@@ -257,15 +257,15 @@
     "name": "not BURNT OUT",
     "tag": "BLSE#808",
     "rank": "DIAMOND 2",
-    "rating": 2107.7,
+    "rating": 2091.7,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "97.1"
+      "97.2"
     ],
-    "wins": 40,
-    "losses": 15
+    "wins": 42,
+    "losses": 16
   },
   "FUCKIN#1": {
     "name": "fknsilver",
