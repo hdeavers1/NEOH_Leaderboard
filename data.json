@@ -51,16 +51,16 @@
     "name": "FalconArc",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1570.2,
+    "rating": 1623.1,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "58.9",
-      "41.1"
+      "57.4",
+      "42.6"
     ],
-    "wins": 56,
+    "wins": 60,
     "losses": 58
   },
   "PANC#613": {
@@ -218,20 +218,20 @@
     "losses": 2
   },
   "PLAY#647": {
-    "name": "BornAgainLuigi",
+    "name": "average",
     "tag": "PLAY#647",
     "rank": "PLATINUM 2",
-    "rating": 1896.7,
+    "rating": 1858.6,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "95.8",
-      "4.2"
+      "95.9",
+      "4.1"
     ],
     "wins": 21,
-    "losses": 10
+    "losses": 11
   },
   "GRIM#801": {
     "name": "Shiesty",
