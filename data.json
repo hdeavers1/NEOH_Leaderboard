@@ -221,17 +221,17 @@
     "name": "average",
     "tag": "PLAY#647",
     "rank": "PLATINUM 2",
-    "rating": 1870.5,
+    "rating": 1917.8,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "96.3",
-      "3.7"
+      "96.7",
+      "3.3"
     ],
-    "wins": 23,
-    "losses": 13
+    "wins": 26,
+    "losses": 14
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -298,20 +298,6 @@
     ],
     "wins": 50,
     "losses": 31
-  },
-  "FLOW#08": {
-    "name": "Flow",
-    "tag": "FLOW#08",
-    "rank": "GOLD 1",
-    "rating": 1516.5,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 5,
-    "losses": 2
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -412,16 +398,16 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "DIAMOND 1",
-    "rating": 2021.2,
+    "rank": "PLATINUM 3",
+    "rating": 1992.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 109,
-    "losses": 92
+    "wins": 110,
+    "losses": 95
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -552,16 +538,16 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "GOLD 3",
-    "rating": 1720.7,
+    "rank": "PLATINUM 1",
+    "rating": 1753,
     "characters": [
       "Falcon"
     ],
     "percentages": [
-      "99.2"
+      "99.3"
     ],
-    "wins": 27,
-    "losses": 23
+    "wins": 32,
+    "losses": 27
   },
   "BOZO#386": {
     "name": "super pichu",
