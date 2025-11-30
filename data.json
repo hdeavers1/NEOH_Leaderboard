@@ -221,17 +221,17 @@
     "name": "average",
     "tag": "PLAY#647",
     "rank": "PLATINUM 2",
-    "rating": 1858.6,
+    "rating": 1870.5,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "95.9",
-      "4.1"
+      "96.3",
+      "3.7"
     ],
-    "wins": 21,
-    "losses": 11
+    "wins": 23,
+    "losses": 13
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -337,17 +337,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1881.6,
+    "rating": 1878.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "64.2",
-      "35.4"
+      "65.4",
+      "34.3"
     ],
-    "wins": 69,
-    "losses": 60
+    "wins": 71,
+    "losses": 62
   },
   "DNZO#333": {
     "name": "the thinker",
