@@ -337,17 +337,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1878.1,
+    "rating": 1860.7,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "65.4",
-      "34.3"
+      "65.2",
+      "34.5"
     ],
     "wins": 71,
-    "losses": 62
+    "losses": 63
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -553,15 +553,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "GOLD 3",
-    "rating": 1706.7,
+    "rating": 1736.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
-      "99.1"
+      "99.2"
     ],
-    "wins": 25,
-    "losses": 21
+    "wins": 27,
+    "losses": 22
   },
   "BOZO#386": {
     "name": "super pichu",
