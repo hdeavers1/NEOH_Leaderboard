@@ -257,14 +257,16 @@
     "name": "not BURNT OUT",
     "tag": "BLSE#808",
     "rank": "DIAMOND 2",
-    "rating": 2091.7,
+    "rating": 2093.6,
     "characters": [
-      "Pikachu"
+      "Pikachu",
+      "Falcon"
     ],
     "percentages": [
-      "97.2"
+      "96.5",
+      "2.1"
     ],
-    "wins": 42,
+    "wins": 43,
     "losses": 16
   },
   "FUCKIN#1": {
