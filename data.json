@@ -51,16 +51,16 @@
     "name": "FalconArc",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1623.1,
+    "rating": 1628.4,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "57.4",
-      "42.6"
+      "57.0",
+      "43.0"
     ],
-    "wins": 60,
+    "wins": 61,
     "losses": 58
   },
   "PANC#613": {
@@ -372,16 +372,6 @@
     ],
     "wins": 13,
     "losses": 5
-  },
-  "DREW#175": {
-    "name": "Unc",
-    "tag": "DREW#175",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "PGH#412": {
     "name": "Ft. PGH Carroll",
