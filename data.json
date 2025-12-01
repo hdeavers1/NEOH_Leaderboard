@@ -218,7 +218,7 @@
     "losses": 2
   },
   "PLAY#647": {
-    "name": "dontleaveme :(",
+    "name": "Luigi",
     "tag": "PLAY#647",
     "rank": "PLATINUM 2",
     "rating": 1917.8,
@@ -553,14 +553,14 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "GOLD 3",
-    "rating": 1724.7,
+    "rating": 1735.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 34,
+    "wins": 35,
     "losses": 31
   },
   "BOZO#386": {
@@ -576,16 +576,6 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
