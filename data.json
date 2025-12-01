@@ -413,7 +413,7 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 3",
-    "rating": 1960.2,
+    "rating": 1958,
     "characters": [
       "Fox"
     ],
@@ -421,7 +421,7 @@
       "98.3"
     ],
     "wins": 118,
-    "losses": 105
+    "losses": 106
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -447,17 +447,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1609.1,
+    "rating": 1603.7,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "92.0",
-      "7.7"
+      "91.7",
+      "8.0"
     ],
-    "wins": 75,
-    "losses": 69
+    "wins": 77,
+    "losses": 71
   },
   "DEE#218": {
     "name": "aghast! beware!",
