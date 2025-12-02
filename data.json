@@ -51,17 +51,17 @@
     "name": "FalconArc",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1593.6,
+    "rating": 1590.6,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "53.7",
-      "46.3"
+      "51.9",
+      "48.1"
     ],
-    "wins": 64,
-    "losses": 63
+    "wins": 66,
+    "losses": 65
   },
   "PANC#613": {
     "name": "panchito$",
@@ -446,8 +446,8 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1652.6,
+    "rank": "GOLD 3",
+    "rating": 1660,
     "characters": [
       "Yoshi",
       "DK"
@@ -456,7 +456,7 @@
       "91.9",
       "7.4"
     ],
-    "wins": 88,
+    "wins": 89,
     "losses": 79
   },
   "DEE#218": {
