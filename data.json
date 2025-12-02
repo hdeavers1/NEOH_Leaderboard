@@ -302,16 +302,16 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "GOLD 1",
-    "rating": 1516.5,
+    "rank": "PLATINUM 1",
+    "rating": 1766.8,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
-    "losses": 2
+    "wins": 9,
+    "losses": 3
   },
   "ZBOO#991": {
     "name": "(-:",
