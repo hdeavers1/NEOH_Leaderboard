@@ -337,17 +337,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1860.7,
+    "rating": 1860.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "65.2",
-      "34.5"
+      "65.1",
+      "34.6"
     ],
-    "wins": 71,
-    "losses": 63
+    "wins": 72,
+    "losses": 64
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -447,17 +447,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1603.7,
+    "rating": 1603.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "91.7",
-      "8.0"
+      "91.1",
+      "8.1"
     ],
-    "wins": 77,
-    "losses": 71
+    "wins": 79,
+    "losses": 73
   },
   "DEE#218": {
     "name": "aghast! beware!",
