@@ -47,6 +47,22 @@
     "wins": 7,
     "losses": 5
   },
+  "MAYO#795": {
+    "name": "FalconArc",
+    "tag": "MAYO#795",
+    "rank": "GOLD 2",
+    "rating": 1636.2,
+    "characters": [
+      "DK",
+      "Falcon"
+    ],
+    "percentages": [
+      "57.0",
+      "43.0"
+    ],
+    "wins": 62,
+    "losses": 58
+  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -184,6 +200,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "SPOT#861": {
+    "name": "invader zyn",
+    "tag": "SPOT#861",
+    "rank": "SILVER 2",
+    "rating": 1264.8,
+    "characters": [
+      "Fox",
+      "Sheik"
+    ],
+    "percentages": [
+      "75.0",
+      "25.0"
+    ],
+    "wins": 3,
+    "losses": 2
   },
   "PLAY#647": {
     "name": "Luigi",
@@ -415,17 +447,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1593.2,
+    "rating": 1602.3,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "91.3",
-      "7.9"
+      "91.4",
+      "7.8"
     ],
-    "wins": 80,
-    "losses": 75
+    "wins": 81,
+    "losses": 76
   },
   "DEE#218": {
     "name": "aghast! beware!",
@@ -442,16 +474,6 @@
     ],
     "wins": 50,
     "losses": 38
-  },
-  "SUCC#860": {
-    "name": "Wahey",
-    "tag": "SUCC#860",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "EGAG#906": {
     "name": "kaz kaan (mtf)",
@@ -491,18 +513,8 @@
     "wins": 9,
     "losses": 10
   },
-  "NCRO#183": {
-    "name": "Ncro",
-    "tag": "NCRO#183",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "MOSHI#0": {
-    "name": "MarioInDaFuture",
+    "name": "chopped chud",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1701.3,
