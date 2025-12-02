@@ -47,22 +47,6 @@
     "wins": 7,
     "losses": 5
   },
-  "MAYO#795": {
-    "name": "FalconArc",
-    "tag": "MAYO#795",
-    "rank": "GOLD 2",
-    "rating": 1636.2,
-    "characters": [
-      "DK",
-      "Falcon"
-    ],
-    "percentages": [
-      "57.0",
-      "43.0"
-    ],
-    "wins": 62,
-    "losses": 58
-  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -201,22 +185,6 @@
     "wins": 0,
     "losses": 0
   },
-  "SPOT#861": {
-    "name": "invader zyn",
-    "tag": "SPOT#861",
-    "rank": "SILVER 2",
-    "rating": 1264.8,
-    "characters": [
-      "Fox",
-      "Sheik"
-    ],
-    "percentages": [
-      "75.0",
-      "25.0"
-    ],
-    "wins": 3,
-    "losses": 2
-  },
   "PLAY#647": {
     "name": "Luigi",
     "tag": "PLAY#647",
@@ -337,7 +305,7 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1860.1,
+    "rating": 1848,
     "characters": [
       "Fox",
       "Marth"
@@ -346,8 +314,8 @@
       "65.1",
       "34.6"
     ],
-    "wins": 72,
-    "losses": 64
+    "wins": 73,
+    "losses": 65
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -447,17 +415,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1603.4,
+    "rating": 1593.2,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "91.1",
-      "8.1"
+      "91.3",
+      "7.9"
     ],
-    "wins": 79,
-    "losses": 73
+    "wins": 80,
+    "losses": 75
   },
   "DEE#218": {
     "name": "aghast! beware!",
