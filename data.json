@@ -475,6 +475,16 @@
     "wins": 50,
     "losses": 38
   },
+  "SUCC#860": {
+    "name": "Wahey",
+    "tag": "SUCC#860",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "EGAG#906": {
     "name": "kaz kaan (mtf)",
     "tag": "EGAG#906",
@@ -512,6 +522,16 @@
     ],
     "wins": 9,
     "losses": 10
+  },
+  "NCRO#183": {
+    "name": "Ncro",
+    "tag": "NCRO#183",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "MOSHI#0": {
     "name": "chopped chud",
