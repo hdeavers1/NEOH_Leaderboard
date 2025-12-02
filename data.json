@@ -220,18 +220,18 @@
   "PLAY#647": {
     "name": "Luigi",
     "tag": "PLAY#647",
-    "rank": "PLATINUM 2",
-    "rating": 1917.8,
+    "rank": "PLATINUM 3",
+    "rating": 1947.2,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "96.7",
-      "3.3"
+      "97.0",
+      "3.0"
     ],
-    "wins": 26,
-    "losses": 14
+    "wins": 29,
+    "losses": 15
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -447,16 +447,16 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1602.3,
+    "rating": 1633.9,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "91.4",
-      "7.8"
+      "91.5",
+      "7.7"
     ],
-    "wins": 81,
+    "wins": 83,
     "losses": 76
   },
   "DEE#218": {
