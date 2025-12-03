@@ -181,15 +181,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 3",
-    "rating": 1658.9,
+    "rating": 1666.6,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 28,
-    "losses": 20
+    "wins": 29,
+    "losses": 21
   },
   "JUST#577": {
     "name": "Just",
@@ -287,15 +287,15 @@
     "name": "harper",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2048.5,
+    "rating": 2036.3,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.5"
+      "97.6"
     ],
     "wins": 52,
-    "losses": 32
+    "losses": 33
   },
   "FLOW#08": {
     "name": "Flow",
