@@ -153,6 +153,16 @@
     "wins": 2,
     "losses": 0
   },
+  "FRUM#591": {
+    "name": "Kenpachi",
+    "tag": "FRUM#591",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
@@ -210,17 +220,17 @@
   "PLAY#647": {
     "name": "holiday",
     "tag": "PLAY#647",
-    "rank": "PLATINUM 3",
-    "rating": 1971.7,
+    "rank": "DIAMOND 1",
+    "rating": 2006.4,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "97.6",
-      "2.4"
+      "97.7",
+      "2.3"
     ],
-    "wins": 35,
+    "wins": 38,
     "losses": 19
   },
   "GRIM#801": {
@@ -398,7 +408,7 @@
     "losses": 0
   },
   "SERE#225": {
-    "name": "sp1nda",
+    "name": "Smile Deliverer",
     "tag": "SERE#225",
     "rank": "PLATINUM 3",
     "rating": 1958,
