@@ -243,16 +243,6 @@
     "wins": 0,
     "losses": 0
   },
-  "GHST#232": {
-    "name": "Ghast",
-    "tag": "GHST#232",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "BLSE#808": {
     "name": "not BURNT OUT",
     "tag": "BLSE#808",
@@ -346,16 +336,6 @@
     ],
     "wins": 73,
     "losses": 65
-  },
-  "DNZO#333": {
-    "name": "the thinker",
-    "tag": "DNZO#333",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "KM#12": {
     "name": "kneemaster12",
@@ -574,16 +554,6 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
