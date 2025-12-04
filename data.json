@@ -287,15 +287,15 @@
     "name": "harper",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2081.7,
+    "rating": 2091,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "97.8"
     ],
-    "wins": 58,
-    "losses": 34
+    "wins": 60,
+    "losses": 35
   },
   "FLOW#08": {
     "name": "Flow",
@@ -410,16 +410,16 @@
   "SERE#225": {
     "name": "Smile Deliverer",
     "tag": "SERE#225",
-    "rank": "PLATINUM 3",
-    "rating": 2003.1,
+    "rank": "DIAMOND 1",
+    "rating": 2024,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "98.4"
+      "98.5"
     ],
-    "wins": 131,
-    "losses": 115
+    "wins": 134,
+    "losses": 117
   },
   "MARF#811": {
     "name": "Marfweasel",
