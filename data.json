@@ -221,17 +221,17 @@
     "name": "holiday",
     "tag": "PLAY#647",
     "rank": "PLATINUM 3",
-    "rating": 1966.7,
+    "rating": 1962.8,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "97.9",
-      "2.1"
+      "98.0",
+      "2.0"
     ],
-    "wins": 39,
-    "losses": 22
+    "wins": 41,
+    "losses": 23
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -574,6 +574,16 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "CHAZ#100": {
+    "name": "chase",
+    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
