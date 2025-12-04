@@ -23,6 +23,16 @@
     "wins": 12,
     "losses": 5
   },
+  "BIGO#869": {
+    "name": "fuelTwerks",
+    "tag": "BIGO#869",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "QCUM#685": {
     "name": "Fat Chud",
     "tag": "QCUM#685",
@@ -41,16 +51,16 @@
     "name": "FalconArc",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1605.8,
+    "rating": 1622.3,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "51.5",
-      "48.5"
+      "51.3",
+      "48.7"
     ],
-    "wins": 67,
+    "wins": 68,
     "losses": 65
   },
   "PANC#613": {
@@ -210,18 +220,18 @@
   "PLAY#647": {
     "name": "holiday",
     "tag": "PLAY#647",
-    "rank": "DIAMOND 1",
-    "rating": 2006.4,
+    "rank": "PLATINUM 3",
+    "rating": 1966.7,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "97.9",
+      "2.1"
     ],
-    "wins": 38,
-    "losses": 19
+    "wins": 39,
+    "losses": 22
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -564,16 +574,6 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
