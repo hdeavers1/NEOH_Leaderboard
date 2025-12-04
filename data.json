@@ -33,6 +33,20 @@
     "wins": 0,
     "losses": 0
   },
+  "QCUM#685": {
+    "name": "Fat Chud",
+    "tag": "QCUM#685",
+    "rank": "SILVER 3",
+    "rating": 1427.8,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 7,
+    "losses": 5
+  },
   "MAYO#795": {
     "name": "FalconArc",
     "tag": "MAYO#795",
@@ -207,17 +221,15 @@
     "name": "Bronze Luigi",
     "tag": "PLAY#647",
     "rank": "PLATINUM 3",
-    "rating": 1962.8,
+    "rating": 1953.7,
     "characters": [
-      "Luigi",
-      "Sheik"
+      "Luigi"
     ],
     "percentages": [
-      "98.0",
-      "2.0"
+      "98.0"
     ],
     "wins": 41,
-    "losses": 23
+    "losses": 24
   },
   "GRIM#801": {
     "name": "Shiesty",
