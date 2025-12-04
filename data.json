@@ -287,15 +287,15 @@
     "name": "harper",
     "tag": "JINK#1",
     "rank": "DIAMOND 2",
-    "rating": 2091,
+    "rating": 2098.5,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "97.8"
+      "97.9"
     ],
-    "wins": 60,
-    "losses": 35
+    "wins": 61,
+    "losses": 36
   },
   "FLOW#08": {
     "name": "Flow",
@@ -590,19 +590,5 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "VYV#0": {
-    "name": "vyv",
-    "tag": "VYV#0",
-    "rank": "PENDING",
-    "rating": 1,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 0,
-    "losses": 4
   }
 }
