@@ -23,16 +23,6 @@
     "wins": 12,
     "losses": 5
   },
-  "BIGO#869": {
-    "name": "fuelTwerks",
-    "tag": "BIGO#869",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "QCUM#685": {
     "name": "Fat Chud",
     "tag": "QCUM#685",
@@ -51,16 +41,16 @@
     "name": "FalconArc",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1590.6,
+    "rating": 1605.8,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "51.9",
-      "48.1"
+      "51.5",
+      "48.5"
     ],
-    "wins": 66,
+    "wins": 67,
     "losses": 65
   },
   "PANC#613": {
