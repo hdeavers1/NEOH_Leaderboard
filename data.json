@@ -283,20 +283,6 @@
     "wins": 66,
     "losses": 27
   },
-  "JINK#1": {
-    "name": "harper",
-    "tag": "JINK#1",
-    "rank": "DIAMOND 2",
-    "rating": 2098.5,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "97.9"
-    ],
-    "wins": 61,
-    "losses": 36
-  },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
@@ -444,18 +430,18 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1674.7,
+    "rank": "GOLD 2",
+    "rating": 1646.9,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "92.3",
-      "7.0"
+      "92.2",
+      "7.1"
     ],
-    "wins": 94,
-    "losses": 84
+    "wins": 96,
+    "losses": 87
   },
   "DEE#218": {
     "name": "aghast! beware!",
@@ -590,5 +576,19 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "VYV#0": {
+    "name": "vyv",
+    "tag": "VYV#0",
+    "rank": "PENDING",
+    "rating": 1,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 0,
+    "losses": 4
   }
 }
