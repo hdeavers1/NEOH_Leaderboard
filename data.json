@@ -271,15 +271,17 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2227.1,
+    "rating": 2246,
     "characters": [
-      "Samus"
+      "Samus",
+      "Fox"
     ],
     "percentages": [
-      "98.6"
+      "97.8",
+      "2.2"
     ],
-    "wins": 70,
-    "losses": 27
+    "wins": 74,
+    "losses": 28
   },
   "JINK#1": {
     "name": "harper",
@@ -378,6 +380,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "PGH#412": {
+    "name": "Ft. PGH Carroll",
+    "tag": "PGH#412",
+    "rank": "PLATINUM 3",
+    "rating": 1962.4,
+    "characters": [
+      "Peach",
+      "Fox"
+    ],
+    "percentages": [
+      "91.0",
+      "9.0"
+    ],
+    "wins": 19,
+    "losses": 10
   },
   "MEDIC#0": {
     "name": "MEDIC!",
