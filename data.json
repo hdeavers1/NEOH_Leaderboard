@@ -74,7 +74,7 @@
     "losses": 0
   },
   "LVLM#792": {
-    "name": "Uncut Jim",
+    "name": "Jack the Grippr",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -409,15 +409,15 @@
     "name": "Smile Deliverer",
     "tag": "SERE#225",
     "rank": "DIAMOND 1",
-    "rating": 2055.4,
+    "rating": 2054.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "98.5"
     ],
-    "wins": 138,
-    "losses": 118
+    "wins": 140,
+    "losses": 120
   },
   "MARF#811": {
     "name": "Marfweasel",
