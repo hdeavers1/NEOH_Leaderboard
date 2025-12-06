@@ -287,15 +287,15 @@
     "name": "harper",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2072,
+    "rating": 2057.8,
     "characters": [
       "Marth"
     ],
     "percentages": [
-      "98.0"
+      "98.1"
     ],
-    "wins": 65,
-    "losses": 42
+    "wins": 67,
+    "losses": 44
   },
   "FLOW#08": {
     "name": "Flow",
