@@ -146,18 +146,18 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "PENDING",
-    "rating": 3,
+    "rank": "SILVER 2",
+    "rating": 1296.1,
     "characters": [
-      "Falcon",
-      "Peach"
+      "Peach",
+      "Falcon"
     ],
     "percentages": [
-      "66.7",
-      "33.3"
+      "69.2",
+      "30.8"
     ],
-    "wins": 2,
-    "losses": 0
+    "wins": 3,
+    "losses": 2
   },
   "FRUM#591": {
     "name": "Kenpachi",
