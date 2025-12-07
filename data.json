@@ -277,17 +277,17 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2271,
+    "rating": 2259.9,
     "characters": [
       "Samus",
       "Fox"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "97.8",
+      "2.2"
     ],
-    "wins": 84,
-    "losses": 32
+    "wins": 85,
+    "losses": 33
   },
   "JINK#1": {
     "name": "harper",
