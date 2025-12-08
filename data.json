@@ -73,16 +73,6 @@
     "wins": 0,
     "losses": 0
   },
-  "LVLM#792": {
-    "name": "Jack Da Gripper",
-    "tag": "LVLM#792",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "NECK#152": {
     "name": "neckboy",
     "tag": "NECK#152",
@@ -236,6 +226,16 @@
     ],
     "wins": 41,
     "losses": 24
+  },
+  "GRIM#801": {
+    "name": "Shiesty",
+    "tag": "GRIM#801",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "GHST#232": {
     "name": "Ghast",
