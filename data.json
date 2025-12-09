@@ -169,20 +169,6 @@
     "wins": 0,
     "losses": 0
   },
-  "CUTS#327": {
-    "name": "PaulBetDavidson",
-    "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1851.9,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "99.1"
-    ],
-    "wins": 75,
-    "losses": 66
-  },
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
@@ -292,18 +278,18 @@
   "JINK#1": {
     "name": "harper",
     "tag": "JINK#1",
-    "rank": "DIAMOND 2",
-    "rating": 2113.2,
+    "rank": "DIAMOND 3",
+    "rating": 2145.2,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.4",
-      "2.2"
+      "97.2",
+      "2.5"
     ],
-    "wins": 84,
-    "losses": 48
+    "wins": 89,
+    "losses": 49
   },
   "FLOW#08": {
     "name": "Flow",
