@@ -293,17 +293,17 @@
     "name": "harper",
     "tag": "JINK#1",
     "rank": "DIAMOND 1",
-    "rating": 2072.2,
+    "rating": 2052.3,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.1",
+      "97.2",
       "2.5"
     ],
-    "wins": 73,
-    "losses": 44
+    "wins": 74,
+    "losses": 46
   },
   "FLOW#08": {
     "name": "Flow",
@@ -406,7 +406,7 @@
     "losses": 14
   },
   "MEDIC#0": {
-    "name": "MEDIC!",
+    "name": "JosephDromedary",
     "tag": "MEDIC#0",
     "rank": "NONE",
     "rating": 0,
