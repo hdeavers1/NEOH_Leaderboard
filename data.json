@@ -293,17 +293,17 @@
     "name": "harper",
     "tag": "JINK#1",
     "rank": "DIAMOND 3",
-    "rating": 2145.2,
+    "rating": 2149.6,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.2",
-      "2.5"
+      "97.0",
+      "2.7"
     ],
-    "wins": 89,
-    "losses": 49
+    "wins": 93,
+    "losses": 50
   },
   "FLOW#08": {
     "name": "Flow",
@@ -510,6 +510,24 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "DANK#954": {
+    "name": "DankKnight",
+    "tag": "DANK#954",
+    "rank": "SILVER 2",
+    "rating": 1245,
+    "characters": [
+      "Marth",
+      "Fox",
+      "Falcon"
+    ],
+    "percentages": [
+      "90.9",
+      "6.8",
+      "2.3"
+    ],
+    "wins": 9,
+    "losses": 10
   },
   "NCRO#183": {
     "name": "Ncro",
