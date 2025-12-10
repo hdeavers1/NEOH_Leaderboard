@@ -321,6 +321,16 @@
     "wins": 9,
     "losses": 3
   },
+  "ZBOO#991": {
+    "name": "(-:",
+    "tag": "ZBOO#991",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "PEE#658": {
     "name": "owo whats this",
     "tag": "PEE#658",
@@ -335,17 +345,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1927,
+    "rating": 1908.8,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "64.8",
-      "34.9"
+      "65.0",
+      "34.8"
     ],
     "wins": 86,
-    "losses": 72
+    "losses": 73
   },
   "DNZO#333": {
     "name": "the thinker",
