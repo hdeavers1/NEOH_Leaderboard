@@ -97,21 +97,21 @@
     "name": "Jub Lee",
     "tag": "SPOR#247",
     "rank": "SILVER 3",
-    "rating": 1354.4,
+    "rating": 1386.7,
     "characters": [
+      "Falcon",
       "Fox",
-      "Doc",
       "Marth",
-      "Falcon"
+      "Doc"
     ],
     "percentages": [
-      "32.7",
-      "24.5",
-      "22.4",
-      "20.4"
+      "28.8",
+      "28.8",
+      "22.0",
+      "20.3"
     ],
-    "wins": 10,
-    "losses": 11
+    "wins": 12,
+    "losses": 13
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -188,8 +188,8 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1666.6,
+    "rank": "GOLD 2",
+    "rating": 1628.6,
     "characters": [
       "Falcon"
     ],
@@ -197,7 +197,7 @@
       "100.0"
     ],
     "wins": 29,
-    "losses": 21
+    "losses": 23
   },
   "JUST#577": {
     "name": "Just",
@@ -345,17 +345,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1876.7,
+    "rating": 1848.3,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "64.7",
-      "35.0"
+      "64.6",
+      "35.1"
     ],
     "wins": 88,
-    "losses": 78
+    "losses": 80
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -503,16 +503,6 @@
     "wins": 0,
     "losses": 0
   },
-  "WICE#699": {
-    "name": "Dougie Jones",
-    "tag": "WICE#699",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
@@ -584,16 +574,6 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
