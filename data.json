@@ -291,22 +291,6 @@
     "wins": 85,
     "losses": 33
   },
-  "JINK#1": {
-    "name": "harper",
-    "tag": "JINK#1",
-    "rank": "DIAMOND 3",
-    "rating": 2149.6,
-    "characters": [
-      "Marth",
-      "Fox"
-    ],
-    "percentages": [
-      "97.0",
-      "2.7"
-    ],
-    "wins": 93,
-    "losses": 50
-  },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
@@ -600,5 +584,19 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "VYV#0": {
+    "name": "vyv",
+    "tag": "VYV#0",
+    "rank": "BRONZE 2",
+    "rating": 880.5,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 0,
+    "losses": 5
   }
 }
