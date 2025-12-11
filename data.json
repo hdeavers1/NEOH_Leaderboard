@@ -345,7 +345,7 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 1",
-    "rating": 1837.9,
+    "rating": 1834.2,
     "characters": [
       "Fox",
       "Marth"
@@ -354,18 +354,8 @@
       "64.9",
       "34.6"
     ],
-    "wins": 93,
-    "losses": 86
-  },
-  "DNZO#333": {
-    "name": "the thinker",
-    "tag": "DNZO#333",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "wins": 94,
+    "losses": 87
   },
   "KM#12": {
     "name": "kneemaster12",
