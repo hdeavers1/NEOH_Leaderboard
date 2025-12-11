@@ -503,6 +503,16 @@
     "wins": 0,
     "losses": 0
   },
+  "WICE#699": {
+    "name": "Dougie Jones",
+    "tag": "WICE#699",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
@@ -574,6 +584,16 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "CHAZ#100": {
+    "name": "chase",
+    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
