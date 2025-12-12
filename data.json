@@ -307,20 +307,6 @@
     "wins": 93,
     "losses": 50
   },
-  "FLOW#08": {
-    "name": "Flow",
-    "tag": "FLOW#08",
-    "rank": "PLATINUM 1",
-    "rating": 1766.8,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 9,
-    "losses": 3
-  },
   "ZBOO#991": {
     "name": "(-:",
     "tag": "ZBOO#991",
@@ -380,16 +366,6 @@
     ],
     "wins": 13,
     "losses": 5
-  },
-  "DREW#175": {
-    "name": "Unc",
-    "tag": "DREW#175",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "PGH#412": {
     "name": "Ft. PGH Carroll",
@@ -454,18 +430,18 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1669.1,
+    "rank": "GOLD 2",
+    "rating": 1646.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "92.4",
-      "6.9"
+      "92.6",
+      "6.8"
     ],
-    "wins": 100,
-    "losses": 89
+    "wins": 101,
+    "losses": 92
   },
   "DEE#218": {
     "name": "aghast! beware!",
