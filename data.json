@@ -600,5 +600,19 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "VYV#0": {
+    "name": "vyv",
+    "tag": "VYV#0",
+    "rank": "BRONZE 2",
+    "rating": 880.5,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 0,
+    "losses": 5
   }
 }
