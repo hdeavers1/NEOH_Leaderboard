@@ -212,18 +212,18 @@
   "SPOT#861": {
     "name": "invader zyn",
     "tag": "SPOT#861",
-    "rank": "SILVER 2",
-    "rating": 1264.8,
+    "rank": "SILVER 3",
+    "rating": 1362.4,
     "characters": [
-      "Fox",
-      "Sheik"
+      "Sheik",
+      "Fox"
     ],
     "percentages": [
-      "75.0",
-      "25.0"
+      "63.0",
+      "37.0"
     ],
-    "wins": 3,
-    "losses": 2
+    "wins": 6,
+    "losses": 5
   },
   "PLAY#647": {
     "name": "Ding Dink",
