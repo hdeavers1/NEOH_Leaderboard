@@ -51,16 +51,16 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1597.4,
+    "rating": 1611.4,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "50.2",
-      "49.8"
+      "50.5",
+      "49.5"
     ],
-    "wins": 70,
+    "wins": 71,
     "losses": 69
   },
   "PANC#613": {
@@ -208,6 +208,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "SPOT#861": {
+    "name": "invader zyn",
+    "tag": "SPOT#861",
+    "rank": "SILVER 3",
+    "rating": 1427,
+    "characters": [
+      "Sheik",
+      "Fox"
+    ],
+    "percentages": [
+      "66.7",
+      "33.3"
+    ],
+    "wins": 7,
+    "losses": 5
   },
   "PLAY#647": {
     "name": "Ding Dink",
@@ -455,17 +471,17 @@
     "name": "aghast! beware!",
     "tag": "DEE#218",
     "rank": "PLATINUM 1",
-    "rating": 1831.8,
+    "rating": 1803.3,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "92.0",
-      "8.0"
+      "89.7",
+      "10.3"
     ],
     "wins": 50,
-    "losses": 40
+    "losses": 42
   },
   "SUCC#860": {
     "name": "Wahey",
