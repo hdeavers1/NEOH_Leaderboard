@@ -51,7 +51,7 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1568.3,
+    "rating": 1585.3,
     "characters": [
       "Falcon",
       "DK"
@@ -60,7 +60,7 @@
       "50.2",
       "49.8"
     ],
-    "wins": 68,
+    "wins": 69,
     "losses": 69
   },
   "PANC#613": {
@@ -455,7 +455,7 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1645.1,
+    "rating": 1629.7,
     "characters": [
       "Yoshi",
       "DK"
@@ -465,7 +465,7 @@
       "6.4"
     ],
     "wins": 108,
-    "losses": 100
+    "losses": 101
   },
   "DEE#218": {
     "name": "aghast! beware!",
