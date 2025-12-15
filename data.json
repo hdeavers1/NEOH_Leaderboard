@@ -294,17 +294,17 @@
   "JINK#1": {
     "name": "-",
     "tag": "JINK#1",
-    "rank": "DIAMOND 3",
-    "rating": 2172.6,
+    "rank": "GRANDMASTER",
+    "rating": 2197.1,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.3",
+      "97.4",
       "2.4"
     ],
-    "wins": 103,
+    "wins": 105,
     "losses": 55
   },
   "FLOW#08": {
