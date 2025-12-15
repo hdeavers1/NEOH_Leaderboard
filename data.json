@@ -51,16 +51,16 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1611.4,
+    "rating": 1652.9,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "50.5",
-      "49.5"
+      "51.1",
+      "48.9"
     ],
-    "wins": 71,
+    "wins": 75,
     "losses": 69
   },
   "PANC#613": {
@@ -97,7 +97,7 @@
     "name": "Jub Lee",
     "tag": "SPOR#247",
     "rank": "SILVER 3",
-    "rating": 1386.7,
+    "rating": 1368.1,
     "characters": [
       "Falcon",
       "Fox",
@@ -105,13 +105,13 @@
       "Doc"
     ],
     "percentages": [
-      "28.8",
-      "28.8",
-      "22.0",
-      "20.3"
+      "30.0",
+      "28.3",
+      "21.7",
+      "20.0"
     ],
     "wins": 12,
-    "losses": 13
+    "losses": 14
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -455,7 +455,7 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1629.7,
+    "rating": 1651.7,
     "characters": [
       "Yoshi",
       "DK"
@@ -464,8 +464,8 @@
       "93.0",
       "6.4"
     ],
-    "wins": 108,
-    "losses": 101
+    "wins": 113,
+    "losses": 104
   },
   "DEE#218": {
     "name": "aghast! beware!",
@@ -545,17 +545,17 @@
     "name": "so not crazy",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1696.2,
+    "rating": 1741.4,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "92.9",
-      "7.1"
+      "93.2",
+      "6.8"
     ],
-    "wins": 100,
-    "losses": 96
+    "wins": 106,
+    "losses": 99
   },
   "SMEG#879": {
     "name": "$",
