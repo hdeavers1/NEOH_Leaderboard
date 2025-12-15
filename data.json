@@ -209,6 +209,22 @@
     "wins": 0,
     "losses": 0
   },
+  "SPOT#861": {
+    "name": "invader zyn",
+    "tag": "SPOT#861",
+    "rank": "SILVER 3",
+    "rating": 1427,
+    "characters": [
+      "Sheik",
+      "Fox"
+    ],
+    "percentages": [
+      "66.7",
+      "33.3"
+    ],
+    "wins": 7,
+    "losses": 5
+  },
   "PLAY#647": {
     "name": "Ding Dink",
     "tag": "PLAY#647",
@@ -263,16 +279,16 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2272.7,
+    "rating": 2311.1,
     "characters": [
       "Samus",
       "Fox"
     ],
     "percentages": [
-      "97.5",
-      "2.2"
+      "96.8",
+      "2.1"
     ],
-    "wins": 90,
+    "wins": 96,
     "losses": 34
   },
   "JINK#1": {
@@ -324,6 +340,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "WEGG#462": {
+    "name": "Young Wunna",
+    "tag": "WEGG#462",
+    "rank": "PLATINUM 1",
+    "rating": 1804.7,
+    "characters": [
+      "Fox",
+      "Marth"
+    ],
+    "percentages": [
+      "65.7",
+      "33.9"
+    ],
+    "wins": 99,
+    "losses": 94
   },
   "DNZO#333": {
     "name": "the thinker",
