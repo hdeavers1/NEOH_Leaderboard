@@ -543,6 +543,22 @@
     "wins": 0,
     "losses": 0
   },
+  "MOSHI#0": {
+    "name": "waiting4tf2pugs",
+    "tag": "MOSHI#0",
+    "rank": "PLATINUM 1",
+    "rating": 1755.7,
+    "characters": [
+      "Peach",
+      "Ness"
+    ],
+    "percentages": [
+      "93.3",
+      "6.7"
+    ],
+    "wins": 108,
+    "losses": 100
+  },
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
