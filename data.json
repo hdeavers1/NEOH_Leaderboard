@@ -33,36 +33,6 @@
     "wins": 0,
     "losses": 0
   },
-  "QCUM#685": {
-    "name": "Fat Chud",
-    "tag": "QCUM#685",
-    "rank": "GOLD 1",
-    "rating": 1498,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 11,
-    "losses": 9
-  },
-  "MAYO#795": {
-    "name": "the mayo",
-    "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1703.2,
-    "characters": [
-      "DK",
-      "Falcon"
-    ],
-    "percentages": [
-      "52.0",
-      "48.0"
-    ],
-    "wins": 79,
-    "losses": 69
-  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -461,17 +431,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1671.8,
+    "rating": 1661.2,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "93.1",
+      "93.0",
       "6.4"
     ],
-    "wins": 118,
-    "losses": 107
+    "wins": 120,
+    "losses": 109
   },
   "DEE#218": {
     "name": "aghast! beware!",
