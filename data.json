@@ -33,6 +33,36 @@
     "wins": 0,
     "losses": 0
   },
+  "QCUM#685": {
+    "name": "Fat Chud",
+    "tag": "QCUM#685",
+    "rank": "GOLD 1",
+    "rating": 1498,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 11,
+    "losses": 9
+  },
+  "MAYO#795": {
+    "name": "the mayo",
+    "tag": "MAYO#795",
+    "rank": "GOLD 3",
+    "rating": 1703.2,
+    "characters": [
+      "DK",
+      "Falcon"
+    ],
+    "percentages": [
+      "52.0",
+      "48.0"
+    ],
+    "wins": 79,
+    "losses": 69
+  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
