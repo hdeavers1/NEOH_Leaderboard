@@ -265,22 +265,6 @@
     "wins": 0,
     "losses": 0
   },
-  "BLSE#808": {
-    "name": "not BURNT OUT",
-    "tag": "BLSE#808",
-    "rank": "DIAMOND 2",
-    "rating": 2093.6,
-    "characters": [
-      "Pikachu",
-      "Falcon"
-    ],
-    "percentages": [
-      "96.5",
-      "2.1"
-    ],
-    "wins": 43,
-    "losses": 16
-  },
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
@@ -562,6 +546,20 @@
     ],
     "wins": 108,
     "losses": 100
+  },
+  "SMEG#879": {
+    "name": "$",
+    "tag": "SMEG#879",
+    "rank": "GOLD 3",
+    "rating": 1674.5,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "98.5"
+    ],
+    "wins": 41,
+    "losses": 41
   },
   "BOZO#386": {
     "name": "super pichu",
