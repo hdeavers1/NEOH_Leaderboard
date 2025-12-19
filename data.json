@@ -230,20 +230,20 @@
     "losses": 5
   },
   "PLAY#647": {
-    "name": "Ding Dink",
+    "name": "Holiday",
     "tag": "PLAY#647",
-    "rank": "DIAMOND 1",
-    "rating": 2007.1,
+    "rank": "PLATINUM 3",
+    "rating": 2002,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "95.5",
+      "95.0",
       "4.5"
     ],
     "wins": 56,
-    "losses": 31
+    "losses": 32
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -606,5 +606,19 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "VYV#0": {
+    "name": "vyv",
+    "tag": "VYV#0",
+    "rank": "BRONZE 2",
+    "rating": 880.5,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 0,
+    "losses": 5
   }
 }
