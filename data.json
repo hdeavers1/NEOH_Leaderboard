@@ -51,17 +51,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1703.2,
+    "rating": 1689.7,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "52.0",
-      "48.0"
+      "52.7",
+      "47.3"
     ],
-    "wins": 79,
-    "losses": 69
+    "wins": 80,
+    "losses": 70
   },
   "PANC#613": {
     "name": "panchito$",
@@ -233,17 +233,17 @@
     "name": "Ding Dink",
     "tag": "PLAY#647",
     "rank": "DIAMOND 1",
-    "rating": 2008.5,
+    "rating": 2007.1,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "95.3",
-      "4.7"
+      "95.5",
+      "4.5"
     ],
-    "wins": 54,
-    "losses": 30
+    "wins": 56,
+    "losses": 31
   },
   "GRIM#801": {
     "name": "Shiesty",
