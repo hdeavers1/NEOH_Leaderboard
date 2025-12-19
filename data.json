@@ -51,16 +51,16 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1689.7,
+    "rating": 1732.5,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "52.7",
-      "47.3"
+      "53.8",
+      "46.2"
     ],
-    "wins": 80,
+    "wins": 84,
     "losses": 70
   },
   "PANC#613": {
@@ -347,82 +347,6 @@
     "wins": 0,
     "losses": 0
   },
-  "WEGG#462": {
-    "name": "Young Wunna",
-    "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1864.1,
-    "characters": [
-      "Fox",
-      "Marth"
-    ],
-    "percentages": [
-      "65.9",
-      "33.3"
-    ],
-    "wins": 111,
-    "losses": 97
-  },
-  "DNZO#333": {
-    "name": "the thinker",
-    "tag": "DNZO#333",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "KM#12": {
-    "name": "kneemaster12",
-    "tag": "KM#12",
-    "rank": "GOLD 3",
-    "rating": 1749.4,
-    "characters": [
-      "Ganon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 13,
-    "losses": 5
-  },
-  "DREW#175": {
-    "name": "Unc",
-    "tag": "DREW#175",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "PGH#412": {
-    "name": "Ft. PGH Carroll",
-    "tag": "PGH#412",
-    "rank": "PLATINUM 3",
-    "rating": 1955.4,
-    "characters": [
-      "Peach",
-      "Fox"
-    ],
-    "percentages": [
-      "92.2",
-      "7.8"
-    ],
-    "wins": 20,
-    "losses": 14
-  },
-  "MEDIC#0": {
-    "name": "JosephDromedary",
-    "tag": "MEDIC#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "SERE#225": {
     "name": "Smile Deliverer",
     "tag": "SERE#225",
@@ -440,16 +364,6 @@
   "MARF#811": {
     "name": "Marfweasel",
     "tag": "MARF#811",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "JHTL#587": {
-    "name": "JHTL",
-    "tag": "JHTL#587",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
