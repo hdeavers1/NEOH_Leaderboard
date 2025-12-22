@@ -51,17 +51,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1732.5,
+    "rating": 1734.2,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "53.8",
-      "46.2"
+      "54.4",
+      "45.6"
     ],
-    "wins": 84,
-    "losses": 70
+    "wins": 85,
+    "losses": 71
   },
   "PANC#613": {
     "name": "panchito$",
@@ -202,16 +202,16 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "PLATINUM 1",
-    "rating": 1815.7,
+    "rank": "PLATINUM 2",
+    "rating": 1910.7,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 8,
-    "losses": 0
+    "wins": 11,
+    "losses": 1
   },
   "SPOT#861": {
     "name": "invader zyn",
