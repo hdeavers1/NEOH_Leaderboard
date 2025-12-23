@@ -229,6 +229,22 @@
     "wins": 7,
     "losses": 5
   },
+  "PLAY#647": {
+    "name": "Holiday",
+    "tag": "PLAY#647",
+    "rank": "PLATINUM 3",
+    "rating": 2002,
+    "characters": [
+      "Luigi",
+      "Sheik"
+    ],
+    "percentages": [
+      "95.0",
+      "4.5"
+    ],
+    "wins": 56,
+    "losses": 32
+  },
   "GRIM#801": {
     "name": "Shiesty",
     "tag": "GRIM#801",
