@@ -93,26 +93,6 @@
     "wins": 0,
     "losses": 0
   },
-  "SPOR#247": {
-    "name": "Jub Lee",
-    "tag": "SPOR#247",
-    "rank": "SILVER 3",
-    "rating": 1371.8,
-    "characters": [
-      "Falcon",
-      "Fox",
-      "Doc",
-      "Marth"
-    ],
-    "percentages": [
-      "31.8",
-      "28.8",
-      "19.7",
-      "19.7"
-    ],
-    "wins": 13,
-    "losses": 15
-  },
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
