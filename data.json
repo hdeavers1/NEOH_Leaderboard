@@ -229,22 +229,6 @@
     "wins": 7,
     "losses": 5
   },
-  "PLAY#647": {
-    "name": "Holiday",
-    "tag": "PLAY#647",
-    "rank": "PLATINUM 3",
-    "rating": 2002,
-    "characters": [
-      "Luigi",
-      "Sheik"
-    ],
-    "percentages": [
-      "95.0",
-      "4.5"
-    ],
-    "wins": 56,
-    "losses": 32
-  },
   "GRIM#801": {
     "name": "Shiesty",
     "tag": "GRIM#801",
@@ -461,7 +445,7 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1712.5,
+    "rating": 1723.3,
     "characters": [
       "Yoshi",
       "DK"
@@ -470,7 +454,7 @@
       "93.4",
       "6.1"
     ],
-    "wins": 127,
+    "wins": 128,
     "losses": 113
   },
   "DEE#218": {
