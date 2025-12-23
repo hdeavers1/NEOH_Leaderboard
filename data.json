@@ -175,15 +175,15 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1897.9,
+    "rating": 1899.1,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "99.1"
+      "99.2"
     ],
-    "wins": 79,
-    "losses": 67
+    "wins": 81,
+    "losses": 70
   },
   "ASIG#701": {
     "name": "aSig",
@@ -461,17 +461,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1661.2,
+    "rating": 1686.9,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "93.0",
-      "6.4"
+      "93.2",
+      "6.3"
     ],
-    "wins": 120,
-    "losses": 109
+    "wins": 123,
+    "losses": 110
   },
   "DEE#218": {
     "name": "gooperous",
@@ -523,19 +523,19 @@
     "name": "DankKnight",
     "tag": "DANK#954",
     "rank": "SILVER 2",
-    "rating": 1245,
+    "rating": 1201.5,
     "characters": [
       "Marth",
       "Fox",
       "Falcon"
     ],
     "percentages": [
-      "90.9",
-      "6.8",
-      "2.3"
+      "91.7",
+      "6.3",
+      "2.1"
     ],
     "wins": 9,
-    "losses": 10
+    "losses": 12
   },
   "NCRO#183": {
     "name": "Ncro",
