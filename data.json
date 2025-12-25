@@ -421,6 +421,20 @@
     "wins": 0,
     "losses": 0
   },
+  "SERE#225": {
+    "name": "Smile Deliverer",
+    "tag": "SERE#225",
+    "rank": "DIAMOND 1",
+    "rating": 2066.4,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "98.5"
+    ],
+    "wins": 141,
+    "losses": 120
+  },
   "MARF#811": {
     "name": "Marfweasel",
     "tag": "MARF#811",
