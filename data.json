@@ -258,16 +258,16 @@
   "GHST#232": {
     "name": "Ghuff",
     "tag": "GHST#232",
-    "rank": "PENDING",
-    "rating": 4,
+    "rank": "SILVER 3",
+    "rating": 1401.4,
     "characters": [
       "Puff"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
-    "losses": 0
+    "wins": 4,
+    "losses": 1
   },
   "BLSE#808": {
     "name": "not BURNT OUT",
@@ -352,18 +352,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1844.8,
+    "rank": "PLATINUM 1",
+    "rating": 1838.2,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "66.3",
-      "32.6"
+      "66.4",
+      "32.5"
     ],
     "wins": 118,
-    "losses": 103
+    "losses": 104
   },
   "DNZO#333": {
     "name": "the thinker",
