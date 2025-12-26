@@ -233,17 +233,17 @@
     "name": "Holiday",
     "tag": "PLAY#647",
     "rank": "PLATINUM 3",
-    "rating": 2002,
+    "rating": 1995.4,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "95.0",
-      "4.5"
+      "95.2",
+      "4.3"
     ],
-    "wins": 56,
-    "losses": 32
+    "wins": 57,
+    "losses": 33
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -349,17 +349,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1861.3,
+    "rating": 1844.8,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "66.2",
+      "66.3",
       "32.6"
     ],
-    "wins": 117,
-    "losses": 101
+    "wins": 118,
+    "losses": 103
   },
   "DNZO#333": {
     "name": "the thinker",
