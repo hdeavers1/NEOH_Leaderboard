@@ -256,13 +256,17 @@
     "losses": 0
   },
   "GHST#232": {
-    "name": "Ghast",
+    "name": "Ghuff",
     "tag": "GHST#232",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Puff"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
     "losses": 0
   },
   "BLSE#808": {
