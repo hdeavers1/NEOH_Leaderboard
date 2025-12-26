@@ -265,6 +265,22 @@
     "wins": 0,
     "losses": 0
   },
+  "BLSE#808": {
+    "name": "not BURNT OUT",
+    "tag": "BLSE#808",
+    "rank": "DIAMOND 2",
+    "rating": 2093.6,
+    "characters": [
+      "Pikachu",
+      "Falcon"
+    ],
+    "percentages": [
+      "96.5",
+      "2.1"
+    ],
+    "wins": 43,
+    "losses": 16
+  },
   "FUCKIN#1": {
     "name": "fknsilver",
     "tag": "FUCKIN#1",
