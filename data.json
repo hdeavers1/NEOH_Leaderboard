@@ -259,15 +259,15 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "GOLD 1",
-    "rating": 1478.2,
+    "rating": 1445.6,
     "characters": [
       "Puff"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 9,
-    "losses": 7
+    "wins": 10,
+    "losses": 11
   },
   "BLSE#808": {
     "name": "not BURNT OUT",
@@ -458,6 +458,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "YOSH#458": {
+    "name": "lrgpzzasubnoham",
+    "tag": "YOSH#458",
+    "rank": "GOLD 3",
+    "rating": 1685.2,
+    "characters": [
+      "Yoshi",
+      "DK"
+    ],
+    "percentages": [
+      "93.9",
+      "5.7"
+    ],
+    "wins": 146,
+    "losses": 133
   },
   "DEE#218": {
     "name": "human rights",
