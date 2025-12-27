@@ -51,17 +51,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1742.5,
+    "rating": 1715.8,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "54.9",
-      "45.1"
+      "54.3",
+      "45.7"
     ],
     "wins": 86,
-    "losses": 72
+    "losses": 74
   },
   "PANC#613": {
     "name": "panchito$",
@@ -258,16 +258,16 @@
   "GHST#232": {
     "name": "Ghuff",
     "tag": "GHST#232",
-    "rank": "SILVER 3",
-    "rating": 1358.5,
+    "rank": "GOLD 1",
+    "rating": 1469.9,
     "characters": [
       "Puff"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
-    "losses": 2
+    "wins": 7,
+    "losses": 4
   },
   "BLSE#808": {
     "name": "not BURNT OUT",
@@ -303,17 +303,17 @@
     "name": "-",
     "tag": "JINK#1",
     "rank": "GRANDMASTER",
-    "rating": 2197.1,
+    "rating": 2201.9,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
       "97.4",
-      "2.4"
+      "2.3"
     ],
-    "wins": 105,
-    "losses": 55
+    "wins": 108,
+    "losses": 56
   },
   "FLOW#08": {
     "name": "Flow",
