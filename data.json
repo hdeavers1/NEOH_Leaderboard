@@ -51,16 +51,16 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1679.6,
+    "rating": 1685.7,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "52.2",
-      "47.8"
+      "52.1",
+      "47.9"
     ],
-    "wins": 90,
+    "wins": 91,
     "losses": 79
   },
   "PANC#613": {
@@ -375,20 +375,6 @@
     "wins": 0,
     "losses": 0
   },
-  "KM#12": {
-    "name": "kneemaster12",
-    "tag": "KM#12",
-    "rank": "GOLD 3",
-    "rating": 1749.4,
-    "characters": [
-      "Ganon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 13,
-    "losses": 5
-  },
   "DREW#175": {
     "name": "Unc",
     "tag": "DREW#175",
@@ -463,17 +449,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1698.9,
+    "rating": 1685.2,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "93.8",
+      "93.9",
       "5.7"
     ],
     "wins": 146,
-    "losses": 132
+    "losses": 133
   },
   "DEE#218": {
     "name": "Tubthumping",
