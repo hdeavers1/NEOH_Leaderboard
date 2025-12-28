@@ -161,16 +161,6 @@
     "wins": 3,
     "losses": 2
   },
-  "FRUM#591": {
-    "name": "Kenpachi",
-    "tag": "FRUM#591",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
@@ -259,15 +249,15 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "GOLD 1",
-    "rating": 1445.6,
+    "rating": 1465.2,
     "characters": [
       "Puff"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 10,
-    "losses": 11
+    "wins": 12,
+    "losses": 12
   },
   "BLSE#808": {
     "name": "not BURNT OUT",
@@ -476,7 +466,7 @@
     "losses": 133
   },
   "DEE#218": {
-    "name": "human rights",
+    "name": "mr foots",
     "tag": "DEE#218",
     "rank": "PLATINUM 1",
     "rating": 1803.3,
