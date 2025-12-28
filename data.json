@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "Idek man",
+    "name": "Arrivederci",
     "tag": "WWJ#916",
     "rank": "NONE",
     "rating": 0,
@@ -160,6 +160,16 @@
     ],
     "wins": 3,
     "losses": 2
+  },
+  "FRUM#591": {
+    "name": "Kenpachi",
+    "tag": "FRUM#591",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
