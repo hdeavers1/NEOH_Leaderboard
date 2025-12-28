@@ -1,14 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "Arrivederci",
-    "tag": "WWJ#916",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "JUBS#579": {
     "name": "Jubly",
     "tag": "JUBS#579",
@@ -254,20 +244,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "GHST#232": {
-    "name": "Ghuff",
-    "tag": "GHST#232",
-    "rank": "GOLD 1",
-    "rating": 1491.1,
-    "characters": [
-      "Puff"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 14,
-    "losses": 13
   },
   "BLSE#808": {
     "name": "not BURNT OUT",
