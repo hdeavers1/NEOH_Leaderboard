@@ -233,7 +233,7 @@
     "name": "Hard Worker",
     "tag": "PLAY#647",
     "rank": "PLATINUM 3",
-    "rating": 1995.4,
+    "rating": 1987.6,
     "characters": [
       "Luigi",
       "Sheik"
@@ -243,7 +243,7 @@
       "4.3"
     ],
     "wins": 57,
-    "losses": 33
+    "losses": 34
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -352,17 +352,17 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1917.7,
+    "rank": "PLATINUM 3",
+    "rating": 1932.4,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "66.8",
-      "32.1"
+      "66.9",
+      "32.0"
     ],
-    "wins": 126,
+    "wins": 127,
     "losses": 105
   },
   "DNZO#333": {
