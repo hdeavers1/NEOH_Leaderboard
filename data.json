@@ -259,14 +259,14 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "GOLD 2",
-    "rating": 1548.3,
+    "rating": 1575.7,
     "characters": [
       "Puff"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 20,
+    "wins": 21,
     "losses": 16
   },
   "BLSE#808": {
@@ -353,16 +353,16 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1883.6,
+    "rating": 1917.7,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "66.5",
-      "32.4"
+      "66.8",
+      "32.1"
     ],
-    "wins": 122,
+    "wins": 126,
     "losses": 105
   },
   "DNZO#333": {
