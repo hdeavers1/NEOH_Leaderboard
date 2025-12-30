@@ -353,17 +353,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1945.1,
+    "rating": 1936.8,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
       "67.2",
-      "31.7"
+      "31.8"
     ],
-    "wins": 130,
-    "losses": 106
+    "wins": 132,
+    "losses": 108
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -463,17 +463,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1649.7,
+    "rating": 1611.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "93.9",
-      "5.7"
+      "94.0",
+      "5.6"
     ],
     "wins": 149,
-    "losses": 138
+    "losses": 141
   },
   "DEE#218": {
     "name": "HAPPY NEW YEAR!",
