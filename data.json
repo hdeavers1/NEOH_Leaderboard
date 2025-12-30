@@ -175,15 +175,15 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1887.2,
+    "rating": 1866.8,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.2"
     ],
-    "wins": 81,
-    "losses": 72
+    "wins": 83,
+    "losses": 77
   },
   "ASIG#701": {
     "name": "aSig",
@@ -425,20 +425,6 @@
     "wins": 0,
     "losses": 0
   },
-  "SERE#225": {
-    "name": "Smile Deliverer",
-    "tag": "SERE#225",
-    "rank": "DIAMOND 1",
-    "rating": 2066.4,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "98.5"
-    ],
-    "wins": 141,
-    "losses": 120
-  },
   "MARF#811": {
     "name": "Marfweasel",
     "tag": "MARF#811",
@@ -582,16 +568,6 @@
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "SYS#0": {
-    "name": "Syspen",
-    "tag": "SYS#0",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
