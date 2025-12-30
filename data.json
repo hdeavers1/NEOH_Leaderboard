@@ -171,20 +171,6 @@
     "wins": 0,
     "losses": 0
   },
-  "CUTS#327": {
-    "name": "PaulBetDavidson",
-    "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1892.7,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "99.2"
-    ],
-    "wins": 85,
-    "losses": 77
-  },
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
@@ -349,6 +335,22 @@
     "wins": 0,
     "losses": 0
   },
+  "WEGG#462": {
+    "name": "Young Wunna",
+    "tag": "WEGG#462",
+    "rank": "PLATINUM 3",
+    "rating": 1936.8,
+    "characters": [
+      "Fox",
+      "Marth"
+    ],
+    "percentages": [
+      "67.2",
+      "31.8"
+    ],
+    "wins": 132,
+    "losses": 108
+  },
   "DNZO#333": {
     "name": "the thinker",
     "tag": "DNZO#333",
@@ -447,7 +449,7 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1587.1,
+    "rating": 1593.6,
     "characters": [
       "Yoshi",
       "DK"
@@ -456,8 +458,8 @@
       "94.0",
       "5.6"
     ],
-    "wins": 152,
-    "losses": 146
+    "wins": 153,
+    "losses": 147
   },
   "DEE#218": {
     "name": "HAPPY NEW YEAR!",
