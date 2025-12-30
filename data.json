@@ -47,6 +47,22 @@
     "wins": 13,
     "losses": 12
   },
+  "MAYO#795": {
+    "name": "the mayo",
+    "tag": "MAYO#795",
+    "rank": "GOLD 3",
+    "rating": 1685.7,
+    "characters": [
+      "DK",
+      "Falcon"
+    ],
+    "percentages": [
+      "52.1",
+      "47.9"
+    ],
+    "wins": 91,
+    "losses": 79
+  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -159,7 +175,7 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1899.1,
+    "rating": 1887.2,
     "characters": [
       "Samus"
     ],
@@ -167,7 +183,7 @@
       "99.2"
     ],
     "wins": 81,
-    "losses": 70
+    "losses": 72
   },
   "ASIG#701": {
     "name": "aSig",
