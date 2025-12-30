@@ -175,15 +175,15 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1903.3,
+    "rating": 1894.9,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.3"
     ],
-    "wins": 89,
-    "losses": 80
+    "wins": 90,
+    "losses": 82
   },
   "ASIG#701": {
     "name": "aSig",
@@ -258,16 +258,16 @@
   "GHST#232": {
     "name": "Ghuff",
     "tag": "GHST#232",
-    "rank": "GOLD 2",
-    "rating": 1552.2,
+    "rank": "GOLD 1",
+    "rating": 1518.6,
     "characters": [
       "Puff"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 21,
-    "losses": 17
+    "wins": 23,
+    "losses": 21
   },
   "BLSE#808": {
     "name": "not BURNT OUT",
