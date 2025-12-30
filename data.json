@@ -175,14 +175,14 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1866.8,
+    "rating": 1892.7,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.2"
     ],
-    "wins": 83,
+    "wins": 85,
     "losses": 77
   },
   "ASIG#701": {
@@ -349,22 +349,6 @@
     "wins": 0,
     "losses": 0
   },
-  "WEGG#462": {
-    "name": "Young Wunna",
-    "tag": "WEGG#462",
-    "rank": "PLATINUM 3",
-    "rating": 1936.8,
-    "characters": [
-      "Fox",
-      "Marth"
-    ],
-    "percentages": [
-      "67.2",
-      "31.8"
-    ],
-    "wins": 132,
-    "losses": 108
-  },
   "DNZO#333": {
     "name": "the thinker",
     "tag": "DNZO#333",
@@ -424,6 +408,20 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "SERE#225": {
+    "name": "Smile Deliverer",
+    "tag": "SERE#225",
+    "rank": "DIAMOND 1",
+    "rating": 2066.4,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "98.5"
+    ],
+    "wins": 141,
+    "losses": 120
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -568,6 +566,16 @@
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "SYS#0": {
+    "name": "Syspen",
+    "tag": "SYS#0",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
