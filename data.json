@@ -175,15 +175,15 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1884.3,
+    "rating": 1903.3,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "99.2"
+      "99.3"
     ],
-    "wins": 85,
-    "losses": 78
+    "wins": 89,
+    "losses": 80
   },
   "ASIG#701": {
     "name": "aSig",
@@ -259,7 +259,7 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "GOLD 2",
-    "rating": 1575.7,
+    "rating": 1552.2,
     "characters": [
       "Puff"
     ],
@@ -267,7 +267,7 @@
       "100.0"
     ],
     "wins": 21,
-    "losses": 16
+    "losses": 17
   },
   "BLSE#808": {
     "name": "not BURNT OUT",
@@ -463,17 +463,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1631.4,
+    "rating": 1647.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "93.8",
-      "5.7"
+      "93.7",
+      "5.9"
     ],
-    "wins": 157,
-    "losses": 148
+    "wins": 160,
+    "losses": 151
   },
   "DEE#218": {
     "name": "HAPPY NEW YEAR!",
