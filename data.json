@@ -315,6 +315,20 @@
     "wins": 108,
     "losses": 56
   },
+  "FLOW#08": {
+    "name": "Flow",
+    "tag": "FLOW#08",
+    "rank": "PLATINUM 1",
+    "rating": 1766.8,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 9,
+    "losses": 3
+  },
   "ZBOO#991": {
     "name": "(-:",
     "tag": "ZBOO#991",
@@ -465,17 +479,17 @@
     "name": "HAPPY NEW YEAR!",
     "tag": "DEE#218",
     "rank": "PLATINUM 1",
-    "rating": 1803.3,
+    "rating": 1764.5,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "89.7",
-      "10.3"
+      "88.0",
+      "12.0"
     ],
     "wins": 50,
-    "losses": 42
+    "losses": 44
   },
   "SUCC#860": {
     "name": "Wahey",
