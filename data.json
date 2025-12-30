@@ -273,16 +273,16 @@
     "name": "not BURNT OUT",
     "tag": "BLSE#808",
     "rank": "DIAMOND 2",
-    "rating": 2093.6,
+    "rating": 2108.9,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "96.5",
-      "2.1"
+      "95.9",
+      "2.7"
     ],
-    "wins": 43,
+    "wins": 44,
     "losses": 16
   },
   "FUCKIN#1": {
@@ -353,17 +353,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1932.4,
+    "rating": 1945.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "66.9",
-      "32.0"
+      "67.2",
+      "31.7"
     ],
-    "wins": 127,
-    "losses": 105
+    "wins": 130,
+    "losses": 106
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -569,15 +569,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1878.5,
+    "rating": 1904.6,
     "characters": [
       "Falcon"
     ],
     "percentages": [
-      "98.7"
+      "98.8"
     ],
-    "wins": 68,
-    "losses": 57
+    "wins": 75,
+    "losses": 64
   },
   "BOZO#386": {
     "name": "super pichu",
