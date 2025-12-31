@@ -145,22 +145,6 @@
     "wins": 0,
     "losses": 2
   },
-  "FUEL#375": {
-    "name": "Fuelperks",
-    "tag": "FUEL#375",
-    "rank": "SILVER 2",
-    "rating": 1296.1,
-    "characters": [
-      "Peach",
-      "Falcon"
-    ],
-    "percentages": [
-      "69.2",
-      "30.8"
-    ],
-    "wins": 3,
-    "losses": 2
-  },
   "FRUM#591": {
     "name": "Kenpachi",
     "tag": "FRUM#591",
@@ -212,6 +196,22 @@
     ],
     "wins": 11,
     "losses": 1
+  },
+  "SPOT#861": {
+    "name": "invader zyn",
+    "tag": "SPOT#861",
+    "rank": "SILVER 3",
+    "rating": 1427,
+    "characters": [
+      "Sheik",
+      "Fox"
+    ],
+    "percentages": [
+      "66.7",
+      "33.3"
+    ],
+    "wins": 7,
+    "losses": 5
   },
   "PLAY#647": {
     "name": "Hard Worker",
