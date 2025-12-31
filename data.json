@@ -213,22 +213,6 @@
     "wins": 11,
     "losses": 1
   },
-  "SPOT#861": {
-    "name": "invader zyn",
-    "tag": "SPOT#861",
-    "rank": "SILVER 3",
-    "rating": 1427,
-    "characters": [
-      "Sheik",
-      "Fox"
-    ],
-    "percentages": [
-      "66.7",
-      "33.3"
-    ],
-    "wins": 7,
-    "losses": 5
-  },
   "PLAY#647": {
     "name": "Hard Worker",
     "tag": "PLAY#647",
@@ -569,7 +553,7 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1835.7,
+    "rating": 1812.5,
     "characters": [
       "Falcon"
     ],
@@ -577,7 +561,7 @@
       "99.1"
     ],
     "wins": 91,
-    "losses": 87
+    "losses": 89
   },
   "BOZO#386": {
     "name": "super pichu",
