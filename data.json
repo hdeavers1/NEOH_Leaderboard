@@ -352,8 +352,8 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1920.9,
+    "rank": "PLATINUM 3",
+    "rating": 1930.1,
     "characters": [
       "Fox",
       "Marth"
@@ -362,7 +362,7 @@
       "67.3",
       "31.7"
     ],
-    "wins": 133,
+    "wins": 134,
     "losses": 110
   },
   "DNZO#333": {
@@ -569,15 +569,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1856,
+    "rating": 1859.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 82,
-    "losses": 74
+    "wins": 85,
+    "losses": 77
   },
   "BOZO#386": {
     "name": "super pichu",
