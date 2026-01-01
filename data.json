@@ -245,16 +245,6 @@
     "wins": 57,
     "losses": 34
   },
-  "GRIM#801": {
-    "name": "Shiesty",
-    "tag": "GRIM#801",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "GHST#232": {
     "name": "Ghuff",
     "tag": "GHST#232",
@@ -463,17 +453,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1672.9,
+    "rating": 1680.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
       "94.0",
-      "5.7"
+      "5.6"
     ],
-    "wins": 179,
-    "losses": 167
+    "wins": 180,
+    "losses": 168
   },
   "DEE#218": {
     "name": "HAPPY NEW YEAR!",
