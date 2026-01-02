@@ -74,7 +74,7 @@
     "losses": 0
   },
   "LVLM#792": {
-    "name": "Militia",
+    "name": "Uncut Jim",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -353,16 +353,16 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1930.1,
+    "rating": 1937.4,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "67.3",
-      "31.7"
+      "67.1",
+      "31.9"
     ],
-    "wins": 134,
+    "wins": 135,
     "losses": 110
   },
   "DNZO#333": {
