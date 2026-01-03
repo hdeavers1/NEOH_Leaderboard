@@ -50,18 +50,18 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1660.8,
+    "rank": "GOLD 2",
+    "rating": 1647.5,
     "characters": [
       "DK",
       "Falcon"
     ],
     "percentages": [
-      "50.5",
-      "49.5"
+      "50.1",
+      "49.9"
     ],
     "wins": 94,
-    "losses": 83
+    "losses": 84
   },
   "PANC#613": {
     "name": "panchito$",
@@ -463,17 +463,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1680.8,
+    "rating": 1697.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
       "94.0",
-      "5.6"
+      "5.7"
     ],
-    "wins": 180,
-    "losses": 168
+    "wins": 183,
+    "losses": 169
   },
   "DEE#218": {
     "name": "HAPPY NEW YEAR!",
