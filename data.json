@@ -478,18 +478,18 @@
   "DEE#218": {
     "name": "HAPPY NEW YEAR!",
     "tag": "DEE#218",
-    "rank": "PLATINUM 1",
-    "rating": 1764.5,
+    "rank": "GOLD 3",
+    "rating": 1732.8,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "88.0",
-      "12.0"
+      "86.0",
+      "14.0"
     ],
     "wins": 50,
-    "losses": 44
+    "losses": 46
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -520,24 +520,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "DANK#954": {
-    "name": "DankKnight",
-    "tag": "DANK#954",
-    "rank": "SILVER 2",
-    "rating": 1201.5,
-    "characters": [
-      "Marth",
-      "Fox",
-      "Falcon"
-    ],
-    "percentages": [
-      "91.7",
-      "6.3",
-      "2.1"
-    ],
-    "wins": 9,
-    "losses": 12
   },
   "NCRO#183": {
     "name": "Ncro",
