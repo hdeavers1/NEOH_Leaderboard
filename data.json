@@ -96,21 +96,21 @@
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
-    "rank": "SILVER 3",
-    "rating": 1371.8,
+    "rank": "GOLD 1",
+    "rating": 1457.6,
     "characters": [
       "Falcon",
       "Fox",
-      "Doc",
-      "Marth"
+      "Marth",
+      "Doc"
     ],
     "percentages": [
-      "31.8",
-      "28.8",
-      "19.7",
-      "19.7"
+      "39.2",
+      "25.7",
+      "17.6",
+      "17.6"
     ],
-    "wins": 13,
+    "wins": 17,
     "losses": 15
   },
   "ANT#480": {
@@ -569,14 +569,14 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1821.5,
+    "rating": 1833.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 95,
+    "wins": 96,
     "losses": 94
   },
   "BOZO#386": {
