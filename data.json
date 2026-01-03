@@ -175,7 +175,7 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1894.9,
+    "rating": 1854,
     "characters": [
       "Samus"
     ],
@@ -183,7 +183,7 @@
       "99.3"
     ],
     "wins": 90,
-    "losses": 82
+    "losses": 87
   },
   "ASIG#701": {
     "name": "aSig",
@@ -479,17 +479,17 @@
     "name": "HAPPY NEW YEAR!",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1732.8,
+    "rating": 1714.3,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "86.0",
-      "14.0"
+      "85.2",
+      "14.8"
     ],
     "wins": 50,
-    "losses": 46
+    "losses": 47
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -521,6 +521,24 @@
     "wins": 0,
     "losses": 0
   },
+  "DANK#954": {
+    "name": "DankKnight",
+    "tag": "DANK#954",
+    "rank": "SILVER 2",
+    "rating": 1201.5,
+    "characters": [
+      "Marth",
+      "Fox",
+      "Falcon"
+    ],
+    "percentages": [
+      "91.7",
+      "6.3",
+      "2.1"
+    ],
+    "wins": 9,
+    "losses": 12
+  },
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
@@ -551,15 +569,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1812.5,
+    "rating": 1831.5,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 91,
-    "losses": 89
+    "wins": 93,
+    "losses": 90
   },
   "BOZO#386": {
     "name": "super pichu",
