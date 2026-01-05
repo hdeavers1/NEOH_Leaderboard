@@ -475,22 +475,6 @@
     "wins": 187,
     "losses": 175
   },
-  "DEE#218": {
-    "name": "HAPPY NEW YEAR!",
-    "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1714.3,
-    "characters": [
-      "ICs",
-      "YLink"
-    ],
-    "percentages": [
-      "85.2",
-      "14.8"
-    ],
-    "wins": 50,
-    "losses": 47
-  },
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
@@ -569,15 +553,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1868.7,
+    "rating": 1858.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.2"
     ],
-    "wins": 101,
-    "losses": 98
+    "wins": 103,
+    "losses": 100
   },
   "BOZO#386": {
     "name": "super pichu",
