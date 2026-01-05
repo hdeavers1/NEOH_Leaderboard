@@ -189,14 +189,14 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 3",
-    "rating": 1680.4,
+    "rating": 1695.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 34,
+    "wins": 35,
     "losses": 25
   },
   "JUST#577": {
@@ -475,22 +475,6 @@
     "wins": 187,
     "losses": 175
   },
-  "DEE#218": {
-    "name": "HAPPY NEW YEAR!",
-    "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1714.3,
-    "characters": [
-      "ICs",
-      "YLink"
-    ],
-    "percentages": [
-      "85.2",
-      "14.8"
-    ],
-    "wins": 50,
-    "losses": 47
-  },
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
@@ -542,12 +526,32 @@
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 1
+  },
+  "MOSHI#0": {
+    "name": "Ms. Doesnt Miss",
+    "tag": "MOSHI#0",
+    "rank": "PLATINUM 1",
+    "rating": 1756.9,
+    "characters": [
+      "Peach",
+      "Ness"
+    ],
+    "percentages": [
+      "93.4",
+      "6.6"
+    ],
+    "wins": 109,
+    "losses": 101
   },
   "SMEG#879": {
     "name": "$",
