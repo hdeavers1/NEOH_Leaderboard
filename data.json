@@ -556,32 +556,32 @@
   "MOSHI#0": {
     "name": "Ms. Doesnt Miss",
     "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1756.9,
+    "rank": "GOLD 3",
+    "rating": 1749.7,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.4",
-      "6.6"
+      "93.5",
+      "6.5"
     ],
-    "wins": 109,
-    "losses": 101
+    "wins": 111,
+    "losses": 103
   },
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1858.9,
+    "rating": 1872.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.2"
     ],
-    "wins": 103,
-    "losses": 100
+    "wins": 105,
+    "losses": 101
   },
   "BOZO#386": {
     "name": "super pichu",
