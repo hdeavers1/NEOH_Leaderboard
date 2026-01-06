@@ -93,6 +93,26 @@
     "wins": 0,
     "losses": 0
   },
+  "SPOR#247": {
+    "name": "Jub Lee",
+    "tag": "SPOR#247",
+    "rank": "GOLD 1",
+    "rating": 1469.1,
+    "characters": [
+      "Falcon",
+      "Fox",
+      "Marth",
+      "Doc"
+    ],
+    "percentages": [
+      "42.5",
+      "23.8",
+      "17.5",
+      "16.3"
+    ],
+    "wins": 18,
+    "losses": 16
+  },
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
@@ -553,7 +573,7 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1842,
+    "rating": 1837,
     "characters": [
       "Falcon"
     ],
@@ -561,7 +581,7 @@
       "99.3"
     ],
     "wins": 113,
-    "losses": 113
+    "losses": 114
   },
   "BOZO#386": {
     "name": "super pichu",
