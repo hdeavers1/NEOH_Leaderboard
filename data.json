@@ -47,6 +47,22 @@
     "wins": 15,
     "losses": 14
   },
+  "MAYO#795": {
+    "name": "the mayo",
+    "tag": "MAYO#795",
+    "rank": "GOLD 2",
+    "rating": 1634.9,
+    "characters": [
+      "Falcon",
+      "DK"
+    ],
+    "percentages": [
+      "51.6",
+      "48.4"
+    ],
+    "wins": 100,
+    "losses": 90
+  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -76,26 +92,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "SPOR#247": {
-    "name": "Jub Lee",
-    "tag": "SPOR#247",
-    "rank": "GOLD 1",
-    "rating": 1469.1,
-    "characters": [
-      "Falcon",
-      "Fox",
-      "Marth",
-      "Doc"
-    ],
-    "percentages": [
-      "42.5",
-      "23.8",
-      "17.5",
-      "16.3"
-    ],
-    "wins": 18,
-    "losses": 16
   },
   "ANT#480": {
     "name": "Zantryx",
