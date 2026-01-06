@@ -93,26 +93,6 @@
     "wins": 0,
     "losses": 0
   },
-  "SPOR#247": {
-    "name": "Jub Lee",
-    "tag": "SPOR#247",
-    "rank": "GOLD 1",
-    "rating": 1469.1,
-    "characters": [
-      "Falcon",
-      "Fox",
-      "Marth",
-      "Doc"
-    ],
-    "percentages": [
-      "42.5",
-      "23.8",
-      "17.5",
-      "16.3"
-    ],
-    "wins": 18,
-    "losses": 16
-  },
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
@@ -463,17 +443,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1649.9,
+    "rating": 1652.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
       "94.0",
-      "5.7"
+      "5.6"
     ],
-    "wins": 187,
-    "losses": 175
+    "wins": 188,
+    "losses": 176
   },
   "DEE#218": {
     "name": "HAPPY NEW YEAR!",
@@ -556,32 +536,32 @@
   "MOSHI#0": {
     "name": "Ms. Doesnt Miss",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1749.7,
+    "rank": "PLATINUM 1",
+    "rating": 1781.1,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.5",
-      "6.5"
+      "93.7",
+      "6.3"
     ],
-    "wins": 111,
-    "losses": 103
+    "wins": 115,
+    "losses": 104
   },
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1872.2,
+    "rating": 1845.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
-      "99.2"
+      "99.3"
     ],
-    "wins": 105,
-    "losses": 101
+    "wins": 109,
+    "losses": 109
   },
   "BOZO#386": {
     "name": "super pichu",
