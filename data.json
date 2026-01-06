@@ -113,6 +113,24 @@
     "wins": 18,
     "losses": 16
   },
+  "ANT#480": {
+    "name": "Zantryx",
+    "tag": "ANT#480",
+    "rank": "SILVER 2",
+    "rating": 1312.6,
+    "characters": [
+      "Marth",
+      "Roy",
+      "Fox"
+    ],
+    "percentages": [
+      "95.2",
+      "2.7",
+      "2.1"
+    ],
+    "wins": 34,
+    "losses": 44
+  },
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
@@ -555,14 +573,14 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1834.1,
+    "rating": 1842,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.3"
     ],
-    "wins": 112,
+    "wins": 113,
     "losses": 113
   },
   "BOZO#386": {
