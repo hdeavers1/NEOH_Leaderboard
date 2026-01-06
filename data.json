@@ -273,16 +273,16 @@
     "name": "not BURNT OUT",
     "tag": "BLSE#808",
     "rank": "DIAMOND 2",
-    "rating": 2108.9,
+    "rating": 2121.9,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "95.9",
-      "2.7"
+      "96.1",
+      "2.6"
     ],
-    "wins": 44,
+    "wins": 46,
     "losses": 16
   },
   "FUCKIN#1": {
@@ -573,15 +573,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1798.7,
+    "rating": 1788.6,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.3"
     ],
-    "wins": 115,
-    "losses": 119
+    "wins": 119,
+    "losses": 121
   },
   "BOZO#386": {
     "name": "super pichu",
