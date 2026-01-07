@@ -377,6 +377,20 @@
     "wins": 0,
     "losses": 0
   },
+  "KM#12": {
+    "name": "kneemaster12",
+    "tag": "KM#12",
+    "rank": "GOLD 3",
+    "rating": 1749.4,
+    "characters": [
+      "Ganon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 13,
+    "losses": 5
+  },
   "DREW#175": {
     "name": "Unc",
     "tag": "DREW#175",
@@ -565,15 +579,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1753.5,
+    "rating": 1759.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 126,
-    "losses": 133
+    "wins": 127,
+    "losses": 134
   },
   "BOZO#386": {
     "name": "super pichu",
