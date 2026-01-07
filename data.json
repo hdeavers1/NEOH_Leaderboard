@@ -161,16 +161,6 @@
     "wins": 3,
     "losses": 2
   },
-  "FRUM#591": {
-    "name": "Kenpachi",
-    "tag": "FRUM#591",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
@@ -259,7 +249,7 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "GOLD 1",
-    "rating": 1524.6,
+    "rating": 1480.6,
     "characters": [
       "Puff"
     ],
@@ -267,7 +257,7 @@
       "100.0"
     ],
     "wins": 24,
-    "losses": 22
+    "losses": 24
   },
   "BLSE#808": {
     "name": "not BURNT OUT",
@@ -289,15 +279,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2317,
+    "rating": 2314.1,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.1"
+      "97.2"
     ],
-    "wins": 105,
-    "losses": 36
+    "wins": 109,
+    "losses": 37
   },
   "JINK#1": {
     "name": "-",
@@ -577,15 +567,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1786.4,
+    "rating": 1752.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
-      "99.3"
+      "99.4"
     ],
-    "wins": 120,
-    "losses": 122
+    "wins": 123,
+    "losses": 128
   },
   "BOZO#386": {
     "name": "super pichu",
