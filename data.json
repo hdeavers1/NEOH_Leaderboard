@@ -161,6 +161,16 @@
     "wins": 3,
     "losses": 2
   },
+  "FRUM#591": {
+    "name": "Kenpachi",
+    "tag": "FRUM#591",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
@@ -279,15 +289,17 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2314.1,
+    "rating": 2315.7,
     "characters": [
-      "Samus"
+      "Samus",
+      "Fox"
     ],
     "percentages": [
-      "97.2"
+      "97.0",
+      "2.1"
     ],
-    "wins": 109,
-    "losses": 37
+    "wins": 112,
+    "losses": 38
   },
   "JINK#1": {
     "name": "-",
@@ -465,22 +477,6 @@
     "wins": 199,
     "losses": 185
   },
-  "DEE#218": {
-    "name": "HAPPY NEW YEAR!",
-    "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1714.3,
-    "characters": [
-      "ICs",
-      "YLink"
-    ],
-    "percentages": [
-      "85.2",
-      "14.8"
-    ],
-    "wins": 50,
-    "losses": 47
-  },
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
@@ -566,8 +562,8 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PLATINUM 1",
-    "rating": 1752.2,
+    "rank": "GOLD 3",
+    "rating": 1744.8,
     "characters": [
       "Falcon"
     ],
@@ -575,7 +571,7 @@
       "99.4"
     ],
     "wins": 123,
-    "losses": 128
+    "losses": 129
   },
   "BOZO#386": {
     "name": "super pichu",
