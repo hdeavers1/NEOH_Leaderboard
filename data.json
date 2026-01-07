@@ -289,15 +289,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2330.2,
+    "rating": 2317,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.0"
+      "97.1"
     ],
-    "wins": 102,
-    "losses": 35
+    "wins": 105,
+    "losses": 36
   },
   "JINK#1": {
     "name": "-",
@@ -577,15 +577,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1788.6,
+    "rating": 1786.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.3"
     ],
-    "wins": 119,
-    "losses": 121
+    "wins": 120,
+    "losses": 122
   },
   "BOZO#386": {
     "name": "super pichu",
