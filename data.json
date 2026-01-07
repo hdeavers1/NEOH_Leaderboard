@@ -213,22 +213,6 @@
     "wins": 11,
     "losses": 1
   },
-  "SPOT#861": {
-    "name": "invader zyn",
-    "tag": "SPOT#861",
-    "rank": "SILVER 3",
-    "rating": 1427,
-    "characters": [
-      "Sheik",
-      "Fox"
-    ],
-    "percentages": [
-      "66.7",
-      "33.3"
-    ],
-    "wins": 7,
-    "losses": 5
-  },
   "PLAY#647": {
     "name": "Hard Worker",
     "tag": "PLAY#647",
@@ -305,16 +289,16 @@
     "name": "-",
     "tag": "JINK#1",
     "rank": "GRANDMASTER",
-    "rating": 2209.2,
+    "rating": 2264,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "97.4",
-      "2.3"
+      "97.3",
+      "2.5"
     ],
-    "wins": 109,
+    "wins": 115,
     "losses": 56
   },
   "FLOW#08": {
