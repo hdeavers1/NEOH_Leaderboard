@@ -543,17 +543,19 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "SILVER 3",
-    "rating": 1327.9,
+    "rating": 1329.5,
     "characters": [
       "Fox",
+      "Marth",
       "Sheik"
     ],
     "percentages": [
-      "92.9",
-      "7.1"
+      "85.7",
+      "9.5",
+      "4.8"
     ],
-    "wins": 3,
-    "losses": 2
+    "wins": 4,
+    "losses": 4
   },
   "MOSHI#0": {
     "name": "Ms. Doesnt Miss",
