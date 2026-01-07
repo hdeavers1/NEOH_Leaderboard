@@ -285,6 +285,22 @@
     "wins": 46,
     "losses": 16
   },
+  "FUCKIN#1": {
+    "name": "fknsilver",
+    "tag": "FUCKIN#1",
+    "rank": "GRANDMASTER",
+    "rating": 2331.7,
+    "characters": [
+      "Samus",
+      "Fox"
+    ],
+    "percentages": [
+      "96.5",
+      "2.6"
+    ],
+    "wins": 116,
+    "losses": 38
+  },
   "JINK#1": {
     "name": "-",
     "tag": "JINK#1",
@@ -465,17 +481,17 @@
     "name": "HAPPY NEW YEAR!",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1714.3,
+    "rating": 1673.4,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "85.2",
-      "14.8"
+      "82.5",
+      "17.5"
     ],
     "wins": 50,
-    "losses": 47
+    "losses": 50
   },
   "SUCC#860": {
     "name": "Wahey",
