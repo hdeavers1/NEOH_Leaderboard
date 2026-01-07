@@ -185,6 +185,34 @@
     "wins": 90,
     "losses": 87
   },
+  "ASIG#701": {
+    "name": "aSig",
+    "tag": "ASIG#701",
+    "rank": "GOLD 3",
+    "rating": 1695.1,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 35,
+    "losses": 25
+  },
+  "JUST#577": {
+    "name": "Just",
+    "tag": "JUST#577",
+    "rank": "PLATINUM 2",
+    "rating": 1910.7,
+    "characters": [
+      "Sheik"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 11,
+    "losses": 1
+  },
   "SPOT#861": {
     "name": "invader zyn",
     "tag": "SPOT#861",
@@ -312,6 +340,32 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "PEE#658": {
+    "name": "The Grink",
+    "tag": "PEE#658",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "WEGG#462": {
+    "name": "Young Wunna",
+    "tag": "WEGG#462",
+    "rank": "PLATINUM 3",
+    "rating": 1937.4,
+    "characters": [
+      "Fox",
+      "Marth"
+    ],
+    "percentages": [
+      "67.1",
+      "31.9"
+    ],
+    "wins": 135,
+    "losses": 110
   },
   "DNZO#333": {
     "name": "the thinker",
