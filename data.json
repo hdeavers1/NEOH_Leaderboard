@@ -50,17 +50,17 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "GOLD 2",
-    "rating": 1634.9,
+    "rank": "GOLD 3",
+    "rating": 1657.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "51.6",
-      "48.4"
+      "52.1",
+      "47.9"
     ],
-    "wins": 100,
+    "wins": 102,
     "losses": 90
   },
   "PANC#613": {
@@ -259,15 +259,15 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "GOLD 1",
-    "rating": 1518.6,
+    "rating": 1524.6,
     "characters": [
       "Puff"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 23,
-    "losses": 21
+    "wins": 24,
+    "losses": 22
   },
   "BLSE#808": {
     "name": "not BURNT OUT",
@@ -462,8 +462,8 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1644.5,
+    "rank": "GOLD 3",
+    "rating": 1697.5,
     "characters": [
       "Yoshi",
       "DK"
@@ -472,8 +472,8 @@
       "94.1",
       "5.6"
     ],
-    "wins": 192,
-    "losses": 182
+    "wins": 197,
+    "losses": 183
   },
   "DEE#218": {
     "name": "HAPPY NEW YEAR!",
