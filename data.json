@@ -305,7 +305,7 @@
     "name": "-",
     "tag": "JINK#1",
     "rank": "GRANDMASTER",
-    "rating": 2201.9,
+    "rating": 2209.2,
     "characters": [
       "Marth",
       "Fox"
@@ -314,7 +314,7 @@
       "97.4",
       "2.3"
     ],
-    "wins": 108,
+    "wins": 109,
     "losses": 56
   },
   "FLOW#08": {
@@ -574,6 +574,20 @@
     ],
     "wins": 115,
     "losses": 104
+  },
+  "SMEG#879": {
+    "name": "$",
+    "tag": "SMEG#879",
+    "rank": "PLATINUM 1",
+    "rating": 1781.6,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "99.4"
+    ],
+    "wins": 129,
+    "losses": 135
   },
   "BOZO#386": {
     "name": "super pichu",
