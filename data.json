@@ -213,6 +213,22 @@
     "wins": 11,
     "losses": 1
   },
+  "SPOT#861": {
+    "name": "invader zyn",
+    "tag": "SPOT#861",
+    "rank": "SILVER 3",
+    "rating": 1427,
+    "characters": [
+      "Sheik",
+      "Fox"
+    ],
+    "percentages": [
+      "66.7",
+      "33.3"
+    ],
+    "wins": 7,
+    "losses": 5
+  },
   "PLAY#647": {
     "name": "Hard Worker",
     "tag": "PLAY#647",
@@ -269,37 +285,21 @@
     "wins": 46,
     "losses": 16
   },
-  "FUCKIN#1": {
-    "name": "fknsilver",
-    "tag": "FUCKIN#1",
-    "rank": "GRANDMASTER",
-    "rating": 2331.7,
-    "characters": [
-      "Samus",
-      "Fox"
-    ],
-    "percentages": [
-      "96.5",
-      "2.6"
-    ],
-    "wins": 116,
-    "losses": 38
-  },
   "JINK#1": {
     "name": "-",
     "tag": "JINK#1",
     "rank": "GRANDMASTER",
-    "rating": 2264,
+    "rating": 2252.2,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
       "97.3",
-      "2.5"
+      "2.4"
     ],
-    "wins": 115,
-    "losses": 56
+    "wins": 116,
+    "losses": 58
   },
   "FLOW#08": {
     "name": "Flow",
