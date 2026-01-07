@@ -33,6 +33,20 @@
     "wins": 0,
     "losses": 0
   },
+  "QCUM#685": {
+    "name": "Fat Chud",
+    "tag": "QCUM#685",
+    "rank": "GOLD 1",
+    "rating": 1530.4,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 15,
+    "losses": 14
+  },
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
@@ -462,22 +476,6 @@
     ],
     "wins": 199,
     "losses": 185
-  },
-  "DEE#218": {
-    "name": "HAPPY NEW YEAR!",
-    "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1714.3,
-    "characters": [
-      "ICs",
-      "YLink"
-    ],
-    "percentages": [
-      "85.2",
-      "14.8"
-    ],
-    "wins": 50,
-    "losses": 47
   },
   "SUCC#860": {
     "name": "Wahey",
