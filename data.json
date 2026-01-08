@@ -83,6 +83,16 @@
     "wins": 0,
     "losses": 0
   },
+  "NECK#152": {
+    "name": "neckboy",
+    "tag": "NECK#152",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
@@ -320,16 +330,6 @@
     ],
     "wins": 9,
     "losses": 3
-  },
-  "ZBOO#991": {
-    "name": "(-:",
-    "tag": "ZBOO#991",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "PEE#658": {
     "name": "The Grink",
