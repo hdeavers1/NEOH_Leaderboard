@@ -523,24 +523,6 @@
     "wins": 0,
     "losses": 0
   },
-  "DANK#954": {
-    "name": "DankKnight",
-    "tag": "DANK#954",
-    "rank": "SILVER 2",
-    "rating": 1201.5,
-    "characters": [
-      "Marth",
-      "Fox",
-      "Falcon"
-    ],
-    "percentages": [
-      "91.7",
-      "6.3",
-      "2.1"
-    ],
-    "wins": 9,
-    "losses": 12
-  },
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
@@ -559,22 +541,6 @@
     "wins": 4,
     "losses": 4
   },
-  "MOSHI#0": {
-    "name": "Ms. Doesnt Miss",
-    "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1781.1,
-    "characters": [
-      "Peach",
-      "Ness"
-    ],
-    "percentages": [
-      "93.7",
-      "6.3"
-    ],
-    "wins": 115,
-    "losses": 104
-  },
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
@@ -588,16 +554,6 @@
     ],
     "wins": 141,
     "losses": 144
-  },
-  "BOZO#386": {
-    "name": "super pichu",
-    "tag": "BOZO#386",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "SYS#0": {
     "name": "Syspen",
