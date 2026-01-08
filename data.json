@@ -465,33 +465,17 @@
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1693.1,
+    "rating": 1687.6,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "94.0",
-      "5.7"
+      "94.1",
+      "5.6"
     ],
-    "wins": 199,
-    "losses": 185
-  },
-  "DEE#218": {
-    "name": "HAPPY NEW YEAR!",
-    "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1673.4,
-    "characters": [
-      "ICs",
-      "YLink"
-    ],
-    "percentages": [
-      "82.5",
-      "17.5"
-    ],
-    "wins": 50,
-    "losses": 50
+    "wins": 201,
+    "losses": 187
   },
   "SUCC#860": {
     "name": "Wahey",
