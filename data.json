@@ -285,6 +285,22 @@
     "wins": 46,
     "losses": 16
   },
+  "FUCKIN#1": {
+    "name": "fknsilver",
+    "tag": "FUCKIN#1",
+    "rank": "GRANDMASTER",
+    "rating": 2351.7,
+    "characters": [
+      "Samus",
+      "Fox"
+    ],
+    "percentages": [
+      "96.6",
+      "2.5"
+    ],
+    "wins": 119,
+    "losses": 38
+  },
   "JINK#1": {
     "name": "-",
     "tag": "JINK#1",
@@ -542,22 +558,6 @@
     ],
     "wins": 4,
     "losses": 4
-  },
-  "MOSHI#0": {
-    "name": "Ms. Doesnt Miss",
-    "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1781.1,
-    "characters": [
-      "Peach",
-      "Ness"
-    ],
-    "percentages": [
-      "93.7",
-      "6.3"
-    ],
-    "wins": 115,
-    "losses": 104
   },
   "SMEG#879": {
     "name": "$",
