@@ -36,15 +36,15 @@
   "QCUM#685": {
     "name": "Fat Chud",
     "tag": "QCUM#685",
-    "rank": "GOLD 1",
-    "rating": 1530.4,
+    "rank": "GOLD 2",
+    "rating": 1550.7,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 15,
+    "wins": 16,
     "losses": 14
   },
   "MAYO#795": {
@@ -506,16 +506,6 @@
   "EGAG#906": {
     "name": "kaz kaan (mtf)",
     "tag": "EGAG#906",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "WICE#699": {
-    "name": "Dougie Jones",
-    "tag": "WICE#699",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
