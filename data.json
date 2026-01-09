@@ -559,6 +559,22 @@
     "wins": 4,
     "losses": 4
   },
+  "MOSHI#0": {
+    "name": "Ms. Doesnt Miss",
+    "tag": "MOSHI#0",
+    "rank": "PLATINUM 1",
+    "rating": 1781.1,
+    "characters": [
+      "Peach",
+      "Ness"
+    ],
+    "percentages": [
+      "93.7",
+      "6.3"
+    ],
+    "wins": 115,
+    "losses": 104
+  },
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
