@@ -2,11 +2,15 @@
   "WWJ#916": {
     "name": "Arrivederci",
     "tag": "WWJ#916",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
     "losses": 0
   },
   "JUBS#579": {
@@ -478,20 +482,20 @@
     "losses": 187
   },
   "DEE#218": {
-    "name": "fuck israel",
+    "name": "goopy loves you",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1624.8,
+    "rating": 1618.6,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "78.7",
-      "21.3"
+      "77.4",
+      "22.6"
     ],
-    "wins": 51,
-    "losses": 55
+    "wins": 52,
+    "losses": 56
   },
   "SUCC#860": {
     "name": "Wahey",
