@@ -291,6 +291,22 @@
     "wins": 46,
     "losses": 16
   },
+  "FUCKIN#1": {
+    "name": "fknsilver",
+    "tag": "FUCKIN#1",
+    "rank": "GRANDMASTER",
+    "rating": 2351.7,
+    "characters": [
+      "Samus",
+      "Fox"
+    ],
+    "percentages": [
+      "96.6",
+      "2.5"
+    ],
+    "wins": 119,
+    "losses": 38
+  },
   "JINK#1": {
     "name": "-",
     "tag": "JINK#1",
@@ -483,6 +499,16 @@
     "wins": 52,
     "losses": 56
   },
+  "SUCC#860": {
+    "name": "Wahey",
+    "tag": "SUCC#860",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "EGAG#906": {
     "name": "kaz kaan (mtf)",
     "tag": "EGAG#906",
@@ -558,16 +584,16 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PLATINUM 1",
-    "rating": 1842.9,
+    "rank": "PLATINUM 2",
+    "rating": 1881.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.3"
     ],
-    "wins": 149,
-    "losses": 151
+    "wins": 152,
+    "losses": 152
   },
   "BOZO#386": {
     "name": "super pichu",
