@@ -2,8 +2,8 @@
   "WWJ#916": {
     "name": "Arrivederci",
     "tag": "WWJ#916",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "GOLD 1",
+    "rating": 1468.8,
     "characters": [
       "Falcon"
     ],
@@ -11,7 +11,7 @@
       "100.0"
     ],
     "wins": 4,
-    "losses": 0
+    "losses": 1
   },
   "JUBS#579": {
     "name": "Jobe",
@@ -54,18 +54,18 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1662.3,
+    "rank": "GOLD 2",
+    "rating": 1651.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "53.9",
-      "46.1"
+      "54.0",
+      "46.0"
     ],
     "wins": 112,
-    "losses": 99
+    "losses": 100
   },
   "PANC#613": {
     "name": "panchito$",
@@ -220,18 +220,20 @@
   "SPOT#861": {
     "name": "invader zyn",
     "tag": "SPOT#861",
-    "rank": "SILVER 3",
-    "rating": 1427,
+    "rank": "GOLD 2",
+    "rating": 1586.6,
     "characters": [
       "Sheik",
-      "Fox"
+      "Fox",
+      "Marth"
     ],
     "percentages": [
-      "66.7",
-      "33.3"
+      "70.6",
+      "14.7",
+      "14.7"
     ],
-    "wins": 7,
-    "losses": 5
+    "wins": 15,
+    "losses": 12
   },
   "PLAY#647": {
     "name": "Hard Worker",
@@ -358,18 +360,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "DIAMOND 1",
-    "rating": 2005.1,
+    "rank": "PLATINUM 3",
+    "rating": 1990,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
       "67.0",
-      "32.0"
+      "32.1"
     ],
-    "wins": 142,
-    "losses": 112
+    "wins": 143,
+    "losses": 114
   },
   "DNZO#333": {
     "name": "the thinker",
