@@ -192,16 +192,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1739.7,
+    "rank": "PLATINUM 1",
+    "rating": 1770.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 40,
-    "losses": 29
+    "wins": 43,
+    "losses": 30
   },
   "JUST#577": {
     "name": "Just",
@@ -624,19 +624,5 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "VYV#0": {
-    "name": "vyv",
-    "tag": "VYV#0",
-    "rank": "BRONZE 2",
-    "rating": 859,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 0,
-    "losses": 6
   }
 }
