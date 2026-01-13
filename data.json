@@ -308,7 +308,7 @@
     "losses": 38
   },
   "JINK#1": {
-    "name": "-",
+    "name": "nai.eve",
     "tag": "JINK#1",
     "rank": "GRANDMASTER",
     "rating": 2252.2,
@@ -629,7 +629,7 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "BRONZE 2",
-    "rating": 880.5,
+    "rating": 859,
     "characters": [
       "Fox"
     ],
@@ -637,6 +637,6 @@
       "100.0"
     ],
     "wins": 0,
-    "losses": 5
+    "losses": 6
   }
 }
