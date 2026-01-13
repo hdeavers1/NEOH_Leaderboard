@@ -265,15 +265,15 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "GOLD 1",
-    "rating": 1498.6,
+    "rating": 1513.1,
     "characters": [
       "Puff"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 26,
-    "losses": 25
+    "wins": 28,
+    "losses": 28
   },
   "BLSE#808": {
     "name": "bl$e",
@@ -361,17 +361,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1982.4,
+    "rating": 1978.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "67.1",
-      "31.9"
+      "67.2",
+      "31.8"
     ],
-    "wins": 143,
-    "losses": 115
+    "wins": 144,
+    "losses": 116
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -585,14 +585,14 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1881.4,
+    "rating": 1891.8,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.3"
     ],
-    "wins": 152,
+    "wins": 153,
     "losses": 152
   },
   "BOZO#386": {
