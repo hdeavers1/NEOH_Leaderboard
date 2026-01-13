@@ -1,4 +1,18 @@
 {
+  "WWJ#916": {
+    "name": "Arrivederci",
+    "tag": "WWJ#916",
+    "rank": "GOLD 1",
+    "rating": 1468.8,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 1
+  },
   "JUBS#579": {
     "name": "Jobe",
     "tag": "JUBS#579",
@@ -419,6 +433,20 @@
     "wins": 0,
     "losses": 0
   },
+  "SERE#225": {
+    "name": "Smile Deliverer",
+    "tag": "SERE#225",
+    "rank": "DIAMOND 1",
+    "rating": 2066.4,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "98.5"
+    ],
+    "wins": 141,
+    "losses": 120
+  },
   "MARF#811": {
     "name": "Marfweasel",
     "tag": "MARF#811",
@@ -536,6 +564,22 @@
     ],
     "wins": 4,
     "losses": 4
+  },
+  "MOSHI#0": {
+    "name": "Ms. Doesnt Miss",
+    "tag": "MOSHI#0",
+    "rank": "PLATINUM 1",
+    "rating": 1781.1,
+    "characters": [
+      "Peach",
+      "Ness"
+    ],
+    "percentages": [
+      "93.7",
+      "6.3"
+    ],
+    "wins": 115,
+    "losses": 104
   },
   "SMEG#879": {
     "name": "$",
