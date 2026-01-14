@@ -407,6 +407,22 @@
     "wins": 0,
     "losses": 0
   },
+  "PGH#412": {
+    "name": "Ft. PGH Carroll",
+    "tag": "PGH#412",
+    "rank": "PLATINUM 3",
+    "rating": 1955.4,
+    "characters": [
+      "Peach",
+      "Fox"
+    ],
+    "percentages": [
+      "92.2",
+      "7.8"
+    ],
+    "wins": 20,
+    "losses": 14
+  },
   "MEDIC#0": {
     "name": "JosephDromedary",
     "tag": "MEDIC#0",
