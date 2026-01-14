@@ -1,4 +1,18 @@
 {
+  "WWJ#916": {
+    "name": "Arrivederci",
+    "tag": "WWJ#916",
+    "rank": "GOLD 1",
+    "rating": 1468.8,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 1
+  },
   "JUBS#579": {
     "name": "Joob",
     "tag": "JUBS#579",
@@ -133,22 +147,6 @@
       "100.0"
     ],
     "wins": 0,
-    "losses": 2
-  },
-  "FUEL#375": {
-    "name": "Fuelperks",
-    "tag": "FUEL#375",
-    "rank": "SILVER 2",
-    "rating": 1296.1,
-    "characters": [
-      "Peach",
-      "Falcon"
-    ],
-    "percentages": [
-      "69.2",
-      "30.8"
-    ],
-    "wins": 3,
     "losses": 2
   },
   "FRUM#591": {
