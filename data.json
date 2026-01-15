@@ -295,7 +295,7 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2383.2,
+    "rating": 2385,
     "characters": [
       "Samus",
       "Fox"
@@ -304,8 +304,8 @@
       "97.1",
       "2.2"
     ],
-    "wins": 140,
-    "losses": 42
+    "wins": 142,
+    "losses": 43
   },
   "JINK#1": {
     "name": "nai.eve",
@@ -608,16 +608,6 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
