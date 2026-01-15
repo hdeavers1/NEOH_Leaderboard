@@ -295,16 +295,16 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2385,
+    "rating": 2408.8,
     "characters": [
       "Samus",
       "Fox"
     ],
     "percentages": [
-      "97.1",
-      "2.2"
+      "97.2",
+      "2.1"
     ],
-    "wins": 142,
+    "wins": 149,
     "losses": 43
   },
   "JINK#1": {
@@ -608,6 +608,16 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "CHAZ#100": {
+    "name": "chase",
+    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
