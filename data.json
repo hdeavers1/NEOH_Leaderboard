@@ -54,8 +54,8 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "GOLD 2",
-    "rating": 1651.3,
+    "rank": "GOLD 3",
+    "rating": 1675.1,
     "characters": [
       "Falcon",
       "DK"
@@ -64,7 +64,7 @@
       "54.0",
       "46.0"
     ],
-    "wins": 112,
+    "wins": 114,
     "losses": 100
   },
   "PANC#613": {
@@ -174,20 +174,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "CUTS#327": {
-    "name": "PaulBetDavidson",
-    "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1854,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "99.3"
-    ],
-    "wins": 90,
-    "losses": 87
   },
   "ASIG#701": {
     "name": "aSig",
@@ -470,8 +456,8 @@
   "YOSH#458": {
     "name": "lrgpzzasubnoham",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1760,
+    "rank": "GOLD 3",
+    "rating": 1740.8,
     "characters": [
       "Yoshi",
       "DK"
@@ -480,8 +466,8 @@
       "94.2",
       "5.5"
     ],
-    "wins": 207,
-    "losses": 187
+    "wins": 208,
+    "losses": 189
   },
   "DEE#218": {
     "name": "goopy loves you",
