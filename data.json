@@ -193,7 +193,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1770.7,
+    "rating": 1756.9,
     "characters": [
       "Falcon"
     ],
@@ -201,7 +201,7 @@
       "100.0"
     ],
     "wins": 43,
-    "losses": 30
+    "losses": 31
   },
   "JUST#577": {
     "name": "Just",
@@ -361,16 +361,16 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1880.5,
+    "rating": 1904.6,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "67.1",
-      "32.0"
+      "67.3",
+      "31.8"
     ],
-    "wins": 145,
+    "wins": 147,
     "losses": 125
   },
   "DNZO#333": {
