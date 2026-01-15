@@ -437,15 +437,15 @@
     "name": "Smile Deliverer",
     "tag": "SERE#225",
     "rank": "DIAMOND 1",
-    "rating": 2066.4,
+    "rating": 2048.1,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "98.5"
+      "98.6"
     ],
-    "wins": 141,
-    "losses": 120
+    "wins": 143,
+    "losses": 123
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -482,22 +482,6 @@
     ],
     "wins": 208,
     "losses": 189
-  },
-  "DEE#218": {
-    "name": "goopy loves you",
-    "tag": "DEE#218",
-    "rank": "GOLD 2",
-    "rating": 1618.6,
-    "characters": [
-      "ICs",
-      "YLink"
-    ],
-    "percentages": [
-      "77.4",
-      "22.6"
-    ],
-    "wins": 52,
-    "losses": 56
   },
   "SUCC#860": {
     "name": "Wahey",
