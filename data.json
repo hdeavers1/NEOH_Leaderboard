@@ -87,6 +87,16 @@
     "wins": 0,
     "losses": 0
   },
+  "NECK#152": {
+    "name": "neckboy",
+    "tag": "NECK#152",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "SPOR#247": {
     "name": "Jub Lee",
     "tag": "SPOR#247",
@@ -164,6 +174,20 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "CUTS#327": {
+    "name": "PaulBetDavidson",
+    "tag": "CUTS#327",
+    "rank": "PLATINUM 2",
+    "rating": 1854,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "99.3"
+    ],
+    "wins": 90,
+    "losses": 87
   },
   "ASIG#701": {
     "name": "aSig",
@@ -271,16 +295,16 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2384.2,
+    "rating": 2398.4,
     "characters": [
       "Samus",
       "Fox"
     ],
     "percentages": [
-      "96.9",
+      "97.0",
       "2.3"
     ],
-    "wins": 132,
+    "wins": 136,
     "losses": 40
   },
   "JINK#1": {
