@@ -101,7 +101,7 @@
     "name": "Jub Lee",
     "tag": "SPOR#247",
     "rank": "GOLD 1",
-    "rating": 1469.1,
+    "rating": 1485,
     "characters": [
       "Falcon",
       "Fox",
@@ -109,13 +109,13 @@
       "Doc"
     ],
     "percentages": [
-      "42.5",
-      "23.8",
-      "17.5",
-      "16.3"
+      "41.9",
+      "26.7",
+      "16.3",
+      "15.1"
     ],
-    "wins": 18,
-    "losses": 16
+    "wins": 19,
+    "losses": 17
   },
   "ANT#480": {
     "name": "Zantryx",
@@ -361,17 +361,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1904.6,
+    "rating": 1908.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "67.3",
-      "31.8"
+      "67.2",
+      "31.9"
     ],
-    "wins": 147,
-    "losses": 125
+    "wins": 148,
+    "losses": 126
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -436,16 +436,16 @@
   "SERE#225": {
     "name": "Smile Deliverer",
     "tag": "SERE#225",
-    "rank": "DIAMOND 1",
-    "rating": 2014.9,
+    "rank": "PLATINUM 3",
+    "rating": 1976.4,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "98.6"
     ],
-    "wins": 145,
-    "losses": 128
+    "wins": 146,
+    "losses": 135
   },
   "MARF#811": {
     "name": "Marfweasel",
