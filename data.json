@@ -1,42 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "Yeah that hits",
-    "tag": "WWJ#916",
-    "rank": "GOLD 1",
-    "rating": 1468.8,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 1
-  },
-  "JUBS#579": {
-    "name": "Joob",
-    "tag": "JUBS#579",
-    "rank": "GOLD 3",
-    "rating": 1682.7,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 18,
-    "losses": 13
-  },
-  "BIGO#869": {
-    "name": "the bull within",
-    "tag": "BIGO#869",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "QCUM#685": {
     "name": "Fat Chud",
     "tag": "QCUM#685",
@@ -580,6 +542,20 @@
     ],
     "wins": 115,
     "losses": 104
+  },
+  "SMEG#879": {
+    "name": "$",
+    "tag": "SMEG#879",
+    "rank": "PLATINUM 2",
+    "rating": 1885.9,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "99.4"
+    ],
+    "wins": 164,
+    "losses": 170
   },
   "BOZO#386": {
     "name": "super pichu",
