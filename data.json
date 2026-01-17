@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "Arrivederci",
+    "name": "Yeah that hits",
     "tag": "WWJ#916",
     "rank": "GOLD 1",
     "rating": 1468.8,
@@ -307,22 +307,6 @@
     "wins": 151,
     "losses": 43
   },
-  "JINK#1": {
-    "name": "nai.eve",
-    "tag": "JINK#1",
-    "rank": "GRANDMASTER",
-    "rating": 2252.2,
-    "characters": [
-      "Marth",
-      "Fox"
-    ],
-    "percentages": [
-      "97.3",
-      "2.4"
-    ],
-    "wins": 116,
-    "losses": 58
-  },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
@@ -502,6 +486,26 @@
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "EGAG#906": {
+    "name": "kaz kaan (mtf)",
+    "tag": "EGAG#906",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "WICE#699": {
+    "name": "Dougie Jones",
+    "tag": "WICE#699",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
