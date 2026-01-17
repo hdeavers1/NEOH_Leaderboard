@@ -307,6 +307,22 @@
     "wins": 151,
     "losses": 43
   },
+  "JINK#1": {
+    "name": "nai.eve",
+    "tag": "JINK#1",
+    "rank": "GRANDMASTER",
+    "rating": 2252.2,
+    "characters": [
+      "Marth",
+      "Fox"
+    ],
+    "percentages": [
+      "97.3",
+      "2.4"
+    ],
+    "wins": 116,
+    "losses": 58
+  },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
