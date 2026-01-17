@@ -509,26 +509,6 @@
     "wins": 0,
     "losses": 0
   },
-  "EGAG#906": {
-    "name": "kaz kaan (mtf)",
-    "tag": "EGAG#906",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "WICE#699": {
-    "name": "Dougie Jones",
-    "tag": "WICE#699",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
@@ -585,15 +565,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1903.4,
+    "rating": 1885.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 162,
-    "losses": 166
+    "wins": 164,
+    "losses": 170
   },
   "BOZO#386": {
     "name": "super pichu",
