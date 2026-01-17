@@ -51,6 +51,22 @@
     "wins": 19,
     "losses": 15
   },
+  "MAYO#795": {
+    "name": "the mayo",
+    "tag": "MAYO#795",
+    "rank": "GOLD 3",
+    "rating": 1675.1,
+    "characters": [
+      "Falcon",
+      "DK"
+    ],
+    "percentages": [
+      "54.0",
+      "46.0"
+    ],
+    "wins": 114,
+    "losses": 100
+  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -310,15 +326,15 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 1",
-    "rating": 1766.8,
+    "rank": "PLATINUM 2",
+    "rating": 1854.3,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 9,
+    "wins": 11,
     "losses": 3
   },
   "ZBOO#991": {
@@ -513,6 +529,24 @@
     "wins": 0,
     "losses": 0
   },
+  "DANK#954": {
+    "name": "DankKnight",
+    "tag": "DANK#954",
+    "rank": "SILVER 2",
+    "rating": 1201.5,
+    "characters": [
+      "Marth",
+      "Fox",
+      "Falcon"
+    ],
+    "percentages": [
+      "91.7",
+      "6.3",
+      "2.1"
+    ],
+    "wins": 9,
+    "losses": 12
+  },
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
@@ -550,20 +584,30 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PLATINUM 3",
-    "rating": 1934.1,
+    "rank": "PLATINUM 2",
+    "rating": 1921.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 159,
-    "losses": 158
+    "wins": 161,
+    "losses": 164
   },
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "SYS#0": {
+    "name": "Syspen",
+    "tag": "SYS#0",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
@@ -585,14 +629,14 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "BRONZE 2",
-    "rating": 859,
+    "rating": 897.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 0,
-    "losses": 6
+    "wins": 1,
+    "losses": 7
   }
 }
