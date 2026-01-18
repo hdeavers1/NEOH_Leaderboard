@@ -152,18 +152,22 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "SILVER 2",
-    "rating": 1296.1,
+    "rank": "SILVER 1",
+    "rating": 1185.4,
     "characters": [
       "Peach",
-      "Falcon"
+      "Falcon",
+      "Fox",
+      "Ness"
     ],
     "percentages": [
-      "69.2",
-      "30.8"
+      "47.4",
+      "21.1",
+      "10.5",
+      "10.5"
     ],
     "wins": 3,
-    "losses": 2
+    "losses": 5
   },
   "FRUM#591": {
     "name": "Kenpachi",
@@ -562,22 +566,6 @@
     ],
     "wins": 4,
     "losses": 4
-  },
-  "MOSHI#0": {
-    "name": "Ms. Doesnt Miss",
-    "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1781.1,
-    "characters": [
-      "Peach",
-      "Ness"
-    ],
-    "percentages": [
-      "93.7",
-      "6.3"
-    ],
-    "wins": 115,
-    "losses": 104
   },
   "SMEG#879": {
     "name": "$",
