@@ -265,31 +265,31 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "GOLD 1",
-    "rating": 1513.1,
+    "rating": 1522.7,
     "characters": [
       "Puff"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 28,
-    "losses": 28
+    "wins": 30,
+    "losses": 29
   },
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "DIAMOND 2",
-    "rating": 2121.9,
+    "rating": 2101.5,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "96.1",
-      "2.6"
+      "95.5",
+      "3.2"
     ],
     "wins": 46,
-    "losses": 16
+    "losses": 17
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -585,14 +585,14 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1890.9,
+    "rating": 1900.5,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 166,
+    "wins": 167,
     "losses": 172
   },
   "BOZO#386": {
