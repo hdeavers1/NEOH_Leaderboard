@@ -586,8 +586,8 @@
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
-    "rank": "PLATINUM 3",
-    "rating": 1929.3,
+    "rank": "PLATINUM 2",
+    "rating": 1919.2,
     "characters": [
       "Falcon"
     ],
@@ -595,7 +595,7 @@
       "99.4"
     ],
     "wins": 181,
-    "losses": 185
+    "losses": 186
   },
   "BOZO#386": {
     "name": "super pichu",
