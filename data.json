@@ -55,17 +55,17 @@
     "name": "rip bar lucci",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1675.1,
+    "rating": 1673,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "54.0",
-      "46.0"
+      "53.9",
+      "46.1"
     ],
-    "wins": 114,
-    "losses": 100
+    "wins": 116,
+    "losses": 102
   },
   "PANC#613": {
     "name": "panchito$",
@@ -238,6 +238,22 @@
     ],
     "wins": 15,
     "losses": 12
+  },
+  "PLAY#647": {
+    "name": "Holiday",
+    "tag": "PLAY#647",
+    "rank": "PLATINUM 3",
+    "rating": 1971.1,
+    "characters": [
+      "Luigi",
+      "Sheik"
+    ],
+    "percentages": [
+      "95.5",
+      "4.1"
+    ],
+    "wins": 59,
+    "losses": 36
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -473,17 +489,17 @@
     "name": "goopy loves you",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1618.6,
+    "rating": 1606.4,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "77.4",
-      "22.6"
+      "76.8",
+      "23.2"
     ],
     "wins": 52,
-    "losses": 56
+    "losses": 57
   },
   "SUCC#860": {
     "name": "Wahey",
