@@ -362,18 +362,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 3",
-    "rating": 1939,
+    "rank": "PLATINUM 2",
+    "rating": 1924.5,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "67.6",
-      "31.5"
+      "68.0",
+      "31.1"
     ],
-    "wins": 152,
-    "losses": 128
+    "wins": 154,
+    "losses": 131
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -488,18 +488,18 @@
   "DEE#218": {
     "name": "goopy loves you",
     "tag": "DEE#218",
-    "rank": "GOLD 1",
-    "rating": 1545.9,
+    "rank": "GOLD 2",
+    "rating": 1603.6,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "72.1",
-      "27.9"
+      "67.8",
+      "32.2"
     ],
-    "wins": 54,
-    "losses": 63
+    "wins": 60,
+    "losses": 64
   },
   "SUCC#860": {
     "name": "Wahey",
