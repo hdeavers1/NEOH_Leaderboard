@@ -1,18 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "Yeah that hits",
-    "tag": "WWJ#916",
-    "rank": "GOLD 1",
-    "rating": 1468.8,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 1
-  },
   "JUBS#579": {
     "name": "Joob",
     "tag": "JUBS#579",
@@ -121,19 +107,17 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1335.5,
+    "rating": 1365.6,
     "characters": [
       "Marth",
-      "Roy",
-      "Fox"
+      "Roy"
     ],
     "percentages": [
-      "95.4",
-      "2.6",
-      "2.1"
+      "94.6",
+      "3.4"
     ],
-    "wins": 36,
-    "losses": 44
+    "wins": 39,
+    "losses": 45
   },
   "JARD#561": {
     "name": "pingas",
