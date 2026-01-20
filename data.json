@@ -195,14 +195,14 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1756.9,
+    "rating": 1788.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 43,
+    "wins": 45,
     "losses": 31
   },
   "JUST#577": {
@@ -432,20 +432,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "SERE#225": {
-    "name": "Amazon Driver",
-    "tag": "SERE#225",
-    "rank": "PLATINUM 3",
-    "rating": 1976.4,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "98.6"
-    ],
-    "wins": 146,
-    "losses": 135
   },
   "MARF#811": {
     "name": "Marfweasel",
