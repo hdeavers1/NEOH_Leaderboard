@@ -509,6 +509,16 @@
     "wins": 0,
     "losses": 0
   },
+  "EGAG#906": {
+    "name": "kaz kaan (mtf)",
+    "tag": "EGAG#906",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "WICE#699": {
     "name": "Dougie Jones",
     "tag": "WICE#699",
@@ -556,7 +566,7 @@
     "losses": 4
   },
   "MOSHI#0": {
-    "name": "pass_brickyard",
+    "name": "little chudling",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1781.1,
@@ -588,16 +598,6 @@
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "SYS#0": {
-    "name": "Syspen",
-    "tag": "SYS#0",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
