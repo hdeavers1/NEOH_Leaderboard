@@ -253,16 +253,6 @@
     "wins": 59,
     "losses": 36
   },
-  "GRIM#801": {
-    "name": "Shiesty",
-    "tag": "GRIM#801",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "GHST#232": {
     "name": "Ghuff",
     "tag": "GHST#232",
@@ -598,6 +588,16 @@
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "SYS#0": {
+    "name": "Syspen",
+    "tag": "SYS#0",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
