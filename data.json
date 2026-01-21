@@ -13,6 +13,20 @@
     "wins": 4,
     "losses": 1
   },
+  "JUBS#579": {
+    "name": "Joob",
+    "tag": "JUBS#579",
+    "rank": "GOLD 3",
+    "rating": 1682.7,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 18,
+    "losses": 13
+  },
   "BIGO#869": {
     "name": "the bull within",
     "tag": "BIGO#869",
@@ -164,20 +178,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "CUTS#327": {
-    "name": "PaulBetDavidson",
-    "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1854,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "99.3"
-    ],
-    "wins": 90,
-    "losses": 87
   },
   "ASIG#701": {
     "name": "aSig",
