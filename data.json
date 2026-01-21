@@ -121,16 +121,18 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "SILVER 3",
-    "rating": 1365.6,
+    "rating": 1393.4,
     "characters": [
       "Marth",
-      "Roy"
+      "Roy",
+      "Fox"
     ],
     "percentages": [
-      "94.6",
-      "3.4"
+      "94.2",
+      "3.4",
+      "2.4"
     ],
-    "wins": 39,
+    "wins": 41,
     "losses": 45
   },
   "JARD#561": {
@@ -422,6 +424,16 @@
     ],
     "wins": 20,
     "losses": 14
+  },
+  "MEDIC#0": {
+    "name": "JosephDromedary",
+    "tag": "MEDIC#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "SERE#225": {
     "name": "Amazon Driver",
