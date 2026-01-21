@@ -51,6 +51,22 @@
     "wins": 19,
     "losses": 15
   },
+  "MAYO#795": {
+    "name": "rip bar lucci",
+    "tag": "MAYO#795",
+    "rank": "GOLD 3",
+    "rating": 1673,
+    "characters": [
+      "Falcon",
+      "DK"
+    ],
+    "percentages": [
+      "53.9",
+      "46.1"
+    ],
+    "wins": 116,
+    "losses": 102
+  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -571,15 +587,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1910.4,
+    "rating": 1896.8,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 183,
-    "losses": 187
+    "wins": 184,
+    "losses": 190
   },
   "BOZO#386": {
     "name": "super pichu",
