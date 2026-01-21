@@ -67,16 +67,6 @@
     "wins": 116,
     "losses": 102
   },
-  "PANC#613": {
-    "name": "panchito$",
-    "tag": "PANC#613",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "LVLM#792": {
     "name": "Uncut Jim",
     "tag": "LVLM#792",
@@ -434,6 +424,20 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "SERE#225": {
+    "name": "Amazon Driver",
+    "tag": "SERE#225",
+    "rank": "PLATINUM 3",
+    "rating": 1976.4,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "98.6"
+    ],
+    "wins": 146,
+    "losses": 135
   },
   "MARF#811": {
     "name": "Marfweasel",
