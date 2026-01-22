@@ -265,6 +265,20 @@
     "wins": 0,
     "losses": 0
   },
+  "GHST#232": {
+    "name": "Ghuff",
+    "tag": "GHST#232",
+    "rank": "GOLD 1",
+    "rating": 1522.7,
+    "characters": [
+      "Puff"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 30,
+    "losses": 29
+  },
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
