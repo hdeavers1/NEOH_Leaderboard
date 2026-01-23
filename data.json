@@ -169,16 +169,6 @@
     "wins": 3,
     "losses": 5
   },
-  "FRUM#591": {
-    "name": "Whale",
-    "tag": "FRUM#591",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
@@ -324,20 +314,6 @@
     ],
     "wins": 116,
     "losses": 58
-  },
-  "FLOW#08": {
-    "name": "Flow",
-    "tag": "FLOW#08",
-    "rank": "PLATINUM 2",
-    "rating": 1854.3,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 11,
-    "losses": 3
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -489,16 +465,16 @@
     "name": "goopy loves you",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1603.6,
+    "rating": 1635.8,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "67.8",
-      "32.2"
+      "66.5",
+      "33.5"
     ],
-    "wins": 60,
+    "wins": 62,
     "losses": 64
   },
   "SUCC#860": {
