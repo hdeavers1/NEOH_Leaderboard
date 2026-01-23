@@ -243,17 +243,17 @@
     "name": "ibemovingclean",
     "tag": "PLAY#647",
     "rank": "DIAMOND 1",
-    "rating": 2033.1,
+    "rating": 2035.1,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "95.8",
-      "3.8"
+      "96.0",
+      "3.6"
     ],
-    "wins": 65,
-    "losses": 39
+    "wins": 67,
+    "losses": 41
   },
   "GRIM#801": {
     "name": "Shiesty",
