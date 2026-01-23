@@ -552,20 +552,20 @@
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
-    "rank": "SILVER 3",
-    "rating": 1329.5,
+    "rank": "GOLD 1",
+    "rating": 1541.1,
     "characters": [
       "Fox",
-      "Marth",
-      "Sheik"
+      "Sheik",
+      "Marth"
     ],
     "percentages": [
-      "85.7",
-      "9.5",
-      "4.8"
+      "66.7",
+      "24.2",
+      "9.1"
     ],
-    "wins": 4,
-    "losses": 4
+    "wins": 8,
+    "losses": 6
   },
   "MOSHI#0": {
     "name": "little chudling",
