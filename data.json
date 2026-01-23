@@ -169,6 +169,16 @@
     "wins": 3,
     "losses": 5
   },
+  "FRUM#591": {
+    "name": "Whale",
+    "tag": "FRUM#591",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
@@ -182,20 +192,6 @@
     ],
     "wins": 90,
     "losses": 87
-  },
-  "ASIG#701": {
-    "name": "aSig",
-    "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1825,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 49,
-    "losses": 33
   },
   "JUST#577": {
     "name": "Just",
@@ -314,6 +310,20 @@
     ],
     "wins": 116,
     "losses": 58
+  },
+  "FLOW#08": {
+    "name": "Flow",
+    "tag": "FLOW#08",
+    "rank": "PLATINUM 2",
+    "rating": 1854.3,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 11,
+    "losses": 3
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -465,17 +475,17 @@
     "name": "goopy loves you",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1635.8,
+    "rating": 1613.3,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "66.5",
-      "33.5"
+      "64.3",
+      "35.7"
     ],
-    "wins": 62,
-    "losses": 64
+    "wins": 63,
+    "losses": 67
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -528,20 +538,22 @@
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
-    "rank": "GOLD 1",
-    "rating": 1541.1,
+    "rank": "GOLD 2",
+    "rating": 1593.1,
     "characters": [
       "Fox",
       "Sheik",
+      "Doc",
       "Marth"
     ],
     "percentages": [
-      "66.7",
-      "24.2",
-      "9.1"
+      "51.2",
+      "32.6",
+      "9.3",
+      "7.0"
     ],
-    "wins": 8,
-    "losses": 6
+    "wins": 10,
+    "losses": 8
   },
   "MOSHI#0": {
     "name": "little chudling",
