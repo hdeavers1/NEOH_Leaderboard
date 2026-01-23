@@ -170,7 +170,7 @@
     "losses": 5
   },
   "FRUM#591": {
-    "name": "Kenpachi",
+    "name": "Whale",
     "tag": "FRUM#591",
     "rank": "NONE",
     "rating": 0,
@@ -362,17 +362,17 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1924.5,
+    "rank": "PLATINUM 3",
+    "rating": 1945.9,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "68.0",
-      "31.1"
+      "68.1",
+      "30.9"
     ],
-    "wins": 154,
+    "wins": 157,
     "losses": 131
   },
   "DNZO#333": {
