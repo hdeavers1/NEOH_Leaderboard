@@ -240,20 +240,30 @@
     "losses": 12
   },
   "PLAY#647": {
-    "name": "Holiday",
+    "name": "IBMovingClean",
     "tag": "PLAY#647",
     "rank": "PLATINUM 3",
-    "rating": 1982.3,
+    "rating": 1996,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "95.5",
-      "4.0"
+      "95.7",
+      "3.9"
     ],
-    "wins": 60,
-    "losses": 37
+    "wins": 62,
+    "losses": 38
+  },
+  "GRIM#801": {
+    "name": "Shiesty",
+    "tag": "GRIM#801",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "GHST#232": {
     "name": "Ghuff",
@@ -458,22 +468,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "YOSH#458": {
-    "name": "Mr9thPlace",
-    "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1755,
-    "characters": [
-      "Yoshi",
-      "DK"
-    ],
-    "percentages": [
-      "94.4",
-      "5.3"
-    ],
-    "wins": 213,
-    "losses": 195
   },
   "DEE#218": {
     "name": "goopy loves you",
