@@ -55,17 +55,17 @@
     "name": "rip bar lucci",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1681.6,
+    "rating": 1664.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "53.9",
-      "46.1"
+      "54.9",
+      "45.1"
     ],
-    "wins": 117,
-    "losses": 102
+    "wins": 119,
+    "losses": 105
   },
   "PANC#613": {
     "name": "panchito$",
@@ -470,10 +470,10 @@
     "losses": 0
   },
   "YOSH#458": {
-    "name": "lrgpzzasubnoham",
+    "name": "Mr9thPlace",
     "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1731.5,
+    "rank": "PLATINUM 1",
+    "rating": 1755,
     "characters": [
       "Yoshi",
       "DK"
@@ -482,7 +482,7 @@
       "94.4",
       "5.3"
     ],
-    "wins": 211,
+    "wins": 213,
     "losses": 195
   },
   "DEE#218": {
