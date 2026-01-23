@@ -531,6 +531,24 @@
     "wins": 0,
     "losses": 0
   },
+  "DANK#954": {
+    "name": "DankKnight",
+    "tag": "DANK#954",
+    "rank": "SILVER 2",
+    "rating": 1201.5,
+    "characters": [
+      "Marth",
+      "Fox",
+      "Falcon"
+    ],
+    "percentages": [
+      "91.7",
+      "6.3",
+      "2.1"
+    ],
+    "wins": 9,
+    "losses": 12
+  },
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
@@ -569,15 +587,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1851,
+    "rating": 1858.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 186,
-    "losses": 196
+    "wins": 189,
+    "losses": 198
   },
   "BOZO#386": {
     "name": "super pichu",
