@@ -436,18 +436,18 @@
     "losses": 0
   },
   "SERE#225": {
-    "name": "Amazon Driver",
+    "name": ";3",
     "tag": "SERE#225",
-    "rank": "PLATINUM 3",
-    "rating": 1934.3,
+    "rank": "PLATINUM 2",
+    "rating": 1923.8,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "98.7"
     ],
-    "wins": 150,
-    "losses": 142
+    "wins": 155,
+    "losses": 148
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -473,17 +473,17 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1739.8,
+    "rating": 1676.3,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "94.3",
-      "5.4"
+      "94.4",
+      "5.3"
     ],
-    "wins": 214,
-    "losses": 198
+    "wins": 216,
+    "losses": 206
   },
   "DEE#218": {
     "name": "goopy loves you",
@@ -589,15 +589,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1869,
+    "rating": 1862.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 194,
-    "losses": 201
+    "wins": 196,
+    "losses": 205
   },
   "BOZO#386": {
     "name": "super pichu",
