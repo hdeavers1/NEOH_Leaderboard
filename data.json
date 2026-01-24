@@ -282,18 +282,18 @@
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
-    "rank": "DIAMOND 2",
-    "rating": 2115.1,
+    "rank": "DIAMOND 3",
+    "rating": 2168.2,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "95.6",
-      "3.1"
+      "96.0",
+      "2.9"
     ],
-    "wins": 47,
-    "losses": 18
+    "wins": 52,
+    "losses": 19
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -438,8 +438,8 @@
   "SERE#225": {
     "name": ";3",
     "tag": "SERE#225",
-    "rank": "PLATINUM 2",
-    "rating": 1884.8,
+    "rank": "PLATINUM 1",
+    "rating": 1830.1,
     "characters": [
       "Fox"
     ],
@@ -447,7 +447,7 @@
       "98.8"
     ],
     "wins": 159,
-    "losses": 155
+    "losses": 159
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -572,8 +572,8 @@
   "MOSHI#0": {
     "name": "little chudling",
     "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1753.9,
+    "rank": "GOLD 3",
+    "rating": 1721.6,
     "characters": [
       "Peach",
       "Ness"
@@ -582,8 +582,8 @@
       "93.7",
       "6.3"
     ],
-    "wins": 116,
-    "losses": 108
+    "wins": 119,
+    "losses": 113
   },
   "SMEG#879": {
     "name": "$",
