@@ -283,17 +283,17 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "DIAMOND 3",
-    "rating": 2168.2,
+    "rating": 2154.1,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "96.0",
-      "2.9"
+      "95.7",
+      "3.2"
     ],
-    "wins": 52,
-    "losses": 19
+    "wins": 54,
+    "losses": 22
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -573,7 +573,7 @@
     "name": "little chudling",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1721.6,
+    "rating": 1689,
     "characters": [
       "Peach",
       "Ness"
@@ -582,8 +582,8 @@
       "93.7",
       "6.3"
     ],
-    "wins": 119,
-    "losses": 113
+    "wins": 120,
+    "losses": 118
   },
   "SMEG#879": {
     "name": "$",
