@@ -439,15 +439,15 @@
     "name": "Amazon Driver",
     "tag": "SERE#225",
     "rank": "PLATINUM 3",
-    "rating": 1976.4,
+    "rating": 1934.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "98.6"
+      "98.7"
     ],
-    "wins": 146,
-    "losses": 135
+    "wins": 150,
+    "losses": 142
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -472,34 +472,34 @@
   "YOSH#458": {
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1755,
+    "rank": "GOLD 3",
+    "rating": 1739.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "94.4",
-      "5.3"
+      "94.3",
+      "5.4"
     ],
-    "wins": 213,
-    "losses": 195
+    "wins": 214,
+    "losses": 198
   },
   "DEE#218": {
     "name": "goopy loves you",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1613.3,
+    "rating": 1613.8,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "64.3",
-      "35.7"
+      "63.0",
+      "37.0"
     ],
-    "wins": 63,
-    "losses": 67
+    "wins": 64,
+    "losses": 68
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -589,15 +589,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1844.6,
+    "rating": 1869,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 190,
-    "losses": 200
+    "wins": 194,
+    "losses": 201
   },
   "BOZO#386": {
     "name": "super pichu",
