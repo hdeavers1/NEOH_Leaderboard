@@ -438,16 +438,16 @@
   "SERE#225": {
     "name": "*",
     "tag": "SERE#225",
-    "rank": "PLATINUM 1",
-    "rating": 1813.3,
+    "rank": "PLATINUM 2",
+    "rating": 1849.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "98.8"
     ],
-    "wins": 159,
-    "losses": 162
+    "wins": 163,
+    "losses": 163
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -573,17 +573,17 @@
     "name": "little chudling",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1733.1,
+    "rating": 1733.8,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.8",
-      "6.2"
+      "93.9",
+      "6.1"
     ],
-    "wins": 128,
-    "losses": 123
+    "wins": 130,
+    "losses": 126
   },
   "SMEG#879": {
     "name": "$",
