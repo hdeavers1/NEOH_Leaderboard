@@ -436,7 +436,7 @@
     "losses": 0
   },
   "SERE#225": {
-    "name": ";3",
+    "name": "*",
     "tag": "SERE#225",
     "rank": "PLATINUM 1",
     "rating": 1813.3,
@@ -573,7 +573,7 @@
     "name": "little chudling",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1716.5,
+    "rating": 1733.1,
     "characters": [
       "Peach",
       "Ness"
@@ -582,7 +582,7 @@
       "93.8",
       "6.2"
     ],
-    "wins": 127,
+    "wins": 128,
     "losses": 123
   },
   "SMEG#879": {
