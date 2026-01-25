@@ -573,17 +573,17 @@
     "name": "little chudling",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1705.2,
+    "rating": 1707,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.6",
-      "6.4"
+      "93.7",
+      "6.3"
     ],
-    "wins": 123,
-    "losses": 120
+    "wins": 125,
+    "losses": 122
   },
   "SMEG#879": {
     "name": "$",
