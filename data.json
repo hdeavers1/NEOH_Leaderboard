@@ -243,16 +243,16 @@
     "name": "ibemovingclean",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
-    "rating": 2080.2,
+    "rating": 2098.9,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "96.4",
+      "96.5",
       "3.2"
     ],
-    "wins": 76,
+    "wins": 78,
     "losses": 44
   },
   "GRIM#801": {
@@ -363,17 +363,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1960.7,
+    "rating": 1941.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "68.3",
-      "30.7"
+      "68.5",
+      "30.6"
     ],
-    "wins": 158,
-    "losses": 131
+    "wins": 159,
+    "losses": 133
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -573,17 +573,17 @@
     "name": "little chudling",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1733.8,
+    "rating": 1727.4,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.9",
-      "6.1"
+      "93.7",
+      "6.3"
     ],
-    "wins": 130,
-    "losses": 126
+    "wins": 132,
+    "losses": 129
   },
   "SMEG#879": {
     "name": "$",
