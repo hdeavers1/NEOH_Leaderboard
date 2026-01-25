@@ -299,15 +299,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2352.8,
+    "rating": 2366.8,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.2"
+      "97.3"
     ],
-    "wins": 160,
-    "losses": 48
+    "wins": 164,
+    "losses": 49
   },
   "JINK#1": {
     "name": "nai.eve",
@@ -439,7 +439,7 @@
     "name": ";3",
     "tag": "SERE#225",
     "rank": "PLATINUM 1",
-    "rating": 1817.7,
+    "rating": 1813.3,
     "characters": [
       "Fox"
     ],
@@ -447,7 +447,7 @@
       "98.8"
     ],
     "wins": 159,
-    "losses": 160
+    "losses": 162
   },
   "MARF#811": {
     "name": "Marfweasel",
