@@ -243,7 +243,7 @@
     "name": "ibemovingclean",
     "tag": "PLAY#647",
     "rank": "DIAMOND 1",
-    "rating": 2053.8,
+    "rating": 2072.7,
     "characters": [
       "Luigi",
       "Sheik"
@@ -252,7 +252,7 @@
       "96.3",
       "3.3"
     ],
-    "wins": 73,
+    "wins": 74,
     "losses": 43
   },
   "GRIM#801": {
@@ -363,16 +363,16 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1945.9,
+    "rating": 1960.7,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "68.1",
-      "30.9"
+      "68.3",
+      "30.7"
     ],
-    "wins": 157,
+    "wins": 158,
     "losses": 131
   },
   "DNZO#333": {
@@ -473,7 +473,7 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1693.8,
+    "rating": 1696.3,
     "characters": [
       "Yoshi",
       "DK"
@@ -482,8 +482,8 @@
       "94.4",
       "5.3"
     ],
-    "wins": 219,
-    "losses": 208
+    "wins": 221,
+    "losses": 209
   },
   "DEE#218": {
     "name": "goopy loves you",
