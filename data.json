@@ -197,15 +197,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1825,
+    "rating": 1803.8,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 49,
-    "losses": 33
+    "wins": 50,
+    "losses": 35
   },
   "JUST#577": {
     "name": "Just",
@@ -243,17 +243,17 @@
     "name": "ibemovingclean",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
-    "rating": 2092.7,
+    "rating": 2121.9,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "96.6",
-      "3.1"
+      "96.7",
+      "3.0"
     ],
-    "wins": 79,
-    "losses": 46
+    "wins": 82,
+    "losses": 47
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -362,18 +362,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 3",
-    "rating": 1936.6,
+    "rank": "PLATINUM 2",
+    "rating": 1897.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "68.2",
+      "68.3",
       "30.8"
     ],
     "wins": 161,
-    "losses": 135
+    "losses": 138
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -473,7 +473,7 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1696.7,
+    "rating": 1705.7,
     "characters": [
       "Yoshi",
       "DK"
@@ -482,7 +482,7 @@
       "94.4",
       "5.3"
     ],
-    "wins": 222,
+    "wins": 223,
     "losses": 211
   },
   "DEE#218": {
@@ -572,32 +572,32 @@
   "MOSHI#0": {
     "name": "little chudling",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1694.8,
+    "rank": "PLATINUM 1",
+    "rating": 1754,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.6",
-      "6.4"
+      "93.8",
+      "6.2"
     ],
-    "wins": 141,
-    "losses": 140
+    "wins": 147,
+    "losses": 142
   },
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1862.1,
+    "rating": 1870.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 196,
-    "losses": 205
+    "wins": 197,
+    "losses": 206
   },
   "BOZO#386": {
     "name": "super pichu",
