@@ -363,17 +363,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1897.1,
+    "rating": 1903.5,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "68.3",
-      "30.8"
+      "68.5",
+      "30.5"
     ],
-    "wins": 161,
-    "losses": 138
+    "wins": 162,
+    "losses": 139
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -485,6 +485,22 @@
     "wins": 223,
     "losses": 211
   },
+  "DEE#218": {
+    "name": "goopy loves you",
+    "tag": "DEE#218",
+    "rank": "GOLD 2",
+    "rating": 1613.8,
+    "characters": [
+      "ICs",
+      "YLink"
+    ],
+    "percentages": [
+      "63.0",
+      "37.0"
+    ],
+    "wins": 64,
+    "losses": 68
+  },
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
@@ -533,26 +549,6 @@
     "wins": 9,
     "losses": 12
   },
-  "NCRO#183": {
-    "name": "Ncro",
-    "tag": "NCRO#183",
-    "rank": "GOLD 2",
-    "rating": 1593.1,
-    "characters": [
-      "Fox",
-      "Sheik",
-      "Doc",
-      "Marth"
-    ],
-    "percentages": [
-      "51.2",
-      "32.6",
-      "9.3",
-      "7.0"
-    ],
-    "wins": 10,
-    "losses": 8
-  },
   "MOSHI#0": {
     "name": "little chudling",
     "tag": "MOSHI#0",
@@ -596,6 +592,16 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "CHAZ#100": {
+    "name": "chase",
+    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
