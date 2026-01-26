@@ -485,22 +485,6 @@
     "wins": 223,
     "losses": 211
   },
-  "DEE#218": {
-    "name": "goopy loves you",
-    "tag": "DEE#218",
-    "rank": "GOLD 2",
-    "rating": 1613.8,
-    "characters": [
-      "ICs",
-      "YLink"
-    ],
-    "percentages": [
-      "63.0",
-      "37.0"
-    ],
-    "wins": 64,
-    "losses": 68
-  },
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
@@ -612,16 +596,6 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
