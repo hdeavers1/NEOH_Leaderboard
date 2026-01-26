@@ -55,17 +55,17 @@
     "name": "rip bar lucci",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1653.6,
+    "rating": 1656.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "57.8",
-      "42.2"
+      "58.2",
+      "41.8"
     ],
-    "wins": 127,
-    "losses": 112
+    "wins": 131,
+    "losses": 114
   },
   "PANC#613": {
     "name": "panchito$",
@@ -264,20 +264,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "GHST#232": {
-    "name": "Ghuff",
-    "tag": "GHST#232",
-    "rank": "GOLD 1",
-    "rating": 1522.7,
-    "characters": [
-      "Puff"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 30,
-    "losses": 29
   },
   "BLSE#808": {
     "name": "bl$e",
