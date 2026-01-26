@@ -197,7 +197,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1803.8,
+    "rating": 1796.9,
     "characters": [
       "Falcon"
     ],
@@ -205,7 +205,7 @@
       "100.0"
     ],
     "wins": 50,
-    "losses": 35
+    "losses": 36
   },
   "JUST#577": {
     "name": "Just",
@@ -589,15 +589,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1870.4,
+    "rating": 1888.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 197,
-    "losses": 206
+    "wins": 200,
+    "losses": 207
   },
   "BOZO#386": {
     "name": "super pichu",
