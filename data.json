@@ -120,19 +120,19 @@
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
-    "rank": "SILVER 3",
-    "rating": 1417.6,
+    "rank": "GOLD 1",
+    "rating": 1481.9,
     "characters": [
       "Marth",
       "Roy",
       "Fox"
     ],
     "percentages": [
-      "94.4",
-      "3.3",
-      "2.3"
+      "93.4",
+      "4.4",
+      "2.2"
     ],
-    "wins": 43,
+    "wins": 48,
     "losses": 46
   },
   "JARD#561": {
@@ -299,14 +299,14 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2404.9,
+    "rating": 2425,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.2"
+      "96.9"
     ],
-    "wins": 181,
+    "wins": 186,
     "losses": 55
   },
   "JINK#1": {
