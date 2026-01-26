@@ -55,17 +55,17 @@
     "name": "rip bar lucci",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1669.8,
+    "rating": 1653.6,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "57.2",
-      "42.8"
+      "57.8",
+      "42.2"
     ],
-    "wins": 126,
-    "losses": 110
+    "wins": 127,
+    "losses": 112
   },
   "PANC#613": {
     "name": "panchito$",
@@ -243,17 +243,17 @@
     "name": "ibemovingclean",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
-    "rating": 2098.9,
+    "rating": 2092.7,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "96.5",
-      "3.2"
+      "96.6",
+      "3.1"
     ],
-    "wins": 78,
-    "losses": 44
+    "wins": 79,
+    "losses": 46
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -363,17 +363,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1941.1,
+    "rating": 1936.6,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "68.5",
-      "30.6"
+      "68.2",
+      "30.8"
     ],
-    "wins": 159,
-    "losses": 133
+    "wins": 161,
+    "losses": 135
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -473,7 +473,7 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1696.3,
+    "rating": 1696.7,
     "characters": [
       "Yoshi",
       "DK"
@@ -482,8 +482,8 @@
       "94.4",
       "5.3"
     ],
-    "wins": 221,
-    "losses": 209
+    "wins": 222,
+    "losses": 211
   },
   "DEE#218": {
     "name": "goopy loves you",
@@ -573,17 +573,17 @@
     "name": "little chudling",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1727.4,
+    "rating": 1694.8,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.7",
-      "6.3"
+      "93.6",
+      "6.4"
     ],
-    "wins": 132,
-    "losses": 129
+    "wins": 141,
+    "losses": 140
   },
   "SMEG#879": {
     "name": "$",
