@@ -573,7 +573,7 @@
     "name": "little chudling",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1754,
+    "rating": 1754.9,
     "characters": [
       "Peach",
       "Ness"
@@ -582,8 +582,8 @@
       "93.8",
       "6.2"
     ],
-    "wins": 147,
-    "losses": 142
+    "wins": 148,
+    "losses": 143
   },
   "SMEG#879": {
     "name": "$",
