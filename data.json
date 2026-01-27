@@ -117,6 +117,24 @@
     "wins": 19,
     "losses": 17
   },
+  "ANT#480": {
+    "name": "Zantryx",
+    "tag": "ANT#480",
+    "rank": "GOLD 1",
+    "rating": 1481.9,
+    "characters": [
+      "Marth",
+      "Roy",
+      "Fox"
+    ],
+    "percentages": [
+      "93.4",
+      "4.4",
+      "2.2"
+    ],
+    "wins": 48,
+    "losses": 46
+  },
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
