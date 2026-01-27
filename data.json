@@ -242,17 +242,17 @@
   "PLAY#647": {
     "name": "ibemovingclean",
     "tag": "PLAY#647",
-    "rank": "DIAMOND 2",
-    "rating": 2123.1,
+    "rank": "DIAMOND 3",
+    "rating": 2137.7,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
       "96.2",
-      "3.5"
+      "3.4"
     ],
-    "wins": 86,
+    "wins": 87,
     "losses": 50
   },
   "GRIM#801": {
@@ -489,17 +489,17 @@
     "name": "goopy loves you",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1600.7,
+    "rating": 1625.3,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "62.5",
-      "37.5"
+      "61.3",
+      "38.7"
     ],
-    "wins": 64,
-    "losses": 69
+    "wins": 66,
+    "losses": 70
   },
   "SUCC#860": {
     "name": "Wahey",
