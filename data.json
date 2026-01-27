@@ -242,18 +242,18 @@
   "PLAY#647": {
     "name": "ibemovingclean",
     "tag": "PLAY#647",
-    "rank": "DIAMOND 3",
-    "rating": 2137.7,
+    "rank": "DIAMOND 2",
+    "rating": 2117.8,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "96.2",
-      "3.4"
+      "96.4",
+      "3.3"
     ],
-    "wins": 87,
-    "losses": 50
+    "wins": 89,
+    "losses": 52
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -489,17 +489,17 @@
     "name": "goopy loves you",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1625.3,
+    "rating": 1620.1,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "61.3",
-      "38.7"
+      "60.3",
+      "39.4"
     ],
-    "wins": 66,
-    "losses": 70
+    "wins": 67,
+    "losses": 71
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -573,31 +573,31 @@
     "name": "little chudling",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1754.9,
+    "rating": 1763.5,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.8",
-      "6.2"
+      "93.7",
+      "6.3"
     ],
-    "wins": 148,
-    "losses": 143
+    "wins": 151,
+    "losses": 146
   },
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 2",
-    "rating": 1894.8,
+    "rating": 1871.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 202,
-    "losses": 211
+    "wins": 204,
+    "losses": 215
   },
   "BOZO#386": {
     "name": "super pichu",
