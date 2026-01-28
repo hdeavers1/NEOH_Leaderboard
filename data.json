@@ -409,6 +409,22 @@
     "wins": 0,
     "losses": 0
   },
+  "PGH#412": {
+    "name": "Ft. PGH Carroll",
+    "tag": "PGH#412",
+    "rank": "PLATINUM 3",
+    "rating": 1988.6,
+    "characters": [
+      "Peach",
+      "Fox"
+    ],
+    "percentages": [
+      "91.5",
+      "8.5"
+    ],
+    "wins": 21,
+    "losses": 15
+  },
   "MEDIC#0": {
     "name": "MEDIC!",
     "tag": "MEDIC#0",
@@ -457,6 +473,22 @@
     "wins": 0,
     "losses": 0
   },
+  "YOSH#458": {
+    "name": "Mr9thPlace",
+    "tag": "YOSH#458",
+    "rank": "GOLD 3",
+    "rating": 1668.9,
+    "characters": [
+      "Yoshi",
+      "DK"
+    ],
+    "percentages": [
+      "94.2",
+      "5.5"
+    ],
+    "wins": 230,
+    "losses": 221
+  },
   "DEE#218": {
     "name": "goopy loves you",
     "tag": "DEE#218",
@@ -483,9 +515,9 @@
     "wins": 0,
     "losses": 0
   },
-  "WICE#699": {
-    "name": "Dougie Jones",
-    "tag": "WICE#699",
+  "EGAG#906": {
+    "name": "kaz kaan (mtf)",
+    "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
