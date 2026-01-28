@@ -54,18 +54,18 @@
   "MAYO#795": {
     "name": "mayonator69420",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1671.4,
+    "rank": "GOLD 2",
+    "rating": 1644.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "58.9",
-      "41.1"
+      "59.1",
+      "40.9"
     ],
     "wins": 134,
-    "losses": 115
+    "losses": 117
   },
   "PANC#613": {
     "name": "panchito$",
@@ -299,14 +299,14 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2339.2,
+    "rating": 2351.4,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.0"
+      "97.1"
     ],
-    "wins": 191,
+    "wins": 194,
     "losses": 62
   },
   "JINK#1": {
@@ -428,12 +428,16 @@
   "MEDIC#0": {
     "name": "MEDIC!",
     "tag": "MEDIC#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Luigi"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
+    "losses": 1
   },
   "SERE#225": {
     "name": "*",
