@@ -489,22 +489,6 @@
     "wins": 230,
     "losses": 221
   },
-  "DEE#218": {
-    "name": "goopy loves you",
-    "tag": "DEE#218",
-    "rank": "GOLD 2",
-    "rating": 1643.1,
-    "characters": [
-      "ICs",
-      "YLink"
-    ],
-    "percentages": [
-      "59.4",
-      "40.3"
-    ],
-    "wins": 69,
-    "losses": 71
-  },
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
@@ -588,20 +572,6 @@
     ],
     "wins": 162,
     "losses": 158
-  },
-  "SMEG#879": {
-    "name": "$",
-    "tag": "SMEG#879",
-    "rank": "PLATINUM 1",
-    "rating": 1826.8,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "99.5"
-    ],
-    "wins": 204,
-    "losses": 220
   },
   "BOZO#386": {
     "name": "super pichu",
