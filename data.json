@@ -54,18 +54,18 @@
   "MAYO#795": {
     "name": "mayonator69420",
     "tag": "MAYO#795",
-    "rank": "GOLD 2",
-    "rating": 1649.4,
+    "rank": "GOLD 3",
+    "rating": 1654.1,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "59.7",
-      "40.3"
+      "60.1",
+      "39.9"
     ],
-    "wins": 137,
-    "losses": 118
+    "wins": 139,
+    "losses": 119
   },
   "PANC#613": {
     "name": "panchito$",
@@ -409,22 +409,6 @@
     "wins": 0,
     "losses": 0
   },
-  "PGH#412": {
-    "name": "Ft. PGH Carroll",
-    "tag": "PGH#412",
-    "rank": "PLATINUM 3",
-    "rating": 1988.6,
-    "characters": [
-      "Peach",
-      "Fox"
-    ],
-    "percentages": [
-      "91.5",
-      "8.5"
-    ],
-    "wins": 21,
-    "losses": 15
-  },
   "MEDIC#0": {
     "name": "MEDIC!",
     "tag": "MEDIC#0",
@@ -473,22 +457,6 @@
     "wins": 0,
     "losses": 0
   },
-  "YOSH#458": {
-    "name": "Mr9thPlace",
-    "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1668.9,
-    "characters": [
-      "Yoshi",
-      "DK"
-    ],
-    "percentages": [
-      "94.2",
-      "5.5"
-    ],
-    "wins": 230,
-    "losses": 221
-  },
   "DEE#218": {
     "name": "goopy loves you",
     "tag": "DEE#218",
@@ -508,16 +476,6 @@
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "EGAG#906": {
-    "name": "kaz kaan (mtf)",
-    "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
@@ -593,7 +551,7 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1826.8,
+    "rating": 1825.4,
     "characters": [
       "Falcon"
     ],
@@ -601,7 +559,7 @@
       "99.5"
     ],
     "wins": 204,
-    "losses": 220
+    "losses": 221
   },
   "BOZO#386": {
     "name": "super pichu",
