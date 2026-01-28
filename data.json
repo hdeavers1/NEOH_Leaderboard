@@ -13,20 +13,6 @@
     "wins": 4,
     "losses": 1
   },
-  "JUBS#579": {
-    "name": "Joob",
-    "tag": "JUBS#579",
-    "rank": "GOLD 3",
-    "rating": 1704.3,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 19,
-    "losses": 13
-  },
   "BIGO#869": {
     "name": "the bull within",
     "tag": "BIGO#869",
@@ -456,16 +442,6 @@
   "MARF#811": {
     "name": "Marfweasel",
     "tag": "MARF#811",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "JHTL#587": {
-    "name": "JHTL",
-    "tag": "JHTL#587",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
