@@ -399,6 +399,60 @@
     "wins": 13,
     "losses": 8
   },
+  "DREW#175": {
+    "name": "Unc",
+    "tag": "DREW#175",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "PGH#412": {
+    "name": "Ft. PGH Carroll",
+    "tag": "PGH#412",
+    "rank": "PLATINUM 3",
+    "rating": 1988.6,
+    "characters": [
+      "Peach",
+      "Fox"
+    ],
+    "percentages": [
+      "91.5",
+      "8.5"
+    ],
+    "wins": 21,
+    "losses": 15
+  },
+  "MEDIC#0": {
+    "name": "MEDIC!",
+    "tag": "MEDIC#0",
+    "rank": "SILVER 1",
+    "rating": 1103.8,
+    "characters": [
+      "Luigi"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 4
+  },
+  "SERE#225": {
+    "name": "*",
+    "tag": "SERE#225",
+    "rank": "PLATINUM 2",
+    "rating": 1849.3,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "98.8"
+    ],
+    "wins": 163,
+    "losses": 163
+  },
   "MARF#811": {
     "name": "Marfweasel",
     "tag": "MARF#811",
