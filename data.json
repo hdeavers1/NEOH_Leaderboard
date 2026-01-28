@@ -299,15 +299,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2351.4,
+    "rating": 2359.3,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "97.1"
     ],
-    "wins": 194,
-    "losses": 62
+    "wins": 197,
+    "losses": 63
   },
   "JINK#1": {
     "name": "nai.eve",
@@ -398,60 +398,6 @@
     ],
     "wins": 13,
     "losses": 8
-  },
-  "DREW#175": {
-    "name": "Unc",
-    "tag": "DREW#175",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "PGH#412": {
-    "name": "Ft. PGH Carroll",
-    "tag": "PGH#412",
-    "rank": "PLATINUM 3",
-    "rating": 1988.6,
-    "characters": [
-      "Peach",
-      "Fox"
-    ],
-    "percentages": [
-      "91.5",
-      "8.5"
-    ],
-    "wins": 21,
-    "losses": 15
-  },
-  "MEDIC#0": {
-    "name": "MEDIC!",
-    "tag": "MEDIC#0",
-    "rank": "PENDING",
-    "rating": 3,
-    "characters": [
-      "Luigi"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 1,
-    "losses": 1
-  },
-  "SERE#225": {
-    "name": "*",
-    "tag": "SERE#225",
-    "rank": "PLATINUM 2",
-    "rating": 1849.3,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "98.8"
-    ],
-    "wins": 163,
-    "losses": 163
   },
   "MARF#811": {
     "name": "Marfweasel",
