@@ -17,14 +17,14 @@
     "name": "Joob",
     "tag": "JUBS#579",
     "rank": "GOLD 3",
-    "rating": 1682.7,
+    "rating": 1704.3,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 18,
+    "wins": 19,
     "losses": 13
   },
   "BIGO#869": {
@@ -242,18 +242,18 @@
   "PLAY#647": {
     "name": "ibemovingclean",
     "tag": "PLAY#647",
-    "rank": "DIAMOND 2",
-    "rating": 2113.6,
+    "rank": "DIAMOND 3",
+    "rating": 2145.4,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "96.4",
-      "3.3"
+      "96.5",
+      "3.2"
     ],
-    "wins": 89,
-    "losses": 53
+    "wins": 92,
+    "losses": 54
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -299,14 +299,14 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2385,
+    "rating": 2400.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "96.9"
+      "97.0"
     ],
-    "wins": 187,
+    "wins": 190,
     "losses": 57
   },
   "JINK#1": {
@@ -362,18 +362,18 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1884.9,
+    "rank": "PLATINUM 1",
+    "rating": 1834.3,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "68.7",
-      "30.4"
+      "68.8",
+      "30.3"
     ],
     "wins": 163,
-    "losses": 143
+    "losses": 147
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -389,7 +389,7 @@
     "name": "kneemaster12",
     "tag": "KM#12",
     "rank": "GOLD 3",
-    "rating": 1749.4,
+    "rating": 1698.1,
     "characters": [
       "Ganon"
     ],
@@ -397,7 +397,7 @@
       "100.0"
     ],
     "wins": 13,
-    "losses": 5
+    "losses": 8
   },
   "DREW#175": {
     "name": "Unc",
@@ -473,7 +473,7 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1713.7,
+    "rating": 1668.9,
     "characters": [
       "Yoshi",
       "DK"
@@ -482,8 +482,8 @@
       "94.2",
       "5.5"
     ],
-    "wins": 227,
-    "losses": 214
+    "wins": 230,
+    "losses": 221
   },
   "DEE#218": {
     "name": "goopy loves you",
@@ -572,18 +572,18 @@
   "MOSHI#0": {
     "name": "little chudling",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1725.3,
+    "rank": "PLATINUM 1",
+    "rating": 1752.6,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.7",
-      "6.3"
+      "93.9",
+      "6.1"
     ],
-    "wins": 156,
-    "losses": 155
+    "wins": 162,
+    "losses": 158
   },
   "SMEG#879": {
     "name": "$",
