@@ -1,140 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "Yeah that hits",
-    "tag": "WWJ#916",
-    "rank": "GOLD 1",
-    "rating": 1468.8,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 1
-  },
-  "JUBS#579": {
-    "name": "Joob",
-    "tag": "JUBS#579",
-    "rank": "GOLD 3",
-    "rating": 1704.3,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 19,
-    "losses": 13
-  },
-  "BIGO#869": {
-    "name": "the bull within",
-    "tag": "BIGO#869",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "QCUM#685": {
-    "name": "Fat Chud",
-    "tag": "QCUM#685",
-    "rank": "GOLD 2",
-    "rating": 1588.2,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 19,
-    "losses": 15
-  },
-  "MAYO#795": {
-    "name": "mayonator69420",
-    "tag": "MAYO#795",
-    "rank": "GOLD 2",
-    "rating": 1627.3,
-    "characters": [
-      "Falcon",
-      "DK"
-    ],
-    "percentages": [
-      "59.2",
-      "40.8"
-    ],
-    "wins": 134,
-    "losses": 118
-  },
-  "PANC#613": {
-    "name": "panchito$",
-    "tag": "PANC#613",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "LVLM#792": {
-    "name": "Uncut Jim",
-    "tag": "LVLM#792",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "NECK#152": {
-    "name": "neckboy",
-    "tag": "NECK#152",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "SPOR#247": {
-    "name": "Jub Lee",
-    "tag": "SPOR#247",
-    "rank": "GOLD 1",
-    "rating": 1485,
-    "characters": [
-      "Falcon",
-      "Fox",
-      "Marth",
-      "Doc"
-    ],
-    "percentages": [
-      "41.9",
-      "26.7",
-      "16.3",
-      "15.1"
-    ],
-    "wins": 19,
-    "losses": 17
-  },
-  "ANT#480": {
-    "name": "Zantryx",
-    "tag": "ANT#480",
-    "rank": "GOLD 1",
-    "rating": 1473.9,
-    "characters": [
-      "Marth",
-      "Roy",
-      "Fox"
-    ],
-    "percentages": [
-      "93.5",
-      "4.3",
-      "2.2"
-    ],
-    "wins": 48,
-    "losses": 47
-  },
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
@@ -242,8 +106,8 @@
   "PLAY#647": {
     "name": "ibemovingclean",
     "tag": "PLAY#647",
-    "rank": "DIAMOND 3",
-    "rating": 2145.4,
+    "rank": "DIAMOND 2",
+    "rating": 2128,
     "characters": [
       "Luigi",
       "Sheik"
@@ -252,8 +116,8 @@
       "96.5",
       "3.2"
     ],
-    "wins": 92,
-    "losses": 54
+    "wins": 93,
+    "losses": 55
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -342,16 +206,6 @@
   "ZBOO#991": {
     "name": "(-:",
     "tag": "ZBOO#991",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "PEE#658": {
-    "name": "The Grink",
-    "tag": "PEE#658",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
@@ -588,20 +442,6 @@
     ],
     "wins": 162,
     "losses": 158
-  },
-  "SMEG#879": {
-    "name": "$",
-    "tag": "SMEG#879",
-    "rank": "PLATINUM 1",
-    "rating": 1826.8,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "99.5"
-    ],
-    "wins": 204,
-    "losses": 220
   },
   "BOZO#386": {
     "name": "super pichu",
