@@ -440,17 +440,17 @@
     "losses": 4
   },
   "SERE#225": {
-    "name": "*",
+    "name": "sp1n :>",
     "tag": "SERE#225",
     "rank": "PLATINUM 2",
-    "rating": 1849.3,
+    "rating": 1869.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "98.8"
     ],
-    "wins": 163,
+    "wins": 165,
     "losses": 163
   },
   "MARF#811": {
@@ -576,8 +576,8 @@
   "MOSHI#0": {
     "name": "moshisobased",
     "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1752.6,
+    "rank": "GOLD 3",
+    "rating": 1748,
     "characters": [
       "Peach",
       "Ness"
@@ -586,8 +586,8 @@
       "93.9",
       "6.1"
     ],
-    "wins": 162,
-    "losses": 158
+    "wins": 166,
+    "losses": 165
   },
   "SMEG#879": {
     "name": "$",
