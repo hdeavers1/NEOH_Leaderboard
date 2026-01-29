@@ -255,6 +255,16 @@
     "wins": 93,
     "losses": 55
   },
+  "GRIM#801": {
+    "name": "Shiesty",
+    "tag": "GRIM#801",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "GHST#232": {
     "name": "Ghuff",
     "tag": "GHST#232",
@@ -542,6 +552,26 @@
     ],
     "wins": 9,
     "losses": 12
+  },
+  "NCRO#183": {
+    "name": "Ncro",
+    "tag": "NCRO#183",
+    "rank": "GOLD 2",
+    "rating": 1593.1,
+    "characters": [
+      "Fox",
+      "Sheik",
+      "Doc",
+      "Marth"
+    ],
+    "percentages": [
+      "51.2",
+      "32.6",
+      "9.3",
+      "7.0"
+    ],
+    "wins": 10,
+    "losses": 8
   },
   "MOSHI#0": {
     "name": "moshisobased",
