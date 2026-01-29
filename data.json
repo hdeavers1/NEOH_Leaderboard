@@ -328,16 +328,16 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 2",
-    "rating": 1854.3,
+    "rank": "PLATINUM 1",
+    "rating": 1803.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 11,
-    "losses": 3
+    "wins": 12,
+    "losses": 5
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -442,16 +442,16 @@
   "SERE#225": {
     "name": "sp1n :>",
     "tag": "SERE#225",
-    "rank": "PLATINUM 2",
-    "rating": 1869.5,
+    "rank": "PLATINUM 3",
+    "rating": 1933,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "98.8"
+      "98.9"
     ],
-    "wins": 165,
-    "losses": 163
+    "wins": 170,
+    "losses": 166
   },
   "MARF#811": {
     "name": "Marfweasel",
