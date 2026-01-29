@@ -243,7 +243,7 @@
     "name": "ibemovingclean",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
-    "rating": 2128,
+    "rating": 2109.7,
     "characters": [
       "Luigi",
       "Sheik"
@@ -253,7 +253,7 @@
       "3.2"
     ],
     "wins": 93,
-    "losses": 55
+    "losses": 56
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -443,15 +443,15 @@
     "name": "sp1n :>",
     "tag": "SERE#225",
     "rank": "DIAMOND 1",
-    "rating": 2012.1,
+    "rating": 2018.4,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "98.9"
     ],
-    "wins": 185,
-    "losses": 174
+    "wins": 189,
+    "losses": 177
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -477,7 +477,7 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1668.9,
+    "rating": 1681.1,
     "characters": [
       "Yoshi",
       "DK"
@@ -486,8 +486,8 @@
       "94.2",
       "5.5"
     ],
-    "wins": 230,
-    "losses": 221
+    "wins": 231,
+    "losses": 222
   },
   "DEE#218": {
     "name": "goopy loves you",
@@ -593,7 +593,7 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1825.4,
+    "rating": 1811.9,
     "characters": [
       "Falcon"
     ],
@@ -601,7 +601,7 @@
       "99.5"
     ],
     "wins": 204,
-    "losses": 221
+    "losses": 223
   },
   "BOZO#386": {
     "name": "super pichu",
