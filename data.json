@@ -179,20 +179,6 @@
     "wins": 0,
     "losses": 0
   },
-  "CUTS#327": {
-    "name": "PaulBetDavidson",
-    "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1854,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "99.3"
-    ],
-    "wins": 90,
-    "losses": 87
-  },
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
@@ -206,20 +192,6 @@
     ],
     "wins": 51,
     "losses": 38
-  },
-  "JUST#577": {
-    "name": "Just",
-    "tag": "JUST#577",
-    "rank": "PLATINUM 2",
-    "rating": 1910.7,
-    "characters": [
-      "Sheik"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 11,
-    "losses": 1
   },
   "SPOT#861": {
     "name": "invader zyn",
@@ -243,17 +215,17 @@
     "name": "IfLeaveCuzHands",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
-    "rating": 2109.7,
+    "rating": 2098.1,
     "characters": [
       "Luigi",
       "Sheik"
     ],
     "percentages": [
-      "96.5",
-      "3.2"
+      "96.6",
+      "3.1"
     ],
-    "wins": 93,
-    "losses": 56
+    "wins": 94,
+    "losses": 57
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -472,22 +444,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "YOSH#458": {
-    "name": "Mr9thPlace",
-    "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1681.1,
-    "characters": [
-      "Yoshi",
-      "DK"
-    ],
-    "percentages": [
-      "94.2",
-      "5.5"
-    ],
-    "wins": 231,
-    "losses": 222
   },
   "DEE#218": {
     "name": "goopy loves you",
