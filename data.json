@@ -269,15 +269,15 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "GOLD 1",
-    "rating": 1522.7,
+    "rating": 1510.4,
     "characters": [
       "Puff"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 30,
-    "losses": 29
+    "wins": 31,
+    "losses": 30
   },
   "BLSE#808": {
     "name": "bl$e",
@@ -326,7 +326,7 @@
     "losses": 58
   },
   "FLOW#08": {
-    "name": "Flow",
+    "name": "WallabeeMan",
     "tag": "FLOW#08",
     "rank": "PLATINUM 1",
     "rating": 1803.6,
@@ -552,6 +552,26 @@
     ],
     "wins": 9,
     "losses": 12
+  },
+  "NCRO#183": {
+    "name": "Ncro",
+    "tag": "NCRO#183",
+    "rank": "GOLD 2",
+    "rating": 1593.1,
+    "characters": [
+      "Fox",
+      "Sheik",
+      "Doc",
+      "Marth"
+    ],
+    "percentages": [
+      "51.2",
+      "32.6",
+      "9.3",
+      "7.0"
+    ],
+    "wins": 10,
+    "losses": 8
   },
   "MOSHI#0": {
     "name": "moshisobased",
