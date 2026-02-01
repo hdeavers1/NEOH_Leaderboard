@@ -282,18 +282,18 @@
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
-    "rank": "DIAMOND 3",
-    "rating": 2145.9,
+    "rank": "DIAMOND 2",
+    "rating": 2126,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "95.9",
-      "3.1"
+      "95.5",
+      "3.5"
     ],
-    "wins": 55,
-    "losses": 24
+    "wins": 56,
+    "losses": 26
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -538,20 +538,18 @@
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
-    "rank": "SILVER 2",
-    "rating": 1201.5,
+    "rank": "SILVER 1",
+    "rating": 1164.4,
     "characters": [
       "Marth",
-      "Fox",
-      "Falcon"
+      "Fox"
     ],
     "percentages": [
-      "91.7",
-      "6.3",
-      "2.1"
+      "90.4",
+      "7.7"
     ],
     "wins": 9,
-    "losses": 12
+    "losses": 14
   },
   "NCRO#183": {
     "name": "Ncro",
