@@ -299,14 +299,14 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2359.3,
+    "rating": 2373.2,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "97.1"
+      "97.2"
     ],
-    "wins": 197,
+    "wins": 199,
     "losses": 63
   },
   "JINK#1": {
@@ -555,7 +555,7 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "GOLD 2",
-    "rating": 1593.1,
+    "rating": 1627.3,
     "characters": [
       "Fox",
       "Sheik",
@@ -563,12 +563,12 @@
       "Marth"
     ],
     "percentages": [
-      "51.2",
+      "47.8",
       "32.6",
-      "9.3",
-      "7.0"
+      "13.0",
+      "6.5"
     ],
-    "wins": 10,
+    "wins": 11,
     "losses": 8
   },
   "MOSHI#0": {
