@@ -283,7 +283,7 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "DIAMOND 3",
-    "rating": 2154.1,
+    "rating": 2151.2,
     "characters": [
       "Pikachu",
       "Falcon"
@@ -293,7 +293,7 @@
       "3.2"
     ],
     "wins": 54,
-    "losses": 22
+    "losses": 23
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -593,15 +593,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1788.3,
+    "rating": 1784.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 205,
-    "losses": 227
+    "wins": 206,
+    "losses": 228
   },
   "BOZO#386": {
     "name": "super pichu",
