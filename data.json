@@ -571,22 +571,6 @@
     "wins": 11,
     "losses": 8
   },
-  "MOSHI#0": {
-    "name": "moshisobased",
-    "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1748,
-    "characters": [
-      "Peach",
-      "Ness"
-    ],
-    "percentages": [
-      "93.9",
-      "6.1"
-    ],
-    "wins": 166,
-    "losses": 165
-  },
   "SMEG#879": {
     "name": "$",
     "tag": "SMEG#879",
