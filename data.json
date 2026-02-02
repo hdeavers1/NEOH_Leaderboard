@@ -121,18 +121,18 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1478.8,
+    "rating": 1490.7,
     "characters": [
       "Marth",
       "Roy",
       "Fox"
     ],
     "percentages": [
-      "93.7",
-      "4.2",
+      "93.8",
+      "4.1",
       "2.1"
     ],
-    "wins": 50,
+    "wins": 51,
     "losses": 48
   },
   "JARD#561": {
@@ -363,7 +363,7 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 1",
-    "rating": 1834.3,
+    "rating": 1838.9,
     "characters": [
       "Fox",
       "Marth"
@@ -372,8 +372,8 @@
       "68.8",
       "30.3"
     ],
-    "wins": 163,
-    "losses": 147
+    "wins": 164,
+    "losses": 148
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -477,7 +477,7 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1681.1,
+    "rating": 1658.8,
     "characters": [
       "Yoshi",
       "DK"
@@ -486,8 +486,8 @@
       "94.2",
       "5.5"
     ],
-    "wins": 231,
-    "losses": 222
+    "wins": 233,
+    "losses": 226
   },
   "DEE#218": {
     "name": "goopy loves you",
