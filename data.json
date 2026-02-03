@@ -27,16 +27,6 @@
     "wins": 19,
     "losses": 13
   },
-  "BIGO#869": {
-    "name": "the bull within",
-    "tag": "BIGO#869",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "QCUM#685": {
     "name": "Fat Chud",
     "tag": "QCUM#685",
@@ -477,16 +467,16 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1628.4,
+    "rating": 1634.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "94.3",
-      "5.4"
+      "94.1",
+      "5.6"
     ],
-    "wins": 238,
+    "wins": 239,
     "losses": 234
   },
   "DEE#218": {
