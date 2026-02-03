@@ -27,6 +27,16 @@
     "wins": 19,
     "losses": 13
   },
+  "BIGO#869": {
+    "name": "the bull within",
+    "tag": "BIGO#869",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "QCUM#685": {
     "name": "Fat Chud",
     "tag": "QCUM#685",
@@ -374,20 +384,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "KM#12": {
-    "name": "kneemaster12",
-    "tag": "KM#12",
-    "rank": "GOLD 3",
-    "rating": 1698.1,
-    "characters": [
-      "Ganon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 13,
-    "losses": 8
   },
   "DREW#175": {
     "name": "Unc",
