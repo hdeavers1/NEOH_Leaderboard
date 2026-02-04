@@ -1,4 +1,18 @@
 {
+  "WWJ#916": {
+    "name": "Yeah that hits",
+    "tag": "WWJ#916",
+    "rank": "GOLD 1",
+    "rating": 1468.8,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 1
+  },
   "JUBS#579": {
     "name": "Joob",
     "tag": "JUBS#579",
@@ -183,14 +197,14 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1778.3,
+    "rating": 1797.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 63,
+    "wins": 65,
     "losses": 49
   },
   "JUST#577": {
@@ -349,17 +363,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1850.7,
+    "rating": 1875.6,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "68.7",
-      "30.4"
+      "68.8",
+      "30.3"
     ],
-    "wins": 167,
-    "losses": 151
+    "wins": 170,
+    "losses": 152
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -463,17 +477,17 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1634.5,
+    "rating": 1630.7,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "94.1",
+      "94.2",
       "5.6"
     ],
-    "wins": 239,
-    "losses": 234
+    "wins": 241,
+    "losses": 236
   },
   "DEE#218": {
     "name": "goopy loves you",
