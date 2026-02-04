@@ -309,6 +309,22 @@
     "wins": 213,
     "losses": 65
   },
+  "JINK#1": {
+    "name": "nai.eve",
+    "tag": "JINK#1",
+    "rank": "GRANDMASTER",
+    "rating": 2252.2,
+    "characters": [
+      "Marth",
+      "Fox"
+    ],
+    "percentages": [
+      "97.3",
+      "2.4"
+    ],
+    "wins": 116,
+    "losses": 58
+  },
   "FLOW#08": {
     "name": "WallabeeMan",
     "tag": "FLOW#08",
@@ -588,6 +604,16 @@
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "SYS#0": {
+    "name": "Syspen",
+    "tag": "SYS#0",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
