@@ -121,18 +121,18 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1490.7,
+    "rating": 1508.7,
     "characters": [
       "Marth",
       "Roy",
       "Fox"
     ],
     "percentages": [
-      "93.8",
+      "93.9",
       "4.1",
-      "2.1"
+      "2.0"
     ],
-    "wins": 51,
+    "wins": 52,
     "losses": 48
   },
   "JARD#561": {
@@ -328,16 +328,16 @@
   "FLOW#08": {
     "name": "WallabeeMan",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 1",
-    "rating": 1780.4,
+    "rank": "PLATINUM 2",
+    "rating": 1883.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 12,
-    "losses": 6
+    "wins": 17,
+    "losses": 11
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -591,15 +591,15 @@
     "name": "$",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
-    "rating": 1784.7,
+    "rating": 1787.5,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 206,
-    "losses": 228
+    "wins": 208,
+    "losses": 229
   },
   "BOZO#386": {
     "name": "super pichu",
