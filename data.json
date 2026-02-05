@@ -121,7 +121,7 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1488.9,
+    "rating": 1496,
     "characters": [
       "Marth",
       "Roy",
@@ -132,7 +132,7 @@
       "4.0",
       "2.0"
     ],
-    "wins": 52,
+    "wins": 53,
     "losses": 50
   },
   "JARD#561": {
@@ -472,22 +472,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "YOSH#458": {
-    "name": "Mr9thPlace",
-    "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1653,
-    "characters": [
-      "Yoshi",
-      "DK"
-    ],
-    "percentages": [
-      "94.2",
-      "5.6"
-    ],
-    "wins": 247,
-    "losses": 239
   },
   "DEE#218": {
     "name": "goopy loves you",
