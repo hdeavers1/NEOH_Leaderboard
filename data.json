@@ -121,19 +121,19 @@
     "name": "Zantryx",
     "tag": "ANT#480",
     "rank": "GOLD 1",
-    "rating": 1508.7,
+    "rating": 1488.9,
     "characters": [
       "Marth",
       "Roy",
       "Fox"
     ],
     "percentages": [
-      "93.9",
-      "4.1",
+      "94.0",
+      "4.0",
       "2.0"
     ],
     "wins": 52,
-    "losses": 48
+    "losses": 50
   },
   "JARD#561": {
     "name": "pingas",
