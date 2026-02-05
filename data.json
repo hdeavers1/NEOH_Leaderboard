@@ -240,7 +240,7 @@
     "losses": 12
   },
   "PLAY#647": {
-    "name": "ibemovingclean",
+    "name": "Mr. Potato Head",
     "tag": "PLAY#647",
     "rank": "DIAMOND 2",
     "rating": 2098.1,
@@ -328,16 +328,16 @@
   "FLOW#08": {
     "name": "WallabeeMan",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 2",
-    "rating": 1876.1,
+    "rank": "PLATINUM 1",
+    "rating": 1818.3,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 18,
-    "losses": 12
+    "wins": 20,
+    "losses": 17
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -363,17 +363,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1875.6,
+    "rating": 1879.1,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "68.8",
-      "30.3"
+      "68.9",
+      "30.2"
     ],
-    "wins": 170,
-    "losses": 152
+    "wins": 172,
+    "losses": 154
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -588,7 +588,7 @@
     "losses": 165
   },
   "SMEG#879": {
-    "name": "$",
+    "name": "FURBY",
     "tag": "SMEG#879",
     "rank": "PLATINUM 1",
     "rating": 1787.5,
