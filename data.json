@@ -299,14 +299,14 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2413.7,
+    "rating": 2452.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "96.9"
     ],
-    "wins": 213,
+    "wins": 218,
     "losses": 65
   },
   "JINK#1": {
@@ -329,7 +329,7 @@
     "name": "WallabeeMan",
     "tag": "FLOW#08",
     "rank": "PLATINUM 1",
-    "rating": 1818.3,
+    "rating": 1798.7,
     "characters": [
       "Marth"
     ],
@@ -337,7 +337,7 @@
       "100.0"
     ],
     "wins": 20,
-    "losses": 17
+    "losses": 18
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -554,8 +554,8 @@
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
-    "rank": "GOLD 2",
-    "rating": 1627.3,
+    "rank": "GOLD 3",
+    "rating": 1705.9,
     "characters": [
       "Fox",
       "Sheik",
@@ -563,13 +563,13 @@
       "Marth"
     ],
     "percentages": [
-      "47.8",
-      "32.6",
-      "13.0",
-      "6.5"
+      "43.4",
+      "35.8",
+      "15.1",
+      "5.7"
     ],
-    "wins": 11,
-    "losses": 8
+    "wins": 14,
+    "losses": 9
   },
   "MOSHI#0": {
     "name": "moshisobased",
