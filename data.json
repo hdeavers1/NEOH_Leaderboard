@@ -351,6 +351,16 @@
     "wins": 0,
     "losses": 0
   },
+  "PEE#658": {
+    "name": "Gannon Sharpe",
+    "tag": "PEE#658",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
@@ -434,16 +444,16 @@
   "SERE#225": {
     "name": "sp1n :>",
     "tag": "SERE#225",
-    "rank": "DIAMOND 2",
-    "rating": 2105,
+    "rank": "DIAMOND 1",
+    "rating": 2068.2,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 197,
-    "losses": 178
+    "wins": 198,
+    "losses": 181
   },
   "MARF#811": {
     "name": "Marfweasel",
