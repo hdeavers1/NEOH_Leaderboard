@@ -90,12 +90,16 @@
   "NECK#152": {
     "name": "neckboy",
     "tag": "NECK#152",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 2",
+    "rating": 1275.9,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 3,
+    "losses": 2
   },
   "SPOR#247": {
     "name": "Jub Lee",
@@ -553,7 +557,7 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "GOLD 3",
-    "rating": 1705.9,
+    "rating": 1749.4,
     "characters": [
       "Fox",
       "Sheik",
@@ -561,12 +565,12 @@
       "Marth"
     ],
     "percentages": [
-      "43.4",
-      "35.8",
-      "15.1",
-      "5.7"
+      "39.7",
+      "36.2",
+      "19.0",
+      "5.2"
     ],
-    "wins": 14,
+    "wins": 16,
     "losses": 9
   },
   "MOSHI#0": {
