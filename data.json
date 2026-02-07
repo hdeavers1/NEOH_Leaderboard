@@ -301,15 +301,17 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2362.5,
+    "rating": 2337.7,
     "characters": [
-      "Samus"
+      "Samus",
+      "Fox"
     ],
     "percentages": [
-      "96.8"
+      "96.6",
+      "2.0"
     ],
-    "wins": 227,
-    "losses": 72
+    "wins": 230,
+    "losses": 74
   },
   "JINK#1": {
     "name": "nai.eve",
