@@ -427,6 +427,20 @@
     "wins": 21,
     "losses": 15
   },
+  "MEDIC#0": {
+    "name": "MEDIC!",
+    "tag": "MEDIC#0",
+    "rank": "SILVER 1",
+    "rating": 1103.8,
+    "characters": [
+      "Luigi"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 4
+  },
   "SERE#225": {
     "name": "sp1n :>",
     "tag": "SERE#225",
