@@ -77,66 +77,6 @@
     "wins": 0,
     "losses": 0
   },
-  "LVLM#792": {
-    "name": "Uncut Jim",
-    "tag": "LVLM#792",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "NECK#152": {
-    "name": "neckboy",
-    "tag": "NECK#152",
-    "rank": "SILVER 2",
-    "rating": 1232.8,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 3,
-    "losses": 3
-  },
-  "SPOR#247": {
-    "name": "Jub Lee",
-    "tag": "SPOR#247",
-    "rank": "GOLD 1",
-    "rating": 1485,
-    "characters": [
-      "Falcon",
-      "Fox",
-      "Marth",
-      "Doc"
-    ],
-    "percentages": [
-      "41.9",
-      "26.7",
-      "16.3",
-      "15.1"
-    ],
-    "wins": 19,
-    "losses": 17
-  },
-  "ANT#480": {
-    "name": "Zantryx",
-    "tag": "ANT#480",
-    "rank": "GOLD 1",
-    "rating": 1478.9,
-    "characters": [
-      "Marth",
-      "Roy"
-    ],
-    "percentages": [
-      "94.1",
-      "3.9"
-    ],
-    "wins": 53,
-    "losses": 52
-  },
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
@@ -150,26 +90,6 @@
     ],
     "wins": 0,
     "losses": 2
-  },
-  "FUEL#375": {
-    "name": "Fuelperks",
-    "tag": "FUEL#375",
-    "rank": "SILVER 1",
-    "rating": 1185.4,
-    "characters": [
-      "Peach",
-      "Falcon",
-      "Fox",
-      "Ness"
-    ],
-    "percentages": [
-      "47.4",
-      "21.1",
-      "10.5",
-      "10.5"
-    ],
-    "wins": 3,
-    "losses": 5
   },
   "FRUM#591": {
     "name": "Wavedash Whale",
