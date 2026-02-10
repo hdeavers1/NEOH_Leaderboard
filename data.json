@@ -195,20 +195,6 @@
     "wins": 90,
     "losses": 87
   },
-  "ASIG#701": {
-    "name": "aSig",
-    "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1733.6,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 74,
-    "losses": 66
-  },
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
@@ -410,22 +396,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "PGH#412": {
-    "name": "Ft. PGH Carroll",
-    "tag": "PGH#412",
-    "rank": "PLATINUM 3",
-    "rating": 1988.6,
-    "characters": [
-      "Peach",
-      "Fox"
-    ],
-    "percentages": [
-      "91.5",
-      "8.5"
-    ],
-    "wins": 21,
-    "losses": 15
   },
   "MEDIC#0": {
     "name": "MEDIC!",
