@@ -195,6 +195,20 @@
     "wins": 90,
     "losses": 87
   },
+  "ASIG#701": {
+    "name": "aSig",
+    "tag": "ASIG#701",
+    "rank": "GOLD 3",
+    "rating": 1733.6,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 74,
+    "losses": 66
+  },
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
@@ -266,22 +280,6 @@
     ],
     "wins": 34,
     "losses": 31
-  },
-  "BLSE#808": {
-    "name": "bl$e",
-    "tag": "BLSE#808",
-    "rank": "DIAMOND 2",
-    "rating": 2096,
-    "characters": [
-      "Pikachu",
-      "Falcon"
-    ],
-    "percentages": [
-      "95.8",
-      "3.2"
-    ],
-    "wins": 59,
-    "losses": 30
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -396,6 +394,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "PGH#412": {
+    "name": "Ft. PGH Carroll",
+    "tag": "PGH#412",
+    "rank": "PLATINUM 3",
+    "rating": 1988.6,
+    "characters": [
+      "Peach",
+      "Fox"
+    ],
+    "percentages": [
+      "91.5",
+      "8.5"
+    ],
+    "wins": 21,
+    "losses": 15
   },
   "MEDIC#0": {
     "name": "MEDIC!",
