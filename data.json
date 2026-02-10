@@ -401,6 +401,16 @@
     "wins": 13,
     "losses": 8
   },
+  "DREW#175": {
+    "name": "Unc",
+    "tag": "DREW#175",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
@@ -542,6 +552,26 @@
     ],
     "wins": 10,
     "losses": 14
+  },
+  "NCRO#183": {
+    "name": "Ncro",
+    "tag": "NCRO#183",
+    "rank": "GOLD 3",
+    "rating": 1749.4,
+    "characters": [
+      "Fox",
+      "Sheik",
+      "Doc",
+      "Marth"
+    ],
+    "percentages": [
+      "39.7",
+      "36.2",
+      "19.0",
+      "5.2"
+    ],
+    "wins": 16,
+    "losses": 9
   },
   "MOSHI#0": {
     "name": "moshisobased",
