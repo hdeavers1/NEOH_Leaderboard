@@ -387,6 +387,20 @@
     "wins": 0,
     "losses": 0
   },
+  "KM#12": {
+    "name": "kneemaster12",
+    "tag": "KM#12",
+    "rank": "GOLD 3",
+    "rating": 1698.1,
+    "characters": [
+      "Ganon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 13,
+    "losses": 8
+  },
   "DREW#175": {
     "name": "Unc",
     "tag": "DREW#175",
