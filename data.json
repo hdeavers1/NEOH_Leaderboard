@@ -1,4 +1,18 @@
 {
+  "WWJ#916": {
+    "name": "Yeah that hits",
+    "tag": "WWJ#916",
+    "rank": "GOLD 1",
+    "rating": 1468.8,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 1
+  },
   "JUBS#579": {
     "name": "Joob",
     "tag": "JUBS#579",
@@ -372,20 +386,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "KM#12": {
-    "name": "kneemaster12",
-    "tag": "KM#12",
-    "rank": "GOLD 3",
-    "rating": 1698.1,
-    "characters": [
-      "Ganon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 13,
-    "losses": 8
   },
   "DREW#175": {
     "name": "Unc",
