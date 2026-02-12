@@ -171,6 +171,16 @@
     "wins": 3,
     "losses": 5
   },
+  "FRUM#591": {
+    "name": "Wavedash Whale",
+    "tag": "FRUM#591",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
@@ -435,14 +445,14 @@
     "name": "sp1n :>",
     "tag": "SERE#225",
     "rank": "DIAMOND 1",
-    "rating": 2048.6,
+    "rating": 2051.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 200,
+    "wins": 201,
     "losses": 184
   },
   "MARF#811": {
