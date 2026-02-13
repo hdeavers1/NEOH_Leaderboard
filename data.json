@@ -331,7 +331,7 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "PLATINUM 1",
-    "rating": 1832.9,
+    "rating": 1814.7,
     "characters": [
       "Marth"
     ],
@@ -339,7 +339,7 @@
       "100.0"
     ],
     "wins": 22,
-    "losses": 21
+    "losses": 23
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -495,17 +495,17 @@
     "name": "goopy loves you",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1662,
+    "rating": 1703.6,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "57.3",
-      "42.1"
+      "55.1",
+      "44.3"
     ],
-    "wins": 73,
-    "losses": 73
+    "wins": 78,
+    "losses": 74
   },
   "SUCC#860": {
     "name": "Wahey",
