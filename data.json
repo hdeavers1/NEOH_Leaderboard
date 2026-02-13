@@ -171,16 +171,6 @@
     "wins": 3,
     "losses": 5
   },
-  "FRUM#591": {
-    "name": "Wavedash Whale",
-    "tag": "FRUM#591",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
@@ -454,6 +444,16 @@
     ],
     "wins": 201,
     "losses": 184
+  },
+  "MARF#811": {
+    "name": "Marfweasel",
+    "tag": "MARF#811",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "JHTL#587": {
     "name": "JHTL",
