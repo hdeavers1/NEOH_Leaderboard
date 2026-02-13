@@ -55,17 +55,17 @@
     "name": "mayonator69420",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1658.4,
+    "rating": 1655.6,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "66.0",
-      "34.0"
+      "65.9",
+      "34.1"
     ],
     "wins": 171,
-    "losses": 148
+    "losses": 149
   },
   "PANC#613": {
     "name": "panchito$",
@@ -170,6 +170,16 @@
     ],
     "wins": 3,
     "losses": 5
+  },
+  "FRUM#591": {
+    "name": "Wavedash Whale",
+    "tag": "FRUM#591",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
