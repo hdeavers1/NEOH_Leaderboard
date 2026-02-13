@@ -195,20 +195,6 @@
     "wins": 90,
     "losses": 87
   },
-  "ASIG#701": {
-    "name": "aSig",
-    "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1733.6,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 74,
-    "losses": 66
-  },
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
@@ -465,16 +451,6 @@
     "wins": 0,
     "losses": 0
   },
-  "JHTL#587": {
-    "name": "JHTL",
-    "tag": "JHTL#587",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "YOSH#458": {
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
@@ -602,16 +578,6 @@
     ],
     "wins": 208,
     "losses": 229
-  },
-  "BOZO#386": {
-    "name": "super pichu",
-    "tag": "BOZO#386",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "SYS#0": {
     "name": "Syspen",
