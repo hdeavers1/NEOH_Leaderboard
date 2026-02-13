@@ -51,6 +51,22 @@
     "wins": 19,
     "losses": 15
   },
+  "MAYO#795": {
+    "name": "mayonator69420",
+    "tag": "MAYO#795",
+    "rank": "GOLD 3",
+    "rating": 1658.4,
+    "characters": [
+      "Falcon",
+      "DK"
+    ],
+    "percentages": [
+      "66.0",
+      "34.0"
+    ],
+    "wins": 171,
+    "losses": 148
+  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -438,16 +454,6 @@
     ],
     "wins": 201,
     "losses": 184
-  },
-  "MARF#811": {
-    "name": "Marfweasel",
-    "tag": "MARF#811",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "JHTL#587": {
     "name": "JHTL",
