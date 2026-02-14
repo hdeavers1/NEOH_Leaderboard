@@ -14,7 +14,7 @@
     "losses": 1
   },
   "JUBS#579": {
-    "name": "Joob",
+    "name": "phlubly",
     "tag": "JUBS#579",
     "rank": "GOLD 3",
     "rating": 1704.3,
@@ -212,15 +212,15 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "PLATINUM 3",
-    "rating": 1983,
+    "rank": "DIAMOND 1",
+    "rating": 2008,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 13,
+    "wins": 14,
     "losses": 2
   },
   "SPOT#861": {
@@ -331,15 +331,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "PLATINUM 1",
-    "rating": 1814.7,
+    "rating": 1838.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 22,
-    "losses": 23
+    "wins": 24,
+    "losses": 26
   },
   "ZBOO#991": {
     "name": "(-:",
