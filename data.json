@@ -198,16 +198,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1733.6,
+    "rank": "PLATINUM 1",
+    "rating": 1770.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 74,
-    "losses": 66
+    "wins": 78,
+    "losses": 67
   },
   "JUST#577": {
     "name": "Just",
@@ -330,16 +330,16 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 1",
-    "rating": 1838.7,
+    "rank": "PLATINUM 2",
+    "rating": 1876.3,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 24,
-    "losses": 26
+    "wins": 28,
+    "losses": 27
   },
   "ZBOO#991": {
     "name": "(-:",
