@@ -212,16 +212,16 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "DIAMOND 1",
-    "rating": 2008,
+    "rank": "DIAMOND 2",
+    "rating": 2110.2,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 14,
-    "losses": 2
+    "wins": 20,
+    "losses": 4
   },
   "SPOT#861": {
     "name": "invader zyn",
@@ -557,7 +557,7 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "GOLD 3",
-    "rating": 1749.4,
+    "rating": 1729.1,
     "characters": [
       "Fox",
       "Sheik",
@@ -565,13 +565,13 @@
       "Marth"
     ],
     "percentages": [
-      "39.7",
-      "36.2",
-      "19.0",
-      "5.2"
+      "38.3",
+      "36.7",
+      "20.0",
+      "5.0"
     ],
     "wins": 16,
-    "losses": 9
+    "losses": 10
   },
   "MOSHI#0": {
     "name": "heywhatsuphello",
