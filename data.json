@@ -41,7 +41,7 @@
     "name": "Fat Chud",
     "tag": "QCUM#685",
     "rank": "GOLD 2",
-    "rating": 1603,
+    "rating": 1570.2,
     "characters": [
       "Fox"
     ],
@@ -49,7 +49,7 @@
       "100.0"
     ],
     "wins": 20,
-    "losses": 15
+    "losses": 17
   },
   "MAYO#795": {
     "name": "mayonator69420",
@@ -606,16 +606,6 @@
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "SYS#0": {
-    "name": "Syspen",
-    "tag": "SYS#0",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
