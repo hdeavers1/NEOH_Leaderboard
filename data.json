@@ -213,14 +213,14 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "DIAMOND 2",
-    "rating": 2110.2,
+    "rating": 2122,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 20,
+    "wins": 21,
     "losses": 4
   },
   "SPOT#861": {
@@ -557,7 +557,7 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "GOLD 3",
-    "rating": 1729.1,
+    "rating": 1715.2,
     "characters": [
       "Fox",
       "Sheik",
@@ -565,13 +565,13 @@
       "Marth"
     ],
     "percentages": [
-      "38.3",
-      "36.7",
-      "20.0",
-      "5.0"
+      "37.9",
+      "34.8",
+      "22.7",
+      "4.5"
     ],
-    "wins": 16,
-    "losses": 10
+    "wins": 17,
+    "losses": 12
   },
   "MOSHI#0": {
     "name": "heywhatsuphello",
