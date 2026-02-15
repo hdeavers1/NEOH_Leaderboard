@@ -636,15 +636,15 @@
   "VYV#0": {
     "name": "vyv",
     "tag": "VYV#0",
-    "rank": "BRONZE 2",
-    "rating": 880.5,
+    "rank": "BRONZE 3",
+    "rating": 963.8,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
+    "wins": 2,
     "losses": 8
   }
 }
