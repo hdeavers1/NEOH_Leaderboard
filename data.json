@@ -27,6 +27,16 @@
     "wins": 19,
     "losses": 13
   },
+  "BIGO#869": {
+    "name": "the bull within",
+    "tag": "BIGO#869",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "QCUM#685": {
     "name": "Fat Chud",
     "tag": "QCUM#685",
@@ -566,8 +576,8 @@
   "MOSHI#0": {
     "name": "armpit sniffer",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1748,
+    "rank": "PLATINUM 1",
+    "rating": 1772.2,
     "characters": [
       "Peach",
       "Ness"
@@ -576,8 +586,8 @@
       "93.9",
       "6.1"
     ],
-    "wins": 166,
-    "losses": 165
+    "wins": 169,
+    "losses": 169
   },
   "SMEG#879": {
     "name": "FURBY",
