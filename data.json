@@ -209,6 +209,20 @@
     "wins": 82,
     "losses": 68
   },
+  "JUST#577": {
+    "name": "Just",
+    "tag": "JUST#577",
+    "rank": "GRANDMASTER",
+    "rating": 2268.3,
+    "characters": [
+      "Sheik"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 28,
+    "losses": 4
+  },
   "SPOT#861": {
     "name": "invader zyn",
     "tag": "SPOT#861",
