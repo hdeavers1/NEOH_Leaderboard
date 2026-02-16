@@ -90,16 +90,16 @@
   "NECK#152": {
     "name": "neckboy",
     "tag": "NECK#152",
-    "rank": "SILVER 2",
-    "rating": 1232.8,
+    "rank": "SILVER 3",
+    "rating": 1317.4,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
-    "losses": 3
+    "wins": 5,
+    "losses": 5
   },
   "SPOR#247": {
     "name": "Jub Lee",
@@ -212,15 +212,15 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "DIAMOND 2",
-    "rating": 2122,
+    "rank": "MASTER 1",
+    "rating": 2268.3,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 21,
+    "wins": 28,
     "losses": 4
   },
   "SPOT#861": {
@@ -574,7 +574,7 @@
     "losses": 12
   },
   "MOSHI#0": {
-    "name": "heywhatsuphello",
+    "name": "armpit sniffer",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1748,
