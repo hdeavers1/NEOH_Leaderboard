@@ -387,20 +387,6 @@
     "wins": 0,
     "losses": 0
   },
-  "KM#12": {
-    "name": "kneemaster12",
-    "tag": "KM#12",
-    "rank": "GOLD 3",
-    "rating": 1698.1,
-    "characters": [
-      "Ganon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 13,
-    "losses": 8
-  },
   "DREW#175": {
     "name": "Unc",
     "tag": "DREW#175",
@@ -577,17 +563,17 @@
     "name": "armpit sniffer",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1772.2,
+    "rating": 1765.6,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.9",
-      "6.1"
+      "94.0",
+      "6.0"
     ],
-    "wins": 169,
-    "losses": 169
+    "wins": 170,
+    "losses": 171
   },
   "SMEG#879": {
     "name": "FURBY",
