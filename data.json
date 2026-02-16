@@ -213,15 +213,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2268.3,
+    "rating": 2248.9,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 28,
-    "losses": 4
+    "wins": 29,
+    "losses": 5
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -360,22 +360,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "WEGG#462": {
-    "name": "Young Wunna",
-    "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1852.3,
-    "characters": [
-      "Fox",
-      "Marth"
-    ],
-    "percentages": [
-      "69.0",
-      "30.1"
-    ],
-    "wins": 177,
-    "losses": 164
   },
   "DNZO#333": {
     "name": "the thinker",
