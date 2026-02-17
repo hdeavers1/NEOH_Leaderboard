@@ -297,20 +297,6 @@
     "wins": 60,
     "losses": 30
   },
-  "FUCKIN#1": {
-    "name": "fknsilver",
-    "tag": "FUCKIN#1",
-    "rank": "GRANDMASTER",
-    "rating": 2297.8,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "96.6"
-    ],
-    "wins": 239,
-    "losses": 81
-  },
   "JINK#1": {
     "name": "nai.eve",
     "tag": "JINK#1",
@@ -376,16 +362,6 @@
     ],
     "wins": 177,
     "losses": 164
-  },
-  "DNZO#333": {
-    "name": "the thinker",
-    "tag": "DNZO#333",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "KM#12": {
     "name": "kneemaster12",
@@ -458,16 +434,6 @@
   "MARF#811": {
     "name": "Marfweasel",
     "tag": "MARF#811",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "JHTL#587": {
-    "name": "JHTL",
-    "tag": "JHTL#587",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
