@@ -573,6 +573,22 @@
     "wins": 17,
     "losses": 12
   },
+  "MOSHI#0": {
+    "name": "armpit sniffer",
+    "tag": "MOSHI#0",
+    "rank": "PLATINUM 1",
+    "rating": 1765.6,
+    "characters": [
+      "Peach",
+      "Ness"
+    ],
+    "percentages": [
+      "94.0",
+      "6.0"
+    ],
+    "wins": 170,
+    "losses": 171
+  },
   "SMEG#879": {
     "name": "FURBY",
     "tag": "SMEG#879",
