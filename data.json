@@ -257,6 +257,16 @@
     "wins": 96,
     "losses": 59
   },
+  "GRIM#801": {
+    "name": "Shiesty",
+    "tag": "GRIM#801",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "GHST#232": {
     "name": "Ghuff",
     "tag": "GHST#232",
@@ -465,22 +475,6 @@
     "wins": 0,
     "losses": 0
   },
-  "YOSH#458": {
-    "name": "Mr9thPlace",
-    "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1710.1,
-    "characters": [
-      "Yoshi",
-      "DK"
-    ],
-    "percentages": [
-      "94.3",
-      "5.4"
-    ],
-    "wins": 255,
-    "losses": 244
-  },
   "DEE#218": {
     "name": "goopy loves you",
     "tag": "DEE#218",
@@ -510,6 +504,16 @@
   "EGAG#906": {
     "name": "kaz kaan (mtf)",
     "tag": "EGAG#906",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "WICE#699": {
+    "name": "Dougie Jones",
+    "tag": "WICE#699",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
