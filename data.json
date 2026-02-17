@@ -1,4 +1,18 @@
 {
+  "WWJ#916": {
+    "name": "Yea you thought",
+    "tag": "WWJ#916",
+    "rank": "GOLD 1",
+    "rating": 1468.8,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 4,
+    "losses": 1
+  },
   "JUBS#579": {
     "name": "phlubly",
     "tag": "JUBS#579",
@@ -41,17 +55,17 @@
     "name": "mayonator69420",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1646.4,
+    "rating": 1635.2,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "66.5",
-      "33.5"
+      "66.6",
+      "33.4"
     ],
     "wins": 176,
-    "losses": 152
+    "losses": 153
   },
   "PANC#613": {
     "name": "panchito$",
@@ -559,6 +573,22 @@
     "wins": 17,
     "losses": 12
   },
+  "MOSHI#0": {
+    "name": "armpit sniffer",
+    "tag": "MOSHI#0",
+    "rank": "PLATINUM 1",
+    "rating": 1765.6,
+    "characters": [
+      "Peach",
+      "Ness"
+    ],
+    "percentages": [
+      "94.0",
+      "6.0"
+    ],
+    "wins": 170,
+    "losses": 171
+  },
   "SMEG#879": {
     "name": "FURBY",
     "tag": "SMEG#879",
@@ -602,5 +632,19 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "VYV#0": {
+    "name": "vyv",
+    "tag": "VYV#0",
+    "rank": "BRONZE 3",
+    "rating": 963.8,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 8
   }
 }
