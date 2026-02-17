@@ -101,26 +101,6 @@
     "wins": 5,
     "losses": 5
   },
-  "SPOR#247": {
-    "name": "Jub Lee",
-    "tag": "SPOR#247",
-    "rank": "GOLD 1",
-    "rating": 1485,
-    "characters": [
-      "Falcon",
-      "Fox",
-      "Marth",
-      "Doc"
-    ],
-    "percentages": [
-      "41.9",
-      "26.7",
-      "16.3",
-      "15.1"
-    ],
-    "wins": 19,
-    "losses": 17
-  },
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
@@ -297,6 +277,20 @@
     "wins": 60,
     "losses": 30
   },
+  "FUCKIN#1": {
+    "name": "fknsilver",
+    "tag": "FUCKIN#1",
+    "rank": "GRANDMASTER",
+    "rating": 2297.8,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "96.6"
+    ],
+    "wins": 239,
+    "losses": 81
+  },
   "JINK#1": {
     "name": "nai.eve",
     "tag": "JINK#1",
@@ -362,6 +356,16 @@
     ],
     "wins": 177,
     "losses": 164
+  },
+  "DNZO#333": {
+    "name": "the thinker",
+    "tag": "DNZO#333",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "KM#12": {
     "name": "kneemaster12",
@@ -441,11 +445,21 @@
     "wins": 0,
     "losses": 0
   },
+  "JHTL#587": {
+    "name": "JHTL",
+    "tag": "JHTL#587",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "YOSH#458": {
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1710.1,
+    "rating": 1692.7,
     "characters": [
       "Yoshi",
       "DK"
@@ -455,7 +469,7 @@
       "5.4"
     ],
     "wins": 255,
-    "losses": 244
+    "losses": 245
   },
   "DEE#218": {
     "name": "goopy loves you",
