@@ -330,8 +330,8 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 2",
-    "rating": 1863.4,
+    "rank": "PLATINUM 1",
+    "rating": 1839.9,
     "characters": [
       "Marth"
     ],
@@ -339,7 +339,7 @@
       "100.0"
     ],
     "wins": 29,
-    "losses": 28
+    "losses": 30
   },
   "ZBOO#991": {
     "name": "(-:",
