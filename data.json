@@ -475,6 +475,22 @@
     "wins": 0,
     "losses": 0
   },
+  "YOSH#458": {
+    "name": "Mr9thPlace",
+    "tag": "YOSH#458",
+    "rank": "GOLD 3",
+    "rating": 1710.1,
+    "characters": [
+      "Yoshi",
+      "DK"
+    ],
+    "percentages": [
+      "94.3",
+      "5.4"
+    ],
+    "wins": 255,
+    "losses": 244
+  },
   "DEE#218": {
     "name": "goopy loves you",
     "tag": "DEE#218",
