@@ -1,18 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "Yea you thought",
-    "tag": "WWJ#916",
-    "rank": "GOLD 1",
-    "rating": 1468.8,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 1
-  },
   "JUBS#579": {
     "name": "phlubly",
     "tag": "JUBS#579",
@@ -479,16 +465,16 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1658.7,
+    "rating": 1672.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "94.3",
+      "94.4",
       "5.4"
     ],
-    "wins": 258,
+    "wins": 259,
     "losses": 252
   },
   "DEE#218": {
@@ -573,22 +559,6 @@
     "wins": 17,
     "losses": 12
   },
-  "MOSHI#0": {
-    "name": "armpit sniffer",
-    "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1765.6,
-    "characters": [
-      "Peach",
-      "Ness"
-    ],
-    "percentages": [
-      "94.0",
-      "6.0"
-    ],
-    "wins": 170,
-    "losses": 171
-  },
   "SMEG#879": {
     "name": "FURBY",
     "tag": "SMEG#879",
@@ -632,19 +602,5 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "VYV#0": {
-    "name": "vyv",
-    "tag": "VYV#0",
-    "rank": "BRONZE 3",
-    "rating": 963.8,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 2,
-    "losses": 8
   }
 }
