@@ -101,6 +101,26 @@
     "wins": 5,
     "losses": 5
   },
+  "SPOR#247": {
+    "name": "Jub Lee",
+    "tag": "SPOR#247",
+    "rank": "GOLD 1",
+    "rating": 1485,
+    "characters": [
+      "Falcon",
+      "Fox",
+      "Marth",
+      "Doc"
+    ],
+    "percentages": [
+      "41.9",
+      "26.7",
+      "16.3",
+      "15.1"
+    ],
+    "wins": 19,
+    "losses": 17
+  },
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
@@ -459,7 +479,7 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1692.7,
+    "rating": 1658.7,
     "characters": [
       "Yoshi",
       "DK"
@@ -468,8 +488,8 @@
       "94.3",
       "5.4"
     ],
-    "wins": 255,
-    "losses": 245
+    "wins": 258,
+    "losses": 252
   },
   "DEE#218": {
     "name": "goopy loves you",
