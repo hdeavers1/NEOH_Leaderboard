@@ -121,6 +121,22 @@
     "wins": 19,
     "losses": 17
   },
+  "ANT#480": {
+    "name": "Zantryx",
+    "tag": "ANT#480",
+    "rank": "GOLD 1",
+    "rating": 1437.4,
+    "characters": [
+      "Marth",
+      "Roy"
+    ],
+    "percentages": [
+      "94.3",
+      "3.8"
+    ],
+    "wins": 53,
+    "losses": 55
+  },
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
@@ -196,7 +212,7 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "GRANDMASTER",
+    "rank": "MASTER 1",
     "rating": 2248.9,
     "characters": [
       "Sheik"
