@@ -55,17 +55,17 @@
     "name": "mayonator69420",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1627.1,
+    "rating": 1636,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "66.8",
-      "33.2"
+      "67.2",
+      "32.8"
     ],
-    "wins": 178,
-    "losses": 155
+    "wins": 181,
+    "losses": 157
   },
   "PANC#613": {
     "name": "panchito$",
@@ -154,22 +154,22 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "SILVER 1",
-    "rating": 1185.4,
+    "rank": "SILVER 2",
+    "rating": 1265.9,
     "characters": [
       "Peach",
-      "Falcon",
       "Fox",
-      "Ness"
+      "Falcon",
+      "Pikachu"
     ],
     "percentages": [
-      "47.4",
-      "21.1",
-      "10.5",
-      "10.5"
+      "37.0",
+      "29.6",
+      "14.8",
+      "11.1"
     ],
-    "wins": 3,
-    "losses": 5
+    "wins": 5,
+    "losses": 6
   },
   "FRUM#591": {
     "name": "halB halB halB",
@@ -199,15 +199,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1801.6,
+    "rating": 1798.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 82,
-    "losses": 68
+    "wins": 83,
+    "losses": 69
   },
   "JUST#577": {
     "name": "Just",
@@ -440,20 +440,6 @@
     ],
     "wins": 2,
     "losses": 4
-  },
-  "SERE#225": {
-    "name": "sp1n :>",
-    "tag": "SERE#225",
-    "rank": "DIAMOND 1",
-    "rating": 2051.3,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "99.0"
-    ],
-    "wins": 201,
-    "losses": 184
   },
   "MARF#811": {
     "name": "Marfweasel",
