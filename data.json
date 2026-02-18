@@ -37,21 +37,19 @@
     "wins": 0,
     "losses": 0
   },
-  "MAYO#795": {
-    "name": "mayonator69420",
-    "tag": "MAYO#795",
+  "QCUM#685": {
+    "name": "Fat Chud",
+    "tag": "QCUM#685",
     "rank": "GOLD 2",
-    "rating": 1636,
+    "rating": 1570.2,
     "characters": [
-      "Falcon",
-      "DK"
+      "Fox"
     ],
     "percentages": [
-      "67.2",
-      "32.8"
+      "100.0"
     ],
-    "wins": 181,
-    "losses": 157
+    "wins": 20,
+    "losses": 17
   },
   "PANC#613": {
     "name": "panchito$",
@@ -166,20 +164,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "CUTS#327": {
-    "name": "PaulBetDavidson",
-    "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1854,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "99.3"
-    ],
-    "wins": 90,
-    "losses": 87
   },
   "ASIG#701": {
     "name": "aSig",
@@ -414,7 +398,7 @@
     "losses": 15
   },
   "MEDIC#0": {
-    "name": "MEDIC!",
+    "name": "!CIDEM",
     "tag": "MEDIC#0",
     "rank": "SILVER 1",
     "rating": 1103.8,
@@ -522,22 +506,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "DANK#954": {
-    "name": "DankKnight",
-    "tag": "DANK#954",
-    "rank": "SILVER 2",
-    "rating": 1191.3,
-    "characters": [
-      "Marth",
-      "Fox"
-    ],
-    "percentages": [
-      "90.7",
-      "7.4"
-    ],
-    "wins": 10,
-    "losses": 14
   },
   "NCRO#183": {
     "name": "Ncro",
