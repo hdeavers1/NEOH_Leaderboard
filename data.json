@@ -51,6 +51,22 @@
     "wins": 20,
     "losses": 17
   },
+  "MAYO#795": {
+    "name": "mayonator69420",
+    "tag": "MAYO#795",
+    "rank": "GOLD 2",
+    "rating": 1636,
+    "characters": [
+      "Falcon",
+      "DK"
+    ],
+    "percentages": [
+      "67.2",
+      "32.8"
+    ],
+    "wins": 181,
+    "losses": 157
+  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -506,6 +522,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "DANK#954": {
+    "name": "DankKnight",
+    "tag": "DANK#954",
+    "rank": "SILVER 2",
+    "rating": 1191.3,
+    "characters": [
+      "Marth",
+      "Fox"
+    ],
+    "percentages": [
+      "90.7",
+      "7.4"
+    ],
+    "wins": 10,
+    "losses": 14
   },
   "NCRO#183": {
     "name": "Ncro",
