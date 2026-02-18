@@ -137,20 +137,6 @@
     "wins": 53,
     "losses": 55
   },
-  "JARD#561": {
-    "name": "pingas",
-    "tag": "JARD#561",
-    "rank": "PENDING",
-    "rating": 3,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 0,
-    "losses": 2
-  },
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
