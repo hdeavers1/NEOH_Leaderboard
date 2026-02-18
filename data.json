@@ -14,7 +14,7 @@
     "losses": 1
   },
   "JUBS#579": {
-    "name": "phlubly",
+    "name": "Lub",
     "tag": "JUBS#579",
     "rank": "GOLD 3",
     "rating": 1704.3,
@@ -180,6 +180,20 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "CUTS#327": {
+    "name": "PaulBetDavidson",
+    "tag": "CUTS#327",
+    "rank": "PLATINUM 2",
+    "rating": 1854,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "99.3"
+    ],
+    "wins": 90,
+    "losses": 87
   },
   "ASIG#701": {
     "name": "aSig",
@@ -506,16 +520,6 @@
   "EGAG#906": {
     "name": "kaz kaan (mtf)",
     "tag": "EGAG#906",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "WICE#699": {
-    "name": "Dougie Jones",
-    "tag": "WICE#699",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
