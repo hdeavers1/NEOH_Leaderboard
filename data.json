@@ -301,15 +301,15 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2297.8,
+    "rating": 2309.3,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "96.6"
+      "96.4"
     ],
-    "wins": 239,
-    "losses": 81
+    "wins": 244,
+    "losses": 82
   },
   "JINK#1": {
     "name": "nai.eve",
@@ -411,22 +411,6 @@
     "wins": 0,
     "losses": 0
   },
-  "PGH#412": {
-    "name": "Ft. PGH Carroll",
-    "tag": "PGH#412",
-    "rank": "PLATINUM 3",
-    "rating": 1988.6,
-    "characters": [
-      "Peach",
-      "Fox"
-    ],
-    "percentages": [
-      "91.5",
-      "8.5"
-    ],
-    "wins": 21,
-    "losses": 15
-  },
   "MEDIC#0": {
     "name": "!CIDEM",
     "tag": "MEDIC#0",
@@ -479,16 +463,16 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1684.6,
+    "rating": 1717.9,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "94.4",
+      "94.5",
       "5.3"
     ],
-    "wins": 262,
+    "wins": 264,
     "losses": 254
   },
   "DEE#218": {
