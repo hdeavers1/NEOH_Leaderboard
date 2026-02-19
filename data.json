@@ -124,8 +124,8 @@
   "ANT#480": {
     "name": "Zantryx",
     "tag": "ANT#480",
-    "rank": "GOLD 1",
-    "rating": 1437.4,
+    "rank": "SILVER 3",
+    "rating": 1427.9,
     "characters": [
       "Marth",
       "Roy"
@@ -135,7 +135,7 @@
       "3.8"
     ],
     "wins": 53,
-    "losses": 55
+    "losses": 56
   },
   "JARD#561": {
     "name": "pingas",
@@ -410,6 +410,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "PGH#412": {
+    "name": "Ft. PGH Carroll",
+    "tag": "PGH#412",
+    "rank": "PLATINUM 3",
+    "rating": 1988.6,
+    "characters": [
+      "Peach",
+      "Fox"
+    ],
+    "percentages": [
+      "91.5",
+      "8.5"
+    ],
+    "wins": 21,
+    "losses": 15
   },
   "MEDIC#0": {
     "name": "!CIDEM",
