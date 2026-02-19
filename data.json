@@ -492,7 +492,7 @@
     "losses": 254
   },
   "DEE#218": {
-    "name": "goopy loves you",
+    "name": "hachi loves aoi",
     "tag": "DEE#218",
     "rank": "GOLD 3",
     "rating": 1703.6,
@@ -520,6 +520,16 @@
   "EGAG#906": {
     "name": "kaz kaan (mtf)",
     "tag": "EGAG#906",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "WICE#699": {
+    "name": "Dougie Jones",
+    "tag": "WICE#699",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
