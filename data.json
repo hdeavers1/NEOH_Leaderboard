@@ -257,16 +257,6 @@
     "wins": 96,
     "losses": 59
   },
-  "GRIM#801": {
-    "name": "Shiesty",
-    "tag": "GRIM#801",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "GHST#232": {
     "name": "Ghuff",
     "tag": "GHST#232",
@@ -444,16 +434,16 @@
   "SERE#225": {
     "name": "sp1n :>",
     "tag": "SERE#225",
-    "rank": "DIAMOND 1",
-    "rating": 2058.6,
+    "rank": "PLATINUM 3",
+    "rating": 1994.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 203,
-    "losses": 185
+    "wins": 204,
+    "losses": 192
   },
   "MARF#811": {
     "name": "Marfweasel",
