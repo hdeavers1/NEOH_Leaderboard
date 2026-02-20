@@ -195,20 +195,6 @@
     "wins": 90,
     "losses": 87
   },
-  "ASIG#701": {
-    "name": "aSig",
-    "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1798.4,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 83,
-    "losses": 69
-  },
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
@@ -388,7 +374,7 @@
     "losses": 0
   },
   "KM#12": {
-    "name": "kneemaster12",
+    "name": "coincel",
     "tag": "KM#12",
     "rank": "GOLD 3",
     "rating": 1698.1,
