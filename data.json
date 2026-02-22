@@ -297,6 +297,20 @@
     "wins": 60,
     "losses": 30
   },
+  "FUCKIN#1": {
+    "name": "fknsilver",
+    "tag": "FUCKIN#1",
+    "rank": "GRANDMASTER",
+    "rating": 2309.3,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "96.4"
+    ],
+    "wins": 244,
+    "losses": 82
+  },
   "JINK#1": {
     "name": "nai.eve",
     "tag": "JINK#1",
