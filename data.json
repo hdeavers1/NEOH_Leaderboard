@@ -285,17 +285,17 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "DIAMOND 2",
-    "rating": 2075.7,
+    "rating": 2078.9,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "96.3",
-      "2.9"
+      "96.0",
+      "3.2"
     ],
-    "wins": 66,
-    "losses": 34
+    "wins": 68,
+    "losses": 37
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -574,6 +574,22 @@
     ],
     "wins": 20,
     "losses": 18
+  },
+  "MOSHI#0": {
+    "name": "the gobbler",
+    "tag": "MOSHI#0",
+    "rank": "PLATINUM 1",
+    "rating": 1763.8,
+    "characters": [
+      "Peach",
+      "Ness"
+    ],
+    "percentages": [
+      "94.0",
+      "6.0"
+    ],
+    "wins": 171,
+    "losses": 172
   },
   "SMEG#879": {
     "name": "FURBY",
