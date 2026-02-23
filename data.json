@@ -284,18 +284,18 @@
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
-    "rank": "DIAMOND 2",
-    "rating": 2078.9,
+    "rank": "DIAMOND 1",
+    "rating": 2039.2,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "96.0",
-      "3.2"
+      "95.8",
+      "3.4"
     ],
-    "wins": 68,
-    "losses": 37
+    "wins": 69,
+    "losses": 41
   },
   "FUCKIN#1": {
     "name": "fknsilver",
