@@ -301,14 +301,16 @@
     "name": "fknsilver",
     "tag": "FUCKIN#1",
     "rank": "GRANDMASTER",
-    "rating": 2308.2,
+    "rating": 2318.4,
     "characters": [
-      "Samus"
+      "Samus",
+      "Fox"
     ],
     "percentages": [
-      "96.0"
+      "95.9",
+      "2.0"
     ],
-    "wins": 254,
+    "wins": 257,
     "losses": 84
   },
   "JINK#1": {
