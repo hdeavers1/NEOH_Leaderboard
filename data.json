@@ -477,22 +477,6 @@
     "wins": 0,
     "losses": 0
   },
-  "YOSH#458": {
-    "name": "Mr9thPlace",
-    "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1717.9,
-    "characters": [
-      "Yoshi",
-      "DK"
-    ],
-    "percentages": [
-      "94.5",
-      "5.3"
-    ],
-    "wins": 264,
-    "losses": 254
-  },
   "DEE#218": {
     "name": "hachi loves aoi",
     "tag": "DEE#218",
@@ -512,6 +496,16 @@
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "EGAG#906": {
+    "name": "kaz kaan (mtf)",
+    "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
