@@ -54,17 +54,17 @@
   "MAYO#795": {
     "name": "mayonator69420",
     "tag": "MAYO#795",
-    "rank": "GOLD 2",
-    "rating": 1652.3,
+    "rank": "GOLD 3",
+    "rating": 1664.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "68.7",
-      "31.3"
+      "68.6",
+      "31.4"
     ],
-    "wins": 191,
+    "wins": 192,
     "losses": 167
   },
   "PANC#613": {
@@ -139,7 +139,7 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "SILVER 3",
-    "rating": 1372.6,
+    "rating": 1409.5,
     "characters": [
       "Peach",
       "Fox",
@@ -147,12 +147,12 @@
       "Pikachu"
     ],
     "percentages": [
-      "38.7",
-      "32.3",
-      "12.9",
-      "9.7"
+      "42.4",
+      "30.3",
+      "12.1",
+      "9.1"
     ],
-    "wins": 7,
+    "wins": 8,
     "losses": 6
   },
   "FRUM#591": {
@@ -178,6 +178,34 @@
     ],
     "wins": 102,
     "losses": 91
+  },
+  "ASIG#701": {
+    "name": "aSig",
+    "tag": "ASIG#701",
+    "rank": "PLATINUM 2",
+    "rating": 1845.9,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 96,
+    "losses": 78
+  },
+  "JUST#577": {
+    "name": "Just",
+    "tag": "JUST#577",
+    "rank": "MASTER 1",
+    "rating": 2248.9,
+    "characters": [
+      "Sheik"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 29,
+    "losses": 5
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -371,17 +399,17 @@
     "name": "hachi loves aoi",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1703.6,
+    "rating": 1694.4,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "55.1",
-      "44.3"
+      "54.3",
+      "45.1"
     ],
-    "wins": 78,
-    "losses": 74
+    "wins": 79,
+    "losses": 75
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -492,16 +520,6 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
