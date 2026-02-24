@@ -284,18 +284,18 @@
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
-    "rank": "DIAMOND 1",
-    "rating": 2039.2,
+    "rank": "PLATINUM 3",
+    "rating": 2000.8,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "95.8",
+      "95.9",
       "3.4"
     ],
-    "wins": 69,
-    "losses": 41
+    "wins": 70,
+    "losses": 43
   },
   "FUCKIN#1": {
     "name": "fknsilver",
@@ -390,7 +390,7 @@
     "losses": 0
   },
   "KM#12": {
-    "name": "coincel",
+    "name": "thChinesCoincel",
     "tag": "KM#12",
     "rank": "GOLD 3",
     "rating": 1698.1,
