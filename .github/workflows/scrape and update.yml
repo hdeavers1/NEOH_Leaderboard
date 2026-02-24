@@ -20,11 +20,18 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Remove puppeteer-core (if exists)
+        run: npm uninstall puppeteer-core
+
       - name: Install dependencies
-        run: npm install puppeteer
+        run: npm install puppeteer@latest
+
+      - name: Ensure Chromium is available
+        run: npx puppeteer browsers install chrome
 
       - name: Run scraper
         run: node server.js
+
 
       - name: Commit and push data
         env:
@@ -32,12 +39,14 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-
-          git pull --rebase origin main
-
-          git add data.json
+          
+          # Stage all modified files (or swap for `git add data.json` if you only want that one)
+          git add -A
           git diff --cached --quiet || git commit -m "⏰ Hourly data update"
-
+          
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/hdeavers1/NEOH_Leaderboard
           git push origin HEAD
+
+
+          
           
