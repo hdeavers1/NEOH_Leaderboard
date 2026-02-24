@@ -139,7 +139,7 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "SILVER 3",
-    "rating": 1409.5,
+    "rating": 1373.9,
     "characters": [
       "Peach",
       "Fox",
@@ -147,13 +147,13 @@
       "Pikachu"
     ],
     "percentages": [
-      "42.4",
-      "30.3",
-      "12.1",
-      "9.1"
+      "40.0",
+      "34.3",
+      "11.4",
+      "8.6"
     ],
     "wins": 8,
-    "losses": 6
+    "losses": 7
   },
   "FRUM#591": {
     "name": "halB halB halB",
@@ -399,17 +399,17 @@
     "name": "hachi loves aoi",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1694.4,
+    "rating": 1679.2,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "54.3",
-      "45.1"
+      "53.8",
+      "45.6"
     ],
     "wins": 79,
-    "losses": 75
+    "losses": 76
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -520,6 +520,16 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "CHAZ#100": {
+    "name": "chase",
+    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
