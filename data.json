@@ -252,18 +252,18 @@
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
-    "rank": "DIAMOND 1",
-    "rating": 2054.9,
+    "rank": "DIAMOND 2",
+    "rating": 2079.6,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "96.0",
-      "3.2"
+      "95.5",
+      "3.8"
     ],
-    "wins": 74,
-    "losses": 43
+    "wins": 77,
+    "losses": 46
   },
   "FLOW#08": {
     "name": "Flow",
@@ -510,16 +510,6 @@
   "BOZO#386": {
     "name": "super pichu",
     "tag": "BOZO#386",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "SYS#0": {
-    "name": "Syspen",
-    "tag": "SYS#0",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
