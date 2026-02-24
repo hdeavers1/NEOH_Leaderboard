@@ -135,6 +135,26 @@
     "wins": 0,
     "losses": 2
   },
+  "FUEL#375": {
+    "name": "Fuelperks",
+    "tag": "FUEL#375",
+    "rank": "SILVER 3",
+    "rating": 1372.6,
+    "characters": [
+      "Peach",
+      "Fox",
+      "Falcon",
+      "Pikachu"
+    ],
+    "percentages": [
+      "38.7",
+      "32.3",
+      "12.9",
+      "9.7"
+    ],
+    "wins": 7,
+    "losses": 6
+  },
   "FRUM#591": {
     "name": "halB halB halB",
     "tag": "FRUM#591",
