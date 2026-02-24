@@ -55,17 +55,17 @@
     "name": "mayonator69420",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1695.2,
+    "rating": 1655,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "67.5",
-      "32.5"
+      "67.9",
+      "32.1"
     ],
     "wins": 185,
-    "losses": 157
+    "losses": 161
   },
   "PANC#613": {
     "name": "panchito$",
@@ -120,22 +120,6 @@
     ],
     "wins": 19,
     "losses": 17
-  },
-  "ANT#480": {
-    "name": "Zantryx",
-    "tag": "ANT#480",
-    "rank": "GOLD 1",
-    "rating": 1440,
-    "characters": [
-      "Marth",
-      "Roy"
-    ],
-    "percentages": [
-      "94.4",
-      "3.7"
-    ],
-    "wins": 54,
-    "losses": 56
   },
   "JARD#561": {
     "name": "pingas",
@@ -198,15 +182,15 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1806.2,
+    "rank": "PLATINUM 2",
+    "rating": 1845.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 93,
+    "wins": 96,
     "losses": 78
   },
   "JUST#577": {
@@ -240,22 +224,6 @@
     ],
     "wins": 15,
     "losses": 12
-  },
-  "PLAY#647": {
-    "name": "Holiday",
-    "tag": "PLAY#647",
-    "rank": "DIAMOND 2",
-    "rating": 2101.6,
-    "characters": [
-      "Luigi",
-      "Sheik"
-    ],
-    "percentages": [
-      "95.3",
-      "4.4"
-    ],
-    "wins": 96,
-    "losses": 59
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -297,43 +265,11 @@
     "wins": 70,
     "losses": 43
   },
-  "FUCKIN#1": {
-    "name": "fknsilver",
-    "tag": "FUCKIN#1",
-    "rank": "GRANDMASTER",
-    "rating": 2318.4,
-    "characters": [
-      "Samus",
-      "Fox"
-    ],
-    "percentages": [
-      "95.9",
-      "2.0"
-    ],
-    "wins": 257,
-    "losses": 84
-  },
-  "JINK#1": {
-    "name": "nai.eve",
-    "tag": "JINK#1",
-    "rank": "MASTER 1",
-    "rating": 2252.2,
-    "characters": [
-      "Marth",
-      "Fox"
-    ],
-    "percentages": [
-      "97.3",
-      "2.4"
-    ],
-    "wins": 116,
-    "losses": 58
-  },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 3",
-    "rating": 1929,
+    "rank": "PLATINUM 2",
+    "rating": 1887.7,
     "characters": [
       "Marth"
     ],
@@ -341,7 +277,7 @@
       "100.0"
     ],
     "wins": 34,
-    "losses": 31
+    "losses": 33
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -367,17 +303,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1852.3,
+    "rating": 1856.6,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "69.0",
+      "69.1",
       "30.1"
     ],
-    "wins": 177,
-    "losses": 164
+    "wins": 179,
+    "losses": 166
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -403,16 +339,6 @@
     "wins": 13,
     "losses": 8
   },
-  "DREW#175": {
-    "name": "Unc",
-    "tag": "DREW#175",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
@@ -428,20 +354,6 @@
     ],
     "wins": 22,
     "losses": 17
-  },
-  "MEDIC#0": {
-    "name": "MEDIC!",
-    "tag": "MEDIC#0",
-    "rank": "SILVER 1",
-    "rating": 1103.8,
-    "characters": [
-      "Luigi"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 2,
-    "losses": 4
   },
   "SERE#225": {
     "name": "sp1n :>",
@@ -460,16 +372,6 @@
   "MARF#811": {
     "name": "Marfweasel",
     "tag": "MARF#811",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "JHTL#587": {
-    "name": "JHTL",
-    "tag": "JHTL#587",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
@@ -648,5 +550,43 @@
     ],
     "wins": 2,
     "losses": 8
+  },
+  "JDBN#000": {
+    "name": "jodben",
+    "tag": "JDBN#000",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "PHNX#609": {
+    "name": "Phoenix",
+    "tag": "PHNX#609",
+    "rank": "PLATINUM 1",
+    "rating": 1758.2,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 20,
+    "losses": 13
+  },
+  "LAND#19": {
+    "name": "emma goldman",
+    "tag": "LAND#19",
+    "rank": "GOLD 1",
+    "rating": 1530.2,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 6,
+    "losses": 1
   }
 }
