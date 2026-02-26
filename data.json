@@ -55,7 +55,7 @@
     "name": "mayonator69420",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1686.3,
+    "rating": 1687.2,
     "characters": [
       "Falcon",
       "DK"
@@ -64,8 +64,8 @@
       "69.2",
       "30.8"
     ],
-    "wins": 196,
-    "losses": 171
+    "wins": 197,
+    "losses": 172
   },
   "PANC#613": {
     "name": "panchito$",
@@ -183,6 +183,20 @@
     "wins": 102,
     "losses": 91
   },
+  "ASIG#701": {
+    "name": "aSig",
+    "tag": "ASIG#701",
+    "rank": "PLATINUM 2",
+    "rating": 1845.9,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 96,
+    "losses": 78
+  },
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
@@ -196,24 +210,6 @@
     ],
     "wins": 29,
     "losses": 5
-  },
-  "SPOT#861": {
-    "name": "Stimulant fiend",
-    "tag": "SPOT#861",
-    "rank": "GOLD 2",
-    "rating": 1586.6,
-    "characters": [
-      "Sheik",
-      "Fox",
-      "Marth"
-    ],
-    "percentages": [
-      "70.6",
-      "14.7",
-      "14.7"
-    ],
-    "wins": 15,
-    "losses": 12
   },
   "GRIM#801": {
     "name": "Shiesty",
@@ -373,7 +369,7 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1717.9,
+    "rating": 1738,
     "characters": [
       "Yoshi",
       "DK"
@@ -382,7 +378,7 @@
       "94.5",
       "5.3"
     ],
-    "wins": 264,
+    "wins": 266,
     "losses": 254
   },
   "DEE#218": {
