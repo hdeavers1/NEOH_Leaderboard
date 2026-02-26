@@ -38,10 +38,10 @@
     "losses": 0
   },
   "QCUM#685": {
-    "name": "Fat Chud",
+    "name": "Large Diet Coke",
     "tag": "QCUM#685",
     "rank": "GOLD 2",
-    "rating": 1570.2,
+    "rating": 1559.1,
     "characters": [
       "Fox"
     ],
@@ -49,7 +49,7 @@
       "100.0"
     ],
     "wins": 20,
-    "losses": 17
+    "losses": 18
   },
   "MAYO#795": {
     "name": "mayonator69420",
@@ -293,6 +293,16 @@
     "wins": 0,
     "losses": 0
   },
+  "PEE#658": {
+    "name": "Gannon Sharpe",
+    "tag": "PEE#658",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
@@ -472,7 +482,7 @@
     "losses": 18
   },
   "MOSHI#0": {
-    "name": "the gobbler",
+    "name": "pass_brickyard",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1763.8,
