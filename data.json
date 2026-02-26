@@ -415,6 +415,16 @@
     "wins": 79,
     "losses": 76
   },
+  "SUCC#860": {
+    "name": "Wahey",
+    "tag": "SUCC#860",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "EGAG#906": {
     "name": "kaz kaan (mtf)",
     "tag": "EGAG#906",
@@ -450,56 +460,6 @@
     ],
     "wins": 15,
     "losses": 15
-  },
-  "NCRO#183": {
-    "name": "Ncro",
-    "tag": "NCRO#183",
-    "rank": "GOLD 3",
-    "rating": 1679.8,
-    "characters": [
-      "Fox",
-      "Sheik",
-      "Doc",
-      "Marth"
-    ],
-    "percentages": [
-      "51.1",
-      "27.3",
-      "18.2",
-      "3.4"
-    ],
-    "wins": 20,
-    "losses": 18
-  },
-  "MOSHI#0": {
-    "name": "pass_brickyard",
-    "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1763.8,
-    "characters": [
-      "Peach",
-      "Ness"
-    ],
-    "percentages": [
-      "94.0",
-      "6.0"
-    ],
-    "wins": 171,
-    "losses": 172
-  },
-  "SMEG#879": {
-    "name": "FURBY",
-    "tag": "SMEG#879",
-    "rank": "PLATINUM 1",
-    "rating": 1787.5,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "99.5"
-    ],
-    "wins": 208,
-    "losses": 229
   },
   "BOZO#386": {
     "name": "super pichu",
