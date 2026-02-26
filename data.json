@@ -51,19 +51,35 @@
     "wins": 20,
     "losses": 18
   },
+  "MAYO#795": {
+    "name": "mayonator69420",
+    "tag": "MAYO#795",
+    "rank": "GOLD 3",
+    "rating": 1687.2,
+    "characters": [
+      "Falcon",
+      "DK"
+    ],
+    "percentages": [
+      "69.2",
+      "30.8"
+    ],
+    "wins": 197,
+    "losses": 172
+  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
-    "rank": "SILVER 3",
-    "rating": 1364,
+    "rank": "GOLD 1",
+    "rating": 1461.6,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
-    "losses": 2
+    "wins": 5,
+    "losses": 3
   },
   "LVLM#792": {
     "name": "Up Syndrome",
@@ -357,16 +373,6 @@
     "wins": 209,
     "losses": 192
   },
-  "MARF#811": {
-    "name": "Marfweasel",
-    "tag": "MARF#811",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "YOSH#458": {
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
@@ -402,6 +408,16 @@
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "EGAG#906": {
+    "name": "kaz kaan (mtf)",
+    "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
