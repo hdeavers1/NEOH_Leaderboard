@@ -51,22 +51,6 @@
     "wins": 20,
     "losses": 18
   },
-  "MAYO#795": {
-    "name": "mayonator69420",
-    "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1687.2,
-    "characters": [
-      "Falcon",
-      "DK"
-    ],
-    "percentages": [
-      "69.2",
-      "30.8"
-    ],
-    "wins": 197,
-    "losses": 172
-  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -257,17 +241,17 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "DIAMOND 3",
-    "rating": 2183.2,
+    "rating": 2173.2,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "95.7",
-      "3.7"
+      "95.8",
+      "3.6"
     ],
-    "wins": 87,
-    "losses": 49
+    "wins": 88,
+    "losses": 51
   },
   "FLOW#08": {
     "name": "Flow",
@@ -418,16 +402,6 @@
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "EGAG#906": {
-    "name": "kaz kaan (mtf)",
-    "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
