@@ -211,6 +211,24 @@
     "wins": 29,
     "losses": 5
   },
+  "SPOT#861": {
+    "name": "Stimulant fiend",
+    "tag": "SPOT#861",
+    "rank": "GOLD 2",
+    "rating": 1586.6,
+    "characters": [
+      "Sheik",
+      "Fox",
+      "Marth"
+    ],
+    "percentages": [
+      "70.6",
+      "14.7",
+      "14.7"
+    ],
+    "wins": 15,
+    "losses": 12
+  },
   "GRIM#801": {
     "name": "Shiesty",
     "tag": "GRIM#801",
