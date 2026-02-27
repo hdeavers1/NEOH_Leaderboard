@@ -211,24 +211,6 @@
     "wins": 29,
     "losses": 5
   },
-  "SPOT#861": {
-    "name": "Stimulant fiend",
-    "tag": "SPOT#861",
-    "rank": "GOLD 2",
-    "rating": 1586.6,
-    "characters": [
-      "Sheik",
-      "Fox",
-      "Marth"
-    ],
-    "percentages": [
-      "70.6",
-      "14.7",
-      "14.7"
-    ],
-    "wins": 15,
-    "losses": 12
-  },
   "GRIM#801": {
     "name": "Shiesty",
     "tag": "GRIM#801",
@@ -342,22 +324,6 @@
     ],
     "wins": 13,
     "losses": 8
-  },
-  "PGH#412": {
-    "name": "Ft. PGH Carroll",
-    "tag": "PGH#412",
-    "rank": "PLATINUM 3",
-    "rating": 1978.6,
-    "characters": [
-      "Peach",
-      "Fox"
-    ],
-    "percentages": [
-      "92.1",
-      "7.9"
-    ],
-    "wins": 22,
-    "losses": 17
   },
   "SERE#225": {
     "name": "sp1n :>",
@@ -511,6 +477,16 @@
     "wins": 208,
     "losses": 229
   },
+  "BOZO#386": {
+    "name": "super pichu",
+    "tag": "BOZO#386",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
@@ -568,19 +544,5 @@
     ],
     "wins": 20,
     "losses": 13
-  },
-  "LAND#19": {
-    "name": "emma goldman",
-    "tag": "LAND#19",
-    "rank": "GOLD 1",
-    "rating": 1530.2,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 6,
-    "losses": 1
   }
 }
