@@ -186,16 +186,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 2",
-    "rating": 1845.9,
+    "rank": "PLATINUM 1",
+    "rating": 1832.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 96,
-    "losses": 78
+    "wins": 97,
+    "losses": 80
   },
   "JUST#577": {
     "name": "Just",
@@ -257,7 +257,7 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "MASTER 1",
-    "rating": 2203.8,
+    "rating": 2195.1,
     "characters": [
       "Pikachu",
       "Falcon"
@@ -267,7 +267,7 @@
       "3.4"
     ],
     "wins": 92,
-    "losses": 52
+    "losses": 53
   },
   "FLOW#08": {
     "name": "Flow",
@@ -510,16 +510,6 @@
     ],
     "wins": 208,
     "losses": 229
-  },
-  "BOZO#386": {
-    "name": "super pichu",
-    "tag": "BOZO#386",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "SYS#0": {
     "name": "Syspen",
