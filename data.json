@@ -307,17 +307,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1856.6,
+    "rating": 1866.3,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "69.1",
-      "30.1"
+      "68.9",
+      "30.0"
     ],
-    "wins": 179,
-    "losses": 166
+    "wins": 182,
+    "losses": 170
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -522,7 +522,7 @@
     "losses": 0
   },
   "SYS#0": {
-    "name": "Syspen",
+    "name": "Brainstorm boy",
     "tag": "SYS#0",
     "rank": "NONE",
     "rating": 0,
