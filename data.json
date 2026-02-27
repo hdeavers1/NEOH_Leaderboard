@@ -256,18 +256,18 @@
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
-    "rank": "DIAMOND 3",
-    "rating": 2173.2,
+    "rank": "MASTER 1",
+    "rating": 2203.8,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "95.8",
-      "3.6"
+      "96.0",
+      "3.4"
     ],
-    "wins": 88,
-    "losses": 51
+    "wins": 92,
+    "losses": 52
   },
   "FLOW#08": {
     "name": "Flow",
@@ -524,6 +524,16 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "CHAZ#100": {
+    "name": "chase",
+    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
