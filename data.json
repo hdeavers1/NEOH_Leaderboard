@@ -67,20 +67,6 @@
     "wins": 197,
     "losses": 172
   },
-  "PANC#613": {
-    "name": "panchito$",
-    "tag": "PANC#613",
-    "rank": "GOLD 1",
-    "rating": 1535.4,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 7,
-    "losses": 4
-  },
   "LVLM#792": {
     "name": "Up Syndrome",
     "tag": "LVLM#792",
@@ -138,6 +124,26 @@
     ],
     "wins": 0,
     "losses": 2
+  },
+  "FUEL#375": {
+    "name": "Fuelperks",
+    "tag": "FUEL#375",
+    "rank": "SILVER 3",
+    "rating": 1373.9,
+    "characters": [
+      "Peach",
+      "Fox",
+      "Falcon",
+      "Pikachu"
+    ],
+    "percentages": [
+      "40.0",
+      "34.3",
+      "11.4",
+      "8.6"
+    ],
+    "wins": 8,
+    "losses": 7
   },
   "FRUM#591": {
     "name": "halB halB halB",
@@ -544,6 +550,20 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "PHNX#609": {
+    "name": "Phoenix",
+    "tag": "PHNX#609",
+    "rank": "PLATINUM 1",
+    "rating": 1758.2,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 20,
+    "losses": 13
   },
   "LAND#19": {
     "name": "emma goldman",
