@@ -67,6 +67,20 @@
     "wins": 197,
     "losses": 172
   },
+  "PANC#613": {
+    "name": "panchito$",
+    "tag": "PANC#613",
+    "rank": "GOLD 1",
+    "rating": 1535.4,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 7,
+    "losses": 4
+  },
   "LVLM#792": {
     "name": "Up Syndrome",
     "tag": "LVLM#792",
@@ -510,16 +524,6 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
