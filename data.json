@@ -139,26 +139,6 @@
     "wins": 0,
     "losses": 2
   },
-  "FUEL#375": {
-    "name": "Fuelperks",
-    "tag": "FUEL#375",
-    "rank": "SILVER 3",
-    "rating": 1373.9,
-    "characters": [
-      "Peach",
-      "Fox",
-      "Falcon",
-      "Pikachu"
-    ],
-    "percentages": [
-      "40.0",
-      "34.3",
-      "11.4",
-      "8.6"
-    ],
-    "wins": 8,
-    "losses": 7
-  },
   "FRUM#591": {
     "name": "halB halB halB",
     "tag": "FRUM#591",
@@ -496,20 +476,6 @@
     ],
     "wins": 171,
     "losses": 172
-  },
-  "SMEG#879": {
-    "name": "FURBY",
-    "tag": "SMEG#879",
-    "rank": "PLATINUM 1",
-    "rating": 1787.5,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "99.5"
-    ],
-    "wins": 208,
-    "losses": 229
   },
   "BOZO#386": {
     "name": "super pichu",
