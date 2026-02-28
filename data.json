@@ -71,15 +71,15 @@
     "name": "panchito$",
     "tag": "PANC#613",
     "rank": "GOLD 2",
-    "rating": 1556.2,
+    "rating": 1553.2,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 8,
-    "losses": 5
+    "wins": 10,
+    "losses": 10
   },
   "LVLM#792": {
     "name": "Up Syndrome",
