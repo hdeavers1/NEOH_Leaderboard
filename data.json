@@ -172,16 +172,16 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 3",
-    "rating": 1954,
+    "rank": "PLATINUM 2",
+    "rating": 1923.8,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "99.3"
+      "99.4"
     ],
-    "wins": 102,
-    "losses": 91
+    "wins": 103,
+    "losses": 95
   },
   "ASIG#701": {
     "name": "aSig",
@@ -418,16 +418,6 @@
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "EGAG#906": {
-    "name": "kaz kaan (mtf)",
-    "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
