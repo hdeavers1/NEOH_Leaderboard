@@ -162,26 +162,32 @@
   "FRUM#591": {
     "name": "halB halB halB",
     "tag": "FRUM#591",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Falco",
+      "Fox"
+    ],
+    "percentages": [
+      "60.0",
+      "40.0"
+    ],
+    "wins": 2,
     "losses": 0
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1923.8,
+    "rank": "PLATINUM 3",
+    "rating": 1942.7,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 103,
-    "losses": 95
+    "wins": 111,
+    "losses": 102
   },
   "ASIG#701": {
     "name": "aSig",
@@ -318,6 +324,16 @@
     ],
     "wins": 182,
     "losses": 170
+  },
+  "DNZO#333": {
+    "name": "the thinker",
+    "tag": "DNZO#333",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "KM#12": {
     "name": "thChinesCoincel",
