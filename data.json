@@ -175,6 +175,20 @@
     "wins": 2,
     "losses": 0
   },
+  "CUTS#327": {
+    "name": "PaulBetDavidson",
+    "tag": "CUTS#327",
+    "rank": "DIAMOND 1",
+    "rating": 2019.3,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "99.4"
+    ],
+    "wins": 119,
+    "losses": 103
+  },
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
