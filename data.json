@@ -105,40 +105,6 @@
     "wins": 5,
     "losses": 5
   },
-  "SPOR#247": {
-    "name": "Jub Lee",
-    "tag": "SPOR#247",
-    "rank": "GOLD 1",
-    "rating": 1485,
-    "characters": [
-      "Falcon",
-      "Fox",
-      "Marth",
-      "Doc"
-    ],
-    "percentages": [
-      "41.9",
-      "26.7",
-      "16.3",
-      "15.1"
-    ],
-    "wins": 19,
-    "losses": 17
-  },
-  "JARD#561": {
-    "name": "pingas",
-    "tag": "JARD#561",
-    "rank": "PENDING",
-    "rating": 3,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 0,
-    "losses": 2
-  },
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
@@ -516,16 +482,6 @@
     ],
     "wins": 208,
     "losses": 229
-  },
-  "BOZO#386": {
-    "name": "super pichu",
-    "tag": "BOZO#386",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "SYS#0": {
     "name": "Syspen",
