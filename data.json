@@ -349,6 +349,22 @@
     "wins": 13,
     "losses": 8
   },
+  "PGH#412": {
+    "name": "Ft. PGH Carroll",
+    "tag": "PGH#412",
+    "rank": "PLATINUM 3",
+    "rating": 1978.6,
+    "characters": [
+      "Peach",
+      "Fox"
+    ],
+    "percentages": [
+      "92.1",
+      "7.9"
+    ],
+    "wins": 22,
+    "losses": 17
+  },
   "SERE#225": {
     "name": "sp1n :>",
     "tag": "SERE#225",
