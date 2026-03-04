@@ -54,18 +54,18 @@
   "MAYO#795": {
     "name": "pocket sand",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1687.2,
+    "rank": "GOLD 2",
+    "rating": 1651.9,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "69.2",
-      "30.8"
+      "69.6",
+      "30.4"
     ],
-    "wins": 197,
-    "losses": 172
+    "wins": 198,
+    "losses": 175
   },
   "PANC#613": {
     "name": "panchito$",
