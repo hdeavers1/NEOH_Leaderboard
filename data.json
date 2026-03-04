@@ -54,8 +54,8 @@
   "MAYO#795": {
     "name": "pocket sand",
     "tag": "MAYO#795",
-    "rank": "GOLD 2",
-    "rating": 1652.4,
+    "rank": "GOLD 3",
+    "rating": 1658.9,
     "characters": [
       "Falcon",
       "DK"
@@ -64,7 +64,7 @@
       "69.4",
       "30.6"
     ],
-    "wins": 200,
+    "wins": 201,
     "losses": 177
   },
   "PANC#613": {
@@ -106,10 +106,10 @@
     "losses": 5
   },
   "SPOR#247": {
-    "name": "Jub Lee",
+    "name": "qrayg",
     "tag": "SPOR#247",
     "rank": "GOLD 1",
-    "rating": 1485,
+    "rating": 1514.6,
     "characters": [
       "Falcon",
       "Fox",
@@ -117,13 +117,13 @@
       "Doc"
     ],
     "percentages": [
-      "41.9",
-      "26.7",
-      "16.3",
-      "15.1"
+      "38.7",
+      "25.8",
+      "21.5",
+      "14.0"
     ],
-    "wins": 19,
-    "losses": 17
+    "wins": 21,
+    "losses": 19
   },
   "JARD#561": {
     "name": "pingas",
