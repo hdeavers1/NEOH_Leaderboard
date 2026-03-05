@@ -471,7 +471,7 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "GOLD 3",
-    "rating": 1702.1,
+    "rating": 1725.3,
     "characters": [
       "Fox",
       "Sheik",
@@ -479,29 +479,29 @@
       "Marth"
     ],
     "percentages": [
-      "49.5",
-      "29.7",
-      "17.6",
-      "3.3"
+      "48.0",
+      "31.6",
+      "17.3",
+      "3.1"
     ],
-    "wins": 21,
-    "losses": 18
+    "wins": 23,
+    "losses": 19
   },
   "MOSHI#0": {
     "name": "pass_brickyard",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1784.1,
+    "rating": 1754,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "94.2",
-      "5.8"
+      "94.1",
+      "5.9"
     ],
     "wins": 178,
-    "losses": 176
+    "losses": 179
   },
   "SMEG#879": {
     "name": "FURBY",
