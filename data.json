@@ -192,16 +192,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1828.3,
+    "rank": "PLATINUM 2",
+    "rating": 1851.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 98,
-    "losses": 81
+    "wins": 102,
+    "losses": 83
   },
   "JUST#577": {
     "name": "Just",
@@ -336,7 +336,7 @@
     "losses": 0
   },
   "KM#12": {
-    "name": "thChinesCoincel",
+    "name": "kneemaster12",
     "tag": "KM#12",
     "rank": "GOLD 3",
     "rating": 1698.1,
