@@ -192,8 +192,8 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 2",
-    "rating": 1850,
+    "rank": "PLATINUM 1",
+    "rating": 1825.9,
     "characters": [
       "Falcon"
     ],
@@ -201,7 +201,7 @@
       "100.0"
     ],
     "wins": 104,
-    "losses": 86
+    "losses": 88
   },
   "JUST#577": {
     "name": "Just",
@@ -488,7 +488,7 @@
     "losses": 20
   },
   "MOSHI#0": {
-    "name": "pass_brickyard",
+    "name": "COCKteau Twins",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1757.6,
