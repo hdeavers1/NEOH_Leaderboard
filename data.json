@@ -471,7 +471,7 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "GOLD 3",
-    "rating": 1725.3,
+    "rating": 1717,
     "characters": [
       "Fox",
       "Sheik",
@@ -479,13 +479,13 @@
       "Marth"
     ],
     "percentages": [
-      "48.0",
-      "31.6",
-      "17.3",
-      "3.1"
+      "47.5",
+      "32.7",
+      "16.8",
+      "3.0"
     ],
     "wins": 23,
-    "losses": 19
+    "losses": 20
   },
   "MOSHI#0": {
     "name": "pass_brickyard",
