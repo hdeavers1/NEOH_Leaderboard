@@ -454,18 +454,18 @@
   "DANK#954": {
     "name": "DankKnight",
     "tag": "DANK#954",
-    "rank": "SILVER 2",
-    "rating": 1294.9,
+    "rank": "SILVER 3",
+    "rating": 1354.7,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "92.4",
-      "6.1"
+      "93.5",
+      "5.2"
     ],
-    "wins": 15,
-    "losses": 15
+    "wins": 19,
+    "losses": 17
   },
   "NCRO#183": {
     "name": "Ncro",
