@@ -178,30 +178,30 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "DIAMOND 1",
-    "rating": 2019.3,
+    "rank": "PLATINUM 3",
+    "rating": 1999.3,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 119,
-    "losses": 103
+    "wins": 120,
+    "losses": 106
   },
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1825.9,
+    "rating": 1840.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 104,
-    "losses": 88
+    "wins": 106,
+    "losses": 89
   },
   "JUST#577": {
     "name": "Just",
