@@ -178,30 +178,30 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 3",
-    "rating": 1999.3,
+    "rank": "DIAMOND 1",
+    "rating": 2028.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
-      "99.4"
+      "99.5"
     ],
-    "wins": 120,
-    "losses": 106
+    "wins": 128,
+    "losses": 114
   },
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1840.2,
+    "rating": 1814.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 106,
-    "losses": 89
+    "wins": 107,
+    "losses": 93
   },
   "JUST#577": {
     "name": "Just",
@@ -313,17 +313,17 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1866.3,
+    "rating": 1849.5,
     "characters": [
       "Fox",
       "Marth"
     ],
     "percentages": [
-      "68.9",
+      "69.0",
       "30.0"
     ],
     "wins": 182,
-    "losses": 170
+    "losses": 172
   },
   "DNZO#333": {
     "name": "the thinker",
