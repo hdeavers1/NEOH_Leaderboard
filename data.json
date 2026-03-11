@@ -82,7 +82,7 @@
     "losses": 13
   },
   "LVLM#792": {
-    "name": "Jeffe Epstein",
+    "name": "Up Syndrome",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -193,29 +193,29 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1814.4,
+    "rating": 1817.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 107,
-    "losses": 93
+    "wins": 108,
+    "losses": 94
   },
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "MASTER 1",
-    "rating": 2248.9,
+    "rank": "MASTER 2",
+    "rating": 2293.5,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 29,
-    "losses": 5
+    "wins": 38,
+    "losses": 8
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
