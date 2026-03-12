@@ -393,33 +393,33 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1724.2,
+    "rating": 1723.2,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "94.4",
+      "94.5",
       "5.3"
     ],
-    "wins": 268,
-    "losses": 256
+    "wins": 269,
+    "losses": 257
   },
   "DEE#218": {
     "name": "Ungoopy Refrain",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1685.5,
+    "rating": 1672.5,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "53.5",
-      "45.9"
+      "53.1",
+      "46.3"
     ],
     "wins": 80,
-    "losses": 76
+    "losses": 77
   },
   "SUCC#860": {
     "name": "Wahey",
