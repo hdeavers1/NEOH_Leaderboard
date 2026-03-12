@@ -82,7 +82,7 @@
     "losses": 13
   },
   "LVLM#792": {
-    "name": "Up Syndrome",
+    "name": "Jeffe Epstein",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -192,15 +192,15 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1838.9,
+    "rank": "PLATINUM 2",
+    "rating": 1905.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 109,
+    "wins": 115,
     "losses": 94
   },
   "JUST#577": {
@@ -488,7 +488,7 @@
     "losses": 20
   },
   "MOSHI#0": {
-    "name": "wifemisser3098",
+    "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1778.4,
