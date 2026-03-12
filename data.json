@@ -279,14 +279,14 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "PLATINUM 2",
-    "rating": 1910.5,
+    "rating": 1918.5,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 35,
+    "wins": 36,
     "losses": 33
   },
   "ZBOO#991": {
@@ -470,8 +470,8 @@
   "NCRO#183": {
     "name": "Ncro",
     "tag": "NCRO#183",
-    "rank": "GOLD 3",
-    "rating": 1743.2,
+    "rank": "PLATINUM 1",
+    "rating": 1784,
     "characters": [
       "Fox",
       "Sheik",
@@ -479,13 +479,13 @@
       "Marth"
     ],
     "percentages": [
-      "49.0",
-      "31.7",
-      "16.3",
-      "2.9"
+      "53.9",
+      "28.7",
+      "14.8",
+      "2.6"
     ],
-    "wins": 24,
-    "losses": 20
+    "wins": 27,
+    "losses": 22
   },
   "MOSHI#0": {
     "name": "moshi",
