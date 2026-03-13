@@ -178,15 +178,15 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "DIAMOND 1",
-    "rating": 2043.5,
+    "rank": "DIAMOND 2",
+    "rating": 2079.1,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 129,
+    "wins": 132,
     "losses": 114
   },
   "ASIG#701": {
@@ -388,6 +388,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "YOSH#458": {
+    "name": "Mr9thPlace",
+    "tag": "YOSH#458",
+    "rank": "GOLD 3",
+    "rating": 1730.4,
+    "characters": [
+      "Yoshi",
+      "DK"
+    ],
+    "percentages": [
+      "94.4",
+      "5.3"
+    ],
+    "wins": 271,
+    "losses": 259
   },
   "DEE#218": {
     "name": "Ungoopy Refrain",
