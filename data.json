@@ -313,7 +313,7 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1866.9,
+    "rating": 1846.1,
     "characters": [
       "Fox",
       "Marth"
@@ -323,7 +323,7 @@
       "30.2"
     ],
     "wins": 186,
-    "losses": 175
+    "losses": 176
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -577,15 +577,15 @@
     "name": "Phoenix",
     "tag": "PHNX#609",
     "rank": "PLATINUM 1",
-    "rating": 1784.2,
+    "rating": 1783.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 27,
-    "losses": 19
+    "wins": 28,
+    "losses": 21
   },
   "LAND#19": {
     "name": "emma goldman",
