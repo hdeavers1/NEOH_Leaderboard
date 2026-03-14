@@ -52,7 +52,7 @@
     "losses": 24
   },
   "MAYO#795": {
-    "name": "pocket sand",
+    "name": "ChihiroRokuhira",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
     "rating": 1611.7,
@@ -577,15 +577,15 @@
     "name": "Phoenix",
     "tag": "PHNX#609",
     "rank": "PLATINUM 1",
-    "rating": 1787.2,
+    "rating": 1784.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 23,
-    "losses": 15
+    "wins": 27,
+    "losses": 19
   },
   "LAND#19": {
     "name": "emma goldman",
