@@ -488,7 +488,7 @@
     "losses": 23
   },
   "MOSHI#0": {
-    "name": "moshi#NEVERGOON",
+    "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1778.4,
@@ -566,11 +566,15 @@
   "JDBN#000": {
     "name": "jodben",
     "tag": "JDBN#000",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
     "losses": 0
   },
   "PHNX#609": {
