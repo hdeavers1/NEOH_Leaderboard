@@ -567,15 +567,17 @@
     "name": "jodben",
     "tag": "JDBN#000",
     "rank": "PENDING",
-    "rating": 4,
+    "rating": 2,
     "characters": [
-      "Fox"
+      "Fox",
+      "ICs"
     ],
     "percentages": [
-      "100.0"
+      "71.4",
+      "28.6"
     ],
     "wins": 1,
-    "losses": 0
+    "losses": 2
   },
   "PHNX#609": {
     "name": "Phoenix",
