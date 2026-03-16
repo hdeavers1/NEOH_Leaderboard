@@ -55,17 +55,17 @@
     "name": "ChihiroRokuhira",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1604.2,
+    "rating": 1638.2,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "70.3",
-      "29.7"
+      "71.1",
+      "28.9"
     ],
-    "wins": 211,
-    "losses": 190
+    "wins": 218,
+    "losses": 194
   },
   "PANC#613": {
     "name": "panchito$",
@@ -207,15 +207,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2302.5,
+    "rating": 2319.8,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 39,
-    "losses": 8
+    "wins": 41,
+    "losses": 9
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -409,7 +409,7 @@
     "name": "Ungoopy Refrain",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1672.5,
+    "rating": 1696.3,
     "characters": [
       "ICs",
       "YLink"
@@ -418,8 +418,8 @@
       "53.1",
       "46.3"
     ],
-    "wins": 80,
-    "losses": 77
+    "wins": 83,
+    "losses": 78
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -486,22 +486,6 @@
     ],
     "wins": 28,
     "losses": 23
-  },
-  "MOSHI#0": {
-    "name": "moshi",
-    "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1778.4,
-    "characters": [
-      "Peach",
-      "Ness"
-    ],
-    "percentages": [
-      "94.3",
-      "5.7"
-    ],
-    "wins": 192,
-    "losses": 189
   },
   "SMEG#879": {
     "name": "FURBY",
