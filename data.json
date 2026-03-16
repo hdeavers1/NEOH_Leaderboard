@@ -55,17 +55,17 @@
     "name": "ChihiroRokuhira",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1611.7,
+    "rating": 1604.2,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "70.0",
-      "30.0"
+      "70.3",
+      "29.7"
     ],
-    "wins": 208,
-    "losses": 187
+    "wins": 211,
+    "losses": 190
   },
   "PANC#613": {
     "name": "panchito$",
@@ -207,14 +207,14 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2293.5,
+    "rating": 2302.5,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 38,
+    "wins": 39,
     "losses": 8
   },
   "SPOT#861": {
