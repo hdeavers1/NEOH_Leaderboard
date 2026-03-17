@@ -70,15 +70,15 @@
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
-    "rank": "GOLD 3",
-    "rating": 1734.9,
+    "rank": "PLATINUM 1",
+    "rating": 1754.1,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 19,
+    "wins": 20,
     "losses": 15
   },
   "LVLM#792": {
@@ -471,7 +471,7 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "PLATINUM 1",
-    "rating": 1789.9,
+    "rating": 1770.5,
     "characters": [
       "Fox",
       "Sheik",
@@ -479,13 +479,13 @@
       "Marth"
     ],
     "percentages": [
-      "54.5",
-      "28.9",
-      "14.0",
-      "2.5"
+      "54.6",
+      "27.7",
+      "15.4",
+      "2.3"
     ],
-    "wins": 28,
-    "losses": 23
+    "wins": 29,
+    "losses": 25
   },
   "MOSHI#0": {
     "name": "moshi",
