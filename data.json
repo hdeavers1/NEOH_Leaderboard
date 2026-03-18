@@ -70,8 +70,8 @@
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
-    "rank": "PLATINUM 1",
-    "rating": 1761.2,
+    "rank": "GOLD 3",
+    "rating": 1746.7,
     "characters": [
       "Falco"
     ],
@@ -79,7 +79,7 @@
       "100.0"
     ],
     "wins": 21,
-    "losses": 17
+    "losses": 18
   },
   "LVLM#792": {
     "name": "Jeffe Epstein",
@@ -471,7 +471,7 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "PLATINUM 1",
-    "rating": 1818.5,
+    "rating": 1834.2,
     "characters": [
       "Fox",
       "Sheik",
@@ -479,12 +479,12 @@
       "Marth"
     ],
     "percentages": [
-      "55.5",
-      "27.7",
-      "14.6",
-      "2.2"
+      "55.7",
+      "27.9",
+      "14.3",
+      "2.1"
     ],
-    "wins": 32,
+    "wins": 33,
     "losses": 25
   },
   "MOSHI#0": {
@@ -583,7 +583,7 @@
     "name": "Phoenix",
     "tag": "PHNX#609",
     "rank": "PLATINUM 1",
-    "rating": 1810.1,
+    "rating": 1778,
     "characters": [
       "Marth"
     ],
@@ -591,7 +591,7 @@
       "100.0"
     ],
     "wins": 29,
-    "losses": 22
+    "losses": 24
   },
   "LAND#19": {
     "name": "emma goldman",
