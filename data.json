@@ -70,16 +70,16 @@
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
-    "rank": "GOLD 3",
-    "rating": 1746.7,
+    "rank": "PLATINUM 1",
+    "rating": 1795.3,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 21,
-    "losses": 18
+    "wins": 25,
+    "losses": 22
   },
   "LVLM#792": {
     "name": "Jeffe Epstein",
@@ -263,17 +263,17 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "DIAMOND 3",
-    "rating": 2175.6,
+    "rating": 2168.9,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "96.3",
+      "96.4",
       "3.1"
     ],
-    "wins": 100,
-    "losses": 58
+    "wins": 101,
+    "losses": 59
   },
   "FLOW#08": {
     "name": "Flow",
