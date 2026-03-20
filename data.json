@@ -490,18 +490,18 @@
   "MOSHI#0": {
     "name": "balls hog",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1731.8,
+    "rank": "PLATINUM 1",
+    "rating": 1768.7,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.8",
-      "6.2"
+      "94.1",
+      "5.9"
     ],
-    "wins": 193,
-    "losses": 196
+    "wins": 202,
+    "losses": 204
   },
   "SMEG#879": {
     "name": "FURBY",
@@ -566,18 +566,18 @@
   "JDBN#000": {
     "name": "jodben",
     "tag": "JDBN#000",
-    "rank": "BRONZE 3",
-    "rating": 1038.1,
+    "rank": "SILVER 1",
+    "rating": 1098.2,
     "characters": [
-      "Fox",
-      "ICs"
+      "ICs",
+      "Fox"
     ],
     "percentages": [
-      "61.5",
-      "38.5"
+      "52.0",
+      "48.0"
     ],
-    "wins": 1,
-    "losses": 4
+    "wins": 3,
+    "losses": 6
   },
   "PHNX#609": {
     "name": "Phoenix",
