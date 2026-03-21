@@ -52,20 +52,20 @@
     "losses": 24
   },
   "MAYO#795": {
-    "name": "ChihiroRokuhira",
+    "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1603.2,
+    "rating": 1639,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "71.1",
-      "28.8"
+      "71.5",
+      "28.4"
     ],
-    "wins": 218,
-    "losses": 197
+    "wins": 223,
+    "losses": 198
   },
   "PANC#613": {
     "name": "panchito$",
@@ -128,15 +128,15 @@
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
-    "rank": "PENDING",
-    "rating": 3,
+    "rank": "SILVER 3",
+    "rating": 1368.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 0,
+    "wins": 4,
     "losses": 2
   },
   "FUEL#375": {
@@ -193,15 +193,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1893.4,
+    "rating": 1860,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 117,
-    "losses": 98
+    "wins": 118,
+    "losses": 102
   },
   "JUST#577": {
     "name": "Just",
