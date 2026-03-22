@@ -262,18 +262,18 @@
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
-    "rank": "MASTER 2",
-    "rating": 2278,
+    "rank": "MASTER 1",
+    "rating": 2256.2,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "96.6",
-      "2.9"
+      "96.8",
+      "2.8"
     ],
-    "wins": 112,
-    "losses": 60
+    "wins": 114,
+    "losses": 64
   },
   "FLOW#08": {
     "name": "Flow",
