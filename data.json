@@ -129,15 +129,15 @@
     "name": "pingas",
     "tag": "JARD#561",
     "rank": "SILVER 3",
-    "rating": 1368.3,
+    "rating": 1358.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
-    "losses": 2
+    "wins": 5,
+    "losses": 4
   },
   "FUEL#375": {
     "name": "Fuelperks",
@@ -313,7 +313,7 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1846.1,
+    "rating": 1846.8,
     "characters": [
       "Fox",
       "Marth"
@@ -322,8 +322,8 @@
       "68.8",
       "30.2"
     ],
-    "wins": 186,
-    "losses": 176
+    "wins": 187,
+    "losses": 177
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -491,17 +491,17 @@
     "name": "balls hog",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1775.1,
+    "rating": 1754.6,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "94.0",
-      "6.0"
+      "93.7",
+      "6.3"
     ],
-    "wins": 207,
-    "losses": 209
+    "wins": 216,
+    "losses": 219
   },
   "SMEG#879": {
     "name": "FURBY",
@@ -583,15 +583,15 @@
     "name": "Phoenix",
     "tag": "PHNX#609",
     "rank": "PLATINUM 2",
-    "rating": 1843.5,
+    "rating": 1867.8,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 33,
-    "losses": 26
+    "wins": 37,
+    "losses": 29
   },
   "LAND#19": {
     "name": "emma goldman",
