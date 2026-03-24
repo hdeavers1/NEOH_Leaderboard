@@ -263,31 +263,31 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "MASTER 1",
-    "rating": 2256.2,
+    "rating": 2255.8,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "96.8",
-      "2.8"
+      "96.9",
+      "2.7"
     ],
-    "wins": 114,
-    "losses": 64
+    "wins": 117,
+    "losses": 66
   },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "PLATINUM 2",
-    "rating": 1919.6,
+    "rating": 1911.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 42,
-    "losses": 39
+    "wins": 43,
+    "losses": 42
   },
   "ZBOO#991": {
     "name": "(-:",
