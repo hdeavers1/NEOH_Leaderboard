@@ -179,15 +179,15 @@
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2039.3,
+    "rating": 2050.5,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 134,
-    "losses": 122
+    "wins": 135,
+    "losses": 123
   },
   "ASIG#701": {
     "name": "aSig",
@@ -263,7 +263,7 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "MASTER 1",
-    "rating": 2255.8,
+    "rating": 2246.1,
     "characters": [
       "Pikachu",
       "Falcon"
@@ -273,7 +273,7 @@
       "2.7"
     ],
     "wins": 117,
-    "losses": 66
+    "losses": 67
   },
   "FLOW#08": {
     "name": "Flow",
