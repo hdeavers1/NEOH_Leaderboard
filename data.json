@@ -262,18 +262,18 @@
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
-    "rank": "MASTER 1",
-    "rating": 2270.1,
+    "rank": "MASTER 2",
+    "rating": 2315.8,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "97.0",
-      "2.5"
+      "97.2",
+      "2.4"
     ],
-    "wins": 125,
-    "losses": 70
+    "wins": 135,
+    "losses": 72
   },
   "FLOW#08": {
     "name": "Flow",
@@ -471,21 +471,19 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "PLATINUM 1",
-    "rating": 1823.2,
+    "rating": 1815.6,
     "characters": [
       "Fox",
       "Sheik",
-      "Doc",
-      "Marth"
+      "Doc"
     ],
     "percentages": [
-      "55.6",
-      "28.2",
-      "14.1",
-      "2.1"
+      "53.0",
+      "27.8",
+      "17.2"
     ],
-    "wins": 33,
-    "losses": 26
+    "wins": 35,
+    "losses": 28
   },
   "MOSHI#0": {
     "name": "Suzy",
