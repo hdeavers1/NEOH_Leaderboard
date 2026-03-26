@@ -207,15 +207,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2319.8,
+    "rating": 2314.2,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 41,
-    "losses": 9
+    "wins": 43,
+    "losses": 10
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -262,18 +262,18 @@
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
-    "rank": "MASTER 2",
-    "rating": 2278.5,
+    "rank": "MASTER 1",
+    "rating": 2270.1,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
       "97.0",
-      "2.6"
+      "2.5"
     ],
-    "wins": 124,
-    "losses": 69
+    "wins": 125,
+    "losses": 70
   },
   "FLOW#08": {
     "name": "Flow",
