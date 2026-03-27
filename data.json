@@ -263,17 +263,17 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2305.2,
+    "rating": 2302.8,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "97.2",
-      "2.4"
+      "97.3",
+      "2.3"
     ],
-    "wins": 135,
-    "losses": 73
+    "wins": 136,
+    "losses": 75
   },
   "FLOW#08": {
     "name": "Ghast Jr.",
@@ -488,18 +488,18 @@
   "MOSHI#0": {
     "name": "Suzy",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1698.2,
+    "rank": "PLATINUM 1",
+    "rating": 1753.1,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.7",
-      "6.3"
+      "93.8",
+      "6.2"
     ],
-    "wins": 218,
-    "losses": 226
+    "wins": 223,
+    "losses": 228
   },
   "SMEG#879": {
     "name": "FURBY",
