@@ -260,7 +260,7 @@
     "losses": 31
   },
   "BLSE#808": {
-    "name": "BOXXday7 bl$e",
+    "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
     "rating": 2305.2,
@@ -393,17 +393,17 @@
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1709.6,
+    "rating": 1715.3,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "94.2",
-      "5.5"
+      "94.0",
+      "5.7"
     ],
-    "wins": 276,
-    "losses": 266
+    "wins": 277,
+    "losses": 267
   },
   "DEE#218": {
     "name": "Ungoopy Refrain",
@@ -471,35 +471,35 @@
     "name": "Ncro",
     "tag": "NCRO#183",
     "rank": "PLATINUM 1",
-    "rating": 1815.6,
+    "rating": 1822.1,
     "characters": [
       "Fox",
       "Sheik",
       "Doc"
     ],
     "percentages": [
-      "53.0",
-      "27.8",
-      "17.2"
+      "52.3",
+      "28.8",
+      "17.0"
     ],
-    "wins": 35,
+    "wins": 36,
     "losses": 28
   },
   "MOSHI#0": {
     "name": "Suzy",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1714.1,
+    "rating": 1698.2,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
-      "93.6",
-      "6.4"
+      "93.7",
+      "6.3"
     ],
-    "wins": 216,
-    "losses": 223
+    "wins": 218,
+    "losses": 226
   },
   "SMEG#879": {
     "name": "FURBY",
@@ -565,30 +565,30 @@
     "name": "jodben",
     "tag": "JDBN#000",
     "rank": "SILVER 1",
-    "rating": 1098.2,
+    "rating": 1077.4,
     "characters": [
-      "ICs",
-      "Fox"
+      "Fox",
+      "ICs"
     ],
     "percentages": [
-      "52.0",
-      "48.0"
+      "66.7",
+      "33.3"
     ],
-    "wins": 3,
-    "losses": 6
+    "wins": 6,
+    "losses": 13
   },
   "PHNX#609": {
     "name": "Phoenix",
     "tag": "PHNX#609",
     "rank": "PLATINUM 2",
-    "rating": 1867.8,
+    "rating": 1904.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 37,
+    "wins": 41,
     "losses": 29
   },
   "LAND#19": {
