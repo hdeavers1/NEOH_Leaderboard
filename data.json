@@ -55,17 +55,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1639,
+    "rating": 1641.2,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "71.5",
-      "28.4"
+      "71.6",
+      "28.3"
     ],
-    "wins": 223,
-    "losses": 198
+    "wins": 224,
+    "losses": 199
   },
   "PANC#613": {
     "name": "panchito$",
@@ -193,7 +193,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 2",
-    "rating": 1882.1,
+    "rating": 1852.2,
     "characters": [
       "Falcon"
     ],
@@ -201,7 +201,7 @@
       "100.0"
     ],
     "wins": 120,
-    "losses": 102
+    "losses": 104
   },
   "JUST#577": {
     "name": "Just",
@@ -249,14 +249,16 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "GOLD 2",
-    "rating": 1567,
+    "rating": 1630.9,
     "characters": [
-      "Puff"
+      "Puff",
+      "Falcon"
     ],
     "percentages": [
-      "99.4"
+      "95.9",
+      "3.6"
     ],
-    "wins": 34,
+    "wins": 37,
     "losses": 31
   },
   "BLSE#808": {
@@ -392,18 +394,18 @@
   "YOSH#458": {
     "name": "Mr9thPlace",
     "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1715.3,
+    "rank": "PLATINUM 1",
+    "rating": 1762.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "94.0",
-      "5.7"
+      "94.1",
+      "5.6"
     ],
-    "wins": 277,
-    "losses": 267
+    "wins": 284,
+    "losses": 270
   },
   "DEE#218": {
     "name": "The Velvet Goop",
@@ -581,15 +583,15 @@
     "name": "Phoenix",
     "tag": "PHNX#609",
     "rank": "PLATINUM 2",
-    "rating": 1904.9,
+    "rating": 1872.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 41,
-    "losses": 29
+    "wins": 42,
+    "losses": 32
   },
   "LAND#19": {
     "name": "emma goldman",
