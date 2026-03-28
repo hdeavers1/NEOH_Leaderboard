@@ -163,31 +163,31 @@
     "name": "kms",
     "tag": "FRUM#591",
     "rank": "PLATINUM 1",
-    "rating": 1805.6,
+    "rating": 1842.1,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "91.3",
-      "8.7"
+      "92.0",
+      "8.0"
     ],
-    "wins": 9,
+    "wins": 10,
     "losses": 1
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2049.3,
+    "rating": 2066.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 137,
-    "losses": 124
+    "wins": 139,
+    "losses": 125
   },
   "ASIG#701": {
     "name": "aSig",
