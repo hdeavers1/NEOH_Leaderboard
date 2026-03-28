@@ -162,17 +162,17 @@
   "FRUM#591": {
     "name": "Card",
     "tag": "FRUM#591",
-    "rank": "PENDING",
-    "rating": 3,
+    "rank": "GOLD 2",
+    "rating": 1649.4,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "60.0",
-      "40.0"
+      "83.3",
+      "16.7"
     ],
-    "wins": 2,
+    "wins": 6,
     "losses": 0
   },
   "CUTS#327": {
