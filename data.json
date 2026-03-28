@@ -162,18 +162,18 @@
   "FRUM#591": {
     "name": "kms",
     "tag": "FRUM#591",
-    "rank": "PLATINUM 1",
-    "rating": 1842.1,
+    "rank": "PLATINUM 3",
+    "rating": 1951.7,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "92.0",
-      "8.0"
+      "94.4",
+      "5.6"
     ],
-    "wins": 10,
-    "losses": 1
+    "wins": 13,
+    "losses": 2
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
