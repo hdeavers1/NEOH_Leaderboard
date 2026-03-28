@@ -160,34 +160,34 @@
     "losses": 7
   },
   "FRUM#591": {
-    "name": "Card",
+    "name": "kms",
     "tag": "FRUM#591",
-    "rank": "GOLD 2",
-    "rating": 1649.4,
+    "rank": "PLATINUM 1",
+    "rating": 1805.6,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "83.3",
-      "16.7"
+      "91.3",
+      "8.7"
     ],
-    "wins": 6,
-    "losses": 0
+    "wins": 9,
+    "losses": 1
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2050.5,
+    "rating": 2049.3,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 135,
-    "losses": 123
+    "wins": 137,
+    "losses": 124
   },
   "ASIG#701": {
     "name": "aSig",
