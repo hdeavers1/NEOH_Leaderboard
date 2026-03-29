@@ -193,7 +193,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1841.9,
+    "rating": 1822.6,
     "characters": [
       "Falcon"
     ],
@@ -201,7 +201,7 @@
       "100.0"
     ],
     "wins": 120,
-    "losses": 106
+    "losses": 108
   },
   "JUST#577": {
     "name": "Just",
@@ -567,17 +567,17 @@
     "name": "jodben",
     "tag": "JDBN#000",
     "rank": "SILVER 1",
-    "rating": 1123.3,
+    "rating": 1141.3,
     "characters": [
       "Fox",
       "ICs"
     ],
     "percentages": [
-      "73.9",
-      "26.1"
+      "75.3",
+      "24.7"
     ],
-    "wins": 11,
-    "losses": 17
+    "wins": 14,
+    "losses": 18
   },
   "PHNX#609": {
     "name": "Phoenix",
