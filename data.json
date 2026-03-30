@@ -160,7 +160,7 @@
     "losses": 7
   },
   "FRUM#591": {
-    "name": "kms",
+    "name": "looking4floatys",
     "tag": "FRUM#591",
     "rank": "DIAMOND 1",
     "rating": 2007,
@@ -193,15 +193,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1822.3,
+    "rating": 1817.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 121,
-    "losses": 109
+    "wins": 122,
+    "losses": 111
   },
   "JUST#577": {
     "name": "Just",
