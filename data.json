@@ -54,18 +54,18 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1662.4,
+    "rank": "GOLD 2",
+    "rating": 1651.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "71.7",
-      "28.2"
+      "71.8",
+      "28.1"
     ],
     "wins": 226,
-    "losses": 199
+    "losses": 200
   },
   "PANC#613": {
     "name": "panchito$",
@@ -532,6 +532,16 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "CHAZ#100": {
+    "name": "chase",
+    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
