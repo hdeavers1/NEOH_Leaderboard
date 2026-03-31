@@ -539,16 +539,6 @@
     "wins": 0,
     "losses": 0
   },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "VYV#0": {
     "name": "vyv",
     "tag": "VYV#0",
@@ -594,7 +584,7 @@
     "losses": 32
   },
   "LAND#19": {
-    "name": "yaphet kotto",
+    "name": "emma goldman",
     "tag": "LAND#19",
     "rank": "GOLD 1",
     "rating": 1530.2,
