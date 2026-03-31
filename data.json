@@ -281,15 +281,15 @@
     "name": "Ghast Jr.",
     "tag": "FLOW#08",
     "rank": "PLATINUM 2",
-    "rating": 1898.4,
+    "rating": 1909.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 43,
-    "losses": 43
+    "wins": 44,
+    "losses": 44
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -472,19 +472,19 @@
   "NCRO#183": {
     "name": "GMO Free Fox",
     "tag": "NCRO#183",
-    "rank": "PLATINUM 1",
-    "rating": 1822.1,
+    "rank": "PLATINUM 2",
+    "rating": 1844.3,
     "characters": [
       "Fox",
       "Sheik",
       "Doc"
     ],
     "percentages": [
-      "52.3",
-      "28.8",
-      "17.0"
+      "53.2",
+      "28.5",
+      "16.5"
     ],
-    "wins": 36,
+    "wins": 38,
     "losses": 28
   },
   "MOSHI#0": {
@@ -594,7 +594,7 @@
     "losses": 32
   },
   "LAND#19": {
-    "name": "emma goldman",
+    "name": "yaphet kotto",
     "tag": "LAND#19",
     "rank": "GOLD 1",
     "rating": 1530.2,
