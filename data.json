@@ -55,17 +55,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1645.4,
+    "rating": 1625.6,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "72.1",
-      "27.8"
+      "72.2",
+      "27.7"
     ],
-    "wins": 230,
-    "losses": 205
+    "wins": 231,
+    "losses": 208
   },
   "PANC#613": {
     "name": "panchito$",
@@ -518,6 +518,16 @@
     ],
     "wins": 212,
     "losses": 235
+  },
+  "BOZO#386": {
+    "name": "super pichu",
+    "tag": "BOZO#386",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "SYS#0": {
     "name": "Syspen",
