@@ -160,20 +160,20 @@
     "losses": 7
   },
   "FRUM#591": {
-    "name": "looking4floatys",
+    "name": "mi hoy minoy",
     "tag": "FRUM#591",
-    "rank": "DIAMOND 1",
-    "rating": 2007,
+    "rank": "PLATINUM 3",
+    "rating": 1989.8,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "95.2",
-      "4.8"
+      "96.3",
+      "3.7"
     ],
-    "wins": 15,
-    "losses": 3
+    "wins": 17,
+    "losses": 7
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
@@ -473,19 +473,19 @@
     "name": "GMO Free Fox",
     "tag": "NCRO#183",
     "rank": "PLATINUM 2",
-    "rating": 1852.9,
+    "rating": 1847.3,
     "characters": [
       "Fox",
       "Sheik",
       "Doc"
     ],
     "percentages": [
-      "53.8",
-      "28.1",
-      "16.3"
+      "54.0",
+      "28.0",
+      "16.1"
     ],
     "wins": 39,
-    "losses": 28
+    "losses": 29
   },
   "MOSHI#0": {
     "name": "Suzy",
