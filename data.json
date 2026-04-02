@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "Feverish Intent",
+    "name": "RaptorBoostGod",
     "tag": "WWJ#916",
     "rank": "GOLD 1",
     "rating": 1468.8,
@@ -472,20 +472,20 @@
   "NCRO#183": {
     "name": "GMO Free Fox",
     "tag": "NCRO#183",
-    "rank": "PLATINUM 2",
-    "rating": 1847.3,
+    "rank": "PLATINUM 1",
+    "rating": 1820.4,
     "characters": [
       "Fox",
       "Sheik",
       "Doc"
     ],
     "percentages": [
-      "54.0",
-      "28.0",
-      "16.1"
+      "52.7",
+      "28.7",
+      "16.8"
     ],
     "wins": 39,
-    "losses": 29
+    "losses": 31
   },
   "MOSHI#0": {
     "name": "Im Golfin' Ere",
