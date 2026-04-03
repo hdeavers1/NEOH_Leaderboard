@@ -55,17 +55,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1685.5,
+    "rating": 1724.2,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "72.4",
-      "27.5"
+      "72.6",
+      "27.3"
     ],
-    "wins": 236,
-    "losses": 208
+    "wins": 241,
+    "losses": 209
   },
   "PANC#613": {
     "name": "panchito$",
@@ -354,18 +354,18 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "PLATINUM 3",
-    "rating": 1978.6,
+    "rank": "DIAMOND 1",
+    "rating": 2016,
     "characters": [
       "Peach",
       "Fox"
     ],
     "percentages": [
-      "92.1",
-      "7.9"
+      "91.9",
+      "8.1"
     ],
-    "wins": 22,
-    "losses": 17
+    "wins": 26,
+    "losses": 18
   },
   "SERE#225": {
     "name": "sp1n :>",
