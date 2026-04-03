@@ -265,7 +265,7 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2295.7,
+    "rating": 2250.3,
     "characters": [
       "Pikachu",
       "Falcon"
@@ -274,8 +274,8 @@
       "97.3",
       "2.3"
     ],
-    "wins": 137,
-    "losses": 77
+    "wins": 138,
+    "losses": 80
   },
   "FLOW#08": {
     "name": "Flow",
