@@ -162,17 +162,17 @@
   "FRUM#591": {
     "name": "mi hoy minoy",
     "tag": "FRUM#591",
-    "rank": "DIAMOND 1",
-    "rating": 2047,
+    "rank": "DIAMOND 2",
+    "rating": 2075.7,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "97.4",
-      "2.6"
+      "97.5",
+      "2.5"
     ],
-    "wins": 23,
+    "wins": 25,
     "losses": 11
   },
   "CUTS#327": {
@@ -542,12 +542,20 @@
   "CHAZ#100": {
     "name": "chase",
     "tag": "CHAZ#100",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 3",
+    "rating": 1398.5,
+    "characters": [
+      "Fox",
+      "Falco",
+      "Marth"
+    ],
+    "percentages": [
+      "71.4",
+      "21.4",
+      "7.1"
+    ],
+    "wins": 4,
+    "losses": 2
   },
   "VYV#0": {
     "name": "vyv",
