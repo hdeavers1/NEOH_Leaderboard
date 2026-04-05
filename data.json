@@ -55,17 +55,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1733.8,
+    "rating": 1736,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "72.4",
-      "27.5"
+      "72.3",
+      "27.6"
     ],
-    "wins": 247,
-    "losses": 214
+    "wins": 248,
+    "losses": 215
   },
   "PANC#613": {
     "name": "panchito$",
@@ -163,17 +163,17 @@
     "name": "mi hoy minoy",
     "tag": "FRUM#591",
     "rank": "DIAMOND 1",
-    "rating": 2005.2,
+    "rating": 2047,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "97.0",
-      "3.0"
+      "97.4",
+      "2.6"
     ],
-    "wins": 19,
-    "losses": 10
+    "wins": 23,
+    "losses": 11
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
