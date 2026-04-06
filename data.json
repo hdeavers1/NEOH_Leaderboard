@@ -542,20 +542,20 @@
   "CHAZ#100": {
     "name": "chase",
     "tag": "CHAZ#100",
-    "rank": "SILVER 3",
-    "rating": 1398.5,
+    "rank": "GOLD 1",
+    "rating": 1492.2,
     "characters": [
       "Fox",
       "Falco",
       "Marth"
     ],
     "percentages": [
-      "71.4",
-      "21.4",
-      "7.1"
+      "63.6",
+      "27.3",
+      "9.1"
     ],
-    "wins": 4,
-    "losses": 2
+    "wins": 6,
+    "losses": 3
   },
   "VYV#0": {
     "name": "vyv",
