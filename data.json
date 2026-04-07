@@ -395,7 +395,7 @@
     "name": "LPSNH",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1762.4,
+    "rating": 1755.4,
     "characters": [
       "Yoshi",
       "DK"
@@ -405,7 +405,7 @@
       "5.6"
     ],
     "wins": 284,
-    "losses": 270
+    "losses": 271
   },
   "DEE#218": {
     "name": "The Velvet Goop",
@@ -561,14 +561,14 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "BRONZE 3",
-    "rating": 1005.4,
+    "rating": 1049.4,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
+    "wins": 4,
     "losses": 9
   },
   "JDBN#000": {
