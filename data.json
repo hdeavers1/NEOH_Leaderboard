@@ -55,16 +55,16 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1736,
+    "rating": 1743.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "72.3",
-      "27.6"
+      "72.4",
+      "27.5"
     ],
-    "wins": 248,
+    "wins": 249,
     "losses": 215
   },
   "PANC#613": {
@@ -488,7 +488,7 @@
     "losses": 32
   },
   "MOSHI#0": {
-    "name": "huh? what?",
+    "name": "forced2kirb",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1765.9,
