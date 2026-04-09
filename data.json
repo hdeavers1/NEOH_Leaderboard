@@ -162,16 +162,16 @@
   "FRUM#591": {
     "name": "mi hoy minoy",
     "tag": "FRUM#591",
-    "rank": "DIAMOND 1",
-    "rating": 2068.6,
+    "rank": "DIAMOND 2",
+    "rating": 2093.9,
     "characters": [
       "Falco"
     ],
     "percentages": [
-      "98.1"
+      "98.3"
     ],
-    "wins": 30,
-    "losses": 17
+    "wins": 33,
+    "losses": 19
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
