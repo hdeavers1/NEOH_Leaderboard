@@ -162,18 +162,16 @@
   "FRUM#591": {
     "name": "mi hoy minoy",
     "tag": "FRUM#591",
-    "rank": "DIAMOND 2",
-    "rating": 2083.1,
+    "rank": "DIAMOND 1",
+    "rating": 2068.6,
     "characters": [
-      "Falco",
-      "Fox"
+      "Falco"
     ],
     "percentages": [
-      "98.0",
-      "2.0"
+      "98.1"
     ],
-    "wins": 29,
-    "losses": 15
+    "wins": 30,
+    "losses": 17
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
@@ -310,6 +308,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "WEGG#462": {
+    "name": "Young Wunna",
+    "tag": "WEGG#462",
+    "rank": "PLATINUM 1",
+    "rating": 1787,
+    "characters": [
+      "Fox",
+      "Marth"
+    ],
+    "percentages": [
+      "68.7",
+      "30.1"
+    ],
+    "wins": 188,
+    "losses": 182
   },
   "DNZO#333": {
     "name": "the thinker",
