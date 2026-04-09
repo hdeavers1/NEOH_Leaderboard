@@ -311,22 +311,6 @@
     "wins": 0,
     "losses": 0
   },
-  "WEGG#462": {
-    "name": "Young Wunna",
-    "tag": "WEGG#462",
-    "rank": "PLATINUM 1",
-    "rating": 1787,
-    "characters": [
-      "Fox",
-      "Marth"
-    ],
-    "percentages": [
-      "68.7",
-      "30.1"
-    ],
-    "wins": 188,
-    "losses": 182
-  },
   "DNZO#333": {
     "name": "the thinker",
     "tag": "DNZO#333",
@@ -411,16 +395,16 @@
     "name": "The Velvet Goop",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1693.3,
+    "rating": 1712.5,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "52.7",
-      "46.8"
+      "52.4",
+      "47.1"
     ],
-    "wins": 85,
+    "wins": 86,
     "losses": 79
   },
   "SUCC#860": {
