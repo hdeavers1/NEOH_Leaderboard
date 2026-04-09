@@ -163,17 +163,17 @@
     "name": "mi hoy minoy",
     "tag": "FRUM#591",
     "rank": "DIAMOND 2",
-    "rating": 2075.7,
+    "rating": 2116.8,
     "characters": [
       "Falco",
       "Fox"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "97.8",
+      "2.2"
     ],
-    "wins": 25,
-    "losses": 11
+    "wins": 28,
+    "losses": 12
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
@@ -395,17 +395,17 @@
     "name": "LPSNH",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1718.7,
+    "rating": 1743.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
       "94.1",
-      "5.6"
+      "5.7"
     ],
-    "wins": 286,
-    "losses": 275
+    "wins": 290,
+    "losses": 277
   },
   "DEE#218": {
     "name": "The Velvet Goop",
