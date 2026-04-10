@@ -353,17 +353,17 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "DIAMOND 1",
-    "rating": 2016,
+    "rating": 2032.4,
     "characters": [
       "Peach",
       "Fox"
     ],
     "percentages": [
-      "91.9",
-      "8.1"
+      "90.2",
+      "9.8"
     ],
-    "wins": 26,
-    "losses": 18
+    "wins": 29,
+    "losses": 24
   },
   "SERE#225": {
     "name": "sp1n :>",
@@ -409,16 +409,16 @@
     "name": "The Velvet Goop",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1712.5,
+    "rating": 1733.5,
     "characters": [
       "ICs",
       "YLink"
     ],
     "percentages": [
-      "52.4",
-      "47.1"
+      "52.1",
+      "47.4"
     ],
-    "wins": 86,
+    "wins": 87,
     "losses": 79
   },
   "SUCC#860": {
@@ -454,17 +454,17 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "SILVER 3",
-    "rating": 1388,
+    "rank": "GOLD 1",
+    "rating": 1441.5,
     "characters": [
       "Marth",
       "Fox"
     ],
     "percentages": [
-      "93.7",
-      "5.1"
+      "94.0",
+      "4.8"
     ],
-    "wins": 20,
+    "wins": 22,
     "losses": 17
   },
   "NCRO#183": {
