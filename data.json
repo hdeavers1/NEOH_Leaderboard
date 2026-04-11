@@ -246,18 +246,18 @@
   "GHST#232": {
     "name": "Ghuff",
     "tag": "GHST#232",
-    "rank": "GOLD 2",
-    "rating": 1630.9,
+    "rank": "GOLD 3",
+    "rating": 1681.3,
     "characters": [
       "Puff",
       "Falcon"
     ],
     "percentages": [
-      "95.9",
-      "3.6"
+      "88.5",
+      "10.4"
     ],
-    "wins": 37,
-    "losses": 31
+    "wins": 41,
+    "losses": 33
   },
   "BLSE#808": {
     "name": "bl$e",
