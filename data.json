@@ -54,18 +54,18 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1750,
+    "rank": "PLATINUM 1",
+    "rating": 1768,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "72.5",
-      "27.4"
+      "72.6",
+      "27.3"
     ],
-    "wins": 252,
-    "losses": 218
+    "wins": 256,
+    "losses": 220
   },
   "PANC#613": {
     "name": "panchito$",
