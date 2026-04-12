@@ -352,17 +352,17 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "DIAMOND 2",
-    "rating": 2114.9,
+    "rank": "DIAMOND 3",
+    "rating": 2139.6,
     "characters": [
       "Peach",
       "Fox"
     ],
     "percentages": [
-      "91.1",
-      "8.9"
+      "91.3",
+      "8.7"
     ],
-    "wins": 36,
+    "wins": 38,
     "losses": 27
   },
   "SERE#225": {
