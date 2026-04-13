@@ -162,16 +162,16 @@
   "FRUM#591": {
     "name": "mi hoy minoy",
     "tag": "FRUM#591",
-    "rank": "DIAMOND 2",
-    "rating": 2103.6,
+    "rank": "DIAMOND 3",
+    "rating": 2157.3,
     "characters": [
       "Falco"
     ],
     "percentages": [
-      "98.6"
+      "98.7"
     ],
-    "wins": 36,
-    "losses": 23
+    "wins": 40,
+    "losses": 25
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
@@ -488,18 +488,18 @@
   "MOSHI#0": {
     "name": "suzy",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1732.5,
+    "rank": "PLATINUM 1",
+    "rating": 1757.1,
     "characters": [
       "Peach",
       "Ness"
     ],
     "percentages": [
       "93.6",
-      "6.2"
+      "6.1"
     ],
-    "wins": 230,
-    "losses": 236
+    "wins": 233,
+    "losses": 237
   },
   "SMEG#879": {
     "name": "FURBY",
