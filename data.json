@@ -247,23 +247,23 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "GOLD 3",
-    "rating": 1694.6,
+    "rating": 1713.2,
     "characters": [
       "Puff",
       "Falcon"
     ],
     "percentages": [
-      "87.6",
-      "11.4"
+      "86.6",
+      "12.3"
     ],
-    "wins": 42,
+    "wins": 43,
     "losses": 33
   },
   "BLSE#808": {
-    "name": "bl$e",
+    "name": "bl$e new conch",
     "tag": "BLSE#808",
     "rank": "MASTER 1",
-    "rating": 2253.5,
+    "rating": 2228.8,
     "characters": [
       "Pikachu",
       "Falcon"
@@ -273,7 +273,7 @@
       "2.1"
     ],
     "wins": 152,
-    "losses": 87
+    "losses": 89
   },
   "FLOW#08": {
     "name": "Flow",
