@@ -263,17 +263,17 @@
     "name": "bl$e new conch",
     "tag": "BLSE#808",
     "rank": "MASTER 1",
-    "rating": 2228.8,
+    "rating": 2223.5,
     "characters": [
       "Pikachu",
       "Falcon"
     ],
     "percentages": [
-      "97.4",
-      "2.1"
+      "97.5",
+      "2.0"
     ],
-    "wins": 152,
-    "losses": 89
+    "wins": 155,
+    "losses": 91
   },
   "FLOW#08": {
     "name": "Flow",
@@ -288,6 +288,16 @@
     ],
     "wins": 46,
     "losses": 46
+  },
+  "ZBOO#991": {
+    "name": "(-:",
+    "tag": "ZBOO#991",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "PEE#658": {
     "name": "Gannon Sharpe",
