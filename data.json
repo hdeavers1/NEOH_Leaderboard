@@ -82,7 +82,7 @@
     "losses": 22
   },
   "LVLM#792": {
-    "name": "Jeffe Epstein",
+    "name": "Mr Walkway",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -279,15 +279,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "PLATINUM 2",
-    "rating": 1921.5,
+    "rating": 1926.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 45,
-    "losses": 45
+    "wins": 46,
+    "losses": 46
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -393,7 +393,7 @@
     "name": "LPSNH",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1766.9,
+    "rating": 1758.9,
     "characters": [
       "Yoshi",
       "DK"
@@ -403,7 +403,7 @@
       "5.6"
     ],
     "wins": 296,
-    "losses": 280
+    "losses": 281
   },
   "DEE#218": {
     "name": "The Velvet Goop",
