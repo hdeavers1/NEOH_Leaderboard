@@ -246,17 +246,17 @@
   "GHST#232": {
     "name": "Ghuff",
     "tag": "GHST#232",
-    "rank": "GOLD 3",
-    "rating": 1733.2,
+    "rank": "PLATINUM 1",
+    "rating": 1760.9,
     "characters": [
       "Puff",
       "Falcon"
     ],
     "percentages": [
-      "85.3",
-      "13.7"
+      "83.1",
+      "15.9"
     ],
-    "wins": 44,
+    "wins": 46,
     "losses": 33
   },
   "BLSE#808": {
@@ -288,16 +288,6 @@
     ],
     "wins": 46,
     "losses": 46
-  },
-  "ZBOO#991": {
-    "name": "(-:",
-    "tag": "ZBOO#991",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "PEE#658": {
     "name": "Gannon Sharpe",
