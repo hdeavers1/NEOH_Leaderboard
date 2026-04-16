@@ -143,21 +143,21 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "SILVER 3",
-    "rating": 1373.9,
+    "rating": 1360.2,
     "characters": [
-      "Peach",
       "Fox",
+      "Peach",
       "Falcon",
       "Pikachu"
     ],
     "percentages": [
-      "40.0",
-      "34.3",
-      "11.4",
-      "8.6"
+      "42.9",
+      "35.7",
+      "9.5",
+      "7.1"
     ],
-    "wins": 8,
-    "losses": 7
+    "wins": 9,
+    "losses": 9
   },
   "FRUM#591": {
     "name": "mi hoy minoy",
@@ -393,17 +393,17 @@
     "name": "LPSNH",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1734.9,
+    "rating": 1706.7,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "94.1",
-      "5.6"
+      "94.2",
+      "5.5"
     ],
-    "wins": 297,
-    "losses": 284
+    "wins": 298,
+    "losses": 288
   },
   "DEE#218": {
     "name": "The Velvet Goop",
