@@ -143,7 +143,7 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "SILVER 3",
-    "rating": 1360.2,
+    "rating": 1329.6,
     "characters": [
       "Fox",
       "Peach",
@@ -151,13 +151,13 @@
       "Pikachu"
     ],
     "percentages": [
-      "42.9",
-      "35.7",
-      "9.5",
-      "7.1"
+      "46.7",
+      "33.3",
+      "8.9",
+      "6.7"
     ],
     "wins": 9,
-    "losses": 9
+    "losses": 10
   },
   "FRUM#591": {
     "name": "mi hoy minoy",
