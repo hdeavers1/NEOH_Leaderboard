@@ -247,16 +247,16 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "PLATINUM 1",
-    "rating": 1760.9,
+    "rating": 1781.2,
     "characters": [
       "Puff",
       "Falcon"
     ],
     "percentages": [
-      "83.1",
-      "15.9"
+      "81.8",
+      "17.2"
     ],
-    "wins": 46,
+    "wins": 47,
     "losses": 33
   },
   "BLSE#808": {
@@ -277,7 +277,7 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "PLATINUM 2",
-    "rating": 1924.8,
+    "rating": 1918.6,
     "characters": [
       "Marth"
     ],
@@ -285,7 +285,7 @@
       "100.0"
     ],
     "wins": 48,
-    "losses": 49
+    "losses": 50
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -367,15 +367,15 @@
     "name": "ttv/sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 3",
-    "rating": 1977.5,
+    "rating": 1984.7,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 212,
-    "losses": 201
+    "wins": 214,
+    "losses": 202
   },
   "MARF#811": {
     "name": "Marfweasel",
