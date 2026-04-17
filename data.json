@@ -263,17 +263,15 @@
     "name": "bl$e new conch",
     "tag": "BLSE#808",
     "rank": "MASTER 1",
-    "rating": 2220.1,
+    "rating": 2234.8,
     "characters": [
-      "Pikachu",
-      "Falcon"
+      "Pikachu"
     ],
     "percentages": [
-      "97.5",
-      "2.0"
+      "97.6"
     ],
-    "wins": 157,
-    "losses": 92
+    "wins": 166,
+    "losses": 97
   },
   "FLOW#08": {
     "name": "Flow",
