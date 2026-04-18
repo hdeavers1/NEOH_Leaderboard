@@ -204,16 +204,16 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "MASTER 2",
-    "rating": 2320.9,
+    "rank": "MASTER 3",
+    "rating": 2367.8,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 48,
-    "losses": 13
+    "wins": 54,
+    "losses": 15
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -262,16 +262,16 @@
   "BLSE#808": {
     "name": "bl$e new conch",
     "tag": "BLSE#808",
-    "rank": "MASTER 1",
-    "rating": 2229.7,
+    "rank": "DIAMOND 3",
+    "rating": 2190.5,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "97.7"
     ],
-    "wins": 168,
-    "losses": 98
+    "wins": 169,
+    "losses": 104
   },
   "FLOW#08": {
     "name": "Flow",
@@ -311,7 +311,7 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 1",
-    "rating": 1787,
+    "rating": 1775.2,
     "characters": [
       "Fox",
       "Marth"
@@ -321,7 +321,7 @@
       "30.1"
     ],
     "wins": 188,
-    "losses": 182
+    "losses": 183
   },
   "DNZO#333": {
     "name": "the thinker",
