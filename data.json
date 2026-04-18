@@ -204,7 +204,7 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "MASTER 3",
+    "rank": "GRANDMASTER",
     "rating": 2367.8,
     "characters": [
       "Sheik"
@@ -263,14 +263,14 @@
     "name": "bl$e new conch",
     "tag": "BLSE#808",
     "rank": "MASTER 1",
-    "rating": 2198.9,
+    "rating": 2230.9,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "97.8"
     ],
-    "wins": 173,
+    "wins": 176,
     "losses": 107
   },
   "FLOW#08": {
