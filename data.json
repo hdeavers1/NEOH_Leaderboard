@@ -205,15 +205,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "MASTER 2",
-    "rating": 2291.7,
+    "rating": 2320.9,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 44,
-    "losses": 12
+    "wins": 48,
+    "losses": 13
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -247,17 +247,17 @@
     "name": "Ghuff",
     "tag": "GHST#232",
     "rank": "PLATINUM 1",
-    "rating": 1781.2,
+    "rating": 1809.4,
     "characters": [
       "Puff",
       "Falcon"
     ],
     "percentages": [
-      "81.8",
-      "17.2"
+      "78.3",
+      "20.8"
     ],
-    "wins": 47,
-    "losses": 33
+    "wins": 50,
+    "losses": 34
   },
   "BLSE#808": {
     "name": "bl$e new conch",
@@ -277,14 +277,14 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "PLATINUM 2",
-    "rating": 1918.6,
+    "rating": 1922.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 48,
+    "wins": 49,
     "losses": 50
   },
   "ZBOO#991": {
@@ -367,15 +367,15 @@
     "name": "ttv/sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 3",
-    "rating": 1984.7,
+    "rating": 1988.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 214,
-    "losses": 202
+    "wins": 215,
+    "losses": 203
   },
   "MARF#811": {
     "name": "Marfweasel",
