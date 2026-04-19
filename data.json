@@ -54,17 +54,17 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "GOLD 2",
-    "rating": 1650,
+    "rank": "GOLD 3",
+    "rating": 1660.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "73.0",
-      "26.9"
+      "72.9",
+      "27.0"
     ],
-    "wins": 267,
+    "wins": 268,
     "losses": 242
   },
   "PANC#613": {
@@ -82,7 +82,7 @@
     "losses": 22
   },
   "LVLM#792": {
-    "name": "Mr Walkway",
+    "name": "Tommy Noble",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
