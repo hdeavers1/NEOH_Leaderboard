@@ -244,19 +244,19 @@
     "losses": 0
   },
   "GHST#232": {
-    "name": "Ghuff",
+    "name": "Ghast",
     "tag": "GHST#232",
-    "rank": "PLATINUM 1",
-    "rating": 1826.3,
+    "rank": "PLATINUM 2",
+    "rating": 1868.5,
     "characters": [
       "Puff",
       "Falcon"
     ],
     "percentages": [
-      "75.0",
-      "24.1"
+      "73.0",
+      "26.1"
     ],
-    "wins": 52,
+    "wins": 55,
     "losses": 35
   },
   "BLSE#808": {
