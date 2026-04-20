@@ -41,31 +41,31 @@
     "name": "Large Diet Coke",
     "tag": "QCUM#685",
     "rank": "GOLD 2",
-    "rating": 1584.9,
+    "rating": 1573.4,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 26,
-    "losses": 24
+    "wins": 29,
+    "losses": 28
   },
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1660.7,
+    "rank": "GOLD 2",
+    "rating": 1643.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "72.9",
-      "27.0"
+      "73.0",
+      "26.9"
     ],
     "wins": 268,
-    "losses": 242
+    "losses": 244
   },
   "PANC#613": {
     "name": "panchito$",
@@ -191,15 +191,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
-    "rating": 1800.1,
+    "rating": 1781.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 124,
-    "losses": 115
+    "wins": 126,
+    "losses": 118
   },
   "JUST#577": {
     "name": "Just",
@@ -277,7 +277,7 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "PLATINUM 3",
-    "rating": 1984.4,
+    "rating": 1968.5,
     "characters": [
       "Marth"
     ],
@@ -285,7 +285,7 @@
       "100.0"
     ],
     "wins": 56,
-    "losses": 55
+    "losses": 56
   },
   "ZBOO#991": {
     "name": "(-:",
