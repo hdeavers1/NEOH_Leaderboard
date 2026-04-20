@@ -52,12 +52,16 @@
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 2",
+    "rating": 1251.6,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 3,
+    "losses": 2
   },
   "LVLM#792": {
     "name": "Tommy Noble",
@@ -186,12 +190,16 @@
   "BLSE#808": {
     "name": "bl$e new conch",
     "tag": "BLSE#808",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Pikachu"
+    ],
+    "percentages": [
+      "100.0"
+    ],
     "wins": 0,
-    "losses": 0
+    "losses": 1
   },
   "FLOW#08": {
     "name": "Flow",
@@ -393,9 +401,49 @@
     "wins": 0,
     "losses": 0
   },
+  "CHAZ#100": {
+    "name": "chase",
+    "tag": "CHAZ#100",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "VYV#0": {
+    "name": "vyv",
+    "tag": "VYV#0",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "JDBN#000": {
     "name": "jodben",
     "tag": "JDBN#000",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "PHNX#609": {
+    "name": "Phoenix",
+    "tag": "PHNX#609",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "LAND#19": {
+    "name": "emma goldman",
+    "tag": "LAND#19",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
