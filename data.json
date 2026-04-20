@@ -52,16 +52,16 @@
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
-    "rank": "SILVER 2",
-    "rating": 1251.6,
+    "rank": "GOLD 1",
+    "rating": 1437.5,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
-    "losses": 2
+    "wins": 9,
+    "losses": 5
   },
   "LVLM#792": {
     "name": "Tommy Noble",
@@ -362,7 +362,7 @@
     "losses": 0
   },
   "MOSHI#0": {
-    "name": "suzy",
+    "name": "KevinRoseToy",
     "tag": "MOSHI#0",
     "rank": "NONE",
     "rating": 0,
