@@ -55,17 +55,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1643.5,
+    "rating": 1612.1,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "73.0",
+      "72.9",
       "26.9"
     ],
     "wins": 268,
-    "losses": 244
+    "losses": 247
   },
   "PANC#613": {
     "name": "panchito$",
@@ -263,15 +263,15 @@
     "name": "bl$e new conch",
     "tag": "BLSE#808",
     "rank": "MASTER 1",
-    "rating": 2230.9,
+    "rating": 2256.8,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "97.8"
+      "97.9"
     ],
-    "wins": 176,
-    "losses": 107
+    "wins": 183,
+    "losses": 110
   },
   "FLOW#08": {
     "name": "Flow",
