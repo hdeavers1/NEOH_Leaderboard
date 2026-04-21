@@ -332,16 +332,16 @@
   "DEE#218": {
     "name": "ハチ",
     "tag": "DEE#218",
-    "rank": "PENDING",
-    "rating": 4,
+    "rank": "SILVER 3",
+    "rating": 1372,
     "characters": [
       "YLink"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
-    "losses": 0
+    "wins": 4,
+    "losses": 2
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -397,17 +397,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 1",
-    "rating": 1485.5,
+    "rating": 1521.5,
     "characters": [
       "Peach",
       "DK"
     ],
     "percentages": [
-      "91.7",
-      "7.1"
+      "92.4",
+      "6.5"
     ],
-    "wins": 19,
-    "losses": 15
+    "wins": 21,
+    "losses": 16
   },
   "SMEG#879": {
     "name": "FURBY",
