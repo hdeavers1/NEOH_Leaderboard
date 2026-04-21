@@ -42,18 +42,18 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "SILVER 3",
-    "rating": 1431.7,
+    "rank": "GOLD 1",
+    "rating": 1460.1,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "77.8",
-      "22.2"
+      "77.3",
+      "22.7"
     ],
-    "wins": 6,
-    "losses": 2
+    "wins": 7,
+    "losses": 3
   },
   "PANC#613": {
     "name": "panchito$",
@@ -113,37 +113,37 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "SILVER 2",
-    "rating": 1221.8,
+    "rating": 1261.8,
     "characters": [
       "Fox",
       "Peach"
     ],
     "percentages": [
-      "88.9",
-      "11.1"
+      "92.0",
+      "8.0"
     ],
-    "wins": 4,
-    "losses": 4
+    "wins": 6,
+    "losses": 6
   },
   "FRUM#591": {
     "name": "mi hoy minoy",
     "tag": "FRUM#591",
-    "rank": "PENDING",
-    "rating": 4,
+    "rank": "GOLD 1",
+    "rating": 1456.8,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
-    "losses": 0
+    "wins": 5,
+    "losses": 1
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1855.9,
+    "rank": "PLATINUM 1",
+    "rating": 1828.7,
     "characters": [
       "Samus"
     ],
@@ -151,7 +151,7 @@
       "100.0"
     ],
     "wins": 21,
-    "losses": 7
+    "losses": 8
   },
   "ASIG#701": {
     "name": "aSig",
@@ -330,13 +330,17 @@
     "losses": 0
   },
   "DEE#218": {
-    "name": "The Velvet Goop",
+    "name": "ハチ",
     "tag": "DEE#218",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "YLink"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
     "losses": 0
   },
   "SUCC#860": {
@@ -393,17 +397,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 1",
-    "rating": 1458.7,
+    "rating": 1485.5,
     "characters": [
       "Peach",
       "DK"
     ],
     "percentages": [
-      "91.3",
-      "7.2"
+      "91.7",
+      "7.1"
     ],
-    "wins": 15,
-    "losses": 12
+    "wins": 19,
+    "losses": 15
   },
   "SMEG#879": {
     "name": "FURBY",
