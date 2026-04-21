@@ -180,12 +180,16 @@
   "GHST#232": {
     "name": "Ghast",
     "tag": "GHST#232",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "GOLD 1",
+    "rating": 1445.6,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 6,
+    "losses": 2
   },
   "BLSE#808": {
     "name": "bl$e new conch",
@@ -204,12 +208,16 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 1,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 3,
+    "losses": 1
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -364,18 +372,18 @@
   "MOSHI#0": {
     "name": "KevinRoseToy",
     "tag": "MOSHI#0",
-    "rank": "SILVER 2",
-    "rating": 1238.5,
+    "rank": "SILVER 3",
+    "rating": 1423.5,
     "characters": [
       "Peach",
       "DK"
     ],
     "percentages": [
-      "69.2",
-      "30.8"
+      "88.5",
+      "9.6"
     ],
-    "wins": 3,
-    "losses": 2
+    "wins": 12,
+    "losses": 9
   },
   "SMEG#879": {
     "name": "FURBY",
@@ -434,12 +442,18 @@
   "JDBN#000": {
     "name": "jodben",
     "tag": "JDBN#000",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 2",
+    "rating": 1220.8,
+    "characters": [
+      "ICs",
+      "Fox"
+    ],
+    "percentages": [
+      "96.4",
+      "3.6"
+    ],
+    "wins": 6,
+    "losses": 7
   },
   "PHNX#609": {
     "name": "Phoenix",
