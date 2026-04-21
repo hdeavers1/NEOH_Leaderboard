@@ -106,12 +106,18 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 1",
+    "rating": 1162,
+    "characters": [
+      "Fox",
+      "Peach"
+    ],
+    "percentages": [
+      "93.3",
+      "6.7"
+    ],
+    "wins": 3,
+    "losses": 4
   },
   "FRUM#591": {
     "name": "mi hoy minoy",
