@@ -142,15 +142,15 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "GOLD 3",
-    "rating": 1736.6,
+    "rank": "PLATINUM 2",
+    "rating": 1855.9,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 16,
+    "wins": 21,
     "losses": 7
   },
   "ASIG#701": {
@@ -393,17 +393,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 1",
-    "rating": 1469.4,
+    "rating": 1458.7,
     "characters": [
       "Peach",
       "DK"
     ],
     "percentages": [
-      "90.0",
-      "8.3"
+      "91.3",
+      "7.2"
     ],
-    "wins": 14,
-    "losses": 10
+    "wins": 15,
+    "losses": 12
   },
   "SMEG#879": {
     "name": "FURBY",
