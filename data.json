@@ -43,16 +43,16 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "SILVER 3",
-    "rating": 1324.1,
+    "rating": 1431.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "84.6",
-      "15.4"
+      "77.8",
+      "22.2"
     ],
-    "wins": 4,
+    "wins": 6,
     "losses": 2
   },
   "PANC#613": {
@@ -112,42 +112,46 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "SILVER 1",
-    "rating": 1162,
+    "rank": "SILVER 2",
+    "rating": 1221.8,
     "characters": [
       "Fox",
       "Peach"
     ],
     "percentages": [
-      "93.3",
-      "6.7"
+      "88.9",
+      "11.1"
     ],
-    "wins": 3,
+    "wins": 4,
     "losses": 4
   },
   "FRUM#591": {
     "name": "mi hoy minoy",
     "tag": "FRUM#591",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
     "losses": 0
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
     "rank": "GOLD 3",
-    "rating": 1659.2,
+    "rating": 1736.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 12,
-    "losses": 4
+    "wins": 16,
+    "losses": 7
   },
   "ASIG#701": {
     "name": "aSig",
