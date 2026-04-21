@@ -53,14 +53,14 @@
     "name": "panchito$",
     "tag": "PANC#613",
     "rank": "GOLD 1",
-    "rating": 1437.5,
+    "rating": 1476.7,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 9,
+    "wins": 10,
     "losses": 5
   },
   "LVLM#792": {
@@ -208,16 +208,16 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "GOLD 1",
+    "rating": 1494,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
-    "losses": 1
+    "wins": 6,
+    "losses": 2
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -370,20 +370,20 @@
     "losses": 0
   },
   "MOSHI#0": {
-    "name": "KevinRoseToy",
+    "name": "moshi",
     "tag": "MOSHI#0",
-    "rank": "SILVER 3",
-    "rating": 1423.5,
+    "rank": "GOLD 1",
+    "rating": 1469.4,
     "characters": [
       "Peach",
       "DK"
     ],
     "percentages": [
-      "88.5",
-      "9.6"
+      "90.0",
+      "8.3"
     ],
-    "wins": 12,
-    "losses": 9
+    "wins": 14,
+    "losses": 10
   },
   "SMEG#879": {
     "name": "FURBY",
