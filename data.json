@@ -43,31 +43,31 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 1",
-    "rating": 1460.1,
+    "rating": 1509.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "77.3",
-      "22.7"
+      "75.0",
+      "25.0"
     ],
-    "wins": 7,
+    "wins": 8,
     "losses": 3
   },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
     "rank": "GOLD 1",
-    "rating": 1476.7,
+    "rating": 1531.9,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 10,
-    "losses": 5
+    "wins": 13,
+    "losses": 8
   },
   "LVLM#792": {
     "name": "Tommy Noble",
@@ -129,29 +129,29 @@
     "name": "mi hoy minoy",
     "tag": "FRUM#591",
     "rank": "GOLD 1",
-    "rating": 1456.8,
+    "rating": 1447.8,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
-    "losses": 1
+    "wins": 6,
+    "losses": 3
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 1",
-    "rating": 1828.7,
+    "rank": "GOLD 3",
+    "rating": 1741.7,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 21,
-    "losses": 8
+    "wins": 25,
+    "losses": 16
   },
   "ASIG#701": {
     "name": "aSig",
@@ -166,16 +166,16 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "SILVER 3",
-    "rating": 1368.9,
+    "rank": "PLATINUM 1",
+    "rating": 1817.3,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
-    "losses": 1
+    "wins": 12,
+    "losses": 2
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -200,16 +200,16 @@
   "GHST#232": {
     "name": "Ghast",
     "tag": "GHST#232",
-    "rank": "GOLD 1",
-    "rating": 1445.6,
+    "rank": "GOLD 2",
+    "rating": 1576.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 6,
-    "losses": 2
+    "wins": 9,
+    "losses": 3
   },
   "BLSE#808": {
     "name": "bl$e new conch",
@@ -228,16 +228,16 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "GOLD 1",
-    "rating": 1494,
+    "rank": "GOLD 2",
+    "rating": 1571.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 6,
-    "losses": 2
+    "wins": 9,
+    "losses": 5
   },
   "ZBOO#991": {
     "name": "(-:",
