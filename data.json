@@ -59,18 +59,18 @@
     "name": "panchito$",
     "tag": "PANC#613",
     "rank": "GOLD 1",
-    "rating": 1531.9,
+    "rating": 1535,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 13,
-    "losses": 8
+    "wins": 14,
+    "losses": 10
   },
   "LVLM#792": {
-    "name": "Tommy Noble",
+    "name": "Subaru Lesbian",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -142,15 +142,15 @@
   "CUTS#327": {
     "name": "PaulBetDavidson",
     "tag": "CUTS#327",
-    "rank": "GOLD 3",
-    "rating": 1741.7,
+    "rank": "PLATINUM 1",
+    "rating": 1761.5,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 25,
+    "wins": 26,
     "losses": 16
   },
   "ASIG#701": {
@@ -166,15 +166,15 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "PLATINUM 1",
-    "rating": 1817.3,
+    "rank": "PLATINUM 2",
+    "rating": 1905.3,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 12,
+    "wins": 15,
     "losses": 2
   },
   "SPOT#861": {
@@ -201,15 +201,15 @@
     "name": "Ghast",
     "tag": "GHST#232",
     "rank": "GOLD 2",
-    "rating": 1576.7,
+    "rating": 1554.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 9,
-    "losses": 3
+    "wins": 12,
+    "losses": 9
   },
   "BLSE#808": {
     "name": "bl$e new conch",
@@ -228,8 +228,8 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "GOLD 2",
-    "rating": 1571.6,
+    "rank": "GOLD 1",
+    "rating": 1535.4,
     "characters": [
       "Marth"
     ],
@@ -237,7 +237,7 @@
       "100.0"
     ],
     "wins": 9,
-    "losses": 5
+    "losses": 6
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -376,12 +376,16 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Marth"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
+    "losses": 2
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -498,5 +502,19 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "SYKO#921": {
+    "name": "syko",
+    "tag": "SYKO#921",
+    "rank": "SILVER 3",
+    "rating": 1376.3,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 11,
+    "losses": 9
   }
 }
