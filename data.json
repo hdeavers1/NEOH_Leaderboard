@@ -59,15 +59,15 @@
     "name": "panchito$",
     "tag": "PANC#613",
     "rank": "GOLD 1",
-    "rating": 1496.1,
+    "rating": 1519.1,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 14,
-    "losses": 12
+    "wins": 18,
+    "losses": 16
   },
   "LVLM#792": {
     "name": "Subaru Lesbian",
@@ -156,25 +156,29 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 3",
+    "rating": 1337.9,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 3,
+    "losses": 2
   },
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "PLATINUM 3",
-    "rating": 1932.1,
+    "rank": "DIAMOND 1",
+    "rating": 2033.7,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 16,
+    "wins": 20,
     "losses": 2
   },
   "SPOT#861": {
@@ -228,16 +232,16 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "GOLD 1",
-    "rating": 1487.8,
+    "rank": "GOLD 2",
+    "rating": 1592.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 9,
-    "losses": 7
+    "wins": 12,
+    "losses": 9
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -320,14 +324,18 @@
     "losses": 0
   },
   "YOSH#458": {
-    "name": "LPSNH",
+    "name": "parry carried",
     "tag": "YOSH#458",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 2",
+    "rating": 1241.1,
+    "characters": [
+      "Yoshi"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 3,
+    "losses": 3
   },
   "DEE#218": {
     "name": "ハチ",
@@ -506,15 +514,15 @@
   "SYKO#921": {
     "name": "syko",
     "tag": "SYKO#921",
-    "rank": "SILVER 3",
-    "rating": 1376.3,
+    "rank": "GOLD 1",
+    "rating": 1469.8,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 11,
-    "losses": 9
+    "wins": 16,
+    "losses": 13
   }
 }
