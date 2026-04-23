@@ -43,17 +43,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 1",
-    "rating": 1505.3,
+    "rating": 1529.8,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "78.6",
-      "21.4"
+      "71.1",
+      "28.9"
     ],
-    "wins": 9,
-    "losses": 4
+    "wins": 11,
+    "losses": 6
   },
   "PANC#613": {
     "name": "panchito$",
@@ -205,15 +205,15 @@
     "name": "Ghast",
     "tag": "GHST#232",
     "rank": "GOLD 2",
-    "rating": 1554.9,
+    "rating": 1651.6,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 12,
-    "losses": 9
+    "wins": 15,
+    "losses": 10
   },
   "BLSE#808": {
     "name": "bl$e new conch",
@@ -327,15 +327,15 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "SILVER 2",
-    "rating": 1241.1,
+    "rating": 1233.2,
     "characters": [
       "Yoshi"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
-    "losses": 3
+    "wins": 4,
+    "losses": 6
   },
   "DEE#218": {
     "name": "ハチ",
@@ -515,14 +515,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 1",
-    "rating": 1469.8,
+    "rating": 1493,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 16,
+    "wins": 17,
     "losses": 13
   }
 }
