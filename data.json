@@ -1,34 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "RaptorBoostGod",
-    "tag": "WWJ#916",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "JUBS#579": {
-    "name": "Lub",
-    "tag": "JUBS#579",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "BIGO#869": {
-    "name": "John CC. Reilly",
-    "tag": "BIGO#869",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "QCUM#685": {
     "name": "Large Diet Coke",
     "tag": "QCUM#685",
@@ -349,7 +319,7 @@
     "name": "ハチ",
     "tag": "DEE#218",
     "rank": "GOLD 1",
-    "rating": 1501.9,
+    "rating": 1483.4,
     "characters": [
       "YLink"
     ],
@@ -357,7 +327,7 @@
       "100.0"
     ],
     "wins": 6,
-    "losses": 2
+    "losses": 3
   },
   "SUCC#860": {
     "name": "Wahey",
