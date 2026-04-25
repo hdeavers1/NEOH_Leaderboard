@@ -306,18 +306,18 @@
   "SERE#225": {
     "name": "ttv/sp1nda",
     "tag": "SERE#225",
-    "rank": "PENDING",
-    "rating": 3,
+    "rank": "GOLD 1",
+    "rating": 1452.3,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "75.0",
-      "25.0"
+      "96.4",
+      "3.6"
     ],
-    "wins": 2,
-    "losses": 0
+    "wins": 6,
+    "losses": 6
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -417,17 +417,17 @@
     "name": "moshi",
     "tag": "MOSHI#0",
     "rank": "GOLD 1",
-    "rating": 1544.2,
+    "rating": 1518.5,
     "characters": [
       "Peach",
       "DK"
     ],
     "percentages": [
-      "93.3",
-      "5.8"
+      "92.4",
+      "6.1"
     ],
-    "wins": 24,
-    "losses": 18
+    "wins": 28,
+    "losses": 25
   },
   "SMEG#879": {
     "name": "FURBY",
@@ -523,14 +523,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 1",
-    "rating": 1493,
+    "rating": 1514.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 17,
+    "wins": 18,
     "losses": 13
   }
 }
