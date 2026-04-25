@@ -392,16 +392,18 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "SILVER 2",
-    "rating": 1232.2,
+    "rank": "SILVER 1",
+    "rating": 1188.1,
     "characters": [
-      "Marth"
+      "Marth",
+      "Puff"
     ],
     "percentages": [
-      "100.0"
+      "95.5",
+      "4.5"
     ],
-    "wins": 3,
-    "losses": 2
+    "wins": 4,
+    "losses": 5
   },
   "NCRO#183": {
     "name": "XP Waste",
