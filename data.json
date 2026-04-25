@@ -204,16 +204,16 @@
   "GHST#232": {
     "name": "Ghast",
     "tag": "GHST#232",
-    "rank": "GOLD 2",
-    "rating": 1651.6,
+    "rank": "GOLD 3",
+    "rating": 1716.6,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 15,
-    "losses": 10
+    "wins": 19,
+    "losses": 15
   },
   "BLSE#808": {
     "name": "bl$e new conch",
