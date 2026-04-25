@@ -128,16 +128,16 @@
   "FRUM#591": {
     "name": "mi hoy minoy",
     "tag": "FRUM#591",
-    "rank": "GOLD 1",
-    "rating": 1527.5,
+    "rank": "GOLD 2",
+    "rating": 1562.4,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 7,
-    "losses": 3
+    "wins": 8,
+    "losses": 4
   },
   "CUTS#327": {
     "name": "PaulBetDavidson",
@@ -392,15 +392,15 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "PENDING",
-    "rating": 2,
+    "rank": "SILVER 2",
+    "rating": 1232.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
+    "wins": 3,
     "losses": 2
   },
   "NCRO#183": {
