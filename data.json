@@ -266,11 +266,19 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Fox",
+      "Marth",
+      "Falcon"
+    ],
+    "percentages": [
+      "57.1",
+      "28.6",
+      "14.3"
+    ],
+    "wins": 3,
     "losses": 0
   },
   "DNZO#333": {
