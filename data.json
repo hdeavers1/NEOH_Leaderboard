@@ -205,15 +205,15 @@
     "name": "Ghast",
     "tag": "GHST#232",
     "rank": "GOLD 3",
-    "rating": 1657.8,
+    "rating": 1749,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 19,
-    "losses": 20
+    "wins": 24,
+    "losses": 21
   },
   "BLSE#808": {
     "name": "bl$e new conch",
@@ -524,15 +524,15 @@
   "SYKO#921": {
     "name": "syko",
     "tag": "SYKO#921",
-    "rank": "GOLD 1",
-    "rating": 1514.5,
+    "rank": "GOLD 2",
+    "rating": 1580.1,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 18,
-    "losses": 13
+    "wins": 22,
+    "losses": 15
   }
 }
