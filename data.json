@@ -267,19 +267,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "GOLD 1",
-    "rating": 1438.4,
+    "rating": 1480,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "65.0",
-      "30.0",
-      "5.0"
+      "61.5",
+      "26.9",
+      "11.5"
     ],
-    "wins": 5,
-    "losses": 3
+    "wins": 6,
+    "losses": 4
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -424,18 +424,18 @@
   "MOSHI#0": {
     "name": "moshi",
     "tag": "MOSHI#0",
-    "rank": "GOLD 1",
-    "rating": 1518.5,
+    "rank": "GOLD 2",
+    "rating": 1568.2,
     "characters": [
       "Peach",
       "DK"
     ],
     "percentages": [
-      "92.4",
-      "6.1"
+      "92.2",
+      "6.5"
     ],
-    "wins": 28,
-    "losses": 25
+    "wins": 34,
+    "losses": 28
   },
   "SMEG#879": {
     "name": "FURBY",
