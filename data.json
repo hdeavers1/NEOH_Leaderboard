@@ -171,15 +171,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "DIAMOND 1",
-    "rating": 2033.7,
+    "rating": 2029.3,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 20,
-    "losses": 2
+    "wins": 22,
+    "losses": 4
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -341,15 +341,15 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1553.5,
+    "rating": 1548.4,
     "characters": [
       "Yoshi"
     ],
     "percentages": [
-      "98.5"
+      "98.8"
     ],
-    "wins": 16,
-    "losses": 14
+    "wins": 18,
+    "losses": 17
   },
   "DEE#218": {
     "name": "ハチ",
