@@ -426,18 +426,18 @@
   "MOSHI#0": {
     "name": "moshi",
     "tag": "MOSHI#0",
-    "rank": "GOLD 2",
-    "rating": 1568.2,
+    "rank": "GOLD 3",
+    "rating": 1685.8,
     "characters": [
       "Peach",
       "DK"
     ],
     "percentages": [
       "92.2",
-      "6.5"
+      "6.8"
     ],
-    "wins": 34,
-    "losses": 28
+    "wins": 44,
+    "losses": 34
   },
   "SMEG#879": {
     "name": "FURBY",
