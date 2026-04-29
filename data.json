@@ -318,18 +318,16 @@
   "SERE#225": {
     "name": "I <3 UK Gr0j",
     "tag": "SERE#225",
-    "rank": "GOLD 2",
-    "rating": 1645.5,
+    "rank": "GOLD 3",
+    "rating": 1691.8,
     "characters": [
-      "Fox",
-      "Pikachu"
+      "Fox"
     ],
     "percentages": [
-      "97.9",
-      "2.1"
+      "98.4"
     ],
-    "wins": 12,
-    "losses": 8
+    "wins": 16,
+    "losses": 12
   },
   "MARF#811": {
     "name": "Marfweasel",
