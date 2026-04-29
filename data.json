@@ -316,20 +316,20 @@
     "losses": 0
   },
   "SERE#225": {
-    "name": "ttv/sp1nda",
+    "name": ":3",
     "tag": "SERE#225",
     "rank": "GOLD 1",
-    "rating": 1452.3,
+    "rating": 1536.8,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "96.4",
-      "3.6"
+      "97.2",
+      "2.8"
     ],
-    "wins": 6,
-    "losses": 6
+    "wins": 8,
+    "losses": 7
   },
   "MARF#811": {
     "name": "Marfweasel",
