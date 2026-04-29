@@ -316,20 +316,20 @@
     "losses": 0
   },
   "SERE#225": {
-    "name": ":3",
+    "name": "Alysia Liu Stan",
     "tag": "SERE#225",
-    "rank": "GOLD 1",
-    "rating": 1536.8,
+    "rank": "GOLD 2",
+    "rating": 1645.5,
     "characters": [
       "Fox",
       "Pikachu"
     ],
     "percentages": [
-      "97.2",
-      "2.8"
+      "97.9",
+      "2.1"
     ],
-    "wins": 8,
-    "losses": 7
+    "wins": 12,
+    "losses": 8
   },
   "MARF#811": {
     "name": "Marfweasel",
