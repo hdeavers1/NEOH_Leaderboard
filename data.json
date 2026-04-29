@@ -32,12 +32,16 @@
   "QCUM#685": {
     "name": "Large Diet Coke",
     "tag": "QCUM#685",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 3",
+    "rating": 1423.5,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 6,
+    "losses": 4
   },
   "MAYO#795": {
     "name": "the mayo",
