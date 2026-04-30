@@ -20,7 +20,7 @@
     "losses": 0
   },
   "BIGO#869": {
-    "name": "John CC. Reilly",
+    "name": "RealRastaGoonOG",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -133,14 +133,14 @@
     "name": "mi hoy minoy",
     "tag": "FRUM#591",
     "rank": "PLATINUM 1",
-    "rating": 1771.8,
+    "rating": 1807.4,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 13,
+    "wins": 14,
     "losses": 5
   },
   "CUTS#327": {
@@ -316,18 +316,18 @@
     "losses": 0
   },
   "SERE#225": {
-    "name": "I <3 UK Gr0j",
+    "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "GOLD 3",
-    "rating": 1719.4,
+    "rank": "GOLD 2",
+    "rating": 1652.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "98.6"
+      "99.2"
     ],
-    "wins": 18,
-    "losses": 14
+    "wins": 25,
+    "losses": 27
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -402,20 +402,18 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "SILVER 1",
-    "rating": 1158.4,
+    "rank": "SILVER 2",
+    "rating": 1289.7,
     "characters": [
       "Marth",
-      "Puff",
-      "Fox"
+      "Puff"
     ],
     "percentages": [
-      "93.9",
-      "3.0",
-      "3.0"
+      "92.2",
+      "5.9"
     ],
-    "wins": 5,
-    "losses": 9
+    "wins": 10,
+    "losses": 12
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -537,14 +535,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 2",
-    "rating": 1602.9,
+    "rating": 1607.8,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 23,
-    "losses": 15
+    "wins": 24,
+    "losses": 16
   }
 }
