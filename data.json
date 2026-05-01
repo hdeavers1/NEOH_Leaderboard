@@ -20,7 +20,7 @@
     "losses": 0
   },
   "BIGO#869": {
-    "name": "RealRastaGoonOG",
+    "name": "Dr. Pig",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -47,17 +47,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1641.9,
+    "rating": 1647.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "74.7",
-      "25.3"
+      "72.4",
+      "27.6"
     ],
-    "wins": 19,
-    "losses": 12
+    "wins": 21,
+    "losses": 15
   },
   "PANC#613": {
     "name": "panchito$",
@@ -271,19 +271,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "GOLD 3",
-    "rating": 1713.7,
+    "rating": 1684.3,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "63.3",
-      "28.6",
-      "8.2"
+      "64.8",
+      "27.8",
+      "7.4"
     ],
     "wins": 13,
-    "losses": 6
+    "losses": 8
   },
   "DNZO#333": {
     "name": "the thinker",
