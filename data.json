@@ -223,14 +223,14 @@
     "name": "bl$e new conch",
     "tag": "BLSE#808",
     "rank": "PENDING",
-    "rating": 4,
+    "rating": 3,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 0,
+    "wins": 1,
     "losses": 1
   },
   "FLOW#08": {
