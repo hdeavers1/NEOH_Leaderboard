@@ -47,17 +47,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1652.1,
+    "rating": 1641.9,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "73.4",
-      "26.6"
+      "74.7",
+      "25.3"
     ],
-    "wins": 17,
-    "losses": 10
+    "wins": 19,
+    "losses": 12
   },
   "PANC#613": {
     "name": "panchito$",
@@ -271,18 +271,18 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "GOLD 3",
-    "rating": 1654.6,
+    "rating": 1713.7,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "63.6",
-      "27.3",
-      "9.1"
+      "63.3",
+      "28.6",
+      "8.2"
     ],
-    "wins": 11,
+    "wins": 13,
     "losses": 6
   },
   "DNZO#333": {
