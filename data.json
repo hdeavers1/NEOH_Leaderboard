@@ -47,17 +47,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1647.4,
+    "rating": 1592.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "72.4",
-      "27.6"
+      "75.5",
+      "24.5"
     ],
-    "wins": 21,
-    "losses": 15
+    "wins": 25,
+    "losses": 20
   },
   "PANC#613": {
     "name": "panchito$",
@@ -270,20 +270,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 3",
-    "rating": 1684.3,
+    "rank": "GOLD 2",
+    "rating": 1649.2,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "64.8",
-      "27.8",
-      "7.4"
+      "62.9",
+      "27.4",
+      "9.7"
     ],
     "wins": 13,
-    "losses": 8
+    "losses": 11
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -417,19 +417,19 @@
     "name": "XP Waste",
     "tag": "NCRO#183",
     "rank": "PENDING",
-    "rating": 4,
+    "rating": 2,
     "characters": [
+      "Doc",
       "Sheik",
-      "Fox",
-      "Doc"
+      "Fox"
     ],
     "percentages": [
-      "33.3",
-      "33.3",
-      "33.3"
+      "57.1",
+      "28.6",
+      "14.3"
     ],
-    "wins": 1,
-    "losses": 0
+    "wins": 2,
+    "losses": 1
   },
   "MOSHI#0": {
     "name": "moshi",
