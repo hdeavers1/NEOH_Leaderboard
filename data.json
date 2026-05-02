@@ -318,16 +318,16 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "GOLD 2",
-    "rating": 1643.2,
+    "rank": "GOLD 3",
+    "rating": 1723.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "99.3"
+      "99.4"
     ],
-    "wins": 27,
-    "losses": 30
+    "wins": 34,
+    "losses": 35
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -354,7 +354,7 @@
     "losses": 20
   },
   "DEE#218": {
-    "name": "hawk tuah man!",
+    "name": "Bats!",
     "tag": "DEE#218",
     "rank": "GOLD 1",
     "rating": 1483.4,
