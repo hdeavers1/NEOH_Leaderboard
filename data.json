@@ -315,6 +315,20 @@
     "wins": 0,
     "losses": 0
   },
+  "SERE#225": {
+    "name": "sp1nda",
+    "tag": "SERE#225",
+    "rank": "GOLD 3",
+    "rating": 1723.3,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "99.4"
+    ],
+    "wins": 34,
+    "losses": 35
+  },
   "MARF#811": {
     "name": "Marfweasel",
     "tag": "MARF#811",
