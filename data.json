@@ -342,15 +342,15 @@
   "YOSH#458": {
     "name": "parry carried",
     "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1623.3,
+    "rank": "GOLD 3",
+    "rating": 1662.7,
     "characters": [
       "Yoshi"
     ],
     "percentages": [
       "98.2"
     ],
-    "wins": 26,
+    "wins": 28,
     "losses": 21
   },
   "DEE#218": {
@@ -401,17 +401,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "SILVER 2",
-    "rating": 1285.7,
+    "rating": 1270.7,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "90.9",
-      "7.6"
+      "91.3",
+      "7.2"
     ],
     "wins": 13,
-    "losses": 16
+    "losses": 17
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -432,20 +432,20 @@
     "losses": 1
   },
   "MOSHI#0": {
-    "name": "moshi",
+    "name": "holding piss",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1685.8,
+    "rating": 1730.4,
     "characters": [
       "Peach",
       "DK"
     ],
     "percentages": [
-      "92.2",
-      "6.8"
+      "92.3",
+      "6.7"
     ],
-    "wins": 44,
-    "losses": 34
+    "wins": 48,
+    "losses": 37
   },
   "SMEG#879": {
     "name": "FURBY",
