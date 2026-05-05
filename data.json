@@ -270,20 +270,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 3",
-    "rating": 1716.3,
+    "rank": "PLATINUM 1",
+    "rating": 1761.3,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "63.4",
-      "24.4",
-      "12.2"
+      "63.5",
+      "25.0",
+      "11.5"
     ],
-    "wins": 18,
-    "losses": 14
+    "wins": 21,
+    "losses": 16
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -343,15 +343,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1626.2,
+    "rating": 1579.7,
     "characters": [
-      "Yoshi"
+      "Yoshi",
+      "DK"
     ],
     "percentages": [
-      "98.3"
+      "96.4",
+      "3.6"
     ],
-    "wins": 28,
-    "losses": 24
+    "wins": 30,
+    "losses": 30
   },
   "DEE#218": {
     "name": "Bats!",
