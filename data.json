@@ -542,15 +542,15 @@
   "SYKO#921": {
     "name": "syko",
     "tag": "SYKO#921",
-    "rank": "GOLD 2",
-    "rating": 1607.8,
+    "rank": "GOLD 1",
+    "rating": 1531.9,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 24,
-    "losses": 16
+    "wins": 25,
+    "losses": 20
   }
 }
