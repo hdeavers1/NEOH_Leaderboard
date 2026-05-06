@@ -47,17 +47,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1669.9,
+    "rating": 1668,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "74.5",
-      "25.5"
+      "75.2",
+      "24.8"
     ],
-    "wins": 34,
-    "losses": 25
+    "wins": 35,
+    "losses": 26
   },
   "PANC#613": {
     "name": "panchito$",
@@ -502,6 +502,22 @@
     ],
     "wins": 0,
     "losses": 2
+  },
+  "JDBN#000": {
+    "name": "jodben",
+    "tag": "JDBN#000",
+    "rank": "SILVER 2",
+    "rating": 1220.8,
+    "characters": [
+      "ICs",
+      "Fox"
+    ],
+    "percentages": [
+      "96.4",
+      "3.6"
+    ],
+    "wins": 6,
+    "losses": 7
   },
   "PHNX#609": {
     "name": "Phoenix",
