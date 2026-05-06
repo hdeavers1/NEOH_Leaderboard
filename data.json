@@ -503,22 +503,6 @@
     "wins": 0,
     "losses": 2
   },
-  "JDBN#000": {
-    "name": "jodben",
-    "tag": "JDBN#000",
-    "rank": "SILVER 2",
-    "rating": 1220.8,
-    "characters": [
-      "ICs",
-      "Fox"
-    ],
-    "percentages": [
-      "96.4",
-      "3.6"
-    ],
-    "wins": 6,
-    "losses": 7
-  },
   "PHNX#609": {
     "name": "Phoenix",
     "tag": "PHNX#609",
