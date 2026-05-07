@@ -419,18 +419,18 @@
     "name": "XP Waste",
     "tag": "NCRO#183",
     "rank": "GOLD 1",
-    "rating": 1461.8,
+    "rating": 1532.3,
     "characters": [
-      "Sheik",
       "Doc",
+      "Sheik",
       "Fox"
     ],
     "percentages": [
-      "46.2",
-      "46.2",
-      "7.7"
+      "53.3",
+      "40.0",
+      "6.7"
     ],
-    "wins": 4,
+    "wins": 5,
     "losses": 1
   },
   "MOSHI#0": {
