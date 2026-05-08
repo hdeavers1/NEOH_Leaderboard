@@ -46,18 +46,18 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1683.4,
+    "rank": "GOLD 2",
+    "rating": 1635,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "75.0",
-      "25.0"
+      "74.2",
+      "25.8"
     ],
-    "wins": 36,
-    "losses": 26
+    "wins": 37,
+    "losses": 30
   },
   "PANC#613": {
     "name": "panchito$",
@@ -146,16 +146,16 @@
   "CUTS#327": {
     "name": "Jarrett Aran",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 1",
-    "rating": 1837.8,
+    "rank": "PLATINUM 2",
+    "rating": 1867.1,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 32,
-    "losses": 19
+    "wins": 41,
+    "losses": 27
   },
   "ASIG#701": {
     "name": "aSig",
