@@ -403,17 +403,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1336.6,
+    "rating": 1327.6,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "89.9",
-      "8.9"
+      "90.2",
+      "8.5"
     ],
     "wins": 16,
-    "losses": 18
+    "losses": 19
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -493,7 +493,7 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "PENDING",
-    "rating": 3,
+    "rating": 2,
     "characters": [
       "Fox"
     ],
@@ -501,7 +501,7 @@
       "100.0"
     ],
     "wins": 0,
-    "losses": 2
+    "losses": 3
   },
   "JDBN#000": {
     "name": "jodben",
