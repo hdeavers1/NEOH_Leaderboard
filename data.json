@@ -219,6 +219,20 @@
     "wins": 24,
     "losses": 21
   },
+  "BLSE#808": {
+    "name": "bl$e new conch",
+    "tag": "BLSE#808",
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Pikachu"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
+    "losses": 1
+  },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
