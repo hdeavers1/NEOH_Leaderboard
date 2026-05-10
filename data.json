@@ -418,23 +418,23 @@
   "NCRO#183": {
     "name": "XP Waste",
     "tag": "NCRO#183",
-    "rank": "SILVER 3",
-    "rating": 1425.5,
+    "rank": "GOLD 1",
+    "rating": 1515.3,
     "characters": [
       "Doc",
       "Sheik",
       "Fox"
     ],
     "percentages": [
-      "63.2",
-      "31.6",
-      "5.3"
+      "69.2",
+      "26.9",
+      "3.8"
     ],
-    "wins": 5,
-    "losses": 3
+    "wins": 7,
+    "losses": 4
   },
   "MOSHI#0": {
-    "name": "holding piss",
+    "name": "EthicalLandlord",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1730.4,
