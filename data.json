@@ -130,7 +130,7 @@
     "losses": 6
   },
   "FRUM#591": {
-    "name": "mi hoy minoy",
+    "name": "Ai Falco",
     "tag": "FRUM#591",
     "rank": "PLATINUM 1",
     "rating": 1827.7,
@@ -418,20 +418,20 @@
   "NCRO#183": {
     "name": "XP Waste",
     "tag": "NCRO#183",
-    "rank": "GOLD 1",
-    "rating": 1461.2,
+    "rank": "SILVER 3",
+    "rating": 1425.5,
     "characters": [
       "Doc",
       "Sheik",
       "Fox"
     ],
     "percentages": [
-      "56.3",
-      "37.5",
-      "6.3"
+      "63.2",
+      "31.6",
+      "5.3"
     ],
     "wins": 5,
-    "losses": 2
+    "losses": 3
   },
   "MOSHI#0": {
     "name": "holding piss",
