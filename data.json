@@ -209,15 +209,15 @@
     "name": "Ghast",
     "tag": "GHST#232",
     "rank": "PLATINUM 1",
-    "rating": 1776.1,
+    "rating": 1804.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 25,
-    "losses": 21
+    "wins": 27,
+    "losses": 22
   },
   "BLSE#808": {
     "name": "bl$e new conch",
@@ -343,16 +343,16 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1579.7,
+    "rating": 1631.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.4",
-      "3.6"
+      "96.6",
+      "3.4"
     ],
-    "wins": 30,
+    "wins": 33,
     "losses": 30
   },
   "DEE#218": {
