@@ -113,22 +113,6 @@
     "wins": 0,
     "losses": 0
   },
-  "FUEL#375": {
-    "name": "Fuelperks",
-    "tag": "FUEL#375",
-    "rank": "SILVER 2",
-    "rating": 1261.8,
-    "characters": [
-      "Fox",
-      "Peach"
-    ],
-    "percentages": [
-      "92.0",
-      "8.0"
-    ],
-    "wins": 6,
-    "losses": 6
-  },
   "FRUM#591": {
     "name": "Titanium Peach",
     "tag": "FRUM#591",
@@ -543,14 +527,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 2",
-    "rating": 1627.1,
+    "rating": 1571.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "99.3"
+      "99.4"
     ],
-    "wins": 37,
-    "losses": 28
+    "wins": 39,
+    "losses": 33
   }
 }
