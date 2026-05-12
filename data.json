@@ -349,17 +349,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1631.8,
+    "rating": 1643.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.6",
-      "3.4"
+      "96.8",
+      "3.2"
     ],
-    "wins": 33,
-    "losses": 30
+    "wins": 36,
+    "losses": 31
   },
   "DEE#218": {
     "name": "My My, Hey Hey",
@@ -424,19 +424,19 @@
   "NCRO#183": {
     "name": "XP Waste",
     "tag": "NCRO#183",
-    "rank": "GOLD 1",
-    "rating": 1520.2,
+    "rank": "GOLD 2",
+    "rating": 1551,
     "characters": [
       "Doc",
       "Sheik",
       "Fox"
     ],
     "percentages": [
-      "62.5",
-      "34.4",
-      "3.1"
+      "60.0",
+      "37.1",
+      "2.9"
     ],
-    "wins": 8,
+    "wins": 9,
     "losses": 5
   },
   "MOSHI#0": {
