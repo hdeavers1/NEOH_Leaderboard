@@ -348,8 +348,8 @@
   "YOSH#458": {
     "name": "parry carried",
     "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1643.5,
+    "rank": "GOLD 3",
+    "rating": 1658.6,
     "characters": [
       "Yoshi",
       "DK"
@@ -358,7 +358,7 @@
       "96.8",
       "3.2"
     ],
-    "wins": 36,
+    "wins": 37,
     "losses": 31
   },
   "DEE#218": {
