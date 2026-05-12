@@ -2,12 +2,18 @@
   "WWJ#916": {
     "name": "RaptorBoostGod",
     "tag": "WWJ#916",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Falcon",
+      "Falco"
+    ],
+    "percentages": [
+      "60.0",
+      "40.0"
+    ],
+    "wins": 1,
+    "losses": 1
   },
   "JUBS#579": {
     "name": "Lub",
@@ -271,19 +277,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 1",
-    "rating": 1795.6,
+    "rating": 1786.6,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "64.1",
-      "24.3",
-      "11.7"
+      "64.8",
+      "23.8",
+      "11.4"
     ],
     "wins": 23,
-    "losses": 17
+    "losses": 18
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -419,35 +425,35 @@
     "name": "XP Waste",
     "tag": "NCRO#183",
     "rank": "GOLD 1",
-    "rating": 1515.3,
+    "rating": 1520.2,
     "characters": [
       "Doc",
       "Sheik",
       "Fox"
     ],
     "percentages": [
-      "69.2",
-      "26.9",
-      "3.8"
+      "62.5",
+      "34.4",
+      "3.1"
     ],
-    "wins": 7,
-    "losses": 4
+    "wins": 8,
+    "losses": 5
   },
   "MOSHI#0": {
     "name": "EthicalLandlord",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1730.4,
+    "rating": 1731.9,
     "characters": [
       "Peach",
       "DK"
     ],
     "percentages": [
-      "92.3",
-      "6.7"
+      "92.5",
+      "6.5"
     ],
-    "wins": 48,
-    "losses": 37
+    "wins": 49,
+    "losses": 38
   },
   "SMEG#879": {
     "name": "FURBY",
@@ -543,14 +549,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 2",
-    "rating": 1615.9,
+    "rating": 1558,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "99.5"
+      "99.0"
     ],
-    "wins": 44,
-    "losses": 35
+    "wins": 46,
+    "losses": 41
   }
 }
