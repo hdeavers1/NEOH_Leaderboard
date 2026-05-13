@@ -1,30 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "RaptorBoostGod",
-    "tag": "WWJ#916",
-    "rank": "PENDING",
-    "rating": 3,
-    "characters": [
-      "Falcon",
-      "Falco"
-    ],
-    "percentages": [
-      "60.0",
-      "40.0"
-    ],
-    "wins": 1,
-    "losses": 1
-  },
-  "JUBS#579": {
-    "name": "Lub",
-    "tag": "JUBS#579",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "BIGO#869": {
     "name": "OffaRedBean",
     "tag": "BIGO#869",
@@ -78,152 +52,6 @@
     ],
     "wins": 19,
     "losses": 16
-  },
-  "LVLM#792": {
-    "name": "Uncut Jim",
-    "tag": "LVLM#792",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "NECK#152": {
-    "name": "neckboy",
-    "tag": "NECK#152",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "SPOR#247": {
-    "name": "qrayg",
-    "tag": "SPOR#247",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "JARD#561": {
-    "name": "pingas",
-    "tag": "JARD#561",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "FUEL#375": {
-    "name": "Fuelperks",
-    "tag": "FUEL#375",
-    "rank": "SILVER 2",
-    "rating": 1261.8,
-    "characters": [
-      "Fox",
-      "Peach"
-    ],
-    "percentages": [
-      "92.0",
-      "8.0"
-    ],
-    "wins": 6,
-    "losses": 6
-  },
-  "FRUM#591": {
-    "name": "Titanium Peach",
-    "tag": "FRUM#591",
-    "rank": "PLATINUM 1",
-    "rating": 1818.4,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 15,
-    "losses": 8
-  },
-  "CUTS#327": {
-    "name": "Jarrett Aran",
-    "tag": "CUTS#327",
-    "rank": "PLATINUM 2",
-    "rating": 1889.8,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 44,
-    "losses": 29
-  },
-  "ASIG#701": {
-    "name": "aSig",
-    "tag": "ASIG#701",
-    "rank": "GOLD 2",
-    "rating": 1572.4,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 9,
-    "losses": 6
-  },
-  "JUST#577": {
-    "name": "Just",
-    "tag": "JUST#577",
-    "rank": "DIAMOND 1",
-    "rating": 2047.1,
-    "characters": [
-      "Sheik"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 26,
-    "losses": 7
-  },
-  "SPOT#861": {
-    "name": "Stimulant fiend",
-    "tag": "SPOT#861",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "GRIM#801": {
-    "name": "Shiesty",
-    "tag": "GRIM#801",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "GHST#232": {
-    "name": "Ghast",
-    "tag": "GHST#232",
-    "rank": "PLATINUM 1",
-    "rating": 1830.8,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 28,
-    "losses": 22
   },
   "BLSE#808": {
     "name": "bl$e new conch",
@@ -385,16 +213,6 @@
     "wins": 0,
     "losses": 0
   },
-  "EGAG#906": {
-    "name": "kaz kaan (mtf)",
-    "tag": "EGAG#906",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "WICE#699": {
     "name": "Dougie Jones",
     "tag": "WICE#699",
@@ -509,22 +327,6 @@
     "wins": 1,
     "losses": 3
   },
-  "JDBN#000": {
-    "name": "jodben",
-    "tag": "JDBN#000",
-    "rank": "SILVER 2",
-    "rating": 1220.8,
-    "characters": [
-      "ICs",
-      "Fox"
-    ],
-    "percentages": [
-      "96.4",
-      "3.6"
-    ],
-    "wins": 6,
-    "losses": 7
-  },
   "PHNX#609": {
     "name": "Phoenix",
     "tag": "PHNX#609",
@@ -544,19 +346,5 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "SYKO#921": {
-    "name": "syko",
-    "tag": "SYKO#921",
-    "rank": "GOLD 2",
-    "rating": 1586.5,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "99.0"
-    ],
-    "wins": 48,
-    "losses": 41
   }
 }
