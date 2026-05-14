@@ -166,8 +166,8 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 2",
-    "rating": 1572.4,
+    "rank": "GOLD 1",
+    "rating": 1531,
     "characters": [
       "Falcon"
     ],
@@ -175,7 +175,7 @@
       "100.0"
     ],
     "wins": 9,
-    "losses": 6
+    "losses": 8
   },
   "JUST#577": {
     "name": "Just",
@@ -325,14 +325,14 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "GOLD 3",
-    "rating": 1723.3,
+    "rating": 1739.9,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 34,
+    "wins": 35,
     "losses": 35
   },
   "MARF#811": {
