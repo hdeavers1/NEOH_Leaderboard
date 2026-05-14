@@ -458,12 +458,16 @@
   "SMEG#879": {
     "name": "FURBY",
     "tag": "SMEG#879",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Pikachu"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 1
   },
   "BOZO#386": {
     "name": "super pichu",
