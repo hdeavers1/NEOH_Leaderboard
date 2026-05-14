@@ -211,20 +211,6 @@
     "wins": 0,
     "losses": 0
   },
-  "GHST#232": {
-    "name": "Ghast",
-    "tag": "GHST#232",
-    "rank": "PLATINUM 1",
-    "rating": 1830.8,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 28,
-    "losses": 22
-  },
   "BLSE#808": {
     "name": "bl$e new conch",
     "tag": "BLSE#808",
@@ -252,16 +238,6 @@
     ],
     "wins": 16,
     "losses": 11
-  },
-  "ZBOO#991": {
-    "name": "(-:",
-    "tag": "ZBOO#991",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "PEE#658": {
     "name": "Gannon Sharpe",
@@ -291,16 +267,6 @@
     "wins": 25,
     "losses": 19
   },
-  "DNZO#333": {
-    "name": "the thinker",
-    "tag": "DNZO#333",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
@@ -321,20 +287,6 @@
     "wins": 0,
     "losses": 0
   },
-  "SERE#225": {
-    "name": "sp1nda",
-    "tag": "SERE#225",
-    "rank": "GOLD 3",
-    "rating": 1723.3,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "99.4"
-    ],
-    "wins": 34,
-    "losses": 35
-  },
   "MARF#811": {
     "name": "Marfweasel",
     "tag": "MARF#811",
@@ -344,22 +296,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "YOSH#458": {
-    "name": "parry carried",
-    "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1660.9,
-    "characters": [
-      "Yoshi",
-      "DK"
-    ],
-    "percentages": [
-      "96.9",
-      "3.1"
-    ],
-    "wins": 38,
-    "losses": 32
   },
   "DEE#218": {
     "name": "fiveleavesleft",
@@ -374,16 +310,6 @@
     ],
     "wins": 6,
     "losses": 3
-  },
-  "SUCC#860": {
-    "name": "Wahey",
-    "tag": "SUCC#860",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "EGAG#906": {
     "name": "kaz kaan (mtf)",
