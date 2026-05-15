@@ -167,7 +167,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 1",
-    "rating": 1518.3,
+    "rating": 1504.9,
     "characters": [
       "Falcon"
     ],
@@ -175,7 +175,7 @@
       "100.0"
     ],
     "wins": 10,
-    "losses": 10
+    "losses": 11
   },
   "JUST#577": {
     "name": "Just",
@@ -440,7 +440,7 @@
     "losses": 5
   },
   "MOSHI#0": {
-    "name": "EthicalLandlord",
+    "name": "PlsQPartyMode",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1731.9,
