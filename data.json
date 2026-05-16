@@ -138,30 +138,30 @@
   "FRUM#591": {
     "name": "Titanium Peach",
     "tag": "FRUM#591",
-    "rank": "PLATINUM 1",
-    "rating": 1818.4,
+    "rank": "PLATINUM 2",
+    "rating": 1872.4,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 15,
+    "wins": 17,
     "losses": 8
   },
   "CUTS#327": {
     "name": "Cavs Lose :(",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1938.5,
+    "rating": 1976,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 51,
-    "losses": 33
+    "wins": 55,
+    "losses": 34
   },
   "ASIG#701": {
     "name": "aSig",
@@ -408,18 +408,18 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "SILVER 3",
-    "rating": 1353.8,
+    "rank": "GOLD 1",
+    "rating": 1441,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "91.8",
-      "7.3"
+      "91.1",
+      "8.1"
     ],
-    "wins": 22,
-    "losses": 25
+    "wins": 27,
+    "losses": 26
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -458,15 +458,15 @@
   "SMEG#879": {
     "name": "FURBY",
     "tag": "SMEG#879",
-    "rank": "PENDING",
-    "rating": 2,
+    "rank": "GOLD 1",
+    "rating": 1460.1,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 2,
+    "wins": 4,
     "losses": 1
   },
   "BOZO#386": {
