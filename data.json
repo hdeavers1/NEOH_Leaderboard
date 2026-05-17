@@ -228,15 +228,15 @@
   "BLSE#808": {
     "name": "bl$e new conch",
     "tag": "BLSE#808",
-    "rank": "PENDING",
-    "rating": 3,
+    "rank": "SILVER 3",
+    "rating": 1402.7,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
+    "wins": 4,
     "losses": 1
   },
   "FLOW#08": {
@@ -325,15 +325,15 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "PLATINUM 1",
-    "rating": 1768,
+    "rating": 1775.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 41,
-    "losses": 40
+    "wins": 43,
+    "losses": 42
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -553,14 +553,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 2",
-    "rating": 1586.5,
+    "rating": 1602.7,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 48,
+    "wins": 49,
     "losses": 41
   }
 }
