@@ -409,17 +409,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1441,
+    "rating": 1458.1,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "91.1",
-      "8.1"
+      "91.0",
+      "8.3"
     ],
-    "wins": 27,
-    "losses": 26
+    "wins": 29,
+    "losses": 28
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -440,20 +440,20 @@
     "losses": 5
   },
   "MOSHI#0": {
-    "name": "PlsQPartyMode",
+    "name": "MpregLenderman",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1731.9,
+    "rating": 1706.9,
     "characters": [
       "Peach",
       "DK"
     ],
     "percentages": [
-      "92.5",
-      "6.5"
+      "92.9",
+      "6.3"
     ],
-    "wins": 49,
-    "losses": 38
+    "wins": 50,
+    "losses": 41
   },
   "SMEG#879": {
     "name": "FURBY",
