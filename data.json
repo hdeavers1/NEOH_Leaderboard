@@ -443,17 +443,19 @@
     "name": "MpregLenderman",
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
-    "rating": 1675.2,
+    "rating": 1740.1,
     "characters": [
       "Peach",
-      "DK"
+      "DK",
+      "Ness"
     ],
     "percentages": [
-      "92.7",
-      "6.0"
+      "91.7",
+      "6.2",
+      "2.1"
     ],
-    "wins": 66,
-    "losses": 60
+    "wins": 76,
+    "losses": 67
   },
   "SMEG#879": {
     "name": "FURBY",
