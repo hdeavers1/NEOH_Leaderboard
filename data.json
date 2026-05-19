@@ -277,19 +277,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 1",
-    "rating": 1791.4,
+    "rating": 1805.6,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "65.0",
-      "25.0",
-      "10.0"
+      "60.4",
+      "26.1",
+      "13.4"
     ],
-    "wins": 26,
-    "losses": 21
+    "wins": 29,
+    "losses": 23
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -349,7 +349,7 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1661,
+    "rating": 1668.5,
     "characters": [
       "Yoshi",
       "DK"
@@ -358,7 +358,7 @@
       "97.1",
       "2.9"
     ],
-    "wins": 40,
+    "wins": 41,
     "losses": 34
   },
   "DEE#218": {
@@ -420,24 +420,6 @@
     ],
     "wins": 30,
     "losses": 30
-  },
-  "NCRO#183": {
-    "name": "XP Waste",
-    "tag": "NCRO#183",
-    "rank": "GOLD 2",
-    "rating": 1635.6,
-    "characters": [
-      "Doc",
-      "Sheik",
-      "Fox"
-    ],
-    "percentages": [
-      "55.0",
-      "42.5",
-      "2.5"
-    ],
-    "wins": 11,
-    "losses": 5
   },
   "MOSHI#0": {
     "name": "FREE LIL SHINE",
