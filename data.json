@@ -68,15 +68,15 @@
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
-    "rank": "GOLD 1",
-    "rating": 1543.8,
+    "rank": "GOLD 2",
+    "rating": 1565.9,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 19,
+    "wins": 20,
     "losses": 16
   },
   "LVLM#792": {
@@ -277,19 +277,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 1",
-    "rating": 1796.7,
+    "rating": 1791.4,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "65.5",
-      "23.9",
-      "10.6"
+      "65.0",
+      "25.0",
+      "10.0"
     ],
-    "wins": 25,
-    "losses": 19
+    "wins": 26,
+    "losses": 21
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -442,20 +442,20 @@
   "MOSHI#0": {
     "name": "MpregLenderman",
     "tag": "MOSHI#0",
-    "rank": "GOLD 3",
-    "rating": 1740.1,
+    "rank": "PLATINUM 1",
+    "rating": 1776.7,
     "characters": [
       "Peach",
       "DK",
       "Ness"
     ],
     "percentages": [
-      "91.7",
-      "6.2",
-      "2.1"
+      "91.8",
+      "5.9",
+      "2.3"
     ],
-    "wins": 76,
-    "losses": 67
+    "wins": 81,
+    "losses": 69
   },
   "SMEG#879": {
     "name": "FURBY",
