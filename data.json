@@ -349,17 +349,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1660.9,
+    "rating": 1661,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.9",
-      "3.1"
+      "97.1",
+      "2.9"
     ],
-    "wins": 38,
-    "losses": 32
+    "wins": 40,
+    "losses": 34
   },
   "DEE#218": {
     "name": "treachery",
@@ -440,7 +440,7 @@
     "losses": 5
   },
   "MOSHI#0": {
-    "name": "MpregLenderman",
+    "name": "FREE LIL SHINE",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1776.7,
