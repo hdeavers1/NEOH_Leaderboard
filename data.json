@@ -136,7 +136,7 @@
     "losses": 6
   },
   "FRUM#591": {
-    "name": "Titanium Peach",
+    "name": "Braining",
     "tag": "FRUM#591",
     "rank": "PLATINUM 2",
     "rating": 1872.4,
@@ -395,6 +395,16 @@
     "wins": 0,
     "losses": 0
   },
+  "WICE#699": {
+    "name": "Dougie Jones",
+    "tag": "WICE#699",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
@@ -545,14 +555,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 2",
-    "rating": 1602.7,
+    "rating": 1618,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 49,
+    "wins": 50,
     "losses": 41
   }
 }
