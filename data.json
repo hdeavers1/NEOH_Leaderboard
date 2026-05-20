@@ -421,6 +421,24 @@
     "wins": 30,
     "losses": 30
   },
+  "NCRO#183": {
+    "name": "XP Waste",
+    "tag": "NCRO#183",
+    "rank": "GOLD 2",
+    "rating": 1635.6,
+    "characters": [
+      "Doc",
+      "Sheik",
+      "Fox"
+    ],
+    "percentages": [
+      "55.0",
+      "42.5",
+      "2.5"
+    ],
+    "wins": 11,
+    "losses": 5
+  },
   "MOSHI#0": {
     "name": "FREE LIL SHINE",
     "tag": "MOSHI#0",
