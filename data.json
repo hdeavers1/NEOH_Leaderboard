@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1570.8,
+    "rating": 1584.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "76.2",
-      "23.8"
+      "77.4",
+      "22.6"
     ],
-    "wins": 41,
-    "losses": 38
+    "wins": 47,
+    "losses": 44
   },
   "PANC#613": {
     "name": "panchito$",
@@ -325,15 +325,15 @@
     "name": "sp1ndAUNT",
     "tag": "SERE#225",
     "rank": "PLATINUM 3",
-    "rating": 1953.1,
+    "rating": 1974.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "99.6"
+      "99.7"
     ],
-    "wins": 63,
-    "losses": 56
+    "wins": 69,
+    "losses": 58
   },
   "MARF#811": {
     "name": "Marfweasel",
