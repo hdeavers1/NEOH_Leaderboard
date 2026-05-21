@@ -26,7 +26,7 @@
     "losses": 0
   },
   "BIGO#869": {
-    "name": "ThePornMan",
+    "name": "Real Fuelperks",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1587.5,
+    "rating": 1598.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "77.2",
-      "22.8"
+      "76.8",
+      "23.2"
     ],
-    "wins": 50,
-    "losses": 47
+    "wins": 52,
+    "losses": 48
   },
   "PANC#613": {
     "name": "panchito$",
@@ -555,14 +555,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 1",
-    "rating": 1516.8,
+    "rating": 1536.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "98.8"
+      "98.9"
     ],
-    "wins": 56,
+    "wins": 58,
     "losses": 54
   }
 }
