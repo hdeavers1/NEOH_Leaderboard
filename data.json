@@ -25,6 +25,16 @@
     "wins": 0,
     "losses": 0
   },
+  "BIGO#869": {
+    "name": "Real Fuelperks",
+    "tag": "BIGO#869",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "QCUM#685": {
     "name": "Large Diet Coke",
     "tag": "QCUM#685",
@@ -386,7 +396,7 @@
     "losses": 0
   },
   "WICE#699": {
-    "name": "Dougie Jones",
+    "name": "Romanburger",
     "tag": "WICE#699",
     "rank": "NONE",
     "rating": 0,
