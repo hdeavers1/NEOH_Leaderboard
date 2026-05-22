@@ -167,15 +167,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 2",
-    "rating": 1582.7,
+    "rating": 1602,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 15,
-    "losses": 14
+    "wins": 18,
+    "losses": 18
   },
   "JUST#577": {
     "name": "Just",
@@ -409,17 +409,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1443.7,
+    "rating": 1458.4,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "91.4",
-      "7.9"
+      "91.7",
+      "7.6"
     ],
-    "wins": 30,
-    "losses": 30
+    "wins": 32,
+    "losses": 31
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -554,15 +554,15 @@
   "SYKO#921": {
     "name": "syko",
     "tag": "SYKO#921",
-    "rank": "GOLD 1",
-    "rating": 1520.2,
+    "rank": "GOLD 2",
+    "rating": 1571.8,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "98.9"
+      "99.0"
     ],
-    "wins": 59,
-    "losses": 56
+    "wins": 68,
+    "losses": 61
   }
 }
