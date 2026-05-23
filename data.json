@@ -364,15 +364,17 @@
   "DEE#218": {
     "name": "treachery",
     "tag": "DEE#218",
-    "rank": "SILVER 3",
-    "rating": 1397.4,
+    "rank": "GOLD 1",
+    "rating": 1479.2,
     "characters": [
-      "YLink"
+      "YLink",
+      "Marth"
     ],
     "percentages": [
-      "100.0"
+      "97.1",
+      "2.9"
     ],
-    "wins": 6,
+    "wins": 8,
     "losses": 6
   },
   "SUCC#860": {
