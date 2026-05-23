@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1614.6,
+    "rating": 1609.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "76.7",
-      "23.3"
+      "77.4",
+      "22.6"
     ],
-    "wins": 54,
-    "losses": 49
+    "wins": 59,
+    "losses": 54
   },
   "PANC#613": {
     "name": "panchito$",
@@ -365,19 +365,19 @@
     "name": "treachery",
     "tag": "DEE#218",
     "rank": "GOLD 1",
-    "rating": 1454.6,
+    "rating": 1468.5,
     "characters": [
       "YLink",
       "Marth",
       "ICs"
     ],
     "percentages": [
-      "95.2",
-      "2.4",
-      "2.4"
+      "95.8",
+      "2.1",
+      "2.1"
     ],
-    "wins": 9,
-    "losses": 8
+    "wins": 10,
+    "losses": 10
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -412,18 +412,18 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1437.2,
+    "rank": "SILVER 3",
+    "rating": 1408.8,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "90.6",
-      "8.7"
+      "89.2",
+      "10.2"
     ],
-    "wins": 32,
-    "losses": 33
+    "wins": 33,
+    "losses": 36
   },
   "NCRO#183": {
     "name": "XP Waste",
