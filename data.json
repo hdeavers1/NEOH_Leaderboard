@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1598.4,
+    "rating": 1614.6,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "76.8",
-      "23.2"
+      "76.7",
+      "23.3"
     ],
-    "wins": 52,
-    "losses": 48
+    "wins": 54,
+    "losses": 49
   },
   "PANC#613": {
     "name": "panchito$",
@@ -365,17 +365,19 @@
     "name": "treachery",
     "tag": "DEE#218",
     "rank": "GOLD 1",
-    "rating": 1479.2,
+    "rating": 1454.6,
     "characters": [
       "YLink",
-      "Marth"
+      "Marth",
+      "ICs"
     ],
     "percentages": [
-      "97.1",
-      "2.9"
+      "95.2",
+      "2.4",
+      "2.4"
     ],
-    "wins": 8,
-    "losses": 6
+    "wins": 9,
+    "losses": 8
   },
   "SUCC#860": {
     "name": "Wahey",
