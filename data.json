@@ -152,16 +152,16 @@
   "CUTS#327": {
     "name": "Cavs Lose :(",
     "tag": "CUTS#327",
-    "rank": "DIAMOND 1",
-    "rating": 2005.1,
+    "rank": "PLATINUM 2",
+    "rating": 1922.1,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 59,
-    "losses": 37
+    "wins": 64,
+    "losses": 51
   },
   "ASIG#701": {
     "name": "aSig",
@@ -181,15 +181,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "DIAMOND 2",
-    "rating": 2125.7,
+    "rating": 2122.1,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 30,
-    "losses": 8
+    "wins": 31,
+    "losses": 9
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -412,17 +412,17 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "SILVER 3",
-    "rating": 1421.7,
+    "rank": "GOLD 1",
+    "rating": 1437.6,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "88.4",
-      "11.0"
+      "88.0",
+      "11.4"
     ],
-    "wins": 35,
+    "wins": 36,
     "losses": 37
   },
   "NCRO#183": {
