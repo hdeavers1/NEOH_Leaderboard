@@ -152,16 +152,16 @@
   "CUTS#327": {
     "name": "Cavs Lose :(",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 3",
-    "rating": 1976,
+    "rank": "DIAMOND 1",
+    "rating": 2005.1,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 55,
-    "losses": 34
+    "wins": 59,
+    "losses": 37
   },
   "ASIG#701": {
     "name": "aSig",
@@ -180,16 +180,16 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "DIAMOND 1",
-    "rating": 2047.1,
+    "rank": "DIAMOND 2",
+    "rating": 2125.7,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 26,
-    "losses": 7
+    "wins": 30,
+    "losses": 8
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -413,17 +413,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1408.8,
+    "rating": 1421.7,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "89.2",
-      "10.2"
+      "88.4",
+      "11.0"
     ],
-    "wins": 33,
-    "losses": 36
+    "wins": 35,
+    "losses": 37
   },
   "NCRO#183": {
     "name": "XP Waste",
