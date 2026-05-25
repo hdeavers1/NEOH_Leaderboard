@@ -228,15 +228,15 @@
   "BLSE#808": {
     "name": "bl$e new conch",
     "tag": "BLSE#808",
-    "rank": "SILVER 3",
-    "rating": 1402.7,
+    "rank": "PLATINUM 1",
+    "rating": 1767.9,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
+    "wins": 10,
     "losses": 1
   },
   "FLOW#08": {
@@ -413,35 +413,35 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1450.3,
+    "rating": 1457.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "87.8",
-      "11.6"
+      "87.4",
+      "12.0"
     ],
-    "wins": 39,
+    "wins": 40,
     "losses": 39
   },
   "NCRO#183": {
     "name": "XP Waste",
     "tag": "NCRO#183",
     "rank": "GOLD 2",
-    "rating": 1635.6,
+    "rating": 1598.9,
     "characters": [
       "Doc",
       "Sheik",
       "Fox"
     ],
     "percentages": [
-      "55.0",
-      "42.5",
-      "2.5"
+      "55.8",
+      "41.9",
+      "2.3"
     ],
     "wins": 11,
-    "losses": 5
+    "losses": 6
   },
   "MOSHI#0": {
     "name": "faketwink",
