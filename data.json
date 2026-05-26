@@ -1,54 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "RaptorBoostGod",
-    "tag": "WWJ#916",
-    "rank": "PENDING",
-    "rating": 3,
-    "characters": [
-      "Falcon",
-      "Falco"
-    ],
-    "percentages": [
-      "60.0",
-      "40.0"
-    ],
-    "wins": 1,
-    "losses": 1
-  },
-  "JUBS#579": {
-    "name": "Lub",
-    "tag": "JUBS#579",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "BIGO#869": {
-    "name": "FD=quitout ;0",
-    "tag": "BIGO#869",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "QCUM#685": {
-    "name": "Large Diet Coke",
-    "tag": "QCUM#685",
-    "rank": "GOLD 1",
-    "rating": 1471.9,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 12,
-    "losses": 9
-  },
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
@@ -68,8 +18,8 @@
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
-    "rank": "GOLD 2",
-    "rating": 1565.9,
+    "rank": "GOLD 1",
+    "rating": 1547.4,
     "characters": [
       "Falco"
     ],
@@ -77,7 +27,7 @@
       "100.0"
     ],
     "wins": 20,
-    "losses": 16
+    "losses": 17
   },
   "LVLM#792": {
     "name": "Hottie Nanako",
@@ -180,16 +130,16 @@
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
-    "rank": "DIAMOND 2",
-    "rating": 2095.8,
+    "rank": "GRANDMASTER",
+    "rating": 2211.8,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 31,
-    "losses": 10
+    "wins": 38,
+    "losses": 11
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -229,7 +179,7 @@
     "name": "bl$e new conch",
     "tag": "BLSE#808",
     "rank": "PLATINUM 3",
-    "rating": 1996.4,
+    "rating": 1965,
     "characters": [
       "Pikachu"
     ],
@@ -237,7 +187,7 @@
       "100.0"
     ],
     "wins": 17,
-    "losses": 2
+    "losses": 3
   },
   "FLOW#08": {
     "name": "Flow",
