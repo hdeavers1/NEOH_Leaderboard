@@ -349,17 +349,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1675.5,
+    "rating": 1668.2,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.1",
-      "2.9"
+      "97.2",
+      "2.8"
     ],
-    "wins": 47,
-    "losses": 40
+    "wins": 48,
+    "losses": 41
   },
   "DEE#218": {
     "name": "treachery",
