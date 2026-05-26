@@ -166,29 +166,29 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 2",
-    "rating": 1602,
+    "rank": "GOLD 3",
+    "rating": 1686.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 18,
+    "wins": 21,
     "losses": 18
   },
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2219.7,
+    "rating": 2238.5,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 39,
+    "wins": 41,
     "losses": 11
   },
   "SPOT#861": {
@@ -349,17 +349,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1654.5,
+    "rating": 1675.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.4",
-      "2.6"
+      "97.1",
+      "2.9"
     ],
-    "wins": 43,
-    "losses": 37
+    "wins": 47,
+    "losses": 40
   },
   "DEE#218": {
     "name": "treachery",
