@@ -181,7 +181,7 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "DIAMOND 2",
-    "rating": 2122.1,
+    "rating": 2095.8,
     "characters": [
       "Sheik"
     ],
@@ -189,7 +189,7 @@
       "100.0"
     ],
     "wins": 31,
-    "losses": 9
+    "losses": 10
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -228,16 +228,16 @@
   "BLSE#808": {
     "name": "bl$e new conch",
     "tag": "BLSE#808",
-    "rank": "PLATINUM 1",
-    "rating": 1767.9,
+    "rank": "PLATINUM 3",
+    "rating": 1996.4,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 10,
-    "losses": 1
+    "wins": 17,
+    "losses": 2
   },
   "FLOW#08": {
     "name": "Flow",
