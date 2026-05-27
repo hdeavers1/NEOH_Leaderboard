@@ -228,16 +228,16 @@
   "BLSE#808": {
     "name": "bl$e new conch",
     "tag": "BLSE#808",
-    "rank": "PLATINUM 3",
-    "rating": 1965,
+    "rank": "DIAMOND 1",
+    "rating": 2041,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 17,
-    "losses": 3
+    "wins": 19,
+    "losses": 4
   },
   "FLOW#08": {
     "name": "Flow",
@@ -277,19 +277,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1871,
+    "rating": 1886.3,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "64.2",
-      "23.8",
-      "11.9"
+      "62.9",
+      "24.7",
+      "12.4"
     ],
-    "wins": 34,
-    "losses": 25
+    "wins": 38,
+    "losses": 29
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -413,17 +413,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1457.3,
+    "rating": 1444.5,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "87.4",
-      "12.0"
+      "87.0",
+      "12.4"
     ],
     "wins": 40,
-    "losses": 39
+    "losses": 40
   },
   "NCRO#183": {
     "name": "XP Waste",
