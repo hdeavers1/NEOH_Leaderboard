@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1593.8,
+    "rating": 1588.6,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "78.3",
-      "21.7"
+      "79.4",
+      "20.6"
     ],
-    "wins": 67,
-    "losses": 63
+    "wins": 75,
+    "losses": 69
   },
   "PANC#613": {
     "name": "panchito$",
@@ -325,15 +325,15 @@
     "name": "sp1ndAUNT",
     "tag": "SERE#225",
     "rank": "DIAMOND 1",
-    "rating": 2023.3,
+    "rating": 2070.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 76,
-    "losses": 60
+    "wins": 84,
+    "losses": 64
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -518,22 +518,6 @@
     ],
     "wins": 1,
     "losses": 3
-  },
-  "JDBN#000": {
-    "name": "jodben",
-    "tag": "JDBN#000",
-    "rank": "SILVER 2",
-    "rating": 1220.8,
-    "characters": [
-      "ICs",
-      "Fox"
-    ],
-    "percentages": [
-      "96.4",
-      "3.6"
-    ],
-    "wins": 6,
-    "losses": 7
   },
   "PHNX#609": {
     "name": "Phoenix",
