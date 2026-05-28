@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1557.7,
+    "rating": 1593.8,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "77.1",
-      "22.9"
+      "78.3",
+      "21.7"
     ],
-    "wins": 61,
-    "losses": 60
+    "wins": 67,
+    "losses": 63
   },
   "PANC#613": {
     "name": "panchito$",
@@ -559,14 +559,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 2",
-    "rating": 1571.8,
+    "rating": 1593.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 68,
-    "losses": 61
+    "wins": 71,
+    "losses": 62
   }
 }
