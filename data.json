@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1588.6,
+    "rating": 1572.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.4",
-      "20.6"
+      "79.5",
+      "20.5"
     ],
     "wins": 75,
-    "losses": 69
+    "losses": 70
   },
   "PANC#613": {
     "name": "panchito$",
@@ -80,7 +80,7 @@
     "losses": 17
   },
   "LVLM#792": {
-    "name": "Hottie Nanako",
+    "name": "Uncut Jim",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -243,14 +243,14 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "GOLD 3",
-    "rating": 1700.9,
+    "rating": 1726.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 17,
+    "wins": 18,
     "losses": 11
   },
   "ZBOO#991": {
@@ -518,6 +518,22 @@
     ],
     "wins": 1,
     "losses": 3
+  },
+  "JDBN#000": {
+    "name": "jodben",
+    "tag": "JDBN#000",
+    "rank": "SILVER 2",
+    "rating": 1220.8,
+    "characters": [
+      "ICs",
+      "Fox"
+    ],
+    "percentages": [
+      "96.4",
+      "3.6"
+    ],
+    "wins": 6,
+    "losses": 7
   },
   "PHNX#609": {
     "name": "Phoenix",
