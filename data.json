@@ -324,16 +324,16 @@
   "SERE#225": {
     "name": "sp1ndAUNT",
     "tag": "SERE#225",
-    "rank": "DIAMOND 1",
-    "rating": 2070.5,
+    "rank": "DIAMOND 2",
+    "rating": 2110.8,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 84,
-    "losses": 64
+    "wins": 90,
+    "losses": 66
   },
   "MARF#811": {
     "name": "Marfweasel",
