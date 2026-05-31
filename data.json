@@ -138,16 +138,16 @@
   "FRUM#591": {
     "name": "Braining",
     "tag": "FRUM#591",
-    "rank": "PLATINUM 2",
-    "rating": 1872.4,
+    "rank": "PLATINUM 3",
+    "rating": 1967.3,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 17,
-    "losses": 8
+    "wins": 21,
+    "losses": 10
   },
   "CUTS#327": {
     "name": "LeBronComeHome",
@@ -364,16 +364,16 @@
   "DEE#218": {
     "name": "treachery",
     "tag": "DEE#218",
-    "rank": "GOLD 2",
-    "rating": 1549.1,
+    "rank": "GOLD 1",
+    "rating": 1490.1,
     "characters": [
       "YLink"
     ],
     "percentages": [
-      "94.9"
+      "95.3"
     ],
     "wins": 14,
-    "losses": 12
+    "losses": 14
   },
   "SUCC#860": {
     "name": "Wahey",
