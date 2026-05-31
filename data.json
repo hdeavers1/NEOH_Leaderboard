@@ -364,16 +364,16 @@
   "DEE#218": {
     "name": "treachery",
     "tag": "DEE#218",
-    "rank": "GOLD 1",
-    "rating": 1533.4,
+    "rank": "GOLD 2",
+    "rating": 1549.1,
     "characters": [
       "YLink"
     ],
     "percentages": [
-      "94.6"
+      "94.9"
     ],
-    "wins": 13,
-    "losses": 11
+    "wins": 14,
+    "losses": 12
   },
   "SUCC#860": {
     "name": "Wahey",
