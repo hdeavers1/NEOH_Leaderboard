@@ -365,19 +365,15 @@
     "name": "treachery",
     "tag": "DEE#218",
     "rank": "GOLD 1",
-    "rating": 1468.5,
+    "rating": 1533.4,
     "characters": [
-      "YLink",
-      "Marth",
-      "ICs"
+      "YLink"
     ],
     "percentages": [
-      "95.8",
-      "2.1",
-      "2.1"
+      "94.6"
     ],
-    "wins": 10,
-    "losses": 10
+    "wins": 13,
+    "losses": 11
   },
   "SUCC#860": {
     "name": "Wahey",
