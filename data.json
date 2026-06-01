@@ -226,7 +226,7 @@
     "losses": 24
   },
   "BLSE#808": {
-    "name": "2Framez",
+    "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "DIAMOND 1",
     "rating": 2041,
@@ -349,17 +349,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1668.2,
+    "rating": 1678.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.2",
-      "2.8"
+      "97.5",
+      "2.5"
     ],
-    "wins": 48,
-    "losses": 41
+    "wins": 53,
+    "losses": 45
   },
   "DEE#218": {
     "name": "treachery",
@@ -408,17 +408,17 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "SILVER 3",
-    "rating": 1423.8,
+    "rank": "GOLD 1",
+    "rating": 1453.9,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "86.6",
-      "12.8"
+      "87.0",
+      "12.5"
     ],
-    "wins": 40,
+    "wins": 42,
     "losses": 41
   },
   "NCRO#183": {
@@ -460,16 +460,18 @@
   "SMEG#879": {
     "name": "FURBY",
     "tag": "SMEG#879",
-    "rank": "GOLD 1",
-    "rating": 1460.1,
+    "rank": "SILVER 3",
+    "rating": 1375.3,
     "characters": [
-      "Pikachu"
+      "Pikachu",
+      "G&W"
     ],
     "percentages": [
-      "100.0"
+      "75.0",
+      "25.0"
     ],
     "wins": 4,
-    "losses": 1
+    "losses": 3
   },
   "BOZO#386": {
     "name": "super pichu",
