@@ -136,7 +136,7 @@
     "losses": 6
   },
   "FRUM#591": {
-    "name": "Braining",
+    "name": "Multi",
     "tag": "FRUM#591",
     "rank": "PLATINUM 3",
     "rating": 1967.3,
@@ -228,16 +228,16 @@
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
-    "rank": "MASTER 1",
-    "rating": 2202.5,
+    "rank": "GRANDMASTER",
+    "rating": 2197.7,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 30,
-    "losses": 6
+    "wins": 33,
+    "losses": 8
   },
   "FLOW#08": {
     "name": "Flow",
