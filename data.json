@@ -201,68 +201,6 @@
     "wins": 0,
     "losses": 0
   },
-  "GRIM#801": {
-    "name": "Shiesty",
-    "tag": "GRIM#801",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "GHST#232": {
-    "name": "Ghast",
-    "tag": "GHST#232",
-    "rank": "PLATINUM 1",
-    "rating": 1804.2,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 28,
-    "losses": 24
-  },
-  "BLSE#808": {
-    "name": "bl$e",
-    "tag": "BLSE#808",
-    "rank": "GRANDMASTER",
-    "rating": 2197.7,
-    "characters": [
-      "Pikachu"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 33,
-    "losses": 8
-  },
-  "FLOW#08": {
-    "name": "Flow",
-    "tag": "FLOW#08",
-    "rank": "GOLD 3",
-    "rating": 1711.9,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 18,
-    "losses": 12
-  },
-  "ZBOO#991": {
-    "name": "(-:",
-    "tag": "ZBOO#991",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "PEE#658": {
     "name": "Gannon Sharpe",
     "tag": "PEE#658",
@@ -349,17 +287,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1719,
+    "rating": 1733.9,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "97.8",
+      "2.2"
     ],
-    "wins": 58,
-    "losses": 48
+    "wins": 61,
+    "losses": 51
   },
   "DEE#218": {
     "name": "WeAllLowkeyGay",
