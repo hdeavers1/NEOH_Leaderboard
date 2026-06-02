@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1608.7,
+    "rating": 1634.8,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "80.7",
-      "19.3"
+      "80.9",
+      "19.1"
     ],
-    "wins": 84,
-    "losses": 75
+    "wins": 88,
+    "losses": 77
   },
   "PANC#613": {
     "name": "panchito$",
@@ -162,20 +162,6 @@
     ],
     "wins": 74,
     "losses": 63
-  },
-  "ASIG#701": {
-    "name": "aSig",
-    "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1726.6,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 23,
-    "losses": 18
   },
   "JUST#577": {
     "name": "Just",
