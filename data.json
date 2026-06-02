@@ -181,15 +181,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2297.7,
+    "rating": 2332.8,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 50,
-    "losses": 13
+    "wins": 54,
+    "losses": 14
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -243,7 +243,7 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "GOLD 3",
-    "rating": 1726.1,
+    "rating": 1711.9,
     "characters": [
       "Marth"
     ],
@@ -251,7 +251,7 @@
       "100.0"
     ],
     "wins": 18,
-    "losses": 11
+    "losses": 12
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -349,17 +349,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1678.1,
+    "rating": 1719,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "97.7",
+      "2.3"
     ],
-    "wins": 53,
-    "losses": 45
+    "wins": 58,
+    "losses": 48
   },
   "DEE#218": {
     "name": "WeAllLowkeyGay",
@@ -440,7 +440,7 @@
     "losses": 6
   },
   "MOSHI#0": {
-    "name": "Shenix",
+    "name": "ms doesn't miss",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1776.7,
