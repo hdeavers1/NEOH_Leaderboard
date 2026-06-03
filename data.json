@@ -443,19 +443,19 @@
     "name": "ms doesn't miss",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1776.7,
+    "rating": 1752.5,
     "characters": [
       "Peach",
       "DK",
       "Ness"
     ],
     "percentages": [
-      "91.8",
-      "5.9",
-      "2.3"
+      "91.7",
+      "6.3",
+      "2.1"
     ],
-    "wins": 81,
-    "losses": 69
+    "wins": 90,
+    "losses": 76
   },
   "SMEG#879": {
     "name": "FURBY",
