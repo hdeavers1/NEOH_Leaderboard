@@ -163,6 +163,20 @@
     "wins": 74,
     "losses": 63
   },
+  "ASIG#701": {
+    "name": "aSig",
+    "tag": "ASIG#701",
+    "rank": "GOLD 3",
+    "rating": 1726.6,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 23,
+    "losses": 18
+  },
   "JUST#577": {
     "name": "Just",
     "tag": "JUST#577",
@@ -543,14 +557,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 2",
-    "rating": 1593.3,
+    "rating": 1597.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.1"
     ],
-    "wins": 73,
-    "losses": 64
+    "wins": 76,
+    "losses": 66
   }
 }
