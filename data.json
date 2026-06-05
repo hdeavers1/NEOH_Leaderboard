@@ -26,7 +26,7 @@
     "losses": 0
   },
   "BIGO#869": {
-    "name": "ReggaeMaster",
+    "name": "IttyBittyJitty",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -325,15 +325,15 @@
     "name": "sp1ndAUNT",
     "tag": "SERE#225",
     "rank": "DIAMOND 2",
-    "rating": 2110.8,
+    "rating": 2122.2,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "99.4"
+      "99.5"
     ],
-    "wins": 90,
-    "losses": 66
+    "wins": 93,
+    "losses": 67
   },
   "MARF#811": {
     "name": "Marfweasel",
