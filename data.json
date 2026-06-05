@@ -153,15 +153,15 @@
     "name": "LeBronComeHome",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1919,
+    "rating": 1884.1,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 74,
-    "losses": 63
+    "wins": 77,
+    "losses": 68
   },
   "ASIG#701": {
     "name": "aSig",
@@ -277,19 +277,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1903.3,
+    "rating": 1854.9,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "64.2",
-      "24.0",
-      "11.7"
+      "64.5",
+      "23.7",
+      "11.8"
     ],
     "wins": 40,
-    "losses": 30
+    "losses": 33
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -409,16 +409,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1404.7,
+    "rating": 1420.7,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "85.9",
-      "13.6"
+      "86.1",
+      "13.4"
     ],
-    "wins": 42,
+    "wins": 43,
     "losses": 44
   },
   "NCRO#183": {
@@ -440,7 +440,7 @@
     "losses": 6
   },
   "MOSHI#0": {
-    "name": "dih bih gah",
+    "name": "deer friend",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1765.8,
