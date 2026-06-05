@@ -443,35 +443,37 @@
     "name": "deer friend",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1765.8,
+    "rating": 1764.8,
     "characters": [
       "Peach",
       "DK",
       "Ness"
     ],
     "percentages": [
-      "89.8",
-      "6.2",
-      "4.0"
+      "88.8",
+      "6.0",
+      "5.3"
     ],
-    "wins": 95,
-    "losses": 79
+    "wins": 100,
+    "losses": 82
   },
   "SMEG#879": {
     "name": "FURBY",
     "tag": "SMEG#879",
     "rank": "SILVER 3",
-    "rating": 1375.3,
+    "rating": 1400.5,
     "characters": [
       "Pikachu",
+      "Marth",
       "G&W"
     ],
     "percentages": [
-      "75.0",
-      "25.0"
+      "48.0",
+      "36.0",
+      "16.0"
     ],
-    "wins": 4,
-    "losses": 3
+    "wins": 6,
+    "losses": 5
   },
   "BOZO#386": {
     "name": "super pichu",
