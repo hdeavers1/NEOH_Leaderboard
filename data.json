@@ -39,15 +39,15 @@
     "name": "Large Diet Coke",
     "tag": "QCUM#685",
     "rank": "GOLD 1",
-    "rating": 1471.9,
+    "rating": 1451,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 12,
-    "losses": 9
+    "wins": 13,
+    "losses": 11
   },
   "MAYO#795": {
     "name": "the mayo",
@@ -409,17 +409,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1425.4,
+    "rating": 1417,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "86.3",
-      "13.2"
+      "86.5",
+      "13.0"
     ],
     "wins": 44,
-    "losses": 44
+    "losses": 45
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -559,14 +559,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 2",
-    "rating": 1636.9,
+    "rating": 1645.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "98.9"
     ],
-    "wins": 81,
+    "wins": 82,
     "losses": 68
   }
 }
