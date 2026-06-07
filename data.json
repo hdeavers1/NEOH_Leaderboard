@@ -215,7 +215,7 @@
     "name": "Ghast",
     "tag": "GHST#232",
     "rank": "PLATINUM 1",
-    "rating": 1827,
+    "rating": 1798,
     "characters": [
       "Falcon"
     ],
@@ -223,7 +223,7 @@
       "100.0"
     ],
     "wins": 30,
-    "losses": 25
+    "losses": 27
   },
   "BLSE#808": {
     "name": "bl$e",
@@ -408,17 +408,17 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "SILVER 3",
-    "rating": 1425.4,
+    "rank": "GOLD 1",
+    "rating": 1443.5,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "86.9",
-      "12.7"
+      "86.6",
+      "13.0"
     ],
-    "wins": 46,
+    "wins": 47,
     "losses": 46
   },
   "NCRO#183": {
