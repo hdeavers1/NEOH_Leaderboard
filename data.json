@@ -215,29 +215,29 @@
     "name": "Ghast",
     "tag": "GHST#232",
     "rank": "PLATINUM 1",
-    "rating": 1804.2,
+    "rating": 1827,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 28,
-    "losses": 24
+    "wins": 30,
+    "losses": 25
   },
   "BLSE#808": {
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2197.7,
+    "rating": 2195.6,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 33,
-    "losses": 8
+    "wins": 39,
+    "losses": 11
   },
   "FLOW#08": {
     "name": "Flow",
@@ -409,17 +409,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "SILVER 3",
-    "rating": 1417,
+    "rating": 1425.4,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "86.5",
-      "13.0"
+      "86.9",
+      "12.7"
     ],
-    "wins": 44,
-    "losses": 45
+    "wins": 46,
+    "losses": 46
   },
   "NCRO#183": {
     "name": "XP Waste",
