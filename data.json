@@ -229,15 +229,15 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2195.6,
+    "rating": 2221.2,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 39,
-    "losses": 11
+    "wins": 42,
+    "losses": 13
   },
   "FLOW#08": {
     "name": "Flow",
@@ -276,20 +276,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1854.9,
+    "rank": "PLATINUM 1",
+    "rating": 1811.3,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "64.5",
-      "23.7",
-      "11.8"
+      "64.8",
+      "24.0",
+      "11.2"
     ],
     "wins": 40,
-    "losses": 33
+    "losses": 37
   },
   "DNZO#333": {
     "name": "the thinker",
