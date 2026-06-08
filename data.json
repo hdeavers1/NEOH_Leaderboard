@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1725.9,
+    "rating": 1715.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.4",
-      "20.6"
+      "79.5",
+      "20.5"
     ],
     "wins": 100,
-    "losses": 81
+    "losses": 82
   },
   "PANC#613": {
     "name": "panchito$",
@@ -360,40 +360,6 @@
     ],
     "wins": 62,
     "losses": 51
-  },
-  "DEE#218": {
-    "name": "WeAllLowkeyGay",
-    "tag": "DEE#218",
-    "rank": "GOLD 1",
-    "rating": 1507.8,
-    "characters": [
-      "YLink"
-    ],
-    "percentages": [
-      "95.8"
-    ],
-    "wins": 16,
-    "losses": 15
-  },
-  "SUCC#860": {
-    "name": "Wahey",
-    "tag": "SUCC#860",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "EGAG#906": {
-    "name": "nospinballout",
-    "tag": "EGAG#906",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "WICE#699": {
     "name": "Romanburger",
