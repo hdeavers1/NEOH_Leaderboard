@@ -229,15 +229,15 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2221.2,
+    "rating": 2285.1,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 42,
-    "losses": 13
+    "wins": 57,
+    "losses": 16
   },
   "FLOW#08": {
     "name": "Flow",
@@ -443,19 +443,19 @@
     "name": "deer friend",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1764.8,
+    "rating": 1776.9,
     "characters": [
       "Peach",
       "DK",
       "Ness"
     ],
     "percentages": [
-      "88.8",
+      "88.9",
       "6.0",
-      "5.3"
+      "5.1"
     ],
-    "wins": 100,
-    "losses": 82
+    "wins": 103,
+    "losses": 84
   },
   "SMEG#879": {
     "name": "FURBY",
