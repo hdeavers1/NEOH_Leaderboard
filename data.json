@@ -349,17 +349,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1761.9,
+    "rating": 1781.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.9",
-      "2.1"
+      "98.0",
+      "2.0"
     ],
-    "wins": 64,
-    "losses": 53
+    "wins": 67,
+    "losses": 55
   },
   "DEE#218": {
     "name": "WeAllLowkeyGay",
@@ -534,6 +534,16 @@
     ],
     "wins": 6,
     "losses": 7
+  },
+  "PHNX#609": {
+    "name": "Phoenix",
+    "tag": "PHNX#609",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "LAND#19": {
     "name": "emma goldman",
