@@ -229,14 +229,14 @@
     "name": "bl$e",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2285.1,
+    "rating": 2291.5,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 57,
+    "wins": 58,
     "losses": 16
   },
   "FLOW#08": {
@@ -277,19 +277,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 1",
-    "rating": 1791.6,
+    "rating": 1789.7,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "65.8",
-      "23.3",
-      "10.9"
+      "66.2",
+      "23.1",
+      "10.6"
     ],
-    "wins": 41,
-    "losses": 39
+    "wins": 44,
+    "losses": 42
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -409,16 +409,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1443.5,
+    "rating": 1462.7,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "86.6",
-      "13.0"
+      "86.8",
+      "12.8"
     ],
-    "wins": 47,
+    "wins": 48,
     "losses": 46
   },
   "NCRO#183": {
