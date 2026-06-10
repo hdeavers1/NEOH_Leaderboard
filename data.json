@@ -53,7 +53,7 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1715.5,
+    "rating": 1735.7,
     "characters": [
       "Falcon",
       "DK"
@@ -62,8 +62,8 @@
       "79.5",
       "20.5"
     ],
-    "wins": 100,
-    "losses": 82
+    "wins": 103,
+    "losses": 83
   },
   "PANC#613": {
     "name": "panchito$",
@@ -276,20 +276,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 1",
-    "rating": 1789.7,
+    "rank": "PLATINUM 2",
+    "rating": 1857.3,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "66.2",
-      "23.1",
-      "10.6"
+      "68.7",
+      "21.5",
+      "9.8"
     ],
-    "wins": 44,
-    "losses": 42
+    "wins": 52,
+    "losses": 47
   },
   "DNZO#333": {
     "name": "the thinker",
