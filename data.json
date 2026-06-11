@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1728.4,
+    "rating": 1720.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.1",
-      "20.9"
+      "79.4",
+      "20.6"
     ],
-    "wins": 115,
-    "losses": 97
+    "wins": 116,
+    "losses": 99
   },
   "PANC#613": {
     "name": "panchito$",
@@ -322,7 +322,7 @@
     "losses": 0
   },
   "SERE#225": {
-    "name": "sp1ndAUNT",
+    "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "DIAMOND 2",
     "rating": 2122.2,
