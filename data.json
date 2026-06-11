@@ -53,7 +53,7 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1697.6,
+    "rating": 1680.2,
     "characters": [
       "Falcon",
       "DK"
@@ -63,7 +63,7 @@
       "21.1"
     ],
     "wins": 106,
-    "losses": 91
+    "losses": 92
   },
   "PANC#613": {
     "name": "panchito$",
@@ -215,29 +215,29 @@
     "name": "Ghast",
     "tag": "GHST#232",
     "rank": "PLATINUM 1",
-    "rating": 1798,
+    "rating": 1826.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 30,
+    "wins": 31,
     "losses": 27
   },
   "BLSE#808": {
     "name": "rotund chud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2291.5,
+    "rating": 2286.7,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 58,
-    "losses": 16
+    "wins": 63,
+    "losses": 18
   },
   "FLOW#08": {
     "name": "Flow",
@@ -409,16 +409,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1439.2,
+    "rating": 1448.5,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "86.6",
+      "86.7",
       "12.9"
     ],
-    "wins": 48,
+    "wins": 49,
     "losses": 48
   },
   "NCRO#183": {
@@ -559,14 +559,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 3",
-    "rating": 1654.3,
+    "rating": 1664.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "98.9"
     ],
-    "wins": 83,
+    "wins": 84,
     "losses": 68
   }
 }
