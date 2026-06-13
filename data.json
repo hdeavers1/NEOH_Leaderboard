@@ -139,29 +139,29 @@
     "name": "Multi",
     "tag": "FRUM#591",
     "rank": "PLATINUM 3",
-    "rating": 1967.3,
+    "rating": 1985.2,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 21,
-    "losses": 10
+    "wins": 23,
+    "losses": 12
   },
   "CUTS#327": {
-    "name": "LeBronComeHome",
+    "name": "Landry Samus",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
-    "rating": 1884.1,
+    "rating": 1915,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 77,
-    "losses": 68
+    "wins": 83,
+    "losses": 71
   },
   "ASIG#701": {
     "name": "aSig",
@@ -215,29 +215,29 @@
     "name": "Ghast",
     "tag": "GHST#232",
     "rank": "PLATINUM 1",
-    "rating": 1826.3,
+    "rating": 1841.5,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 31,
+    "wins": 32,
     "losses": 27
   },
   "BLSE#808": {
     "name": "rotund chud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2286.7,
+    "rating": 2307.4,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 63,
-    "losses": 18
+    "wins": 69,
+    "losses": 20
   },
   "FLOW#08": {
     "name": "Flow",
@@ -559,14 +559,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 3",
-    "rating": 1664.5,
+    "rating": 1673.9,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "98.9"
     ],
-    "wins": 84,
+    "wins": 85,
     "losses": 68
   }
 }
