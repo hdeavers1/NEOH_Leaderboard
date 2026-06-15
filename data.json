@@ -349,15 +349,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1735,
+    "rating": 1714.5,
     "characters": [
-      "Yoshi"
+      "Yoshi",
+      "DK"
     ],
     "percentages": [
-      "98.1"
+      "97.3",
+      "2.7"
     ],
-    "wins": 69,
-    "losses": 61
+    "wins": 71,
+    "losses": 65
   },
   "DEE#218": {
     "name": "WeAllLowkeyGay",
