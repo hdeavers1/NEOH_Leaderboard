@@ -39,15 +39,15 @@
     "name": "Large Diet Coke",
     "tag": "QCUM#685",
     "rank": "GOLD 1",
-    "rating": 1451,
+    "rating": 1466.9,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 13,
-    "losses": 11
+    "wins": 14,
+    "losses": 12
   },
   "MAYO#795": {
     "name": "the mayo",
@@ -181,15 +181,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2332.8,
+    "rating": 2338.6,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 54,
-    "losses": 14
+    "wins": 58,
+    "losses": 15
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -348,18 +348,16 @@
   "YOSH#458": {
     "name": "parry carried",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1781.4,
+    "rank": "GOLD 3",
+    "rating": 1735,
     "characters": [
-      "Yoshi",
-      "DK"
+      "Yoshi"
     ],
     "percentages": [
-      "98.0",
-      "2.0"
+      "98.1"
     ],
-    "wins": 67,
-    "losses": 55
+    "wins": 69,
+    "losses": 61
   },
   "DEE#218": {
     "name": "WeAllLowkeyGay",
@@ -443,19 +441,19 @@
     "name": "deer friend",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1771.2,
+    "rating": 1778.5,
     "characters": [
       "Peach",
-      "DK",
-      "Ness"
+      "Ness",
+      "DK"
     ],
     "percentages": [
       "88.6",
-      "5.7",
-      "5.7"
+      "5.8",
+      "5.6"
     ],
-    "wins": 111,
-    "losses": 94
+    "wins": 113,
+    "losses": 96
   },
   "SMEG#879": {
     "name": "FURBY",
@@ -559,14 +557,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 3",
-    "rating": 1673.9,
+    "rating": 1654,
     "characters": [
       "Fox"
     ],
     "percentages": [
-      "98.9"
+      "99.0"
     ],
-    "wins": 85,
-    "losses": 68
+    "wins": 88,
+    "losses": 74
   }
 }
