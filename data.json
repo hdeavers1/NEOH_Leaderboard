@@ -349,16 +349,16 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1719.8,
+    "rating": 1729.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "97.3",
+      "2.7"
     ],
-    "wins": 79,
+    "wins": 80,
     "losses": 73
   },
   "DEE#218": {
@@ -546,7 +546,7 @@
     "losses": 0
   },
   "LAND#19": {
-    "name": "emma goldman",
+    "name": "dont leave",
     "tag": "LAND#19",
     "rank": "NONE",
     "rating": 0,
