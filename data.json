@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1765.1,
+    "rank": "GOLD 3",
+    "rating": 1746.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.0",
-      "21.0"
+      "79.4",
+      "20.6"
     ],
-    "wins": 129,
-    "losses": 109
+    "wins": 135,
+    "losses": 117
   },
   "PANC#613": {
     "name": "panchito$",
@@ -349,17 +349,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1714.5,
+    "rating": 1719.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.3",
-      "2.7"
+      "97.5",
+      "2.5"
     ],
-    "wins": 71,
-    "losses": 65
+    "wins": 79,
+    "losses": 73
   },
   "DEE#218": {
     "name": "WeAllLowkeyGay",
