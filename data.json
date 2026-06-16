@@ -229,15 +229,15 @@
     "name": "rotund chud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2302.3,
+    "rating": 2296.9,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 81,
-    "losses": 25
+    "wins": 84,
+    "losses": 26
   },
   "FLOW#08": {
     "name": "Flow",
@@ -443,19 +443,19 @@
     "name": "deer friend",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1778.5,
+    "rating": 1769.7,
     "characters": [
       "Peach",
       "Ness",
       "DK"
     ],
     "percentages": [
-      "88.6",
-      "5.8",
-      "5.6"
+      "88.7",
+      "6.0",
+      "5.4"
     ],
-    "wins": 113,
-    "losses": 96
+    "wins": 117,
+    "losses": 101
   },
   "SMEG#879": {
     "name": "FURBY",
