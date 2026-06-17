@@ -138,19 +138,19 @@
   "FRUM#591": {
     "name": "Multi",
     "tag": "FRUM#591",
-    "rank": "PLATINUM 3",
-    "rating": 1985.2,
+    "rank": "DIAMOND 1",
+    "rating": 2009.6,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 23,
-    "losses": 12
+    "wins": 25,
+    "losses": 13
   },
   "CUTS#327": {
-    "name": "Landry Samus",
+    "name": "Plup Fiction",
     "tag": "CUTS#327",
     "rank": "PLATINUM 2",
     "rating": 1915,
@@ -243,15 +243,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "GOLD 3",
-    "rating": 1711.9,
+    "rating": 1713.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 18,
-    "losses": 12
+    "wins": 19,
+    "losses": 13
   },
   "ZBOO#991": {
     "name": "(-:",
