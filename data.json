@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1746.5,
+    "rating": 1744.1,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.4",
-      "20.6"
+      "79.1",
+      "20.9"
     ],
-    "wins": 135,
-    "losses": 117
+    "wins": 140,
+    "losses": 121
   },
   "PANC#613": {
     "name": "panchito$",
@@ -546,7 +546,7 @@
     "losses": 0
   },
   "LAND#19": {
-    "name": "dont leave",
+    "name": "emma goldman",
     "tag": "LAND#19",
     "rank": "NONE",
     "rating": 0,
