@@ -1,4 +1,40 @@
 {
+  "WWJ#916": {
+    "name": "RaptorBoostGod",
+    "tag": "WWJ#916",
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Falcon",
+      "Falco"
+    ],
+    "percentages": [
+      "60.0",
+      "40.0"
+    ],
+    "wins": 1,
+    "losses": 1
+  },
+  "JUBS#579": {
+    "name": "Lub",
+    "tag": "JUBS#579",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "BIGO#869": {
+    "name": "glopper",
+    "tag": "BIGO#869",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "QCUM#685": {
     "name": "Large Diet Coke",
     "tag": "QCUM#685",
