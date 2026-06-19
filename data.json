@@ -53,16 +53,16 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1716.6,
+    "rating": 1725.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
       "78.7",
-      "21.2"
+      "21.1"
     ],
-    "wins": 145,
+    "wins": 146,
     "losses": 128
   },
   "PANC#613": {
@@ -102,6 +102,16 @@
   "SPOR#247": {
     "name": "qrayg",
     "tag": "SPOR#247",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "JARD#561": {
+    "name": "pingas",
+    "tag": "JARD#561",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
