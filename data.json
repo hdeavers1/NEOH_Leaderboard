@@ -138,8 +138,8 @@
   "FRUM#591": {
     "name": "Multi",
     "tag": "FRUM#591",
-    "rank": "DIAMOND 1",
-    "rating": 2009.6,
+    "rank": "PLATINUM 3",
+    "rating": 1954.9,
     "characters": [
       "Falco"
     ],
@@ -147,7 +147,7 @@
       "100.0"
     ],
     "wins": 25,
-    "losses": 13
+    "losses": 17
   },
   "CUTS#327": {
     "name": "Plup Fiction",
@@ -325,15 +325,15 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "DIAMOND 2",
-    "rating": 2107.9,
+    "rating": 2117.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 94,
-    "losses": 68
+    "wins": 99,
+    "losses": 71
   },
   "MARF#811": {
     "name": "Marfweasel",
