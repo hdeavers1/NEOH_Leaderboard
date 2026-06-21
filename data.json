@@ -153,15 +153,15 @@
     "name": "Plup Fiction",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1987.5,
+    "rating": 1968.4,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 96,
-    "losses": 78
+    "wins": 111,
+    "losses": 95
   },
   "ASIG#701": {
     "name": "aSig",
@@ -215,7 +215,7 @@
     "name": "Ghast",
     "tag": "GHST#232",
     "rank": "PLATINUM 1",
-    "rating": 1842.3,
+    "rating": 1831.8,
     "characters": [
       "Falcon"
     ],
@@ -223,7 +223,7 @@
       "100.0"
     ],
     "wins": 33,
-    "losses": 29
+    "losses": 30
   },
   "BLSE#808": {
     "name": "rotund chud",
