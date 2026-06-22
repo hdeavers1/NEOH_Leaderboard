@@ -396,7 +396,7 @@
     "losses": 0
   },
   "WICE#699": {
-    "name": "Romanburger",
+    "name": "Brentalfloss",
     "tag": "WICE#699",
     "rank": "NONE",
     "rating": 0,
@@ -443,7 +443,7 @@
     "name": "deer friend",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1769.7,
+    "rating": 1771.4,
     "characters": [
       "Peach",
       "Ness",
@@ -451,11 +451,11 @@
     ],
     "percentages": [
       "88.7",
-      "6.0",
-      "5.4"
+      "6.2",
+      "5.1"
     ],
-    "wins": 117,
-    "losses": 101
+    "wins": 124,
+    "losses": 106
   },
   "SMEG#879": {
     "name": "FURBY",
