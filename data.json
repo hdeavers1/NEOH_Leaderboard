@@ -109,16 +109,6 @@
     "wins": 0,
     "losses": 0
   },
-  "JARD#561": {
-    "name": "pingas",
-    "tag": "JARD#561",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
@@ -355,17 +345,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1746.6,
+    "rating": 1722.9,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "97.4",
+      "2.6"
     ],
-    "wins": 87,
-    "losses": 79
+    "wins": 91,
+    "losses": 87
   },
   "DEE#218": {
     "name": "WeAllLowkeyGay",
