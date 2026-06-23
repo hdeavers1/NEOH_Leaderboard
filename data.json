@@ -242,15 +242,15 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "GOLD 3",
-    "rating": 1740,
+    "rank": "PLATINUM 1",
+    "rating": 1826,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 20,
+    "wins": 23,
     "losses": 13
   },
   "ZBOO#991": {
@@ -276,20 +276,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 1",
-    "rating": 1774.7,
+    "rank": "GOLD 3",
+    "rating": 1744.5,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "71.9",
-      "20.6",
-      "7.5"
+      "72.2",
+      "20.5",
+      "7.3"
     ],
     "wins": 65,
-    "losses": 72
+    "losses": 75
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -314,12 +314,18 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "GOLD 3",
+    "rating": 1699.2,
+    "characters": [
+      "Peach",
+      "Fox"
+    ],
+    "percentages": [
+      "94.1",
+      "5.9"
+    ],
+    "wins": 6,
+    "losses": 1
   },
   "SERE#225": {
     "name": "sp1nda",
