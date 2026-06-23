@@ -136,7 +136,7 @@
     "losses": 6
   },
   "FRUM#591": {
-    "name": "Multi",
+    "name": "Funny Name",
     "tag": "FRUM#591",
     "rank": "DIAMOND 1",
     "rating": 2014,
@@ -243,14 +243,14 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "GOLD 3",
-    "rating": 1713.6,
+    "rating": 1740,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 19,
+    "wins": 20,
     "losses": 13
   },
   "ZBOO#991": {
