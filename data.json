@@ -1,4 +1,20 @@
 {
+  "WWJ#916": {
+    "name": "RaptorBoostGod",
+    "tag": "WWJ#916",
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Falcon",
+      "Falco"
+    ],
+    "percentages": [
+      "60.0",
+      "40.0"
+    ],
+    "wins": 1,
+    "losses": 1
+  },
   "JUBS#579": {
     "name": "Lub",
     "tag": "JUBS#579",
@@ -86,6 +102,16 @@
   "SPOR#247": {
     "name": "qrayg",
     "tag": "SPOR#247",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "JARD#561": {
+    "name": "pingas",
+    "tag": "JARD#561",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
@@ -344,15 +370,15 @@
   "DEE#218": {
     "name": "WeAllLowkeyGay",
     "tag": "DEE#218",
-    "rank": "GOLD 1",
-    "rating": 1483.1,
+    "rank": "GOLD 2",
+    "rating": 1550.6,
     "characters": [
       "YLink"
     ],
     "percentages": [
-      "95.9"
+      "96.3"
     ],
-    "wins": 16,
+    "wins": 19,
     "losses": 16
   },
   "SUCC#860": {
