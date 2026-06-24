@@ -371,15 +371,15 @@
     "name": "WeAllLowkeyGay",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1588.9,
+    "rating": 1627.7,
     "characters": [
       "YLink"
     ],
     "percentages": [
-      "96.6"
+      "96.8"
     ],
-    "wins": 21,
-    "losses": 17
+    "wins": 23,
+    "losses": 18
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -410,22 +410,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "DANK#954": {
-    "name": "The Guzzler",
-    "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1448.5,
-    "characters": [
-      "Marth",
-      "Puff"
-    ],
-    "percentages": [
-      "86.7",
-      "12.9"
-    ],
-    "wins": 49,
-    "losses": 48
   },
   "NCRO#183": {
     "name": "XP Waste",
