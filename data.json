@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1749.1,
+    "rating": 1716.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.6",
-      "20.3"
+      "79.8",
+      "20.1"
     ],
     "wins": 168,
-    "losses": 148
+    "losses": 151
   },
   "PANC#613": {
     "name": "panchito$",
@@ -319,17 +319,17 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1699.2,
+    "rating": 1666.2,
     "characters": [
       "Peach",
       "Fox"
     ],
     "percentages": [
-      "94.1",
-      "5.9"
+      "94.7",
+      "5.3"
     ],
     "wins": 6,
-    "losses": 1
+    "losses": 2
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -359,17 +359,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1722.9,
+    "rating": 1671.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.4",
-      "2.6"
+      "97.3",
+      "2.7"
     ],
     "wins": 91,
-    "losses": 87
+    "losses": 92
   },
   "DEE#218": {
     "name": "WeAllLowkeyGay",
