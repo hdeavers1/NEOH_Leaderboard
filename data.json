@@ -3,16 +3,16 @@
     "name": "RaptorBoostGod",
     "tag": "WWJ#916",
     "rank": "PENDING",
-    "rating": 3,
+    "rating": 2,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "60.0",
-      "40.0"
+      "71.4",
+      "28.6"
     ],
-    "wins": 1,
+    "wins": 2,
     "losses": 1
   },
   "JUBS#579": {
@@ -112,12 +112,16 @@
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 2",
+    "rating": 1190.6,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 3
   },
   "FUEL#375": {
     "name": "Fuelperks",
@@ -139,29 +143,29 @@
     "name": "Funny Name",
     "tag": "FRUM#591",
     "rank": "DIAMOND 1",
-    "rating": 2014,
+    "rating": 2048.6,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 28,
+    "wins": 30,
     "losses": 19
   },
   "CUTS#327": {
     "name": "Plup Fiction",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1977.8,
+    "rating": 1986.9,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 112,
-    "losses": 96
+    "wins": 118,
+    "losses": 102
   },
   "ASIG#701": {
     "name": "aSig",
@@ -214,8 +218,8 @@
   "GHST#232": {
     "name": "Ghast",
     "tag": "GHST#232",
-    "rank": "PLATINUM 2",
-    "rating": 1853.9,
+    "rank": "PLATINUM 1",
+    "rating": 1835.7,
     "characters": [
       "Falcon"
     ],
@@ -223,7 +227,7 @@
       "100.0"
     ],
     "wins": 34,
-    "losses": 30
+    "losses": 32
   },
   "BLSE#808": {
     "name": "rotund chud",
@@ -276,20 +280,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "GOLD 3",
-    "rating": 1744.5,
+    "rank": "PLATINUM 1",
+    "rating": 1758.3,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "72.2",
-      "20.5",
+      "72.7",
+      "20.0",
       "7.3"
     ],
-    "wins": 65,
-    "losses": 75
+    "wins": 68,
+    "losses": 78
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -410,6 +414,22 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "DANK#954": {
+    "name": "The Guzzler",
+    "tag": "DANK#954",
+    "rank": "GOLD 1",
+    "rating": 1448.5,
+    "characters": [
+      "Marth",
+      "Puff"
+    ],
+    "percentages": [
+      "86.7",
+      "12.9"
+    ],
+    "wins": 49,
+    "losses": 48
   },
   "NCRO#183": {
     "name": "XP Waste",
