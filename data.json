@@ -53,16 +53,16 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1729.5,
+    "rating": 1750.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.5",
-      "20.4"
+      "79.6",
+      "20.3"
     ],
-    "wins": 173,
+    "wins": 175,
     "losses": 155
   },
   "PANC#613": {
@@ -246,16 +246,16 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "PLATINUM 1",
-    "rating": 1829.6,
+    "rank": "PLATINUM 2",
+    "rating": 1850.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 24,
-    "losses": 14
+    "wins": 28,
+    "losses": 18
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -281,18 +281,18 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 1",
-    "rating": 1770.4,
+    "rating": 1802.3,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "73.3",
-      "19.6",
-      "7.2"
+      "73.8",
+      "19.2",
+      "7.0"
     ],
-    "wins": 70,
+    "wins": 73,
     "losses": 79
   },
   "DNZO#333": {
