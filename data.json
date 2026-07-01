@@ -52,8 +52,8 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1750.7,
+    "rank": "PLATINUM 1",
+    "rating": 1754.3,
     "characters": [
       "Falcon",
       "DK"
@@ -62,8 +62,8 @@
       "79.6",
       "20.3"
     ],
-    "wins": 175,
-    "losses": 155
+    "wins": 176,
+    "losses": 156
   },
   "PANC#613": {
     "name": "panchito$",
@@ -171,15 +171,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 3",
-    "rating": 1749.3,
+    "rating": 1737.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 30,
-    "losses": 23
+    "wins": 31,
+    "losses": 26
   },
   "JUST#577": {
     "name": "Just",
@@ -281,19 +281,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 1",
-    "rating": 1821.9,
+    "rating": 1815,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "73.6",
-      "19.5",
-      "6.9"
+      "73.8",
+      "19.4",
+      "6.8"
     ],
-    "wins": 75,
-    "losses": 79
+    "wins": 76,
+    "losses": 81
   },
   "DNZO#333": {
     "name": "the thinker",
