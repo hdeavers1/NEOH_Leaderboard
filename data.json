@@ -2,18 +2,18 @@
   "WWJ#916": {
     "name": "RaptorBoostGod",
     "tag": "WWJ#916",
-    "rank": "PENDING",
-    "rating": 2,
+    "rank": "SILVER 3",
+    "rating": 1322.1,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "71.4",
-      "28.6"
+      "83.3",
+      "16.7"
     ],
-    "wins": 2,
-    "losses": 1
+    "wins": 3,
+    "losses": 2
   },
   "JUBS#579": {
     "name": "Lub",
@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1722.6,
+    "rating": 1707.1,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.4",
-      "20.5"
+      "79.7",
+      "20.2"
     ],
-    "wins": 179,
-    "losses": 161
+    "wins": 182,
+    "losses": 165
   },
   "PANC#613": {
     "name": "panchito$",
@@ -218,15 +218,15 @@
   "GHST#232": {
     "name": "Ghast",
     "tag": "GHST#232",
-    "rank": "PLATINUM 1",
-    "rating": 1835.7,
+    "rank": "PLATINUM 2",
+    "rating": 1855.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 34,
+    "wins": 35,
     "losses": 32
   },
   "BLSE#808": {
@@ -281,19 +281,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 1",
-    "rating": 1815,
+    "rating": 1825,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "73.8",
-      "19.4",
-      "6.8"
+      "73.5",
+      "19.8",
+      "6.7"
     ],
-    "wins": 76,
-    "losses": 81
+    "wins": 78,
+    "losses": 82
   },
   "DNZO#333": {
     "name": "the thinker",
