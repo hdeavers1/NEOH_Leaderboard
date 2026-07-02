@@ -375,17 +375,17 @@
     "name": "Interstellar",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1708.2,
+    "rating": 1715.2,
     "characters": [
       "YLink",
       "ICs"
     ],
     "percentages": [
-      "94.8",
-      "3.4"
+      "95.0",
+      "3.3"
     ],
-    "wins": 28,
-    "losses": 21
+    "wins": 29,
+    "losses": 22
   },
   "SUCC#860": {
     "name": "Wahey",
