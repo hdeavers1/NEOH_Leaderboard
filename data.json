@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1754.3,
+    "rank": "GOLD 3",
+    "rating": 1722.6,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.6",
-      "20.3"
+      "79.4",
+      "20.5"
     ],
-    "wins": 176,
-    "losses": 156
+    "wins": 179,
+    "losses": 161
   },
   "PANC#613": {
     "name": "panchito$",
@@ -154,7 +154,7 @@
     "losses": 19
   },
   "CUTS#327": {
-    "name": "Plup Fiction",
+    "name": "ComeHomeBron",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
     "rating": 1986.9,
