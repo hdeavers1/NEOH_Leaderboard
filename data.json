@@ -123,6 +123,22 @@
     "wins": 2,
     "losses": 3
   },
+  "FUEL#375": {
+    "name": "Fuelperks",
+    "tag": "FUEL#375",
+    "rank": "SILVER 2",
+    "rating": 1261.8,
+    "characters": [
+      "Fox",
+      "Peach"
+    ],
+    "percentages": [
+      "92.0",
+      "8.0"
+    ],
+    "wins": 6,
+    "losses": 6
+  },
   "FRUM#591": {
     "name": "KJH Fan",
     "tag": "FRUM#591",
@@ -343,17 +359,17 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1609.3,
+    "rating": 1618,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.3",
-      "3.5"
+      "96.1",
+      "3.7"
     ],
-    "wins": 98,
-    "losses": 104
+    "wins": 99,
+    "losses": 105
   },
   "DEE#218": {
     "name": "Interstellar",
