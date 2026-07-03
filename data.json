@@ -26,7 +26,7 @@
     "losses": 0
   },
   "BIGO#869": {
-    "name": "RareGoons",
+    "name": "bigoscar",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -156,16 +156,16 @@
   "CUTS#327": {
     "name": "ComeHomeBron",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 3",
-    "rating": 1986.9,
+    "rank": "DIAMOND 1",
+    "rating": 2009.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 118,
-    "losses": 102
+    "wins": 124,
+    "losses": 106
   },
   "ASIG#701": {
     "name": "aSig",
@@ -359,7 +359,7 @@
     "name": "parry carried",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
-    "rating": 1618,
+    "rating": 1629.8,
     "characters": [
       "Yoshi",
       "DK"
@@ -368,8 +368,8 @@
       "96.1",
       "3.7"
     ],
-    "wins": 99,
-    "losses": 105
+    "wins": 103,
+    "losses": 108
   },
   "DEE#218": {
     "name": "Interstellar",
