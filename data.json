@@ -99,6 +99,16 @@
     "wins": 0,
     "losses": 0
   },
+  "SPOR#247": {
+    "name": "qrayg",
+    "tag": "SPOR#247",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
@@ -415,17 +425,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1457.4,
+    "rating": 1449.6,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "85.6",
-      "14.0"
+      "85.2",
+      "14.3"
     ],
-    "wins": 51,
-    "losses": 50
+    "wins": 52,
+    "losses": 53
   },
   "NCRO#183": {
     "name": "XP Waste",
