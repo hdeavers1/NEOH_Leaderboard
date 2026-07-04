@@ -170,16 +170,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1737.9,
+    "rank": "PLATINUM 1",
+    "rating": 1758.6,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 31,
-    "losses": 26
+    "wins": 33,
+    "losses": 27
   },
   "JUST#577": {
     "name": "Just",
@@ -356,7 +356,7 @@
     "losses": 0
   },
   "YOSH#458": {
-    "name": "parry carried",
+    "name": "lpsnh",
     "tag": "YOSH#458",
     "rank": "GOLD 2",
     "rating": 1629.8,
