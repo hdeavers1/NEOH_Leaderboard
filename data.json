@@ -127,16 +127,16 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "SILVER 2",
-    "rating": 1261.8,
+    "rating": 1297.5,
     "characters": [
       "Fox",
       "Peach"
     ],
     "percentages": [
-      "92.0",
-      "8.0"
+      "92.6",
+      "7.4"
     ],
-    "wins": 6,
+    "wins": 7,
     "losses": 6
   },
   "FRUM#591": {
