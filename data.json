@@ -170,15 +170,15 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1734.9,
+    "rank": "PLATINUM 1",
+    "rating": 1752.9,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 33,
+    "wins": 34,
     "losses": 29
   },
   "JUST#577": {
@@ -247,15 +247,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "PLATINUM 2",
-    "rating": 1852,
+    "rating": 1903.6,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 29,
-    "losses": 20
+    "wins": 31,
+    "losses": 21
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -424,17 +424,17 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "SILVER 3",
-    "rating": 1427.7,
+    "rank": "GOLD 1",
+    "rating": 1444.6,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "85.3",
-      "14.3"
+      "85.4",
+      "14.2"
     ],
-    "wins": 53,
+    "wins": 54,
     "losses": 55
   },
   "NCRO#183": {
