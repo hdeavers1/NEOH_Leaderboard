@@ -281,19 +281,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1859,
+    "rating": 1874.6,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "74.6",
-      "19.0",
-      "6.4"
+      "75.1",
+      "18.8",
+      "6.1"
     ],
-    "wins": 82,
-    "losses": 84
+    "wins": 88,
+    "losses": 88
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -375,17 +375,17 @@
     "name": "Interstellar",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1715.2,
+    "rating": 1707.9,
     "characters": [
       "YLink",
       "ICs"
     ],
     "percentages": [
-      "95.0",
-      "3.3"
+      "95.3",
+      "3.1"
     ],
-    "wins": 29,
-    "losses": 22
+    "wins": 31,
+    "losses": 24
   },
   "SUCC#860": {
     "name": "Wahey",
