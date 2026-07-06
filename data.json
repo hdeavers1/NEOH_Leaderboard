@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1653.8,
+    "rating": 1655.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.7",
-      "20.2"
+      "79.4",
+      "20.5"
     ],
-    "wins": 192,
-    "losses": 179
+    "wins": 193,
+    "losses": 180
   },
   "PANC#613": {
     "name": "panchito$",
@@ -126,17 +126,17 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "SILVER 3",
-    "rating": 1355.4,
+    "rank": "GOLD 1",
+    "rating": 1451.2,
     "characters": [
       "Fox",
       "Peach"
     ],
     "percentages": [
-      "93.1",
-      "6.9"
+      "94.1",
+      "5.9"
     ],
-    "wins": 8,
+    "wins": 10,
     "losses": 6
   },
   "FRUM#591": {
@@ -281,19 +281,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1848.6,
+    "rating": 1859,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "73.9",
-      "19.5",
-      "6.6"
+      "74.6",
+      "19.0",
+      "6.4"
     ],
-    "wins": 80,
-    "losses": 82
+    "wins": 82,
+    "losses": 84
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -425,17 +425,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1444.6,
+    "rating": 1452.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "85.4",
-      "14.2"
+      "86.1",
+      "13.5"
     ],
-    "wins": 54,
-    "losses": 55
+    "wins": 57,
+    "losses": 57
   },
   "NCRO#183": {
     "name": "XP Waste",
