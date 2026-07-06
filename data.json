@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1661.3,
+    "rating": 1653.8,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.8",
-      "20.1"
+      "79.7",
+      "20.2"
     ],
-    "wins": 185,
-    "losses": 173
+    "wins": 192,
+    "losses": 179
   },
   "PANC#613": {
     "name": "panchito$",
@@ -126,17 +126,17 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "SILVER 2",
-    "rating": 1297.5,
+    "rank": "SILVER 3",
+    "rating": 1355.4,
     "characters": [
       "Fox",
       "Peach"
     ],
     "percentages": [
-      "92.6",
-      "7.4"
+      "93.1",
+      "6.9"
     ],
-    "wins": 7,
+    "wins": 8,
     "losses": 6
   },
   "FRUM#591": {
