@@ -35,35 +35,21 @@
     "wins": 0,
     "losses": 0
   },
-  "QCUM#685": {
-    "name": "Large Diet Coke",
-    "tag": "QCUM#685",
-    "rank": "GOLD 1",
-    "rating": 1466.9,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 14,
-    "losses": 12
-  },
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1655.3,
+    "rating": 1689.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.4",
-      "20.5"
+      "79.3",
+      "20.6"
     ],
-    "wins": 193,
-    "losses": 180
+    "wins": 197,
+    "losses": 182
   },
   "PANC#613": {
     "name": "panchito$",
@@ -142,16 +128,16 @@
   "FRUM#591": {
     "name": "Frenzy Fan",
     "tag": "FRUM#591",
-    "rank": "DIAMOND 2",
-    "rating": 2084.6,
+    "rank": "DIAMOND 1",
+    "rating": 2048.7,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 32,
-    "losses": 19
+    "wins": 34,
+    "losses": 24
   },
   "CUTS#327": {
     "name": "ComeHomeBron",
@@ -374,18 +360,18 @@
   "DEE#218": {
     "name": "Interstellar",
     "tag": "DEE#218",
-    "rank": "PLATINUM 1",
-    "rating": 1754.2,
+    "rank": "GOLD 3",
+    "rating": 1749.1,
     "characters": [
       "YLink",
       "ICs"
     ],
     "percentages": [
-      "95.5",
-      "3.0"
+      "95.8",
+      "2.8"
     ],
-    "wins": 33,
-    "losses": 24
+    "wins": 35,
+    "losses": 26
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -425,17 +411,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1452.3,
+    "rating": 1460.5,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "86.1",
-      "13.5"
+      "86.4",
+      "13.2"
     ],
-    "wins": 57,
-    "losses": 57
+    "wins": 59,
+    "losses": 58
   },
   "NCRO#183": {
     "name": "XP Waste",
