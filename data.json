@@ -35,6 +35,20 @@
     "wins": 0,
     "losses": 0
   },
+  "QCUM#685": {
+    "name": "Large Diet Coke",
+    "tag": "QCUM#685",
+    "rank": "GOLD 1",
+    "rating": 1466.9,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 14,
+    "losses": 12
+  },
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
@@ -411,16 +425,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1460.5,
+    "rating": 1474.5,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "86.4",
-      "13.2"
+      "86.5",
+      "13.1"
     ],
-    "wins": 59,
+    "wins": 60,
     "losses": 58
   },
   "NCRO#183": {
