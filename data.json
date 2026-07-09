@@ -584,5 +584,19 @@
     ],
     "wins": 89,
     "losses": 76
+  },
+  "JFOX#178": {
+    "name": "Just's Fox",
+    "tag": "JFOX#178",
+    "rank": "DIAMOND 1",
+    "rating": 2020.9,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 64,
+    "losses": 42
   }
 }
