@@ -53,17 +53,17 @@
     "name": "the mayo",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1705.1,
+    "rating": 1677.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.2",
-      "20.7"
+      "79.0",
+      "20.9"
     ],
-    "wins": 200,
-    "losses": 183
+    "wins": 202,
+    "losses": 187
   },
   "PANC#613": {
     "name": "panchito$",
@@ -425,16 +425,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1497.7,
+    "rating": 1504.7,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "86.8",
-      "12.9"
+      "86.9",
+      "12.7"
     ],
-    "wins": 62,
+    "wins": 63,
     "losses": 58
   },
   "NCRO#183": {
