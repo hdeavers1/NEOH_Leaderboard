@@ -425,7 +425,7 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1504.7,
+    "rating": 1499.8,
     "characters": [
       "Marth",
       "Puff"
@@ -434,8 +434,8 @@
       "86.9",
       "12.7"
     ],
-    "wins": 63,
-    "losses": 58
+    "wins": 64,
+    "losses": 60
   },
   "NCRO#183": {
     "name": "XP Waste",
