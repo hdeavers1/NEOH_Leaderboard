@@ -127,17 +127,17 @@
     "name": "Fuelperks",
     "tag": "FUEL#375",
     "rank": "GOLD 1",
-    "rating": 1464,
+    "rating": 1463.7,
     "characters": [
       "Fox",
       "Peach"
     ],
     "percentages": [
-      "86.3",
-      "11.8"
+      "82.1",
+      "12.5"
     ],
-    "wins": 13,
-    "losses": 11
+    "wins": 14,
+    "losses": 12
   },
   "FRUM#591": {
     "name": "Frenzy Fan",
@@ -425,16 +425,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1478.6,
+    "rating": 1518.2,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "86.6",
-      "13.0"
+      "87.0",
+      "12.7"
     ],
-    "wins": 65,
+    "wins": 68,
     "losses": 62
   },
   "NCRO#183": {
