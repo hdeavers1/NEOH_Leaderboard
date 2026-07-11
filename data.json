@@ -1,4 +1,84 @@
 {
+  "WWJ#916": {
+    "name": "RaptorBoostGod",
+    "tag": "WWJ#916",
+    "rank": "SILVER 3",
+    "rating": 1322.1,
+    "characters": [
+      "Falcon",
+      "Falco"
+    ],
+    "percentages": [
+      "83.3",
+      "16.7"
+    ],
+    "wins": 3,
+    "losses": 2
+  },
+  "JUBS#579": {
+    "name": "Lub",
+    "tag": "JUBS#579",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "BIGO#869": {
+    "name": "bigoscar",
+    "tag": "BIGO#869",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "QCUM#685": {
+    "name": "Large Diet Coke",
+    "tag": "QCUM#685",
+    "rank": "GOLD 1",
+    "rating": 1466.9,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 14,
+    "losses": 12
+  },
+  "MAYO#795": {
+    "name": "no mix ups guy",
+    "tag": "MAYO#795",
+    "rank": "GOLD 2",
+    "rating": 1640.7,
+    "characters": [
+      "Falcon",
+      "DK"
+    ],
+    "percentages": [
+      "78.6",
+      "21.3"
+    ],
+    "wins": 206,
+    "losses": 193
+  },
+  "PANC#613": {
+    "name": "panchito$",
+    "tag": "PANC#613",
+    "rank": "GOLD 1",
+    "rating": 1534.5,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 20,
+    "losses": 18
+  },
   "LVLM#792": {
     "name": "Uncut Jim",
     "tag": "LVLM#792",
