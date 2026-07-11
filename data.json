@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "the mayo",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1677.5,
+    "rank": "GOLD 2",
+    "rating": 1646.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.0",
-      "20.9"
+      "78.8",
+      "21.0"
     ],
-    "wins": 202,
-    "losses": 187
+    "wins": 205,
+    "losses": 192
   },
   "PANC#613": {
     "name": "panchito$",
@@ -425,17 +425,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1499.8,
+    "rating": 1478.6,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "86.9",
-      "12.7"
+      "86.6",
+      "13.0"
     ],
-    "wins": 64,
-    "losses": 60
+    "wins": 65,
+    "losses": 62
   },
   "NCRO#183": {
     "name": "XP Waste",
