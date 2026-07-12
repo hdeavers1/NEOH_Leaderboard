@@ -53,7 +53,7 @@
     "name": "no mix ups guy",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1616.5,
+    "rating": 1617.5,
     "characters": [
       "Falcon",
       "DK"
@@ -62,8 +62,8 @@
       "78.8",
       "21.1"
     ],
-    "wins": 212,
-    "losses": 202
+    "wins": 217,
+    "losses": 207
   },
   "PANC#613": {
     "name": "panchito$",
@@ -570,33 +570,5 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "SYKO#921": {
-    "name": "syko",
-    "tag": "SYKO#921",
-    "rank": "GOLD 2",
-    "rating": 1649.5,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "99.0"
-    ],
-    "wins": 89,
-    "losses": 76
-  },
-  "JFOX#178": {
-    "name": "Just's Fox",
-    "tag": "JFOX#178",
-    "rank": "DIAMOND 1",
-    "rating": 2020.9,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 64,
-    "losses": 42
   }
 }
