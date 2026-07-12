@@ -53,17 +53,17 @@
     "name": "no mix ups guy",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1585.2,
+    "rating": 1616.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "78.7",
-      "21.2"
+      "78.8",
+      "21.1"
     ],
-    "wins": 208,
-    "losses": 201
+    "wins": 212,
+    "losses": 202
   },
   "PANC#613": {
     "name": "panchito$",
@@ -194,6 +194,16 @@
     ],
     "wins": 81,
     "losses": 23
+  },
+  "SPOT#861": {
+    "name": "Stimulant fiend",
+    "tag": "SPOT#861",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "GRIM#801": {
     "name": "Shiesty",
