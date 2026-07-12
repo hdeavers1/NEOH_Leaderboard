@@ -36,7 +36,7 @@
     "losses": 0
   },
   "QCUM#685": {
-    "name": "Large Diet Coke",
+    "name": "VOO -> 700",
     "tag": "QCUM#685",
     "rank": "GOLD 1",
     "rating": 1466.9,
@@ -53,17 +53,17 @@
     "name": "no mix ups guy",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1617.5,
+    "rating": 1603.1,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "78.8",
-      "21.1"
+      "78.6",
+      "21.3"
     ],
     "wins": 217,
-    "losses": 207
+    "losses": 208
   },
   "PANC#613": {
     "name": "panchito$",
@@ -570,5 +570,33 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "SYKO#921": {
+    "name": "syko",
+    "tag": "SYKO#921",
+    "rank": "GOLD 2",
+    "rating": 1649.5,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "99.0"
+    ],
+    "wins": 89,
+    "losses": 76
+  },
+  "JFOX#178": {
+    "name": "Just's Fox",
+    "tag": "JFOX#178",
+    "rank": "DIAMOND 1",
+    "rating": 2020.9,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 64,
+    "losses": 42
   }
 }
