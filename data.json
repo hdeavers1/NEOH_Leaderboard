@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "no mix ups guy",
     "tag": "MAYO#795",
-    "rank": "GOLD 2",
-    "rating": 1603.1,
+    "rank": "GOLD 3",
+    "rating": 1674.6,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "78.6",
-      "21.3"
+      "78.8",
+      "21.1"
     ],
-    "wins": 217,
-    "losses": 208
+    "wins": 224,
+    "losses": 209
   },
   "PANC#613": {
     "name": "panchito$",
@@ -280,20 +280,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 2",
-    "rating": 1918.1,
+    "rank": "PLATINUM 3",
+    "rating": 1951,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "76.3",
-      "18.1",
-      "5.6"
+      "75.7",
+      "19.0",
+      "5.4"
     ],
-    "wins": 105,
-    "losses": 106
+    "wins": 110,
+    "losses": 108
   },
   "DNZO#333": {
     "name": "the thinker",
