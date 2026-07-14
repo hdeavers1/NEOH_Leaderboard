@@ -53,16 +53,16 @@
     "name": "no mix ups guy",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1674.6,
+    "rating": 1713.6,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "78.8",
-      "21.1"
+      "78.9",
+      "21.0"
     ],
-    "wins": 224,
+    "wins": 228,
     "losses": 209
   },
   "PANC#613": {
@@ -140,7 +140,7 @@
     "losses": 12
   },
   "FRUM#591": {
-    "name": "Frenzy Fan",
+    "name": "Left",
     "tag": "FRUM#591",
     "rank": "DIAMOND 1",
     "rating": 2048.7,
