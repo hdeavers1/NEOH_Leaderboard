@@ -157,15 +157,15 @@
     "name": "ComeHomeBron",
     "tag": "CUTS#327",
     "rank": "PLATINUM 3",
-    "rating": 1993.8,
+    "rating": 2002.2,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 135,
-    "losses": 121
+    "wins": 136,
+    "losses": 122
   },
   "ASIG#701": {
     "name": "aSig",
@@ -374,8 +374,8 @@
   "DEE#218": {
     "name": "love is love",
     "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1663.1,
+    "rank": "GOLD 2",
+    "rating": 1648.3,
     "characters": [
       "YLink",
       "ICs"
@@ -385,7 +385,7 @@
       "2.4"
     ],
     "wins": 37,
-    "losses": 34
+    "losses": 35
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -456,7 +456,7 @@
     "losses": 6
   },
   "MOSHI#0": {
-    "name": "deer friend",
+    "name": "playing 1 game",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1771.4,
