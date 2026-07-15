@@ -1,20 +1,4 @@
 {
-  "WWJ#916": {
-    "name": "RaptorBoostGod",
-    "tag": "WWJ#916",
-    "rank": "SILVER 3",
-    "rating": 1322.1,
-    "characters": [
-      "Falcon",
-      "Falco"
-    ],
-    "percentages": [
-      "83.3",
-      "16.7"
-    ],
-    "wins": 3,
-    "losses": 2
-  },
   "JUBS#579": {
     "name": "Lub",
     "tag": "JUBS#579",
@@ -143,7 +127,7 @@
     "name": "Left",
     "tag": "FRUM#591",
     "rank": "DIAMOND 1",
-    "rating": 2048.7,
+    "rating": 2034.7,
     "characters": [
       "Falco"
     ],
@@ -151,21 +135,21 @@
       "100.0"
     ],
     "wins": 34,
-    "losses": 24
+    "losses": 25
   },
   "CUTS#327": {
     "name": "ComeHomeBron",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
-    "rating": 2009.6,
+    "rating": 2009.5,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 124,
-    "losses": 106
+    "wins": 129,
+    "losses": 113
   },
   "ASIG#701": {
     "name": "aSig",
@@ -281,19 +265,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1951.1,
+    "rating": 1936,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "76.2",
-      "18.6",
+      "76.3",
+      "18.5",
       "5.2"
     ],
     "wins": 113,
-    "losses": 111
+    "losses": 113
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -375,17 +359,17 @@
     "name": "love is love",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1740.1,
+    "rating": 1654.6,
     "characters": [
       "YLink",
       "ICs"
     ],
     "percentages": [
-      "95.9",
-      "2.8"
+      "96.3",
+      "2.5"
     ],
     "wins": 35,
-    "losses": 27
+    "losses": 33
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -425,7 +409,7 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1518.2,
+    "rating": 1529.7,
     "characters": [
       "Marth",
       "Puff"
@@ -434,8 +418,8 @@
       "87.0",
       "12.7"
     ],
-    "wins": 68,
-    "losses": 62
+    "wins": 71,
+    "losses": 64
   },
   "NCRO#183": {
     "name": "XP Waste",
