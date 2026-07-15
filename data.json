@@ -1,4 +1,20 @@
 {
+  "WWJ#916": {
+    "name": "RaptorBoostGod",
+    "tag": "WWJ#916",
+    "rank": "SILVER 3",
+    "rating": 1322.1,
+    "characters": [
+      "Falcon",
+      "Falco"
+    ],
+    "percentages": [
+      "83.3",
+      "16.7"
+    ],
+    "wins": 3,
+    "losses": 2
+  },
   "JUBS#579": {
     "name": "Lub",
     "tag": "JUBS#579",
@@ -140,16 +156,16 @@
   "CUTS#327": {
     "name": "ComeHomeBron",
     "tag": "CUTS#327",
-    "rank": "DIAMOND 1",
-    "rating": 2009.5,
+    "rank": "PLATINUM 3",
+    "rating": 1993.8,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 129,
-    "losses": 113
+    "wins": 135,
+    "losses": 121
   },
   "ASIG#701": {
     "name": "aSig",
@@ -169,15 +185,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2338.6,
+    "rating": 2354.3,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 81,
-    "losses": 23
+    "wins": 84,
+    "losses": 24
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -340,7 +356,7 @@
     "losses": 0
   },
   "YOSH#458": {
-    "name": "lpsnh",
+    "name": "Big$wimmer",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
     "rating": 1756.2,
@@ -359,17 +375,17 @@
     "name": "love is love",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1654.6,
+    "rating": 1663.1,
     "characters": [
       "YLink",
       "ICs"
     ],
     "percentages": [
-      "96.3",
-      "2.5"
+      "96.4",
+      "2.4"
     ],
-    "wins": 35,
-    "losses": 33
+    "wins": 37,
+    "losses": 34
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -409,17 +425,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1529.7,
+    "rating": 1527.6,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "87.0",
-      "12.7"
+      "85.6",
+      "14.1"
     ],
-    "wins": 71,
-    "losses": 64
+    "wins": 73,
+    "losses": 66
   },
   "NCRO#183": {
     "name": "XP Waste",
