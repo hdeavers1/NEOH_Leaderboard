@@ -185,14 +185,14 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2322.8,
+    "rating": 2346.8,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 97,
+    "wins": 104,
     "losses": 30
   },
   "SPOT#861": {
@@ -281,19 +281,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1925.7,
+    "rating": 1920.5,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "76.5",
+      "76.6",
       "18.3",
       "5.1"
     ],
     "wins": 118,
-    "losses": 118
+    "losses": 119
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -456,22 +456,22 @@
     "losses": 6
   },
   "MOSHI#0": {
-    "name": "playing 1 game",
+    "name": "2 girls kissing",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1771.4,
+    "rating": 1761.5,
     "characters": [
       "Peach",
       "Ness",
       "DK"
     ],
     "percentages": [
-      "88.7",
+      "88.8",
       "6.2",
-      "5.1"
+      "5.0"
     ],
-    "wins": 124,
-    "losses": 106
+    "wins": 126,
+    "losses": 110
   },
   "SMEG#879": {
     "name": "FURBY",
