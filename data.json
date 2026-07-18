@@ -312,16 +312,16 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "PENDING",
-    "rating": 4,
+    "rank": "GOLD 1",
+    "rating": 1507,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
-    "losses": 0
+    "wins": 4,
+    "losses": 1
   },
   "PGH#412": {
     "name": "Ft. PGH Carroll",
@@ -383,17 +383,17 @@
     "name": "Amegilla",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1648.3,
+    "rating": 1626,
     "characters": [
       "YLink",
       "ICs"
     ],
     "percentages": [
-      "96.4",
-      "2.4"
+      "96.7",
+      "2.2"
     ],
-    "wins": 37,
-    "losses": 35
+    "wins": 39,
+    "losses": 39
   },
   "SUCC#860": {
     "name": "Wahey",
