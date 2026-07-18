@@ -382,18 +382,18 @@
   "DEE#218": {
     "name": "Amegilla",
     "tag": "DEE#218",
-    "rank": "GOLD 2",
-    "rating": 1626,
+    "rank": "GOLD 3",
+    "rating": 1668.2,
     "characters": [
       "YLink",
       "ICs"
     ],
     "percentages": [
-      "96.7",
-      "2.2"
+      "96.9",
+      "2.0"
     ],
-    "wins": 39,
-    "losses": 39
+    "wins": 43,
+    "losses": 40
   },
   "SUCC#860": {
     "name": "Wahey",
