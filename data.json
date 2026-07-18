@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "no mix ups guy",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1760,
+    "rank": "GOLD 3",
+    "rating": 1712.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "78.8",
-      "21.1"
+      "78.6",
+      "21.3"
     ],
-    "wins": 232,
-    "losses": 210
+    "wins": 234,
+    "losses": 216
   },
   "PANC#613": {
     "name": "panchito$",
@@ -429,17 +429,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1515,
+    "rating": 1525.2,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "81.0",
-      "18.8"
+      "80.4",
+      "19.3"
     ],
-    "wins": 81,
-    "losses": 74
+    "wins": 83,
+    "losses": 76
   },
   "NCRO#183": {
     "name": "XP Waste",
