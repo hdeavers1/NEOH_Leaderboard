@@ -156,16 +156,16 @@
   "CUTS#327": {
     "name": "ComeHomeBron",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 3",
-    "rating": 1990.2,
+    "rank": "DIAMOND 1",
+    "rating": 2006.7,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 145,
-    "losses": 133
+    "wins": 153,
+    "losses": 142
   },
   "ASIG#701": {
     "name": "aSig",
@@ -271,7 +271,7 @@
     "name": "Gannon Sharpe",
     "tag": "PEE#658",
     "rank": "GOLD 1",
-    "rating": 1449.9,
+    "rating": 1436.1,
     "characters": [
       "Ganon"
     ],
@@ -279,7 +279,7 @@
       "100.0"
     ],
     "wins": 4,
-    "losses": 3
+    "losses": 4
   },
   "WEGG#462": {
     "name": "Young Wunna",
@@ -433,17 +433,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1499.6,
+    "rating": 1471.4,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "78.4",
-      "21.3"
+      "77.5",
+      "22.3"
     ],
     "wins": 86,
-    "losses": 82
+    "losses": 84
   },
   "NCRO#183": {
     "name": "XP Waste",
