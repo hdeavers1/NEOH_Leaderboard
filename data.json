@@ -185,15 +185,15 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2324.9,
+    "rating": 2349.3,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 106,
-    "losses": 33
+    "wins": 109,
+    "losses": 34
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -367,17 +367,17 @@
     "name": "Big$wimmer",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1787.5,
+    "rating": 1772.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
       "96.4",
-      "3.5"
+      "3.4"
     ],
     "wins": 123,
-    "losses": 118
+    "losses": 119
   },
   "DEE#218": {
     "name": "Amegilla",
@@ -398,16 +398,6 @@
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "EGAG#906": {
-    "name": "nospinballout",
-    "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
@@ -597,14 +587,14 @@
     "name": "Just's Fox",
     "tag": "JFOX#178",
     "rank": "DIAMOND 1",
-    "rating": 2020.9,
+    "rating": 2021,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 64,
-    "losses": 42
+    "wins": 68,
+    "losses": 46
   }
 }
