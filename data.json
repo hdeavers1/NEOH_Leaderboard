@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "no mix ups guy",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1762.6,
+    "rank": "GOLD 3",
+    "rating": 1746.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "78.7",
-      "21.2"
+      "78.6",
+      "21.3"
     ],
-    "wins": 242,
-    "losses": 220
+    "wins": 243,
+    "losses": 222
   },
   "PANC#613": {
     "name": "panchito$",
@@ -285,19 +285,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1924.1,
+    "rating": 1912.6,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "76.4",
-      "18.7",
-      "5.0"
+      "76.5",
+      "18.6",
+      "4.9"
     ],
-    "wins": 121,
-    "losses": 122
+    "wins": 122,
+    "losses": 124
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -327,17 +327,17 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1666.2,
+    "rating": 1673.3,
     "characters": [
       "Peach",
       "Fox"
     ],
     "percentages": [
-      "94.7",
-      "5.3"
+      "88.0",
+      "12.0"
     ],
-    "wins": 6,
-    "losses": 2
+    "wins": 7,
+    "losses": 4
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -367,17 +367,17 @@
     "name": "Big$wimmer",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1790.6,
+    "rating": 1797.9,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.3",
+      "96.4",
       "3.5"
     ],
-    "wins": 122,
-    "losses": 116
+    "wins": 123,
+    "losses": 117
   },
   "DEE#218": {
     "name": "Amegilla",
