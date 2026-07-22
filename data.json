@@ -53,17 +53,17 @@
     "name": "no mix ups guy",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1745.7,
+    "rating": 1725.1,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "78.6",
-      "21.2"
+      "78.7",
+      "21.1"
     ],
-    "wins": 248,
-    "losses": 227
+    "wins": 250,
+    "losses": 231
   },
   "PANC#613": {
     "name": "panchito$",
@@ -432,18 +432,18 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1459.1,
+    "rank": "SILVER 3",
+    "rating": 1435.1,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "75.5",
-      "24.2"
+      "75.1",
+      "24.7"
     ],
-    "wins": 90,
-    "losses": 91
+    "wins": 91,
+    "losses": 94
   },
   "NCRO#183": {
     "name": "XP Waste",
