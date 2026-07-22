@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "no mix ups guy",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1725.1,
+    "rank": "PLATINUM 1",
+    "rating": 1758.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "78.7",
-      "21.1"
+      "78.8",
+      "21.0"
     ],
-    "wins": 250,
-    "losses": 231
+    "wins": 254,
+    "losses": 233
   },
   "PANC#613": {
     "name": "panchito$",
@@ -168,7 +168,7 @@
     "losses": 142
   },
   "ASIG#701": {
-    "name": "aSig",
+    "name": "Dad (level-101)",
     "tag": "ASIG#701",
     "rank": "GOLD 3",
     "rating": 1727.5,
@@ -467,19 +467,19 @@
     "name": "2 girls kissing",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1821.6,
+    "rating": 1805.1,
     "characters": [
       "Peach",
       "Ness",
       "DK"
     ],
     "percentages": [
-      "88.9",
-      "6.2",
-      "4.9"
+      "89.1",
+      "6.1",
+      "4.8"
     ],
-    "wins": 130,
-    "losses": 110
+    "wins": 131,
+    "losses": 112
   },
   "SMEG#879": {
     "name": "FURBY",
