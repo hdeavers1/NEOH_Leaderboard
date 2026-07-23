@@ -185,14 +185,14 @@
     "name": "Just",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2352.4,
+    "rating": 2371,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 110,
+    "wins": 111,
     "losses": 34
   },
   "SPOT#861": {
@@ -367,17 +367,17 @@
     "name": "Big$wimmer",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1775,
+    "rating": 1772.6,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.4",
-      "3.4"
+      "96.5",
+      "3.3"
     ],
-    "wins": 129,
-    "losses": 124
+    "wins": 134,
+    "losses": 128
   },
   "DEE#218": {
     "name": "Amegilla",
