@@ -445,6 +445,70 @@
     "wins": 93,
     "losses": 94
   },
+  "NCRO#183": {
+    "name": "XP Waste",
+    "tag": "NCRO#183",
+    "rank": "GOLD 2",
+    "rating": 1593.7,
+    "characters": [
+      "Doc",
+      "Sheik",
+      "Fox"
+    ],
+    "percentages": [
+      "55.8",
+      "41.9",
+      "2.3"
+    ],
+    "wins": 11,
+    "losses": 7
+  },
+  "MOSHI#0": {
+    "name": ":l neutral",
+    "tag": "MOSHI#0",
+    "rank": "PLATINUM 1",
+    "rating": 1792,
+    "characters": [
+      "Peach",
+      "Ness",
+      "DK"
+    ],
+    "percentages": [
+      "89.3",
+      "5.9",
+      "4.7"
+    ],
+    "wins": 134,
+    "losses": 118
+  },
+  "SMEG#879": {
+    "name": "FURBY",
+    "tag": "SMEG#879",
+    "rank": "SILVER 3",
+    "rating": 1400.5,
+    "characters": [
+      "Pikachu",
+      "Marth",
+      "G&W"
+    ],
+    "percentages": [
+      "48.0",
+      "36.0",
+      "16.0"
+    ],
+    "wins": 6,
+    "losses": 5
+  },
+  "BOZO#386": {
+    "name": "super pichu",
+    "tag": "BOZO#386",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
