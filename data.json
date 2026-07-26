@@ -143,15 +143,15 @@
     "name": "Left",
     "tag": "FRUM#591",
     "rank": "DIAMOND 1",
-    "rating": 2046.7,
+    "rating": 2073.7,
     "characters": [
       "Falco"
     ],
     "percentages": [
-      "100.0"
+      "99.4"
     ],
-    "wins": 36,
-    "losses": 27
+    "wins": 38,
+    "losses": 29
   },
   "CUTS#327": {
     "name": "Samus Merrill",
