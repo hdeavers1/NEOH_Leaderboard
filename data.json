@@ -156,16 +156,16 @@
   "CUTS#327": {
     "name": "Samus Merrill",
     "tag": "CUTS#327",
-    "rank": "PLATINUM 3",
-    "rating": 1992.4,
+    "rank": "DIAMOND 1",
+    "rating": 2037.6,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 160,
-    "losses": 153
+    "wins": 168,
+    "losses": 156
   },
   "ASIG#701": {
     "name": "aSig",
@@ -268,18 +268,18 @@
     "losses": 0
   },
   "PEE#658": {
-    "name": "Gannon Sharpe",
+    "name": "Im Employed BTW",
     "tag": "PEE#658",
-    "rank": "GOLD 3",
-    "rating": 1702,
+    "rank": "PLATINUM 2",
+    "rating": 1891,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 9,
-    "losses": 6
+    "wins": 16,
+    "losses": 7
   },
   "WEGG#462": {
     "name": "Young Wunna",
@@ -433,16 +433,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1464.8,
+    "rating": 1482.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.6",
-      "26.1"
+      "73.5",
+      "26.2"
     ],
-    "wins": 97,
+    "wins": 98,
     "losses": 97
   },
   "NCRO#183": {
