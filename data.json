@@ -156,16 +156,16 @@
   "CUTS#327": {
     "name": "Samus Merrill",
     "tag": "CUTS#327",
-    "rank": "DIAMOND 1",
-    "rating": 2006.7,
+    "rank": "PLATINUM 3",
+    "rating": 1992.4,
     "characters": [
       "Samus"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 153,
-    "losses": 142
+    "wins": 160,
+    "losses": 153
   },
   "ASIG#701": {
     "name": "aSig",
@@ -270,16 +270,16 @@
   "PEE#658": {
     "name": "Gannon Sharpe",
     "tag": "PEE#658",
-    "rank": "GOLD 2",
-    "rating": 1617,
+    "rank": "GOLD 3",
+    "rating": 1702,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 7,
-    "losses": 5
+    "wins": 9,
+    "losses": 6
   },
   "WEGG#462": {
     "name": "Young Wunna",
@@ -433,17 +433,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1453.7,
+    "rating": 1464.8,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "74.8",
-      "24.9"
+      "73.6",
+      "26.1"
     ],
-    "wins": 93,
-    "losses": 94
+    "wins": 97,
+    "losses": 97
   },
   "NCRO#183": {
     "name": "XP Waste",
