@@ -367,17 +367,17 @@
     "name": "Big$wimmer",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1733.4,
+    "rating": 1730.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.4",
+      "96.5",
       "3.4"
     ],
-    "wins": 135,
-    "losses": 132
+    "wins": 136,
+    "losses": 133
   },
   "DEE#218": {
     "name": "Amegilla",
@@ -467,7 +467,7 @@
     "name": ":l neutral",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1792,
+    "rating": 1789,
     "characters": [
       "Peach",
       "Ness",
@@ -475,11 +475,11 @@
     ],
     "percentages": [
       "89.3",
-      "5.9",
-      "4.7"
+      "5.8",
+      "4.6"
     ],
     "wins": 134,
-    "losses": 118
+    "losses": 119
   },
   "SMEG#879": {
     "name": "FURBY",
