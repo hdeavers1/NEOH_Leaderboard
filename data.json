@@ -271,15 +271,15 @@
     "name": "Im Employed BTW",
     "tag": "PEE#658",
     "rank": "PLATINUM 1",
-    "rating": 1833.5,
+    "rating": 1826,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 22,
-    "losses": 18
+    "wins": 23,
+    "losses": 19
   },
   "WEGG#462": {
     "name": "Young Wunna",
@@ -570,7 +570,7 @@
     "losses": 0
   },
   "LAND#19": {
-    "name": "emma goldman",
+    "name": "oj da juiceman",
     "tag": "LAND#19",
     "rank": "NONE",
     "rating": 0,
