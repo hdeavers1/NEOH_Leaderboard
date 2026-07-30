@@ -285,19 +285,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1929.4,
+    "rating": 1942.2,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "75.8",
-      "19.3",
-      "5.0"
+      "75.4",
+      "19.4",
+      "5.2"
     ],
-    "wins": 129,
-    "losses": 131
+    "wins": 133,
+    "losses": 133
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -433,16 +433,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1482.3,
+    "rating": 1487.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.5",
-      "26.2"
+      "73.2",
+      "26.6"
     ],
-    "wins": 98,
+    "wins": 99,
     "losses": 97
   },
   "NCRO#183": {
