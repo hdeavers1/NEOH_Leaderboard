@@ -445,6 +445,22 @@
     "wins": 102,
     "losses": 99
   },
+  "NCRO#183": {
+    "name": "XP Waste",
+    "tag": "NCRO#183",
+    "rank": "GOLD 2",
+    "rating": 1615.9,
+    "characters": [
+      "Doc",
+      "Sheik"
+    ],
+    "percentages": [
+      "55.8",
+      "42.3"
+    ],
+    "wins": 13,
+    "losses": 9
+  },
   "MOSHI#0": {
     "name": ":l neutral",
     "tag": "MOSHI#0",
