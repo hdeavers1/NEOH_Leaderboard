@@ -53,17 +53,17 @@
     "name": "1beat dude",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1708.2,
+    "rating": 1665.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "79.4",
-      "20.5"
+      "79.5",
+      "20.3"
     ],
-    "wins": 263,
-    "losses": 246
+    "wins": 265,
+    "losses": 253
   },
   "PANC#613": {
     "name": "panchito$",
@@ -433,7 +433,7 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1502.4,
+    "rating": 1477.9,
     "characters": [
       "Marth",
       "Puff"
@@ -443,7 +443,7 @@
       "27.0"
     ],
     "wins": 102,
-    "losses": 99
+    "losses": 102
   },
   "NCRO#183": {
     "name": "XP Waste",
