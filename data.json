@@ -185,15 +185,15 @@
     "name": "gallbladderless",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2367.6,
+    "rating": 2338.8,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 116,
-    "losses": 36
+    "wins": 117,
+    "losses": 38
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -256,6 +256,16 @@
     ],
     "wins": 34,
     "losses": 23
+  },
+  "ZBOO#991": {
+    "name": "(-:",
+    "tag": "ZBOO#991",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "PEE#658": {
     "name": "Im Employed BTW",
@@ -585,14 +595,14 @@
     "name": "Just's Fox",
     "tag": "JFOX#178",
     "rank": "DIAMOND 1",
-    "rating": 2021,
+    "rating": 2018.7,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 68,
-    "losses": 46
+    "wins": 69,
+    "losses": 47
   }
 }
