@@ -257,16 +257,6 @@
     "wins": 34,
     "losses": 23
   },
-  "ZBOO#991": {
-    "name": "(-:",
-    "tag": "ZBOO#991",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "PEE#658": {
     "name": "Im Employed BTW",
     "tag": "PEE#658",
@@ -382,18 +372,18 @@
   "DEE#218": {
     "name": "Goop Like Me",
     "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1668.2,
+    "rank": "GOLD 2",
+    "rating": 1650.7,
     "characters": [
       "YLink",
-      "ICs"
+      "Mewtwo"
     ],
     "percentages": [
-      "96.9",
-      "2.0"
+      "90.9",
+      "6.2"
     ],
-    "wins": 43,
-    "losses": 40
+    "wins": 45,
+    "losses": 43
   },
   "SUCC#860": {
     "name": "Wahey",
