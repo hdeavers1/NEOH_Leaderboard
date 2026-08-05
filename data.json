@@ -233,15 +233,15 @@
     "name": "rotund chud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2282.9,
+    "rating": 2275.1,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "99.6"
+      "99.3"
     ],
-    "wins": 92,
-    "losses": 30
+    "wins": 96,
+    "losses": 33
   },
   "FLOW#08": {
     "name": "Flow",
@@ -327,17 +327,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 2",
-    "rating": 1590.5,
+    "rating": 1643.9,
     "characters": [
       "Peach",
-      "Fox"
+      "Fox",
+      "Falcon",
+      "Zelda"
     ],
     "percentages": [
-      "87.1",
-      "12.9"
+      "57.1",
+      "10.2",
+      "6.1",
+      "4.1"
     ],
-    "wins": 7,
-    "losses": 7
+    "wins": 11,
+    "losses": 12
   },
   "SERE#225": {
     "name": "sp1nda",
