@@ -233,21 +233,21 @@
     "name": "rotund chud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2370.7,
+    "rating": 2365.6,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "99.1"
+      "98.6"
     ],
-    "wins": 113,
-    "losses": 35
+    "wins": 116,
+    "losses": 36
   },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "PLATINUM 3",
-    "rating": 1964.1,
+    "rating": 1963.6,
     "characters": [
       "Marth"
     ],
@@ -255,7 +255,7 @@
       "100.0"
     ],
     "wins": 46,
-    "losses": 38
+    "losses": 39
   },
   "ZBOO#991": {
     "name": "(-:",
