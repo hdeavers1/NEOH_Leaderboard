@@ -1,4 +1,20 @@
 {
+  "WWJ#916": {
+    "name": "OopsIDidItAgain",
+    "tag": "WWJ#916",
+    "rank": "GOLD 2",
+    "rating": 1630.1,
+    "characters": [
+      "Falcon",
+      "Falco"
+    ],
+    "percentages": [
+      "95.2",
+      "4.8"
+    ],
+    "wins": 12,
+    "losses": 5
+  },
   "JUBS#579": {
     "name": "Lub",
     "tag": "JUBS#579",
