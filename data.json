@@ -2,18 +2,18 @@
   "WWJ#916": {
     "name": "OopsIDidItAgain",
     "tag": "WWJ#916",
-    "rank": "SILVER 3",
-    "rating": 1433.4,
+    "rank": "GOLD 2",
+    "rating": 1630.1,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "92.6",
-      "7.4"
+      "95.2",
+      "4.8"
     ],
-    "wins": 7,
-    "losses": 4
+    "wins": 12,
+    "losses": 5
   },
   "JUBS#579": {
     "name": "Lub",
@@ -53,17 +53,17 @@
     "name": "1beat dude",
     "tag": "MAYO#795",
     "rank": "GOLD 2",
-    "rating": 1613.2,
+    "rating": 1623.1,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "80.4",
-      "19.4"
+      "80.7",
+      "19.1"
     ],
-    "wins": 277,
-    "losses": 269
+    "wins": 283,
+    "losses": 274
   },
   "PANC#613": {
     "name": "panchito$",
@@ -185,15 +185,15 @@
     "name": "gallbladderless",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2338.8,
+    "rating": 2385.3,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 117,
-    "losses": 38
+    "wins": 126,
+    "losses": 41
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -233,29 +233,29 @@
     "name": "rotund chud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2292.1,
+    "rating": 2370.7,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "99.3"
+      "99.1"
     ],
-    "wins": 100,
-    "losses": 33
+    "wins": 113,
+    "losses": 35
   },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "PLATINUM 3",
-    "rating": 1962.4,
+    "rating": 1964.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 38,
-    "losses": 28
+    "wins": 46,
+    "losses": 38
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -285,19 +285,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1980.4,
+    "rating": 1976.1,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "73.8",
-      "20.8",
-      "5.3"
+      "73.7",
+      "21.1",
+      "5.2"
     ],
-    "wins": 150,
-    "losses": 147
+    "wins": 152,
+    "losses": 150
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -327,21 +327,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 2",
-    "rating": 1625,
+    "rating": 1643.4,
     "characters": [
       "Peach",
       "Fox",
       "Falcon",
-      "DK"
+      "Bowser"
     ],
     "percentages": [
-      "51.9",
-      "11.1",
-      "5.6",
-      "3.7"
+      "44.4",
+      "9.5",
+      "6.3",
+      "4.8"
     ],
-    "wins": 11,
-    "losses": 14
+    "wins": 13,
+    "losses": 16
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -437,16 +437,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1498.1,
+    "rating": 1503.6,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "72.9",
-      "26.9"
+      "73.0",
+      "26.8"
     ],
-    "wins": 109,
+    "wins": 110,
     "losses": 106
   },
   "NCRO#183": {
