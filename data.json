@@ -285,19 +285,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 2",
-    "rating": 1909.8,
+    "rating": 1901,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "73.1",
-      "21.5",
-      "5.4"
+      "73.3",
+      "21.4",
+      "5.3"
     ],
-    "wins": 152,
-    "losses": 156
+    "wins": 153,
+    "losses": 158
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -384,7 +384,7 @@
     "losses": 140
   },
   "DEE#218": {
-    "name": "Goop Like Me",
+    "name": "Freakfolk",
     "tag": "DEE#218",
     "rank": "GOLD 2",
     "rating": 1650.7,
