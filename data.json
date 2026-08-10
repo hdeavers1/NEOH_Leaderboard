@@ -230,10 +230,10 @@
     "losses": 32
   },
   "BLSE#808": {
-    "name": "rotund chud",
+    "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2365.5,
+    "rating": 2361.5,
     "characters": [
       "Pikachu"
     ],
@@ -241,21 +241,21 @@
       "98.1"
     ],
     "wins": 120,
-    "losses": 37
+    "losses": 38
   },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "DIAMOND 1",
-    "rating": 2058,
+    "rank": "DIAMOND 2",
+    "rating": 2077.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 57,
-    "losses": 44
+    "wins": 59,
+    "losses": 45
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -437,17 +437,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1480.1,
+    "rating": 1460.4,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.1",
-      "26.7"
+      "73.2",
+      "26.6"
     ],
     "wins": 113,
-    "losses": 112
+    "losses": 114
   },
   "NCRO#183": {
     "name": "XP Waste",
