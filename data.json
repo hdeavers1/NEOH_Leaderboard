@@ -53,17 +53,17 @@
     "name": "slowprblmsolver",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1678.8,
+    "rating": 1675.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "81.2",
+      "81.3",
       "18.6"
     ],
-    "wins": 293,
-    "losses": 279
+    "wins": 294,
+    "losses": 280
   },
   "PANC#613": {
     "name": "panchito$",
@@ -370,8 +370,8 @@
   "YOSH#458": {
     "name": "Big$wimmer",
     "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1750.9,
+    "rank": "PLATINUM 1",
+    "rating": 1753.3,
     "characters": [
       "Yoshi",
       "DK"
@@ -380,8 +380,8 @@
       "96.3",
       "3.6"
     ],
-    "wins": 148,
-    "losses": 141
+    "wins": 149,
+    "losses": 142
   },
   "DEE#218": {
     "name": "Milkeyed",
