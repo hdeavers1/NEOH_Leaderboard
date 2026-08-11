@@ -233,7 +233,7 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2360.6,
+    "rating": 2339.3,
     "characters": [
       "Pikachu"
     ],
@@ -241,7 +241,7 @@
       "98.1"
     ],
     "wins": 121,
-    "losses": 39
+    "losses": 40
   },
   "FLOW#08": {
     "name": "Flow",
