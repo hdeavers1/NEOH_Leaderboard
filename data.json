@@ -370,18 +370,18 @@
   "YOSH#458": {
     "name": "Big$wimmer",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1762,
+    "rank": "GOLD 3",
+    "rating": 1750.9,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.4",
-      "3.5"
+      "96.3",
+      "3.6"
     ],
     "wins": 148,
-    "losses": 140
+    "losses": 141
   },
   "DEE#218": {
     "name": "Milkeyed",
@@ -599,14 +599,14 @@
     "name": "Just's Fox",
     "tag": "JFOX#178",
     "rank": "PLATINUM 3",
-    "rating": 1988.1,
+    "rating": 1935.9,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 75,
-    "losses": 56
+    "wins": 76,
+    "losses": 61
   }
 }
