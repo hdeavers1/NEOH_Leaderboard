@@ -154,7 +154,7 @@
     "losses": 33
   },
   "CUTS#327": {
-    "name": "Samus Merrill",
+    "name": "Drexciya",
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
     "rating": 2037.6,
@@ -233,15 +233,15 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2361.5,
+    "rating": 2360.6,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "98.1"
     ],
-    "wins": 120,
-    "losses": 38
+    "wins": 121,
+    "losses": 39
   },
   "FLOW#08": {
     "name": "Flow",
