@@ -53,17 +53,17 @@
     "name": "slowprblmsolver",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1675.3,
+    "rating": 1684.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "81.3",
-      "18.6"
+      "81.5",
+      "18.4"
     ],
-    "wins": 294,
-    "losses": 280
+    "wins": 297,
+    "losses": 282
   },
   "PANC#613": {
     "name": "panchito$",
