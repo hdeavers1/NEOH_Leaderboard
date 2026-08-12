@@ -2,18 +2,18 @@
   "WWJ#916": {
     "name": "OopsIDidItAgain",
     "tag": "WWJ#916",
-    "rank": "GOLD 3",
-    "rating": 1663.8,
+    "rank": "GOLD 2",
+    "rating": 1618.9,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "92.9",
-      "7.1"
+      "93.3",
+      "6.7"
     ],
     "wins": 15,
-    "losses": 9
+    "losses": 11
   },
   "JUBS#579": {
     "name": "Lub",
@@ -437,16 +437,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1460.4,
+    "rating": 1476.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.2",
-      "26.6"
+      "73.1",
+      "26.7"
     ],
-    "wins": 113,
+    "wins": 115,
     "losses": 114
   },
   "NCRO#183": {
