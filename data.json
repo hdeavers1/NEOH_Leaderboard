@@ -49,6 +49,22 @@
     "wins": 14,
     "losses": 12
   },
+  "MAYO#795": {
+    "name": "slowprblmsolver",
+    "tag": "MAYO#795",
+    "rank": "GOLD 3",
+    "rating": 1675.3,
+    "characters": [
+      "Falcon",
+      "DK"
+    ],
+    "percentages": [
+      "81.3",
+      "18.6"
+    ],
+    "wins": 294,
+    "losses": 280
+  },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
@@ -564,6 +580,20 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
+  },
+  "SYKO#921": {
+    "name": "syko",
+    "tag": "SYKO#921",
+    "rank": "GOLD 3",
+    "rating": 1655.6,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "99.0"
+    ],
+    "wins": 90,
+    "losses": 76
   },
   "JFOX#178": {
     "name": "Just's Fox",
