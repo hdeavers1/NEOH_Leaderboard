@@ -233,15 +233,15 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2339.3,
+    "rating": 2344.4,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "98.1"
+      "98.2"
     ],
-    "wins": 121,
-    "losses": 40
+    "wins": 125,
+    "losses": 42
   },
   "FLOW#08": {
     "name": "Flow",
@@ -371,16 +371,16 @@
     "name": "Big$wimmer",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1753.3,
+    "rating": 1804,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.3",
-      "3.6"
+      "96.4",
+      "3.5"
     ],
-    "wins": 149,
+    "wins": 154,
     "losses": 142
   },
   "DEE#218": {
@@ -437,16 +437,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1466.8,
+    "rating": 1479,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.1",
+      "73.0",
       "26.8"
     ],
-    "wins": 118,
+    "wins": 119,
     "losses": 118
   },
   "NCRO#183": {
