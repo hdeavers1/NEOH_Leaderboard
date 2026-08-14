@@ -371,17 +371,17 @@
     "name": "Big$wimmer",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1811.5,
+    "rating": 1809.3,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
       "96.4",
-      "3.5"
+      "3.4"
     ],
-    "wins": 156,
-    "losses": 143
+    "wins": 158,
+    "losses": 145
   },
   "DEE#218": {
     "name": "randy zumpin m2",
@@ -437,33 +437,37 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1479,
+    "rating": 1480,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.0",
-      "26.8"
+      "73.2",
+      "26.6"
     ],
-    "wins": 119,
-    "losses": 118
+    "wins": 120,
+    "losses": 119
   },
   "NCRO#183": {
     "name": "XP Waste",
     "tag": "NCRO#183",
     "rank": "GOLD 2",
-    "rating": 1615.9,
+    "rating": 1633.7,
     "characters": [
       "Doc",
-      "Sheik"
+      "Sheik",
+      "Fox",
+      "Falco"
     ],
     "percentages": [
-      "55.8",
-      "42.3"
+      "55.0",
+      "36.7",
+      "5.0",
+      "3.3"
     ],
-    "wins": 13,
-    "losses": 9
+    "wins": 15,
+    "losses": 11
   },
   "MOSHI#0": {
     "name": ":l neutral",
