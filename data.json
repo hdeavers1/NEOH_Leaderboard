@@ -53,16 +53,16 @@
     "name": "slowprblmsolver",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1684.9,
+    "rating": 1700.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "81.7",
+      "81.6",
       "18.2"
     ],
-    "wins": 300,
+    "wins": 302,
     "losses": 286
   },
   "PANC#613": {
@@ -437,17 +437,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1480,
+    "rating": 1460,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.2",
-      "26.6"
+      "73.1",
+      "26.7"
     ],
-    "wins": 120,
-    "losses": 119
+    "wins": 121,
+    "losses": 121
   },
   "NCRO#183": {
     "name": "XP Waste",
