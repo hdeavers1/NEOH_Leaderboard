@@ -371,7 +371,7 @@
     "name": "Big$wimmer",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1804,
+    "rating": 1811.5,
     "characters": [
       "Yoshi",
       "DK"
@@ -380,8 +380,8 @@
       "96.4",
       "3.5"
     ],
-    "wins": 154,
-    "losses": 142
+    "wins": 156,
+    "losses": 143
   },
   "DEE#218": {
     "name": "randy zumpin m2",
@@ -598,15 +598,15 @@
   "JFOX#178": {
     "name": "Just's Fox",
     "tag": "JFOX#178",
-    "rank": "PLATINUM 3",
-    "rating": 1983.8,
+    "rank": "DIAMOND 1",
+    "rating": 2012,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 80,
-    "losses": 62
+    "wins": 85,
+    "losses": 64
   }
 }
