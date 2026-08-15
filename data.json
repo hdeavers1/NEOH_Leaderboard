@@ -171,7 +171,7 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 3",
-    "rating": 1703.9,
+    "rating": 1685.4,
     "characters": [
       "Falcon"
     ],
@@ -179,7 +179,7 @@
       "100.0"
     ],
     "wins": 45,
-    "losses": 43
+    "losses": 44
   },
   "JUST#577": {
     "name": "gallbladderless",
@@ -247,15 +247,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
-    "rating": 2103.1,
+    "rating": 2095.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 62,
-    "losses": 46
+    "wins": 69,
+    "losses": 52
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -285,19 +285,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1978.8,
+    "rating": 1999.7,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "73.5",
-      "21.2",
+      "73.2",
+      "21.6",
       "5.2"
     ],
-    "wins": 162,
-    "losses": 162
+    "wins": 165,
+    "losses": 163
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -576,7 +576,7 @@
     "losses": 0
   },
   "LAND#19": {
-    "name": "haunter",
+    "name": "wowee zowee",
     "tag": "LAND#19",
     "rank": "NONE",
     "rating": 0,
