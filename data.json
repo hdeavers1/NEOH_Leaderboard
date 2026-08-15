@@ -3,17 +3,17 @@
     "name": "OopsIDidItAgain",
     "tag": "WWJ#916",
     "rank": "GOLD 2",
-    "rating": 1571,
+    "rating": 1571.6,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "94.2",
-      "5.8"
+      "94.7",
+      "5.3"
     ],
-    "wins": 15,
-    "losses": 14
+    "wins": 16,
+    "losses": 16
   },
   "JUBS#579": {
     "name": "Lub",
@@ -284,20 +284,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 3",
-    "rating": 1999.7,
+    "rank": "DIAMOND 1",
+    "rating": 2011.4,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "73.2",
-      "21.6",
+      "73.0",
+      "21.9",
       "5.2"
     ],
-    "wins": 165,
-    "losses": 163
+    "wins": 166,
+    "losses": 164
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -384,7 +384,7 @@
     "losses": 145
   },
   "DEE#218": {
-    "name": "randy zumpin m2",
+    "name": "bone fish",
     "tag": "DEE#218",
     "rank": "GOLD 2",
     "rating": 1650.7,
