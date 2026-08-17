@@ -170,8 +170,8 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 3",
-    "rating": 1678.2,
+    "rank": "GOLD 2",
+    "rating": 1649.6,
     "characters": [
       "Falcon"
     ],
@@ -179,7 +179,7 @@
       "100.0"
     ],
     "wins": 45,
-    "losses": 46
+    "losses": 48
   },
   "JUST#577": {
     "name": "gallbladderless",
@@ -437,17 +437,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1511,
+    "rating": 1491.4,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.7",
-      "26.1"
+      "73.6",
+      "26.3"
     ],
     "wins": 126,
-    "losses": 122
+    "losses": 124
   },
   "NCRO#183": {
     "name": "XP Waste",
