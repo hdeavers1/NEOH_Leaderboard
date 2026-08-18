@@ -247,7 +247,7 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
-    "rating": 2121.1,
+    "rating": 2096.6,
     "characters": [
       "Marth"
     ],
@@ -255,7 +255,7 @@
       "100.0"
     ],
     "wins": 79,
-    "losses": 61
+    "losses": 64
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -284,20 +284,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "DIAMOND 1",
-    "rating": 2009,
+    "rank": "PLATINUM 3",
+    "rating": 1986.8,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "72.5",
-      "22.4",
-      "5.1"
+      "72.4",
+      "22.5",
+      "5.0"
     ],
     "wins": 168,
-    "losses": 165
+    "losses": 169
   },
   "DNZO#333": {
     "name": "the thinker",
