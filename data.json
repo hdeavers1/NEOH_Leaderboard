@@ -123,6 +123,78 @@
     "wins": 5,
     "losses": 3
   },
+  "FUEL#375": {
+    "name": "Fuelperks",
+    "tag": "FUEL#375",
+    "rank": "GOLD 1",
+    "rating": 1463.7,
+    "characters": [
+      "Fox",
+      "Peach"
+    ],
+    "percentages": [
+      "82.1",
+      "12.5"
+    ],
+    "wins": 14,
+    "losses": 12
+  },
+  "FRUM#591": {
+    "name": "Left",
+    "tag": "FRUM#591",
+    "rank": "DIAMOND 1",
+    "rating": 2061.1,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "99.4"
+    ],
+    "wins": 40,
+    "losses": 33
+  },
+  "CUTS#327": {
+    "name": "Drexciya",
+    "tag": "CUTS#327",
+    "rank": "DIAMOND 1",
+    "rating": 2037.6,
+    "characters": [
+      "Samus"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 168,
+    "losses": 156
+  },
+  "ASIG#701": {
+    "name": "aSig",
+    "tag": "ASIG#701",
+    "rank": "GOLD 2",
+    "rating": 1649.6,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 45,
+    "losses": 48
+  },
+  "JUST#577": {
+    "name": "gallbladderless",
+    "tag": "JUST#577",
+    "rank": "GRANDMASTER",
+    "rating": 2433,
+    "characters": [
+      "Sheik"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 144,
+    "losses": 49
+  },
   "SPOT#861": {
     "name": "Stimulant fiend",
     "tag": "SPOT#861",
@@ -466,16 +538,16 @@
   "VYV#0": {
     "name": "vyv",
     "tag": "VYV#0",
-    "rank": "BRONZE 2",
-    "rating": 899.8,
+    "rank": "BRONZE 3",
+    "rating": 939.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
-    "losses": 4
+    "wins": 2,
+    "losses": 5
   },
   "JDBN#000": {
     "name": "jodben",
