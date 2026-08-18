@@ -246,15 +246,15 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "DIAMOND 1",
-    "rating": 2059.7,
+    "rank": "DIAMOND 2",
+    "rating": 2077.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 80,
+    "wins": 81,
     "losses": 67
   },
   "ZBOO#991": {
