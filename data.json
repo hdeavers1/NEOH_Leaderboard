@@ -185,14 +185,14 @@
     "name": "gallbladderless",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2434.1,
+    "rating": 2444.2,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 147,
+    "wins": 149,
     "losses": 50
   },
   "SPOT#861": {
@@ -233,29 +233,29 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2336.8,
+    "rating": 2335.1,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "98.2"
     ],
-    "wins": 126,
-    "losses": 43
+    "wins": 127,
+    "losses": 44
   },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
-    "rating": 2084.7,
+    "rating": 2086.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 83,
-    "losses": 70
+    "wins": 84,
+    "losses": 71
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -327,21 +327,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1719.3,
+    "rating": 1709.2,
     "characters": [
       "Peach",
       "Fox",
       "Roy",
-      "Falcon"
+      "Falco"
     ],
     "percentages": [
-      "38.2",
-      "7.9",
-      "5.3",
-      "5.3"
+      "31.2",
+      "6.5",
+      "5.4",
+      "4.3"
     ],
-    "wins": 17,
-    "losses": 17
+    "wins": 20,
+    "losses": 21
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -589,14 +589,14 @@
     "name": "syko",
     "tag": "SYKO#921",
     "rank": "GOLD 3",
-    "rating": 1655.6,
+    "rating": 1663.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 90,
+    "wins": 91,
     "losses": 76
   },
   "JFOX#178": {
