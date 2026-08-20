@@ -53,17 +53,17 @@
     "name": "slowprblmsolver",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1724.2,
+    "rating": 1737.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "81.7",
-      "18.1"
+      "81.8",
+      "18.0"
     ],
-    "wins": 304,
-    "losses": 286
+    "wins": 308,
+    "losses": 290
   },
   "PANC#613": {
     "name": "panchito$",
@@ -170,16 +170,16 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "GOLD 2",
-    "rating": 1649.6,
+    "rank": "GOLD 3",
+    "rating": 1663,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 45,
-    "losses": 48
+    "wins": 47,
+    "losses": 49
   },
   "JUST#577": {
     "name": "gallbladderless",
@@ -285,19 +285,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1986.8,
+    "rating": 2003.2,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "72.4",
-      "22.5",
+      "72.0",
+      "23.0",
       "5.0"
     ],
-    "wins": 168,
-    "losses": 169
+    "wins": 172,
+    "losses": 170
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -437,7 +437,7 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1505.2,
+    "rating": 1521.8,
     "characters": [
       "Marth",
       "Puff"
@@ -446,7 +446,7 @@
       "73.6",
       "26.2"
     ],
-    "wins": 129,
+    "wins": 130,
     "losses": 126
   },
   "NCRO#183": {
