@@ -25,30 +25,6 @@
     "wins": 0,
     "losses": 0
   },
-  "BIGO#869": {
-    "name": "bigo",
-    "tag": "BIGO#869",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "QCUM#685": {
-    "name": "4X LVG ETF",
-    "tag": "QCUM#685",
-    "rank": "GOLD 1",
-    "rating": 1466.9,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 14,
-    "losses": 12
-  },
   "MAYO#795": {
     "name": "slowprblmsolver",
     "tag": "MAYO#795",
