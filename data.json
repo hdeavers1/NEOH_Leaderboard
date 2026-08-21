@@ -452,8 +452,8 @@
   "NCRO#183": {
     "name": "XP Waste",
     "tag": "NCRO#183",
-    "rank": "GOLD 2",
-    "rating": 1633.7,
+    "rank": "GOLD 3",
+    "rating": 1660.1,
     "characters": [
       "Doc",
       "Sheik",
@@ -461,12 +461,12 @@
       "Falco"
     ],
     "percentages": [
-      "55.0",
-      "36.7",
-      "5.0",
-      "3.3"
+      "54.0",
+      "36.5",
+      "6.3",
+      "3.2"
     ],
-    "wins": 15,
+    "wins": 16,
     "losses": 11
   },
   "MOSHI#0": {
