@@ -171,15 +171,15 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "GOLD 3",
-    "rating": 1663,
+    "rating": 1659.8,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 47,
-    "losses": 49
+    "wins": 49,
+    "losses": 51
   },
   "JUST#577": {
     "name": "gallbladderless",
@@ -233,15 +233,15 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2335.1,
+    "rating": 2288.1,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "98.2"
+      "98.1"
     ],
-    "wins": 127,
-    "losses": 44
+    "wins": 130,
+    "losses": 48
   },
   "FLOW#08": {
     "name": "Flow",
@@ -370,8 +370,8 @@
   "YOSH#458": {
     "name": "Big$wimmer",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1840,
+    "rank": "PLATINUM 2",
+    "rating": 1852.2,
     "characters": [
       "Yoshi",
       "DK"
@@ -380,7 +380,7 @@
       "96.7",
       "3.2"
     ],
-    "wins": 169,
+    "wins": 171,
     "losses": 156
   },
   "DEE#218": {
