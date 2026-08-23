@@ -53,17 +53,17 @@
     "name": "slowprblmsolver",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1815.9,
+    "rating": 1824.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "82.8",
-      "17.1"
+      "82.9",
+      "17.0"
     ],
-    "wins": 328,
-    "losses": 308
+    "wins": 330,
+    "losses": 310
   },
   "PANC#613": {
     "name": "panchito$",
@@ -143,15 +143,15 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "DIAMOND 1",
-    "rating": 2061.1,
+    "rating": 2064.3,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.4"
     ],
-    "wins": 40,
-    "losses": 33
+    "wins": 41,
+    "losses": 34
   },
   "CUTS#327": {
     "name": "Drexciya",
@@ -437,16 +437,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1555.2,
+    "rating": 1563.1,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.5",
-      "26.3"
+      "73.7",
+      "26.2"
     ],
-    "wins": 133,
+    "wins": 134,
     "losses": 127
   },
   "NCRO#183": {
