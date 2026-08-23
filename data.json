@@ -123,22 +123,6 @@
     "wins": 5,
     "losses": 3
   },
-  "FUEL#375": {
-    "name": "Fuelperks",
-    "tag": "FUEL#375",
-    "rank": "GOLD 1",
-    "rating": 1463.7,
-    "characters": [
-      "Fox",
-      "Peach"
-    ],
-    "percentages": [
-      "82.1",
-      "12.5"
-    ],
-    "wins": 14,
-    "losses": 12
-  },
   "FRUM#591": {
     "name": "Frum",
     "tag": "FRUM#591",
