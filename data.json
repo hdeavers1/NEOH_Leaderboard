@@ -123,6 +123,22 @@
     "wins": 5,
     "losses": 3
   },
+  "FUEL#375": {
+    "name": "Fuelperks",
+    "tag": "FUEL#375",
+    "rank": "GOLD 1",
+    "rating": 1463.7,
+    "characters": [
+      "Fox",
+      "Peach"
+    ],
+    "percentages": [
+      "82.1",
+      "12.5"
+    ],
+    "wins": 14,
+    "losses": 12
+  },
   "FRUM#591": {
     "name": "Frum",
     "tag": "FRUM#591",
@@ -420,17 +436,17 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1539.6,
+    "rank": "GOLD 2",
+    "rating": 1555.2,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.4",
-      "26.4"
+      "73.5",
+      "26.3"
     ],
-    "wins": 132,
+    "wins": 133,
     "losses": 127
   },
   "NCRO#183": {
