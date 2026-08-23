@@ -53,7 +53,7 @@
     "name": "slowprblmsolver",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1809.4,
+    "rating": 1790.1,
     "characters": [
       "Falcon",
       "DK"
@@ -63,7 +63,7 @@
       "17.5"
     ],
     "wins": 320,
-    "losses": 297
+    "losses": 300
   },
   "PANC#613": {
     "name": "panchito$",
@@ -247,15 +247,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
-    "rating": 2086.9,
+    "rating": 2101.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 84,
-    "losses": 71
+    "wins": 92,
+    "losses": 74
   },
   "ZBOO#991": {
     "name": "(-:",
