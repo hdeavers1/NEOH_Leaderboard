@@ -143,15 +143,15 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "DIAMOND 2",
-    "rating": 2128.2,
+    "rating": 2086.6,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 45,
-    "losses": 34
+    "wins": 46,
+    "losses": 37
   },
   "CUTS#327": {
     "name": "Drexciya",
@@ -284,19 +284,19 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 3",
-    "rating": 1990.9,
+    "rank": "DIAMOND 1",
+    "rating": 2021.1,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "71.9",
-      "23.1",
-      "5.0"
+      "71.3",
+      "23.8",
+      "4.9"
     ],
-    "wins": 172,
+    "wins": 175,
     "losses": 171
   },
   "DNZO#333": {
@@ -437,16 +437,16 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1563.1,
+    "rating": 1577.6,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.7",
-      "26.2"
+      "73.8",
+      "26.0"
     ],
-    "wins": 134,
+    "wins": 135,
     "losses": 127
   },
   "NCRO#183": {
