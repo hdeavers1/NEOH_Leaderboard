@@ -142,15 +142,15 @@
   "FRUM#591": {
     "name": "Frum",
     "tag": "FRUM#591",
-    "rank": "DIAMOND 1",
-    "rating": 2064.3,
+    "rank": "DIAMOND 2",
+    "rating": 2128.2,
     "characters": [
       "Falco"
     ],
     "percentages": [
-      "99.4"
+      "99.5"
     ],
-    "wins": 41,
+    "wins": 45,
     "losses": 34
   },
   "CUTS#327": {
@@ -247,15 +247,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
-    "rating": 2086.8,
+    "rating": 2111.1,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 92,
-    "losses": 75
+    "wins": 95,
+    "losses": 76
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -285,19 +285,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 2003.2,
+    "rating": 1990.9,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "72.0",
-      "23.0",
+      "71.9",
+      "23.1",
       "5.0"
     ],
     "wins": 172,
-    "losses": 170
+    "losses": 171
   },
   "DNZO#333": {
     "name": "the thinker",
