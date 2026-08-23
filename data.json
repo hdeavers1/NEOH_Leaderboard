@@ -247,7 +247,7 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
-    "rating": 2101.1,
+    "rating": 2086.8,
     "characters": [
       "Marth"
     ],
@@ -255,7 +255,7 @@
       "100.0"
     ],
     "wins": 92,
-    "losses": 74
+    "losses": 75
   },
   "ZBOO#991": {
     "name": "(-:",
