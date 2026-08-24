@@ -143,15 +143,15 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "DIAMOND 2",
-    "rating": 2086.6,
+    "rating": 2096.8,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 46,
-    "losses": 37
+    "wins": 50,
+    "losses": 41
   },
   "CUTS#327": {
     "name": "Drexciya",
@@ -437,17 +437,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1584.3,
+    "rating": 1583.7,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "74.2",
-      "25.6"
+      "74.4",
+      "25.4"
     ],
-    "wins": 138,
-    "losses": 129
+    "wins": 139,
+    "losses": 130
   },
   "NCRO#183": {
     "name": "XP Waste",
