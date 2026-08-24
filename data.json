@@ -53,17 +53,17 @@
     "name": "slowprblmsolver",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1815.9,
+    "rating": 1837.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
       "83.0",
-      "16.9"
+      "16.8"
     ],
-    "wins": 331,
-    "losses": 312
+    "wins": 334,
+    "losses": 313
   },
   "PANC#613": {
     "name": "panchito$",
@@ -437,17 +437,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1594.4,
+    "rating": 1584.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "74.0",
-      "25.8"
+      "74.2",
+      "25.6"
     ],
-    "wins": 137,
-    "losses": 127
+    "wins": 138,
+    "losses": 129
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -612,5 +612,21 @@
     ],
     "wins": 97,
     "losses": 70
+  },
+  "COCK#0": {
+    "name": "It's OGRE",
+    "tag": "COCK#0",
+    "rank": "GOLD 1",
+    "rating": 1519.1,
+    "characters": [
+      "Ganon",
+      "Fox"
+    ],
+    "percentages": [
+      "87.3",
+      "12.7"
+    ],
+    "wins": 18,
+    "losses": 14
   }
 }
