@@ -185,14 +185,14 @@
     "name": "gallbladderless",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2460.5,
+    "rating": 2471,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 152,
+    "wins": 153,
     "losses": 50
   },
   "SPOT#861": {
@@ -233,15 +233,15 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2358.9,
+    "rating": 2354.5,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
-      "98.0"
+      "97.8"
     ],
-    "wins": 140,
-    "losses": 50
+    "wins": 141,
+    "losses": 52
   },
   "FLOW#08": {
     "name": "Flow",
