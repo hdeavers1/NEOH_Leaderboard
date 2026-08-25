@@ -281,24 +281,6 @@
     "wins": 23,
     "losses": 19
   },
-  "WEGG#462": {
-    "name": "Young Wunna",
-    "tag": "WEGG#462",
-    "rank": "DIAMOND 1",
-    "rating": 2021.1,
-    "characters": [
-      "Fox",
-      "Marth",
-      "Falcon"
-    ],
-    "percentages": [
-      "71.3",
-      "23.8",
-      "4.9"
-    ],
-    "wins": 175,
-    "losses": 171
-  },
   "DNZO#333": {
     "name": "the thinker",
     "tag": "DNZO#333",
@@ -322,26 +304,6 @@
     ],
     "wins": 4,
     "losses": 1
-  },
-  "PGH#412": {
-    "name": "Ft. PGH Carroll",
-    "tag": "PGH#412",
-    "rank": "GOLD 3",
-    "rating": 1709.2,
-    "characters": [
-      "Peach",
-      "Fox",
-      "Roy",
-      "Falco"
-    ],
-    "percentages": [
-      "31.2",
-      "6.5",
-      "5.4",
-      "4.3"
-    ],
-    "wins": 20,
-    "losses": 21
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -402,16 +364,6 @@
   "SUCC#860": {
     "name": "Wahey",
     "tag": "SUCC#860",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "EGAG#906": {
-    "name": "nospinballout",
-    "tag": "EGAG#906",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
@@ -518,16 +470,6 @@
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
-  "CHAZ#100": {
-    "name": "chase",
-    "tag": "CHAZ#100",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
