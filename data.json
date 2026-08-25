@@ -469,24 +469,6 @@
     "wins": 16,
     "losses": 11
   },
-  "MOSHI#0": {
-    "name": ":l neutral",
-    "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1789,
-    "characters": [
-      "Peach",
-      "Ness",
-      "DK"
-    ],
-    "percentages": [
-      "89.3",
-      "5.8",
-      "4.6"
-    ],
-    "wins": 134,
-    "losses": 119
-  },
   "SMEG#879": {
     "name": "FURBY",
     "tag": "SMEG#879",
