@@ -233,17 +233,17 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2380.3,
+    "rating": 2383,
     "characters": [
       "Pikachu",
       "Fox"
     ],
     "percentages": [
       "97.2",
-      "2.4"
+      "2.3"
     ],
-    "wins": 146,
-    "losses": 52
+    "wins": 148,
+    "losses": 54
   },
   "FLOW#08": {
     "name": "Flow",
