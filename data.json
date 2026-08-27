@@ -2,18 +2,18 @@
   "WWJ#916": {
     "name": "OopsIDidItAgain",
     "tag": "WWJ#916",
-    "rank": "GOLD 2",
-    "rating": 1640.4,
+    "rank": "GOLD 3",
+    "rating": 1655.7,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "95.7",
-      "4.3"
+      "95.8",
+      "4.2"
     ],
-    "wins": 20,
-    "losses": 19
+    "wins": 21,
+    "losses": 20
   },
   "JUBS#579": {
     "name": "Lub",
@@ -249,15 +249,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
-    "rating": 2119.9,
+    "rating": 2124.2,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 98,
-    "losses": 77
+    "wins": 99,
+    "losses": 78
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -287,19 +287,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2021.1,
+    "rating": 2014.9,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "71.3",
-      "23.8",
-      "4.9"
+      "71.1",
+      "23.9",
+      "5.0"
     ],
-    "wins": 175,
-    "losses": 171
+    "wins": 176,
+    "losses": 172
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -439,17 +439,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1592.8,
+    "rating": 1570.5,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "74.3",
-      "25.5"
+      "74.1",
+      "25.8"
     ],
     "wins": 141,
-    "losses": 131
+    "losses": 133
   },
   "NCRO#183": {
     "name": "XP Waste",
