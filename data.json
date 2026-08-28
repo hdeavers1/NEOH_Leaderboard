@@ -143,15 +143,15 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "DIAMOND 2",
-    "rating": 2112.1,
+    "rating": 2126.7,
     "characters": [
       "Falco"
     ],
     "percentages": [
-      "99.5"
+      "99.6"
     ],
-    "wins": 51,
-    "losses": 41
+    "wins": 54,
+    "losses": 43
   },
   "CUTS#327": {
     "name": "Drexciya",
@@ -439,17 +439,17 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1570.5,
+    "rating": 1557.2,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "74.1",
-      "25.8"
+      "74.0",
+      "25.9"
     ],
-    "wins": 141,
-    "losses": 133
+    "wins": 144,
+    "losses": 136
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -618,17 +618,17 @@
   "COCK#0": {
     "name": "It's OGRE",
     "tag": "COCK#0",
-    "rank": "GOLD 1",
-    "rating": 1519.1,
+    "rank": "GOLD 2",
+    "rating": 1582.2,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "87.3",
-      "12.7"
+      "84.6",
+      "15.4"
     ],
-    "wins": 18,
-    "losses": 14
+    "wins": 28,
+    "losses": 22
   }
 }
