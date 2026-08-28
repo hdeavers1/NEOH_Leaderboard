@@ -3,16 +3,16 @@
     "name": "OopsIDidItAgain",
     "tag": "WWJ#916",
     "rank": "GOLD 3",
-    "rating": 1655.7,
+    "rating": 1675.4,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "95.8",
-      "4.2"
+      "96.0",
+      "4.0"
     ],
-    "wins": 21,
+    "wins": 22,
     "losses": 20
   },
   "JUBS#579": {
@@ -590,16 +590,16 @@
   "SYKO#921": {
     "name": "syko",
     "tag": "SYKO#921",
-    "rank": "GOLD 3",
-    "rating": 1663.5,
+    "rank": "GOLD 2",
+    "rating": 1647.1,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 91,
-    "losses": 76
+    "wins": 95,
+    "losses": 80
   },
   "JFOX#178": {
     "name": "Just's Fox",
