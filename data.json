@@ -53,17 +53,17 @@
     "name": "slowprblmsolver",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1700.5,
+    "rating": 1696.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "84.1",
-      "15.8"
+      "84.5",
+      "15.4"
     ],
-    "wins": 352,
-    "losses": 341
+    "wins": 360,
+    "losses": 349
   },
   "PANC#613": {
     "name": "panchito$",
@@ -619,16 +619,16 @@
     "name": "It's OGRE",
     "tag": "COCK#0",
     "rank": "GOLD 2",
-    "rating": 1612.7,
+    "rating": 1601.5,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "80.5",
-      "19.5"
+      "81.3",
+      "18.7"
     ],
-    "wins": 38,
-    "losses": 31
+    "wins": 39,
+    "losses": 33
   }
 }
