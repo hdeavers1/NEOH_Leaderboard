@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "slowprblmsolver",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1803.7,
+    "rank": "GOLD 3",
+    "rating": 1700.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "83.8",
-      "16.1"
+      "84.1",
+      "15.8"
     ],
-    "wins": 349,
-    "losses": 331
+    "wins": 352,
+    "losses": 341
   },
   "PANC#613": {
     "name": "panchito$",
@@ -472,7 +472,7 @@
     "losses": 11
   },
   "MOSHI#0": {
-    "name": ":l neutral",
+    "name": "nasb2>melee",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1789,
