@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "Slow Learner",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1675.9,
+    "rank": "GOLD 2",
+    "rating": 1644.2,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "84.7",
-      "15.2"
+      "84.8",
+      "15.1"
     ],
-    "wins": 366,
-    "losses": 356
+    "wins": 373,
+    "losses": 366
   },
   "PANC#613": {
     "name": "panchito$",
@@ -143,15 +143,15 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "DIAMOND 2",
-    "rating": 2083.2,
+    "rating": 2093.2,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.6"
     ],
-    "wins": 59,
-    "losses": 52
+    "wins": 62,
+    "losses": 54
   },
   "CUTS#327": {
     "name": "Drexciya",
