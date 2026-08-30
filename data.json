@@ -1,19 +1,19 @@
 {
   "WWJ#916": {
-    "name": "OopsIDidItAgain",
+    "name": "I Dream Bigger",
     "tag": "WWJ#916",
     "rank": "GOLD 3",
-    "rating": 1675.4,
+    "rating": 1689.2,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "96.0",
-      "4.0"
+      "96.1",
+      "3.9"
     ],
-    "wins": 22,
-    "losses": 20
+    "wins": 23,
+    "losses": 21
   },
   "JUBS#579": {
     "name": "Lub",
@@ -26,7 +26,7 @@
     "losses": 0
   },
   "BIGO#869": {
-    "name": "IhatePaul",
+    "name": "Fuelperks",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -50,7 +50,7 @@
     "losses": 12
   },
   "MAYO#795": {
-    "name": "slowprblmsolver",
+    "name": "Slow Learner",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
     "rating": 1675.9,
@@ -143,15 +143,15 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "DIAMOND 2",
-    "rating": 2103.6,
+    "rating": 2083.2,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.6"
     ],
-    "wins": 58,
-    "losses": 49
+    "wins": 59,
+    "losses": 52
   },
   "CUTS#327": {
     "name": "Drexciya",
@@ -639,14 +639,14 @@
     "name": "FuttBuckerson",
     "tag": "VINS#677",
     "rank": "GRANDMASTER",
-    "rating": 2285.7,
+    "rating": 2275.6,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 102,
-    "losses": 53
+    "wins": 106,
+    "losses": 54
   }
 }
