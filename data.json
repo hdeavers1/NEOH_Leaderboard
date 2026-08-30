@@ -262,11 +262,15 @@
   "ZBOO#991": {
     "name": "(-:",
     "tag": "ZBOO#991",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
     "losses": 0
   },
   "PEE#658": {
@@ -619,16 +623,16 @@
     "name": "It's OGRE",
     "tag": "COCK#0",
     "rank": "GOLD 3",
-    "rating": 1654.1,
+    "rating": 1699.7,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "85.8",
-      "14.2"
+      "82.7",
+      "17.3"
     ],
-    "wins": 54,
+    "wins": 57,
     "losses": 47
   },
   "VINS#677": {
