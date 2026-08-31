@@ -143,15 +143,15 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "DIAMOND 2",
-    "rating": 2093.2,
+    "rating": 2108,
     "characters": [
       "Falco"
     ],
     "percentages": [
-      "99.6"
+      "99.7"
     ],
-    "wins": 62,
-    "losses": 54
+    "wins": 65,
+    "losses": 56
   },
   "CUTS#327": {
     "name": "Drexciya",
@@ -623,17 +623,17 @@
     "name": "It's OGRE",
     "tag": "COCK#0",
     "rank": "GOLD 3",
-    "rating": 1699.7,
+    "rating": 1672.9,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "82.7",
-      "17.3"
+      "80.5",
+      "19.5"
     ],
-    "wins": 57,
-    "losses": 47
+    "wins": 61,
+    "losses": 54
   },
   "VINS#677": {
     "name": "FuttBuckerson",
