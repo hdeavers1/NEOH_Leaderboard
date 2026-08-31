@@ -377,17 +377,17 @@
     "name": "Big$wimmer",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1813.8,
+    "rating": 1835.4,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.8",
-      "3.1"
+      "96.9",
+      "3.0"
     ],
-    "wins": 174,
-    "losses": 164
+    "wins": 179,
+    "losses": 167
   },
   "DEE#218": {
     "name": "jan Katen",
@@ -442,24 +442,24 @@
   "DANK#954": {
     "name": "The Guzzler",
     "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1545.3,
+    "rank": "GOLD 2",
+    "rating": 1554.8,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "73.8",
-      "26.1"
+      "74.1",
+      "25.8"
     ],
-    "wins": 147,
-    "losses": 138
+    "wins": 149,
+    "losses": 139
   },
   "NCRO#183": {
     "name": "XP Waste",
     "tag": "NCRO#183",
-    "rank": "GOLD 3",
-    "rating": 1660.1,
+    "rank": "GOLD 2",
+    "rating": 1648.2,
     "characters": [
       "Doc",
       "Sheik",
@@ -467,13 +467,13 @@
       "Falco"
     ],
     "percentages": [
-      "54.0",
-      "36.5",
-      "6.3",
-      "3.2"
+      "52.9",
+      "34.3",
+      "10.0",
+      "2.9"
     ],
-    "wins": 16,
-    "losses": 11
+    "wins": 17,
+    "losses": 13
   },
   "MOSHI#0": {
     "name": "nasb2>melee",
@@ -623,30 +623,30 @@
     "name": "It's OGRE",
     "tag": "COCK#0",
     "rank": "GOLD 3",
-    "rating": 1672.9,
+    "rating": 1668.3,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "80.5",
-      "19.5"
+      "75.3",
+      "24.7"
     ],
-    "wins": 61,
-    "losses": 54
+    "wins": 69,
+    "losses": 63
   },
   "VINS#677": {
     "name": "FuttBuckerson",
     "tag": "VINS#677",
     "rank": "GRANDMASTER",
-    "rating": 2275.6,
+    "rating": 2306.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 106,
+    "wins": 110,
     "losses": 54
   }
 }
