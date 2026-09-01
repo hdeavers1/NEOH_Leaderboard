@@ -3,17 +3,17 @@
     "name": "I Dream Bigger",
     "tag": "WWJ#916",
     "rank": "GOLD 3",
-    "rating": 1667.7,
+    "rating": 1655.1,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "96.2",
-      "3.8"
+      "96.3",
+      "3.7"
     ],
     "wins": 23,
-    "losses": 22
+    "losses": 23
   },
   "JUBS#579": {
     "name": "Lub",
@@ -143,15 +143,15 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "DIAMOND 2",
-    "rating": 2108,
+    "rating": 2108.6,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.7"
     ],
-    "wins": 65,
-    "losses": 56
+    "wins": 66,
+    "losses": 57
   },
   "CUTS#327": {
     "name": "Drexciya",
