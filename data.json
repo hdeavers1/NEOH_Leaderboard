@@ -143,14 +143,14 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "DIAMOND 3",
-    "rating": 2143.3,
+    "rating": 2152.9,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.7"
     ],
-    "wins": 73,
+    "wins": 74,
     "losses": 60
   },
   "CUTS#327": {
@@ -291,19 +291,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2034.3,
+    "rating": 2038.8,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "70.9",
-      "24.1",
-      "5.0"
+      "70.4",
+      "24.7",
+      "4.9"
     ],
-    "wins": 177,
-    "losses": 172
+    "wins": 180,
+    "losses": 175
   },
   "DNZO#333": {
     "name": "the thinker",
