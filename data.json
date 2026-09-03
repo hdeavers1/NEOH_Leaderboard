@@ -3,16 +3,16 @@
     "name": "I Dream Bigger",
     "tag": "WWJ#916",
     "rank": "GOLD 3",
-    "rating": 1697.8,
+    "rating": 1744.6,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "96.6",
-      "3.4"
+      "96.8",
+      "3.2"
     ],
-    "wins": 25,
+    "wins": 28,
     "losses": 24
   },
   "JUBS#579": {
@@ -291,19 +291,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2020.9,
+    "rating": 2049,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "69.7",
-      "25.4",
+      "68.9",
+      "26.2",
       "4.8"
     ],
-    "wins": 182,
-    "losses": 178
+    "wins": 188,
+    "losses": 180
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -376,18 +376,18 @@
   "YOSH#458": {
     "name": "Big$wimmer",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1835.4,
+    "rank": "PLATINUM 2",
+    "rating": 1857.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.9",
-      "3.0"
+      "96.8",
+      "3.1"
     ],
-    "wins": 179,
-    "losses": 167
+    "wins": 183,
+    "losses": 168
   },
   "DEE#218": {
     "name": "jan Katen",
