@@ -53,17 +53,17 @@
     "name": "Slow Learner",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1705.8,
+    "rating": 1750.2,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "84.9",
-      "15.0"
+      "85.3",
+      "14.6"
     ],
-    "wins": 379,
-    "losses": 366
+    "wins": 390,
+    "losses": 374
   },
   "PANC#613": {
     "name": "panchito$",
@@ -142,16 +142,16 @@
   "FRUM#591": {
     "name": "Frum",
     "tag": "FRUM#591",
-    "rank": "DIAMOND 3",
-    "rating": 2152.9,
+    "rank": "MASTER 1",
+    "rating": 2196.1,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.7"
     ],
-    "wins": 74,
-    "losses": 60
+    "wins": 77,
+    "losses": 61
   },
   "CUTS#327": {
     "name": "Drexciya",
@@ -291,19 +291,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2038.8,
+    "rating": 2020.9,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "70.4",
-      "24.7",
-      "4.9"
+      "69.7",
+      "25.4",
+      "4.8"
     ],
-    "wins": 180,
-    "losses": 175
+    "wins": 182,
+    "losses": 178
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -443,7 +443,7 @@
     "name": "The Guzzler",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1583.7,
+    "rating": 1606.1,
     "characters": [
       "Marth",
       "Puff"
@@ -452,8 +452,8 @@
       "74.4",
       "25.4"
     ],
-    "wins": 155,
-    "losses": 143
+    "wins": 158,
+    "losses": 145
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -623,30 +623,30 @@
     "name": "It's OGRE",
     "tag": "COCK#0",
     "rank": "GOLD 3",
-    "rating": 1697.1,
+    "rating": 1683.8,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "79.3",
-      "20.7"
+      "79.9",
+      "20.1"
     ],
-    "wins": 85,
-    "losses": 77
+    "wins": 88,
+    "losses": 80
   },
   "VINS#677": {
     "name": "FuttBuckerson",
     "tag": "VINS#677",
     "rank": "GRANDMASTER",
-    "rating": 2306.2,
+    "rating": 2239.3,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 110,
-    "losses": 54
+    "wins": 113,
+    "losses": 63
   }
 }
