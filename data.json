@@ -2,18 +2,18 @@
   "WWJ#916": {
     "name": "I Dream Bigger",
     "tag": "WWJ#916",
-    "rank": "GOLD 3",
-    "rating": 1744.6,
+    "rank": "PLATINUM 1",
+    "rating": 1783.1,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "96.8",
-      "3.2"
+      "96.2",
+      "3.8"
     ],
-    "wins": 28,
-    "losses": 24
+    "wins": 30,
+    "losses": 25
   },
   "JUBS#579": {
     "name": "Lub",
@@ -291,19 +291,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2049,
+    "rating": 2028.9,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "68.9",
-      "26.2",
+      "68.1",
+      "27.1",
       "4.8"
     ],
-    "wins": 188,
-    "losses": 180
+    "wins": 193,
+    "losses": 184
   },
   "DNZO#333": {
     "name": "the thinker",
