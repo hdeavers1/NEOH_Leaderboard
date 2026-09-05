@@ -52,8 +52,8 @@
   "MAYO#795": {
     "name": "Slow Learner",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1757,
+    "rank": "GOLD 3",
+    "rating": 1747.6,
     "characters": [
       "Falcon",
       "DK"
@@ -63,7 +63,7 @@
       "14.3"
     ],
     "wins": 401,
-    "losses": 384
+    "losses": 385
   },
   "PANC#613": {
     "name": "panchito$",
@@ -185,15 +185,15 @@
     "name": "gallbladderless",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2457.8,
+    "rating": 2467,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 157,
-    "losses": 51
+    "wins": 167,
+    "losses": 54
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -594,15 +594,15 @@
   "SYKO#921": {
     "name": "syko",
     "tag": "SYKO#921",
-    "rank": "GOLD 2",
-    "rating": 1647.1,
+    "rank": "GOLD 3",
+    "rating": 1661.4,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.0"
     ],
-    "wins": 95,
+    "wins": 96,
     "losses": 80
   },
   "JFOX#178": {
