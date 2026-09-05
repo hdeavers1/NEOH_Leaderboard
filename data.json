@@ -185,14 +185,14 @@
     "name": "gallbladderless",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2467,
+    "rating": 2471.6,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 167,
+    "wins": 168,
     "losses": 54
   },
   "SPOT#861": {
@@ -622,18 +622,18 @@
   "COCK#0": {
     "name": "It's OGRE",
     "tag": "COCK#0",
-    "rank": "GOLD 3",
-    "rating": 1675.2,
+    "rank": "GOLD 2",
+    "rating": 1646,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "82.5",
-      "17.5"
+      "83.6",
+      "16.4"
     ],
-    "wins": 100,
-    "losses": 95
+    "wins": 106,
+    "losses": 103
   },
   "VINS#677": {
     "name": "FuttBuckerson",
