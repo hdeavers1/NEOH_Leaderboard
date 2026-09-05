@@ -53,7 +53,7 @@
     "name": "Slow Learner",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1747.6,
+    "rating": 1734.6,
     "characters": [
       "Falcon",
       "DK"
@@ -63,7 +63,7 @@
       "14.3"
     ],
     "wins": 401,
-    "losses": 385
+    "losses": 387
   },
   "PANC#613": {
     "name": "panchito$",
@@ -570,16 +570,6 @@
     ],
     "wins": 6,
     "losses": 7
-  },
-  "PHNX#609": {
-    "name": "Phoenix",
-    "tag": "PHNX#609",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "LAND#19": {
     "name": "wowee zowee",
