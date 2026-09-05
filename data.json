@@ -53,17 +53,17 @@
     "name": "Slow Learner",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1734.6,
+    "rating": 1750.8,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "85.6",
-      "14.3"
+      "85.8",
+      "14.1"
     ],
-    "wins": 401,
-    "losses": 387
+    "wins": 407,
+    "losses": 392
   },
   "PANC#613": {
     "name": "panchito$",
@@ -333,21 +333,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1709.2,
+    "rating": 1719.1,
     "characters": [
       "Peach",
+      "Falcon",
       "Fox",
-      "Roy",
-      "Falco"
+      "Roy"
     ],
     "percentages": [
-      "31.2",
-      "6.5",
-      "5.4",
-      "4.3"
+      "26.4",
+      "6.4",
+      "5.5",
+      "5.5"
     ],
-    "wins": 20,
-    "losses": 21
+    "wins": 24,
+    "losses": 24
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -570,6 +570,16 @@
     ],
     "wins": 6,
     "losses": 7
+  },
+  "PHNX#609": {
+    "name": "Phoenix",
+    "tag": "PHNX#609",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "LAND#19": {
     "name": "wowee zowee",
