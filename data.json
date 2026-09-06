@@ -53,17 +53,17 @@
     "name": "Slow Learner",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1750.8,
+    "rating": 1682,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "85.8",
-      "14.1"
+      "85.9",
+      "14.0"
     ],
-    "wins": 407,
-    "losses": 392
+    "wins": 412,
+    "losses": 402
   },
   "PANC#613": {
     "name": "panchito$",
@@ -185,15 +185,15 @@
     "name": "gallbladderless",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2471.6,
+    "rating": 2466.1,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 168,
-    "losses": 54
+    "wins": 172,
+    "losses": 56
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -333,21 +333,21 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 3",
-    "rating": 1719.1,
+    "rating": 1702.5,
     "characters": [
       "Peach",
       "Falcon",
-      "Fox",
-      "Roy"
+      "Link",
+      "Fox"
     ],
     "percentages": [
-      "26.4",
-      "6.4",
-      "5.5",
-      "5.5"
+      "24.8",
+      "6.0",
+      "6.0",
+      "5.1"
     ],
-    "wins": 24,
-    "losses": 24
+    "wins": 25,
+    "losses": 26
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -443,17 +443,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1616.2,
+    "rating": 1573.9,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "74.5",
+      "74.6",
       "25.3"
     ],
-    "wins": 159,
-    "losses": 145
+    "wins": 160,
+    "losses": 151
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -639,14 +639,14 @@
     "name": "FuttBuckerson",
     "tag": "VINS#677",
     "rank": "MASTER 1",
-    "rating": 2239.3,
+    "rating": 2250.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 113,
-    "losses": 63
+    "wins": 114,
+    "losses": 64
   }
 }
