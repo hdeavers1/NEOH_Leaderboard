@@ -143,14 +143,14 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "MASTER 1",
-    "rating": 2196.1,
+    "rating": 2202.6,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.7"
     ],
-    "wins": 77,
+    "wins": 78,
     "losses": 61
   },
   "CUTS#327": {
@@ -332,22 +332,22 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "GOLD 3",
-    "rating": 1688.1,
+    "rank": "GOLD 2",
+    "rating": 1651.4,
     "characters": [
       "Peach",
-      "Roy",
       "Falcon",
+      "Roy",
       "Kirby"
     ],
     "percentages": [
-      "19.7",
-      "5.9",
-      "5.9",
-      "5.3"
+      "18.4",
+      "6.1",
+      "5.5",
+      "5.5"
     ],
-    "wins": 31,
-    "losses": 34
+    "wins": 32,
+    "losses": 37
   },
   "SERE#225": {
     "name": "sp1nda",
