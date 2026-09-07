@@ -3,17 +3,17 @@
     "name": "I Dream Bigger",
     "tag": "WWJ#916",
     "rank": "PLATINUM 1",
-    "rating": 1775,
+    "rating": 1764.2,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "96.7",
-      "3.3"
+      "96.8",
+      "3.2"
     ],
-    "wins": 33,
-    "losses": 30
+    "wins": 34,
+    "losses": 32
   },
   "JUBS#579": {
     "name": "Lub",
@@ -194,16 +194,6 @@
     ],
     "wins": 172,
     "losses": 56
-  },
-  "SPOT#861": {
-    "name": "Stimulant fiend",
-    "tag": "SPOT#861",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "GRIM#801": {
     "name": "Shiesty",
