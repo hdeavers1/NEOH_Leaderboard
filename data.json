@@ -195,6 +195,16 @@
     "wins": 172,
     "losses": 56
   },
+  "SPOT#861": {
+    "name": "Stimulant fiend",
+    "tag": "SPOT#861",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "GRIM#801": {
     "name": "Shiesty",
     "tag": "GRIM#801",
@@ -629,7 +639,7 @@
     "name": "FuttBuckerson",
     "tag": "VINS#677",
     "rank": "MASTER 1",
-    "rating": 2227.4,
+    "rating": 2214.7,
     "characters": [
       "Falcon"
     ],
@@ -637,6 +647,6 @@
       "100.0"
     ],
     "wins": 114,
-    "losses": 65
+    "losses": 66
   }
 }
