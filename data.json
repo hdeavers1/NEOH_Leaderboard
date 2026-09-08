@@ -143,15 +143,15 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "MASTER 1",
-    "rating": 2202.6,
+    "rating": 2222,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.7"
     ],
-    "wins": 78,
-    "losses": 61
+    "wins": 80,
+    "losses": 63
   },
   "CUTS#327": {
     "name": "Drexciya",
@@ -540,20 +540,6 @@
     "percentages": [],
     "wins": 0,
     "losses": 0
-  },
-  "VYV#0": {
-    "name": "vyv",
-    "tag": "VYV#0",
-    "rank": "BRONZE 3",
-    "rating": 939.6,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 2,
-    "losses": 5
   },
   "JDBN#000": {
     "name": "jodben",
