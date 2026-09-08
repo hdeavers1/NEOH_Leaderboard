@@ -373,6 +373,22 @@
     "wins": 0,
     "losses": 0
   },
+  "YOSH#458": {
+    "name": "Big$wimmer",
+    "tag": "YOSH#458",
+    "rank": "PLATINUM 1",
+    "rating": 1840.5,
+    "characters": [
+      "Yoshi",
+      "DK"
+    ],
+    "percentages": [
+      "96.9",
+      "3.0"
+    ],
+    "wins": 186,
+    "losses": 173
+  },
   "DEE#218": {
     "name": "jan Katen",
     "tag": "DEE#218",
