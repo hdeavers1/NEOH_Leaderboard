@@ -3,17 +3,17 @@
     "name": "I Dream Bigger",
     "tag": "WWJ#916",
     "rank": "PLATINUM 1",
-    "rating": 1764.2,
+    "rating": 1796.9,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "96.8",
-      "3.2"
+      "95.8",
+      "4.2"
     ],
-    "wins": 34,
-    "losses": 32
+    "wins": 37,
+    "losses": 33
   },
   "JUBS#579": {
     "name": "Lub",
@@ -541,6 +541,20 @@
     "wins": 0,
     "losses": 0
   },
+  "VYV#0": {
+    "name": "vyv",
+    "tag": "VYV#0",
+    "rank": "BRONZE 3",
+    "rating": 939.6,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 5
+  },
   "JDBN#000": {
     "name": "jodben",
     "tag": "JDBN#000",
@@ -609,30 +623,30 @@
     "name": "It's OGRE",
     "tag": "COCK#0",
     "rank": "GOLD 2",
-    "rating": 1646,
+    "rating": 1616.7,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "83.6",
-      "16.4"
+      "81.4",
+      "18.6"
     ],
-    "wins": 106,
-    "losses": 103
+    "wins": 112,
+    "losses": 111
   },
   "VINS#677": {
     "name": "FuttBuckerson",
     "tag": "VINS#677",
     "rank": "MASTER 1",
-    "rating": 2214.7,
+    "rating": 2256.8,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 114,
-    "losses": 66
+    "wins": 129,
+    "losses": 75
   }
 }
