@@ -623,30 +623,30 @@
     "name": "It's OGRE",
     "tag": "COCK#0",
     "rank": "GOLD 2",
-    "rating": 1589.2,
+    "rating": 1597.4,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "81.9",
-      "18.1"
+      "82.1",
+      "17.9"
     ],
-    "wins": 116,
-    "losses": 118
+    "wins": 117,
+    "losses": 119
   },
   "VINS#677": {
     "name": "FuttBuckerson",
     "tag": "VINS#677",
     "rank": "GRANDMASTER",
-    "rating": 2310.4,
+    "rating": 2327.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 138,
+    "wins": 139,
     "losses": 77
   }
 }
