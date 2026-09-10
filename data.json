@@ -233,31 +233,31 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2380.5,
+    "rating": 2410.1,
     "characters": [
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "95.7",
-      "2.3"
+      "95.9",
+      "2.2"
     ],
-    "wins": 175,
-    "losses": 66
+    "wins": 185,
+    "losses": 68
   },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 3",
-    "rating": 2137,
+    "rating": 2136.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 105,
-    "losses": 86
+    "wins": 107,
+    "losses": 88
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -377,17 +377,17 @@
     "name": "Big$wimmer",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1840.5,
+    "rating": 1826.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.9",
-      "3.0"
+      "97.0",
+      "2.9"
     ],
-    "wins": 186,
-    "losses": 173
+    "wins": 190,
+    "losses": 178
   },
   "DEE#218": {
     "name": "jan Katen",
