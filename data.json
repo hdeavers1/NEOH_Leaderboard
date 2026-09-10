@@ -53,7 +53,7 @@
     "name": "Slow Learner",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1731.1,
+    "rating": 1742.2,
     "characters": [
       "Falcon",
       "DK"
@@ -62,7 +62,7 @@
       "86.2",
       "13.7"
     ],
-    "wins": 424,
+    "wins": 425,
     "losses": 409
   },
   "PANC#613": {
@@ -143,14 +143,14 @@
     "name": "Frum",
     "tag": "FRUM#591",
     "rank": "MASTER 1",
-    "rating": 2222,
+    "rating": 2234.7,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.7"
     ],
-    "wins": 80,
+    "wins": 81,
     "losses": 63
   },
   "CUTS#327": {
@@ -233,17 +233,17 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2350.6,
+    "rating": 2379.9,
     "characters": [
       "Pikachu",
       "Fox"
     ],
     "percentages": [
       "96.9",
-      "2.3"
+      "2.1"
     ],
-    "wins": 151,
-    "losses": 57
+    "wins": 162,
+    "losses": 60
   },
   "FLOW#08": {
     "name": "Flow",
@@ -291,19 +291,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2028.9,
+    "rating": 2039.4,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "68.1",
-      "27.1",
+      "68.2",
+      "27.0",
       "4.8"
     ],
-    "wins": 193,
-    "losses": 184
+    "wins": 195,
+    "losses": 186
   },
   "DNZO#333": {
     "name": "the thinker",
