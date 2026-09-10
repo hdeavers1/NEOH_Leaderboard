@@ -53,17 +53,17 @@
     "name": "Slow Learner",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1742.2,
+    "rating": 1749.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "86.2",
-      "13.7"
+      "86.3",
+      "13.6"
     ],
-    "wins": 425,
-    "losses": 409
+    "wins": 428,
+    "losses": 412
   },
   "PANC#613": {
     "name": "panchito$",
@@ -185,15 +185,15 @@
     "name": "gallbladderless",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2466.1,
+    "rating": 2529.4,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 172,
-    "losses": 56
+    "wins": 184,
+    "losses": 59
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -233,17 +233,17 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2379.9,
+    "rating": 2387.9,
     "characters": [
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "96.9",
-      "2.1"
+      "96.1",
+      "2.2"
     ],
-    "wins": 162,
-    "losses": 60
+    "wins": 171,
+    "losses": 65
   },
   "FLOW#08": {
     "name": "Flow",
@@ -291,19 +291,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2039.4,
+    "rating": 2043.2,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "68.2",
-      "27.0",
-      "4.8"
+      "67.8",
+      "27.2",
+      "4.9"
     ],
-    "wins": 195,
-    "losses": 186
+    "wins": 197,
+    "losses": 188
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -443,16 +443,16 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1560.1,
+    "rating": 1577.6,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "74.8",
-      "25.1"
+      "75.0",
+      "24.9"
     ],
-    "wins": 163,
+    "wins": 165,
     "losses": 154
   },
   "NCRO#183": {
@@ -545,14 +545,14 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "BRONZE 3",
-    "rating": 939.6,
+    "rating": 1021.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 2,
+    "wins": 3,
     "losses": 5
   },
   "JDBN#000": {
@@ -639,14 +639,14 @@
     "name": "FuttBuckerson",
     "tag": "VINS#677",
     "rank": "GRANDMASTER",
-    "rating": 2290.8,
+    "rating": 2310.4,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 135,
-    "losses": 76
+    "wins": 138,
+    "losses": 77
   }
 }
