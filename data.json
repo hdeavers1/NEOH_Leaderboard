@@ -291,19 +291,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2043.2,
+    "rating": 2022.7,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "67.8",
-      "27.2",
+      "67.7",
+      "27.4",
       "4.9"
     ],
     "wins": 197,
-    "losses": 188
+    "losses": 189
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -443,17 +443,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1577.6,
+    "rating": 1575.6,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "75.0",
-      "24.9"
+      "75.2",
+      "24.7"
     ],
-    "wins": 165,
-    "losses": 154
+    "wins": 166,
+    "losses": 156
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -544,16 +544,16 @@
   "VYV#0": {
     "name": "vyv",
     "tag": "VYV#0",
-    "rank": "BRONZE 3",
-    "rating": 1021.3,
+    "rank": "SILVER 1",
+    "rating": 1154.3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
-    "losses": 5
+    "wins": 9,
+    "losses": 9
   },
   "JDBN#000": {
     "name": "jodben",
