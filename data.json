@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "Slow Learner",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1758.4,
+    "rank": "GOLD 3",
+    "rating": 1751.2,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "86.4",
-      "13.5"
+      "86.5",
+      "13.4"
     ],
-    "wins": 438,
-    "losses": 421
+    "wins": 441,
+    "losses": 424
   },
   "PANC#613": {
     "name": "panchito$",
@@ -639,14 +639,14 @@
     "name": "FuttBuckerson",
     "tag": "VINS#677",
     "rank": "GRANDMASTER",
-    "rating": 2331.8,
+    "rating": 2339.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 145,
+    "wins": 146,
     "losses": 78
   }
 }
