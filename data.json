@@ -290,19 +290,19 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 3",
-    "rating": 1991,
+    "rank": "DIAMOND 1",
+    "rating": 2007.1,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "67.6",
-      "27.6",
+      "67.4",
+      "27.7",
       "4.9"
     ],
-    "wins": 197,
+    "wins": 198,
     "losses": 192
   },
   "DNZO#333": {
@@ -376,8 +376,8 @@
   "YOSH#458": {
     "name": "Big$wimmer",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1826.8,
+    "rank": "PLATINUM 2",
+    "rating": 1848.5,
     "characters": [
       "Yoshi",
       "DK"
@@ -386,8 +386,8 @@
       "97.0",
       "2.9"
     ],
-    "wins": 190,
-    "losses": 178
+    "wins": 194,
+    "losses": 182
   },
   "DEE#218": {
     "name": "jan Katen",
