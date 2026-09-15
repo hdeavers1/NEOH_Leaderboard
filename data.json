@@ -26,7 +26,7 @@
     "losses": 0
   },
   "BIGO#869": {
-    "name": "Fuelperks",
+    "name": "HappyBirthday",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -290,20 +290,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "DIAMOND 1",
-    "rating": 2022.7,
+    "rank": "PLATINUM 3",
+    "rating": 1991,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "67.7",
-      "27.4",
+      "67.6",
+      "27.6",
       "4.9"
     ],
     "wins": 197,
-    "losses": 189
+    "losses": 192
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -353,15 +353,15 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "DIAMOND 2",
-    "rating": 2106.2,
+    "rating": 2096.1,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 100,
-    "losses": 72
+    "wins": 103,
+    "losses": 75
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -443,17 +443,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1575.6,
+    "rating": 1567.2,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "75.2",
-      "24.7"
+      "75.3",
+      "24.6"
     ],
-    "wins": 166,
-    "losses": 156
+    "wins": 167,
+    "losses": 158
   },
   "NCRO#183": {
     "name": "XP Waste",
