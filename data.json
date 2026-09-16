@@ -26,7 +26,7 @@
     "losses": 0
   },
   "BIGO#869": {
-    "name": "HappyBirthday",
+    "name": "HappyBelated",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "Slow Learner",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1751.2,
+    "rank": "PLATINUM 1",
+    "rating": 1759.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "86.5",
-      "13.4"
+      "86.6",
+      "13.3"
     ],
-    "wins": 441,
-    "losses": 424
+    "wins": 443,
+    "losses": 425
   },
   "PANC#613": {
     "name": "panchito$",
@@ -248,8 +248,8 @@
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "DIAMOND 3",
-    "rating": 2136.7,
+    "rank": "DIAMOND 2",
+    "rating": 2117.9,
     "characters": [
       "Marth"
     ],
@@ -257,7 +257,7 @@
       "100.0"
     ],
     "wins": 107,
-    "losses": 88
+    "losses": 90
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -291,19 +291,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2007.1,
+    "rating": 2046.9,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "67.4",
-      "27.7",
-      "4.9"
+      "67.2",
+      "28.0",
+      "4.8"
     ],
-    "wins": 198,
-    "losses": 192
+    "wins": 201,
+    "losses": 193
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -639,14 +639,14 @@
     "name": "FuttBuckerson",
     "tag": "VINS#677",
     "rank": "GRANDMASTER",
-    "rating": 2339.2,
+    "rating": 2331.2,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 146,
-    "losses": 78
+    "wins": 150,
+    "losses": 81
   }
 }
