@@ -185,15 +185,15 @@
     "name": "gallbladderless",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2512.1,
+    "rating": 2519.7,
     "characters": [
       "Sheik"
     ],
     "percentages": [
-      "100.0"
+      "99.8"
     ],
-    "wins": 191,
-    "losses": 62
+    "wins": 195,
+    "losses": 63
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -233,7 +233,7 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2399,
+    "rating": 2407.4,
     "characters": [
       "Pikachu",
       "Fox"
@@ -242,8 +242,8 @@
       "95.8",
       "2.2"
     ],
-    "wins": 185,
-    "losses": 70
+    "wins": 188,
+    "losses": 71
   },
   "FLOW#08": {
     "name": "Flow",
@@ -353,14 +353,14 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "DIAMOND 2",
-    "rating": 2106,
+    "rating": 2126.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 105,
+    "wins": 106,
     "losses": 76
   },
   "MARF#811": {
@@ -393,17 +393,17 @@
     "name": "jan Katen",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1699.3,
+    "rating": 1668.1,
     "characters": [
       "YLink",
       "Mewtwo"
     ],
     "percentages": [
-      "82.3",
-      "15.2"
+      "80.5",
+      "16.9"
     ],
     "wins": 51,
-    "losses": 45
+    "losses": 47
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -443,17 +443,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1572.7,
+    "rating": 1593.7,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "75.4",
-      "24.4"
+      "75.8",
+      "24.0"
     ],
-    "wins": 168,
-    "losses": 159
+    "wins": 173,
+    "losses": 162
   },
   "NCRO#183": {
     "name": "XP Waste",
