@@ -249,15 +249,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
-    "rating": 2108.7,
+    "rating": 2108.9,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 109,
-    "losses": 92
+    "wins": 110,
+    "losses": 93
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -291,18 +291,18 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2039.5,
+    "rating": 2052.7,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "67.4",
-      "27.9",
+      "67.2",
+      "28.0",
       "4.8"
     ],
-    "wins": 202,
+    "wins": 203,
     "losses": 195
   },
   "DNZO#333": {
@@ -623,16 +623,16 @@
     "name": "It's OGRE",
     "tag": "COCK#0",
     "rank": "GOLD 2",
-    "rating": 1590.6,
+    "rating": 1613.6,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "82.4",
-      "17.6"
+      "82.5",
+      "17.5"
     ],
-    "wins": 121,
+    "wins": 122,
     "losses": 125
   },
   "VINS#677": {
