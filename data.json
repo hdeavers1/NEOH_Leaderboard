@@ -353,15 +353,15 @@
     "name": "sp1nda",
     "tag": "SERE#225",
     "rank": "DIAMOND 2",
-    "rating": 2096.1,
+    "rating": 2106,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 103,
-    "losses": 75
+    "wins": 105,
+    "losses": 76
   },
   "MARF#811": {
     "name": "Marfweasel",
