@@ -249,15 +249,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
-    "rating": 2117.9,
+    "rating": 2108.7,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 107,
-    "losses": 90
+    "wins": 109,
+    "losses": 92
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -623,17 +623,17 @@
     "name": "It's OGRE",
     "tag": "COCK#0",
     "rank": "GOLD 2",
-    "rating": 1612.7,
+    "rating": 1590.6,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "82.0",
-      "18.0"
+      "82.4",
+      "17.6"
     ],
-    "wins": 119,
-    "losses": 120
+    "wins": 121,
+    "losses": 125
   },
   "VINS#677": {
     "name": "FuttBuckerson",
