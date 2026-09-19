@@ -126,18 +126,18 @@
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "GOLD 1",
-    "rating": 1463.7,
+    "rank": "GOLD 2",
+    "rating": 1570.1,
     "characters": [
       "Fox",
       "Peach"
     ],
     "percentages": [
-      "82.1",
-      "12.5"
+      "63.5",
+      "32.4"
     ],
-    "wins": 14,
-    "losses": 12
+    "wins": 19,
+    "losses": 15
   },
   "FRUM#591": {
     "name": "Frum",
@@ -442,18 +442,18 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 2",
-    "rating": 1558,
+    "rank": "GOLD 1",
+    "rating": 1489.2,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "75.9",
-      "24.0"
+      "76.0",
+      "23.9"
     ],
     "wins": 176,
-    "losses": 169
+    "losses": 176
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -648,5 +648,21 @@
     ],
     "wins": 153,
     "losses": 83
+  },
+  "WIZ#007": {
+    "name": "wizardbones",
+    "tag": "WIZ#007",
+    "rank": "BRONZE 1",
+    "rating": 648.1,
+    "characters": [
+      "G&W",
+      "Falcon"
+    ],
+    "percentages": [
+      "53.2",
+      "43.9"
+    ],
+    "wins": 78,
+    "losses": 405
   }
 }
