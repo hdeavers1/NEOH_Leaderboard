@@ -332,22 +332,22 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "GOLD 2",
-    "rating": 1651.4,
+    "rank": "GOLD 3",
+    "rating": 1710.2,
     "characters": [
       "Peach",
       "Falcon",
-      "Roy",
-      "Kirby"
+      "Kirby",
+      "Link"
     ],
     "percentages": [
-      "18.4",
-      "6.1",
-      "5.5",
-      "5.5"
+      "16.9",
+      "5.6",
+      "5.6",
+      "5.6"
     ],
-    "wins": 32,
-    "losses": 37
+    "wins": 36,
+    "losses": 39
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -443,17 +443,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1579.5,
+    "rating": 1558,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "76.0",
-      "23.9"
+      "75.9",
+      "24.0"
     ],
-    "wins": 175,
-    "losses": 165
+    "wins": 176,
+    "losses": 169
   },
   "NCRO#183": {
     "name": "XP Waste",
