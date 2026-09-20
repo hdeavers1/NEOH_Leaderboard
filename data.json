@@ -53,17 +53,17 @@
     "name": "Negative Talent",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1739.7,
+    "rating": 1750.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "87.0",
-      "12.9"
+      "87.1",
+      "12.8"
     ],
-    "wins": 472,
-    "losses": 453
+    "wins": 478,
+    "losses": 457
   },
   "PANC#613": {
     "name": "panchito$",
@@ -653,16 +653,16 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 710.8,
+    "rating": 717.6,
     "characters": [
       "G&W",
       "Falcon"
     ],
     "percentages": [
-      "51.7",
-      "45.5"
+      "51.2",
+      "46.0"
     ],
-    "wins": 85,
-    "losses": 412
+    "wins": 87,
+    "losses": 414
   }
 }
