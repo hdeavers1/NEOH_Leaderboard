@@ -622,18 +622,18 @@
   "COCK#0": {
     "name": "It's OGRE",
     "tag": "COCK#0",
-    "rank": "GOLD 2",
-    "rating": 1613.6,
+    "rank": "GOLD 3",
+    "rating": 1667.7,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "82.5",
-      "17.5"
+      "83.0",
+      "17.0"
     ],
-    "wins": 122,
-    "losses": 125
+    "wins": 132,
+    "losses": 128
   },
   "VINS#677": {
     "name": "FuttBuckerson",
