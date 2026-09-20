@@ -26,7 +26,7 @@
     "losses": 0
   },
   "BIGO#869": {
-    "name": "HappyBelated",
+    "name": "Big Jilm",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -53,17 +53,17 @@
     "name": "Negative Talent",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1744.4,
+    "rating": 1739.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "86.8",
-      "13.1"
+      "87.0",
+      "12.9"
     ],
-    "wins": 463,
-    "losses": 443
+    "wins": 472,
+    "losses": 453
   },
   "PANC#613": {
     "name": "panchito$",
@@ -653,16 +653,16 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 656.5,
+    "rating": 710.8,
     "characters": [
       "G&W",
       "Falcon"
     ],
     "percentages": [
-      "52.4",
-      "44.8"
+      "51.7",
+      "45.5"
     ],
-    "wins": 81,
-    "losses": 410
+    "wins": 85,
+    "losses": 412
   }
 }
