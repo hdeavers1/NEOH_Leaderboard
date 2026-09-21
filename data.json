@@ -291,7 +291,7 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2052.7,
+    "rating": 2043.8,
     "characters": [
       "Fox",
       "Marth",
@@ -299,11 +299,11 @@
     ],
     "percentages": [
       "67.2",
-      "28.0",
+      "28.1",
       "4.8"
     ],
     "wins": 203,
-    "losses": 195
+    "losses": 196
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -390,20 +390,20 @@
     "losses": 191
   },
   "DEE#218": {
-    "name": "im a freak fr..",
+    "name": "go bengals",
     "tag": "DEE#218",
     "rank": "GOLD 3",
-    "rating": 1668.1,
+    "rating": 1704.2,
     "characters": [
       "YLink",
       "Mewtwo"
     ],
     "percentages": [
-      "80.5",
-      "16.9"
+      "77.2",
+      "20.3"
     ],
-    "wins": 51,
-    "losses": 47
+    "wins": 54,
+    "losses": 48
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -443,16 +443,16 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1489.2,
+    "rating": 1498.1,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
       "76.0",
-      "23.9"
+      "23.8"
     ],
-    "wins": 176,
+    "wins": 177,
     "losses": 176
   },
   "NCRO#183": {
@@ -653,16 +653,16 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 717.6,
+    "rating": 714.6,
     "characters": [
       "G&W",
       "Falcon"
     ],
     "percentages": [
-      "51.2",
-      "46.0"
+      "51.1",
+      "46.1"
     ],
     "wins": 87,
-    "losses": 414
+    "losses": 415
   }
 }
