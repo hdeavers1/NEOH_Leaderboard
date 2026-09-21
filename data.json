@@ -443,17 +443,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1498.1,
+    "rating": 1510.9,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "76.0",
-      "23.8"
+      "76.2",
+      "23.6"
     ],
-    "wins": 177,
-    "losses": 176
+    "wins": 180,
+    "losses": 178
   },
   "NCRO#183": {
     "name": "XP Waste",
