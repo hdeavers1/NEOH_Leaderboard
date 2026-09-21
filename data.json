@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "Negative Talent",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1750.7,
+    "rank": "PLATINUM 1",
+    "rating": 1775.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
       "87.1",
-      "12.8"
+      "12.9"
     ],
-    "wins": 478,
-    "losses": 457
+    "wins": 481,
+    "losses": 458
   },
   "PANC#613": {
     "name": "panchito$",
@@ -143,15 +143,15 @@
     "name": "Looking 4 fox",
     "tag": "FRUM#591",
     "rank": "MASTER 1",
-    "rating": 2234.7,
+    "rating": 2197.3,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "99.7"
     ],
-    "wins": 81,
-    "losses": 63
+    "wins": 82,
+    "losses": 67
   },
   "CUTS#327": {
     "name": "Drexciya",
@@ -291,19 +291,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2043.8,
+    "rating": 2041.5,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "67.2",
-      "28.1",
-      "4.8"
+      "66.8",
+      "28.3",
+      "4.9"
     ],
-    "wins": 203,
-    "losses": 196
+    "wins": 205,
+    "losses": 200
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -620,7 +620,7 @@
     "losses": 70
   },
   "COCK#0": {
-    "name": "It's OGRE",
+    "name": "Yung Weej",
     "tag": "COCK#0",
     "rank": "GOLD 3",
     "rating": 1667.7,
