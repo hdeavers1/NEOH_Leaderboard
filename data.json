@@ -182,18 +182,18 @@
     "losses": 57
   },
   "JUST#577": {
-    "name": "gallbladderless",
+    "name": "Just(from ohio)",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2519.7,
+    "rating": 2454.8,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "99.8"
     ],
-    "wins": 195,
-    "losses": 63
+    "wins": 198,
+    "losses": 69
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -544,8 +544,8 @@
   "VYV#0": {
     "name": "vyv",
     "tag": "VYV#0",
-    "rank": "SILVER 2",
-    "rating": 1206.3,
+    "rank": "SILVER 1",
+    "rating": 1178.2,
     "characters": [
       "Fox"
     ],
@@ -553,7 +553,7 @@
       "100.0"
     ],
     "wins": 10,
-    "losses": 9
+    "losses": 10
   },
   "JDBN#000": {
     "name": "jodben",
