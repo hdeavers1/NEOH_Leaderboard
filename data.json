@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "VDL Lawn Father",
+    "name": "Direct Deposit",
     "tag": "WWJ#916",
     "rank": "PLATINUM 1",
     "rating": 1796.9,
@@ -249,15 +249,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
-    "rating": 2108.9,
+    "rating": 2111,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 110,
-    "losses": 93
+    "wins": 111,
+    "losses": 94
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -290,8 +290,8 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "DIAMOND 1",
-    "rating": 2010.2,
+    "rank": "PLATINUM 3",
+    "rating": 1999.4,
     "characters": [
       "Fox",
       "Marth",
@@ -303,7 +303,7 @@
       "4.9"
     ],
     "wins": 205,
-    "losses": 203
+    "losses": 204
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -443,17 +443,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1510.9,
+    "rating": 1523.5,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "76.2",
-      "23.6"
+      "76.5",
+      "23.3"
     ],
-    "wins": 180,
-    "losses": 178
+    "wins": 182,
+    "losses": 180
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -622,8 +622,8 @@
   "COCK#0": {
     "name": "Yung Weej",
     "tag": "COCK#0",
-    "rank": "GOLD 3",
-    "rating": 1667.7,
+    "rank": "GOLD 2",
+    "rating": 1646.7,
     "characters": [
       "Ganon",
       "Fox"
@@ -632,8 +632,8 @@
       "83.0",
       "17.0"
     ],
-    "wins": 132,
-    "losses": 128
+    "wins": 134,
+    "losses": 132
   },
   "VINS#677": {
     "name": "FuttBuckerson",
