@@ -622,18 +622,18 @@
   "COCK#0": {
     "name": "Yung Weej",
     "tag": "COCK#0",
-    "rank": "GOLD 2",
-    "rating": 1652.6,
+    "rank": "GOLD 3",
+    "rating": 1672.1,
     "characters": [
       "Ganon",
       "Fox"
     ],
     "percentages": [
-      "82.1",
-      "17.9"
+      "82.3",
+      "17.7"
     ],
-    "wins": 137,
-    "losses": 133
+    "wins": 140,
+    "losses": 134
   },
   "VINS#677": {
     "name": "FuttBuckerson",
