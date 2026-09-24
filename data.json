@@ -3,7 +3,7 @@
     "name": "Direct Deposit",
     "tag": "WWJ#916",
     "rank": "PLATINUM 1",
-    "rating": 1808.6,
+    "rating": 1821.9,
     "characters": [
       "Falcon",
       "Falco"
@@ -12,7 +12,7 @@
       "95.9",
       "4.1"
     ],
-    "wins": 38,
+    "wins": 39,
     "losses": 33
   },
   "JUBS#579": {
@@ -53,17 +53,17 @@
     "name": "Negative Talent",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1775.7,
+    "rating": 1800.9,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
       "87.1",
-      "12.9"
+      "12.8"
     ],
-    "wins": 481,
-    "losses": 458
+    "wins": 487,
+    "losses": 461
   },
   "PANC#613": {
     "name": "panchito$",
@@ -249,15 +249,15 @@
     "name": "Flow",
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
-    "rating": 2111,
+    "rating": 2084.4,
     "characters": [
       "Marth"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 111,
-    "losses": 94
+    "wins": 112,
+    "losses": 97
   },
   "ZBOO#991": {
     "name": "(-:",
@@ -443,16 +443,16 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1523.5,
+    "rating": 1530.9,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "76.5",
+      "76.6",
       "23.3"
     ],
-    "wins": 182,
+    "wins": 183,
     "losses": 180
   },
   "NCRO#183": {
@@ -544,8 +544,8 @@
   "VYV#0": {
     "name": "vyv",
     "tag": "VYV#0",
-    "rank": "SILVER 2",
-    "rating": 1211,
+    "rank": "SILVER 1",
+    "rating": 1181.4,
     "characters": [
       "Fox"
     ],
@@ -553,7 +553,7 @@
       "100.0"
     ],
     "wins": 11,
-    "losses": 10
+    "losses": 11
   },
   "JDBN#000": {
     "name": "jodben",
