@@ -544,16 +544,16 @@
   "VYV#0": {
     "name": "vyv",
     "tag": "VYV#0",
-    "rank": "SILVER 1",
-    "rating": 1181.4,
+    "rank": "SILVER 2",
+    "rating": 1310.2,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 11,
-    "losses": 11
+    "wins": 15,
+    "losses": 12
   },
   "JDBN#000": {
     "name": "jodben",
@@ -653,16 +653,16 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 714.6,
+    "rating": 692.6,
     "characters": [
       "G&W",
       "Falcon"
     ],
     "percentages": [
-      "51.1",
-      "46.1"
+      "49.7",
+      "47.3"
     ],
-    "wins": 87,
-    "losses": 415
+    "wins": 88,
+    "losses": 427
   }
 }
