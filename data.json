@@ -53,7 +53,7 @@
     "name": "Negative Talent",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1790.4,
+    "rating": 1811.5,
     "characters": [
       "Falcon",
       "DK"
@@ -62,8 +62,8 @@
       "87.2",
       "12.7"
     ],
-    "wins": 490,
-    "losses": 465
+    "wins": 496,
+    "losses": 470
   },
   "PANC#613": {
     "name": "panchito$",
@@ -233,16 +233,16 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2390.7,
+    "rating": 2430.8,
     "characters": [
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "95.9",
+      "96.0",
       "2.1"
     ],
-    "wins": 189,
+    "wins": 198,
     "losses": 72
   },
   "FLOW#08": {
@@ -376,8 +376,8 @@
   "YOSH#458": {
     "name": "Big$wimmer",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 2",
-    "rating": 1844,
+    "rank": "PLATINUM 1",
+    "rating": 1805.6,
     "characters": [
       "Yoshi",
       "DK"
@@ -386,8 +386,8 @@
       "97.2",
       "2.7"
     ],
-    "wins": 202,
-    "losses": 191
+    "wins": 204,
+    "losses": 197
   },
   "DEE#218": {
     "name": "go bengals",
@@ -443,17 +443,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1530.9,
+    "rating": 1540.6,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "76.6",
-      "23.3"
+      "76.9",
+      "22.9"
     ],
-    "wins": 183,
-    "losses": 180
+    "wins": 186,
+    "losses": 182
   },
   "NCRO#183": {
     "name": "XP Waste",
