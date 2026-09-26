@@ -648,5 +648,21 @@
     ],
     "wins": 153,
     "losses": 83
+  },
+  "WIZ#007": {
+    "name": "wizardbones",
+    "tag": "WIZ#007",
+    "rank": "BRONZE 1",
+    "rating": 735.3,
+    "characters": [
+      "G&W",
+      "Falcon"
+    ],
+    "percentages": [
+      "49.3",
+      "47.8"
+    ],
+    "wins": 92,
+    "losses": 436
   }
 }
