@@ -263,14 +263,14 @@
     "name": "(-:",
     "tag": "ZBOO#991",
     "rank": "PENDING",
-    "rating": 4,
+    "rating": 3,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
+    "wins": 2,
     "losses": 0
   },
   "PEE#658": {
@@ -648,21 +648,5 @@
     ],
     "wins": 153,
     "losses": 83
-  },
-  "WIZ#007": {
-    "name": "wizardbones",
-    "tag": "WIZ#007",
-    "rank": "BRONZE 1",
-    "rating": 695.3,
-    "characters": [
-      "G&W",
-      "Falcon"
-    ],
-    "percentages": [
-      "49.0",
-      "48.1"
-    ],
-    "wins": 90,
-    "losses": 434
   }
 }
