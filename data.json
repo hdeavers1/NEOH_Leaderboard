@@ -476,7 +476,7 @@
     "losses": 13
   },
   "MOSHI#0": {
-    "name": "tgirls4osamason",
+    "name": "NeedMarthPratic",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1789,
@@ -653,16 +653,16 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 735.3,
+    "rating": 747.4,
     "characters": [
       "G&W",
       "Falcon"
     ],
     "percentages": [
-      "49.3",
-      "47.8"
+      "48.8",
+      "48.3"
     ],
-    "wins": 92,
-    "losses": 436
+    "wins": 94,
+    "losses": 441
   }
 }
