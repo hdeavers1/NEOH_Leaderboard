@@ -50,19 +50,19 @@
     "losses": 12
   },
   "MAYO#795": {
-    "name": "Negative Talent",
+    "name": "Boulder Pusher",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1811.5,
+    "rating": 1826.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "87.2",
-      "12.7"
+      "87.1",
+      "12.8"
     ],
-    "wins": 496,
+    "wins": 497,
     "losses": 470
   },
   "PANC#613": {
@@ -545,7 +545,7 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "SILVER 2",
-    "rating": 1310.2,
+    "rating": 1282.6,
     "characters": [
       "Fox"
     ],
@@ -553,7 +553,7 @@
       "100.0"
     ],
     "wins": 15,
-    "losses": 12
+    "losses": 14
   },
   "JDBN#000": {
     "name": "jodben",
@@ -653,16 +653,16 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 692.6,
+    "rating": 695.3,
     "characters": [
       "G&W",
       "Falcon"
     ],
     "percentages": [
-      "49.7",
-      "47.3"
+      "49.0",
+      "48.1"
     ],
-    "wins": 88,
-    "losses": 427
+    "wins": 90,
+    "losses": 434
   }
 }
