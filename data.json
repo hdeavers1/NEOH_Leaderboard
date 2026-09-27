@@ -352,16 +352,16 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "DIAMOND 2",
-    "rating": 2126.5,
+    "rank": "DIAMOND 3",
+    "rating": 2137.4,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "99.5"
     ],
-    "wins": 106,
-    "losses": 76
+    "wins": 107,
+    "losses": 77
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -582,7 +582,7 @@
     "losses": 0
   },
   "LAND#19": {
-    "name": "wowee zowee",
+    "name": "wow",
     "tag": "LAND#19",
     "rank": "NONE",
     "rating": 0,
@@ -653,16 +653,16 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 757.1,
+    "rating": 750.2,
     "characters": [
-      "G&W",
-      "Falcon"
+      "Falcon",
+      "G&W"
     ],
     "percentages": [
-      "48.7",
-      "48.5"
+      "49.1",
+      "48.1"
     ],
-    "wins": 95,
-    "losses": 443
+    "wins": 96,
+    "losses": 448
   }
 }
