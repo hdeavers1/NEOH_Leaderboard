@@ -53,17 +53,17 @@
     "name": "Boulder Pusher",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1826.5,
+    "rating": 1832.9,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "87.1",
-      "12.8"
+      "87.2",
+      "12.7"
     ],
-    "wins": 497,
-    "losses": 470
+    "wins": 500,
+    "losses": 473
   },
   "PANC#613": {
     "name": "panchito$",
@@ -376,8 +376,8 @@
   "YOSH#458": {
     "name": "Big$wimmer",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1818.1,
+    "rank": "PLATINUM 2",
+    "rating": 1850.6,
     "characters": [
       "Yoshi",
       "DK"
@@ -386,7 +386,7 @@
       "97.1",
       "2.8"
     ],
-    "wins": 208,
+    "wins": 212,
     "losses": 200
   },
   "DEE#218": {
@@ -442,18 +442,18 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1545.6,
+    "rank": "GOLD 2",
+    "rating": 1548.8,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "77.1",
-      "22.8"
+      "77.2",
+      "22.7"
     ],
-    "wins": 187,
-    "losses": 183
+    "wins": 188,
+    "losses": 184
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -609,15 +609,15 @@
     "name": "Just's Fox",
     "tag": "JFOX#178",
     "rank": "DIAMOND 1",
-    "rating": 2048.6,
+    "rating": 2037,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 97,
-    "losses": 70
+    "wins": 100,
+    "losses": 73
   },
   "COCK#0": {
     "name": "Yung Weej",
