@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "Boulder Pusher",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1832.9,
+    "rank": "PLATINUM 2",
+    "rating": 1855.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "87.2",
-      "12.7"
+      "87.1",
+      "12.8"
     ],
-    "wins": 500,
-    "losses": 473
+    "wins": 503,
+    "losses": 474
   },
   "PANC#613": {
     "name": "panchito$",
@@ -545,7 +545,7 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "SILVER 2",
-    "rating": 1296.6,
+    "rating": 1274.5,
     "characters": [
       "Fox"
     ],
@@ -553,7 +553,7 @@
       "100.0"
     ],
     "wins": 18,
-    "losses": 16
+    "losses": 17
   },
   "JDBN#000": {
     "name": "jodben",
