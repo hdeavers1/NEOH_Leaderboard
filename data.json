@@ -392,18 +392,18 @@
   "DEE#218": {
     "name": "go bengals",
     "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1664.6,
+    "rank": "GOLD 2",
+    "rating": 1634.8,
     "characters": [
       "YLink",
       "Mewtwo"
     ],
     "percentages": [
-      "72.9",
-      "24.8"
+      "71.8",
+      "25.9"
     ],
     "wins": 56,
-    "losses": 53
+    "losses": 55
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -545,14 +545,14 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "SILVER 2",
-    "rating": 1272.8,
+    "rating": 1296.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 17,
+    "wins": 18,
     "losses": 16
   },
   "JDBN#000": {
