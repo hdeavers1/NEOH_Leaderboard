@@ -53,7 +53,7 @@
     "name": "Boulder Pusher",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1866.9,
+    "rating": 1875.6,
     "characters": [
       "Falcon",
       "DK"
@@ -62,7 +62,7 @@
       "87.1",
       "12.8"
     ],
-    "wins": 504,
+    "wins": 505,
     "losses": 474
   },
   "PANC#613": {
@@ -442,18 +442,18 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 2",
-    "rating": 1554.7,
+    "rank": "GOLD 1",
+    "rating": 1547.5,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "77.3",
-      "22.5"
+      "77.6",
+      "22.3"
     ],
-    "wins": 189,
-    "losses": 185
+    "wins": 192,
+    "losses": 188
   },
   "NCRO#183": {
     "name": "XP Waste",
