@@ -53,17 +53,17 @@
     "name": "Boulder Pusher",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1883.3,
+    "rating": 1890.6,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
       "87.1",
-      "12.9"
+      "12.8"
     ],
-    "wins": 506,
-    "losses": 474
+    "wins": 509,
+    "losses": 477
   },
   "PANC#613": {
     "name": "panchito$",
@@ -185,14 +185,14 @@
     "name": "Just(from ohio)",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2454.8,
+    "rating": 2502.6,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "99.8"
     ],
-    "wins": 198,
+    "wins": 211,
     "losses": 69
   },
   "SPOT#861": {
@@ -374,7 +374,7 @@
     "losses": 0
   },
   "YOSH#458": {
-    "name": "Big$wimmer",
+    "name": "Hermes Jackson",
     "tag": "YOSH#458",
     "rank": "PLATINUM 2",
     "rating": 1850.6,
