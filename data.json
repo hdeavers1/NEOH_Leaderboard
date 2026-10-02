@@ -634,5 +634,35 @@
     ],
     "wins": 140,
     "losses": 134
+  },
+  "VINS#677": {
+    "name": "FuttBuckerson",
+    "tag": "VINS#677",
+    "rank": "GRANDMASTER",
+    "rating": 2332.9,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 153,
+    "losses": 83
+  },
+  "WIZ#007": {
+    "name": "wizardbones",
+    "tag": "WIZ#007",
+    "rank": "BRONZE 1",
+    "rating": 750.2,
+    "characters": [
+      "Falcon",
+      "G&W"
+    ],
+    "percentages": [
+      "49.1",
+      "48.1"
+    ],
+    "wins": 96,
+    "losses": 448
   }
 }
