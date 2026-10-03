@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "Boulder Pusher",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 2",
-    "rating": 1898.7,
+    "rank": "PLATINUM 1",
+    "rating": 1814,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "87.1",
-      "12.8"
+      "87.3",
+      "12.6"
     ],
-    "wins": 510,
-    "losses": 477
+    "wins": 515,
+    "losses": 491
   },
   "PANC#613": {
     "name": "panchito$",
@@ -80,7 +80,7 @@
     "losses": 20
   },
   "LVLM#792": {
-    "name": "Uncut Jim",
+    "name": "M2K's Tradwife",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -233,17 +233,17 @@
     "name": "pikachud",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2383.7,
+    "rating": 2363.5,
     "characters": [
       "Pikachu",
       "Fox"
     ],
     "percentages": [
-      "95.9",
+      "96.0",
       "2.2"
     ],
     "wins": 200,
-    "losses": 77
+    "losses": 78
   },
   "FLOW#08": {
     "name": "Flow",
@@ -291,19 +291,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 2000.8,
+    "rating": 1999,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "66.4",
-      "28.6",
-      "5.0"
+      "66.1",
+      "28.5",
+      "5.4"
     ],
-    "wins": 214,
-    "losses": 212
+    "wins": 217,
+    "losses": 215
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -442,17 +442,17 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1547.5,
+    "rank": "GOLD 2",
+    "rating": 1555.8,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "77.6",
+      "77.5",
       "22.3"
     ],
-    "wins": 192,
+    "wins": 193,
     "losses": 188
   },
   "NCRO#183": {
