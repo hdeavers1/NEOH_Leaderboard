@@ -1,4 +1,20 @@
 {
+  "WWJ#916": {
+    "name": "Direct Deposit",
+    "tag": "WWJ#916",
+    "rank": "PLATINUM 1",
+    "rating": 1821.9,
+    "characters": [
+      "Falcon",
+      "Falco"
+    ],
+    "percentages": [
+      "95.9",
+      "4.1"
+    ],
+    "wins": 39,
+    "losses": 33
+  },
   "JUBS#579": {
     "name": "Lub",
     "tag": "JUBS#579",
