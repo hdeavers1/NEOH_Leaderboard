@@ -1,6 +1,6 @@
 {
   "WWJ#916": {
-    "name": "Direct Deposit",
+    "name": "Display Name*",
     "tag": "WWJ#916",
     "rank": "PLATINUM 1",
     "rating": 1821.9,
@@ -53,17 +53,17 @@
     "name": "Boulder Pusher",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1814,
+    "rating": 1821.9,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "87.3",
+      "87.4",
       "12.6"
     ],
-    "wins": 515,
-    "losses": 491
+    "wins": 517,
+    "losses": 492
   },
   "PANC#613": {
     "name": "panchito$",
@@ -80,7 +80,7 @@
     "losses": 20
   },
   "LVLM#792": {
-    "name": "M2K's Tradwife",
+    "name": "Michael Jelqs",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -545,14 +545,14 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "SILVER 2",
-    "rating": 1274.5,
+    "rating": 1309.5,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 18,
+    "wins": 20,
     "losses": 17
   },
   "JDBN#000": {
