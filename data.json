@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "Boulder Pusher",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1745.4,
+    "rank": "PLATINUM 1",
+    "rating": 1805.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
       "87.5",
-      "12.5"
+      "12.4"
     ],
-    "wins": 519,
-    "losses": 500
+    "wins": 528,
+    "losses": 502
   },
   "PANC#613": {
     "name": "panchito$",
@@ -376,8 +376,8 @@
   "YOSH#458": {
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 2",
-    "rating": 1914.9,
+    "rank": "PLATINUM 3",
+    "rating": 1928.4,
     "characters": [
       "Yoshi",
       "DK"
@@ -386,7 +386,7 @@
       "97.2",
       "2.7"
     ],
-    "wins": 220,
+    "wins": 221,
     "losses": 203
   },
   "DEE#218": {
@@ -443,17 +443,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1555.8,
+    "rating": 1548.9,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "77.5",
-      "22.3"
+      "77.8",
+      "22.1"
     ],
-    "wins": 193,
-    "losses": 188
+    "wins": 197,
+    "losses": 193
   },
   "NCRO#183": {
     "name": "XP Waste",
