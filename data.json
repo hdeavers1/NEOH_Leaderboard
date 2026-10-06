@@ -140,7 +140,7 @@
     "losses": 17
   },
   "FRUM#591": {
-    "name": "fine print",
+    "name": "looking 4 marth",
     "tag": "FRUM#591",
     "rank": "MASTER 1",
     "rating": 2193.4,
@@ -442,18 +442,18 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 2",
-    "rating": 1548.9,
+    "rank": "GOLD 1",
+    "rating": 1503.5,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
       "77.8",
-      "22.1"
+      "22.0"
     ],
-    "wins": 197,
-    "losses": 193
+    "wins": 199,
+    "losses": 200
   },
   "NCRO#183": {
     "name": "XP Waste",
