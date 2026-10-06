@@ -230,7 +230,7 @@
     "losses": 32
   },
   "BLSE#808": {
-    "name": "pikachud",
+    "name": "2framez",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
     "rating": 2363.5,
@@ -319,15 +319,15 @@
     "name": "kneemaster12",
     "tag": "KM#12",
     "rank": "GOLD 1",
-    "rating": 1507,
+    "rating": 1502.8,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
-    "losses": 1
+    "wins": 5,
+    "losses": 3
   },
   "PGH#412": {
     "name": "Ft. PGH Carroll",
