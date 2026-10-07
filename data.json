@@ -318,15 +318,15 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "GOLD 1",
-    "rating": 1502.8,
+    "rank": "GOLD 2",
+    "rating": 1550.4,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
+    "wins": 6,
     "losses": 3
   },
   "PGH#412": {
@@ -442,17 +442,17 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1503.5,
+    "rank": "GOLD 2",
+    "rating": 1560.5,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "77.8",
-      "22.0"
+      "78.1",
+      "21.7"
     ],
-    "wins": 199,
+    "wins": 204,
     "losses": 200
   },
   "NCRO#183": {
@@ -479,19 +479,19 @@
     "name": ":L",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
-    "rating": 1789,
+    "rating": 1759.1,
     "characters": [
       "Peach",
       "Ness",
       "DK"
     ],
     "percentages": [
-      "89.3",
-      "5.8",
-      "4.6"
+      "89.9",
+      "5.5",
+      "4.4"
     ],
-    "wins": 134,
-    "losses": 119
+    "wins": 139,
+    "losses": 127
   },
   "SMEG#879": {
     "name": "FURBY",
@@ -545,7 +545,7 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "SILVER 3",
-    "rating": 1372.1,
+    "rating": 1358.2,
     "characters": [
       "Fox"
     ],
@@ -553,7 +553,7 @@
       "100.0"
     ],
     "wins": 24,
-    "losses": 19
+    "losses": 20
   },
   "JDBN#000": {
     "name": "jodben",
