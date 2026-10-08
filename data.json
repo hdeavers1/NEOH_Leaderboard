@@ -53,7 +53,7 @@
     "name": "Boulder Pusher",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1832.6,
+    "rating": 1777.9,
     "characters": [
       "Falcon",
       "DK"
@@ -62,8 +62,8 @@
       "87.6",
       "12.3"
     ],
-    "wins": 533,
-    "losses": 506
+    "wins": 539,
+    "losses": 517
   },
   "PANC#613": {
     "name": "panchito$",
@@ -653,16 +653,16 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 750.2,
+    "rating": 758.1,
     "characters": [
       "Falcon",
       "G&W"
     ],
     "percentages": [
-      "49.1",
-      "48.1"
+      "49.4",
+      "47.8"
     ],
-    "wins": 96,
-    "losses": 448
+    "wins": 97,
+    "losses": 449
   }
 }
