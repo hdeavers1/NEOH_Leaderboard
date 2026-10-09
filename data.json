@@ -53,17 +53,17 @@
     "name": "Boulder Pusher",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1777.9,
+    "rating": 1769.9,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "87.6",
-      "12.3"
+      "87.8",
+      "12.1"
     ],
-    "wins": 539,
-    "losses": 517
+    "wins": 545,
+    "losses": 524
   },
   "PANC#613": {
     "name": "panchito$",
@@ -476,7 +476,7 @@
     "losses": 13
   },
   "MOSHI#0": {
-    "name": ":L",
+    "name": "Tgirls4Osamason",
     "tag": "MOSHI#0",
     "rank": "PLATINUM 1",
     "rating": 1759.1,
@@ -653,16 +653,18 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 741.9,
+    "rating": 692,
     "characters": [
       "Falcon",
-      "G&W"
+      "G&W",
+      "Falco"
     ],
     "percentages": [
-      "49.4",
-      "47.8"
+      "49.1",
+      "47.4",
+      "2.4"
     ],
     "wins": 97,
-    "losses": 450
+    "losses": 458
   }
 }
