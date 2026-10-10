@@ -26,7 +26,7 @@
     "losses": 0
   },
   "BIGO#869": {
-    "name": "loveu",
+    "name": "bigoscar",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -333,27 +333,27 @@
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
     "rank": "GOLD 2",
-    "rating": 1638.7,
+    "rating": 1649.2,
     "characters": [
       "Peach",
-      "Roy",
       "Falcon",
-      "Kirby"
+      "Link",
+      "Roy"
     ],
     "percentages": [
-      "16.1",
-      "5.4",
-      "5.4",
-      "5.4"
+      "15.5",
+      "5.7",
+      "5.7",
+      "5.2"
     ],
-    "wins": 36,
-    "losses": 43
+    "wins": 38,
+    "losses": 44
   },
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "DIAMOND 3",
-    "rating": 2137.4,
+    "rank": "DIAMOND 2",
+    "rating": 2120.2,
     "characters": [
       "Fox"
     ],
@@ -361,7 +361,7 @@
       "99.5"
     ],
     "wins": 107,
-    "losses": 77
+    "losses": 78
   },
   "MARF#811": {
     "name": "Marfweasel",
