@@ -332,8 +332,8 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "GOLD 3",
-    "rating": 1670,
+    "rank": "GOLD 2",
+    "rating": 1638.7,
     "characters": [
       "Peach",
       "Roy",
@@ -341,13 +341,13 @@
       "Kirby"
     ],
     "percentages": [
-      "16.5",
-      "5.5",
-      "5.5",
-      "5.5"
+      "16.1",
+      "5.4",
+      "5.4",
+      "5.4"
     ],
     "wins": 36,
-    "losses": 41
+    "losses": 43
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -653,18 +653,18 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 692,
+    "rating": 701.4,
     "characters": [
       "Falcon",
       "G&W",
       "Falco"
     ],
     "percentages": [
-      "49.1",
-      "47.4",
-      "2.4"
+      "49.3",
+      "47.3",
+      "2.3"
     ],
-    "wins": 97,
-    "losses": 458
+    "wins": 98,
+    "losses": 461
   }
 }
