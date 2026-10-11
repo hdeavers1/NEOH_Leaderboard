@@ -50,20 +50,20 @@
     "losses": 12
   },
   "MAYO#795": {
-    "name": "Boulder Pusher",
+    "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1769.9,
+    "rank": "GOLD 3",
+    "rating": 1657.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "87.8",
-      "12.1"
+      "87.9",
+      "12.0"
     ],
-    "wins": 545,
-    "losses": 524
+    "wins": 546,
+    "losses": 534
   },
   "PANC#613": {
     "name": "panchito$",
@@ -142,16 +142,16 @@
   "FRUM#591": {
     "name": "looking 4 marth",
     "tag": "FRUM#591",
-    "rank": "MASTER 1",
-    "rating": 2193.4,
+    "rank": "DIAMOND 3",
+    "rating": 2185.5,
     "characters": [
       "Falco"
     ],
     "percentages": [
-      "99.7"
+      "99.8"
     ],
-    "wins": 90,
-    "losses": 78
+    "wins": 92,
+    "losses": 82
   },
   "CUTS#327": {
     "name": "Drexciya",
