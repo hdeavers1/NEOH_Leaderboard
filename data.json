@@ -53,7 +53,7 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "GOLD 3",
-    "rating": 1657.4,
+    "rating": 1672.7,
     "characters": [
       "Falcon",
       "DK"
@@ -62,7 +62,7 @@
       "87.9",
       "12.0"
     ],
-    "wins": 546,
+    "wins": 547,
     "losses": 534
   },
   "PANC#613": {
@@ -80,7 +80,7 @@
     "losses": 20
   },
   "LVLM#792": {
-    "name": "Michael Jelqs",
+    "name": "Old boy David",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -478,20 +478,20 @@
   "MOSHI#0": {
     "name": "Tgirls4Osamason",
     "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1759.1,
+    "rank": "GOLD 3",
+    "rating": 1723.6,
     "characters": [
       "Peach",
       "Ness",
       "DK"
     ],
     "percentages": [
-      "89.9",
-      "5.5",
-      "4.4"
+      "89.6",
+      "6.2",
+      "4.0"
     ],
-    "wins": 139,
-    "losses": 127
+    "wins": 149,
+    "losses": 142
   },
   "SMEG#879": {
     "name": "FURBY",
