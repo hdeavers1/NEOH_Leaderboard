@@ -443,17 +443,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1560.5,
+    "rating": 1558.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "78.1",
-      "21.7"
+      "78.3",
+      "21.6"
     ],
-    "wins": 204,
-    "losses": 200
+    "wins": 205,
+    "losses": 201
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -653,18 +653,18 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 739,
+    "rating": 731.5,
     "characters": [
       "Falcon",
       "G&W",
       "Falco"
     ],
     "percentages": [
-      "50.5",
-      "45.7",
-      "2.3"
+      "50.3",
+      "45.6",
+      "2.2"
     ],
-    "wins": 105,
-    "losses": 476
+    "wins": 106,
+    "losses": 477
   }
 }
