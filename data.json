@@ -318,8 +318,8 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "GOLD 2",
-    "rating": 1550.4,
+    "rank": "GOLD 1",
+    "rating": 1526.2,
     "characters": [
       "Ganon"
     ],
@@ -327,7 +327,7 @@
       "100.0"
     ],
     "wins": 6,
-    "losses": 3
+    "losses": 4
   },
   "PGH#412": {
     "name": "Ft. PGH Carroll",
@@ -393,17 +393,17 @@
     "name": "go bengals",
     "tag": "DEE#218",
     "rank": "GOLD 2",
-    "rating": 1628.3,
+    "rating": 1617,
     "characters": [
       "YLink",
       "Mewtwo"
     ],
     "percentages": [
-      "70.7",
-      "27.0"
+      "70.0",
+      "27.8"
     ],
     "wins": 57,
-    "losses": 56
+    "losses": 57
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -428,16 +428,16 @@
   "WICE#699": {
     "name": "Nintendude",
     "tag": "WICE#699",
-    "rank": "GOLD 2",
-    "rating": 1570.5,
+    "rank": "PLATINUM 2",
+    "rating": 1915.1,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
-    "losses": 0
+    "wins": 12,
+    "losses": 4
   },
   "DANK#954": {
     "name": "Fuelperks",
