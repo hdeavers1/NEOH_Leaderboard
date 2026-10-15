@@ -3,17 +3,17 @@
     "name": "Display Name*",
     "tag": "WWJ#916",
     "rank": "PLATINUM 1",
-    "rating": 1812.5,
+    "rating": 1781.8,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "96.0",
-      "4.0"
+      "96.2",
+      "3.8"
     ],
     "wins": 40,
-    "losses": 34
+    "losses": 36
   },
   "JUBS#579": {
     "name": "Lub",
@@ -185,14 +185,14 @@
     "name": "Just(from ohio)",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2472.4,
+    "rating": 2491.5,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "99.6"
     ],
-    "wins": 222,
+    "wins": 230,
     "losses": 74
   },
   "SPOT#861": {
@@ -428,32 +428,32 @@
   "WICE#699": {
     "name": "Nintendude",
     "tag": "WICE#699",
-    "rank": "PLATINUM 2",
-    "rating": 1915.1,
+    "rank": "DIAMOND 2",
+    "rating": 2113.6,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 12,
-    "losses": 4
+    "wins": 29,
+    "losses": 14
   },
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1558.3,
+    "rating": 1567.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "78.3",
-      "21.6"
+      "78.2",
+      "21.7"
     ],
-    "wins": 205,
-    "losses": 201
+    "wins": 209,
+    "losses": 204
   },
   "NCRO#183": {
     "name": "XP Waste",
