@@ -1,19 +1,19 @@
 {
   "WWJ#916": {
-    "name": "Display Name*",
+    "name": "GotAnyGrapes?",
     "tag": "WWJ#916",
     "rank": "PLATINUM 1",
-    "rating": 1781.8,
+    "rating": 1791.3,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "96.2",
-      "3.8"
+      "96.3",
+      "3.7"
     ],
-    "wins": 40,
-    "losses": 36
+    "wins": 41,
+    "losses": 37
   },
   "JUBS#579": {
     "name": "Lub",
@@ -53,7 +53,7 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1765.3,
+    "rating": 1792.2,
     "characters": [
       "Falcon",
       "DK"
@@ -62,8 +62,8 @@
       "88.2",
       "11.7"
     ],
-    "wins": 565,
-    "losses": 544
+    "wins": 569,
+    "losses": 545
   },
   "PANC#613": {
     "name": "panchito$",
@@ -428,16 +428,16 @@
   "WICE#699": {
     "name": "Nintendude",
     "tag": "WICE#699",
-    "rank": "DIAMOND 2",
-    "rating": 2113.6,
+    "rank": "DIAMOND 1",
+    "rating": 2052,
     "characters": [
       "ICs"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 29,
-    "losses": 14
+    "wins": 32,
+    "losses": 20
   },
   "DANK#954": {
     "name": "Fuelperks",
