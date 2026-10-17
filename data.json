@@ -53,17 +53,17 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1792.2,
+    "rating": 1797.1,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "88.2",
+      "88.3",
       "11.7"
     ],
-    "wins": 569,
-    "losses": 545
+    "wins": 570,
+    "losses": 546
   },
   "PANC#613": {
     "name": "panchito$",
@@ -653,18 +653,18 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 714.2,
+    "rating": 710,
     "characters": [
       "Falcon",
       "G&W",
       "Falco"
     ],
     "percentages": [
-      "50.6",
-      "44.8",
+      "50.7",
+      "44.7",
       "2.2"
     ],
     "wins": 110,
-    "losses": 491
+    "losses": 492
   }
 }
