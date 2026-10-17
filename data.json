@@ -2,18 +2,18 @@
   "WWJ#916": {
     "name": "GotAnyGrapes?",
     "tag": "WWJ#916",
-    "rank": "PLATINUM 1",
-    "rating": 1760.8,
+    "rank": "GOLD 3",
+    "rating": 1729.2,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "95.3",
-      "4.7"
+      "95.0",
+      "5.0"
     ],
     "wins": 41,
-    "losses": 39
+    "losses": 42
   },
   "JUBS#579": {
     "name": "Lub",
@@ -582,7 +582,7 @@
     "losses": 0
   },
   "LAND#19": {
-    "name": "pick it up!!!",
+    "name": "hepcat",
     "tag": "LAND#19",
     "rank": "NONE",
     "rating": 0,
@@ -653,18 +653,18 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 721.9,
+    "rating": 722.4,
     "characters": [
       "Falcon",
       "G&W",
       "Falco"
     ],
     "percentages": [
-      "50.0",
-      "45.3",
+      "50.4",
+      "45.0",
       "2.2"
     ],
-    "wins": 109,
-    "losses": 485
+    "wins": 110,
+    "losses": 488
   }
 }
