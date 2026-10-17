@@ -653,18 +653,18 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 722.4,
+    "rating": 714.2,
     "characters": [
       "Falcon",
       "G&W",
       "Falco"
     ],
     "percentages": [
-      "50.4",
-      "45.0",
+      "50.6",
+      "44.8",
       "2.2"
     ],
     "wins": 110,
-    "losses": 488
+    "losses": 491
   }
 }
