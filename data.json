@@ -4,14 +4,8 @@
     "tag": "WWJ#916",
     "rank": "GOLD 3",
     "rating": 1729.2,
-    "characters": [
-      "Falcon",
-      "Falco"
-    ],
-    "percentages": [
-      "95.0",
-      "5.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 41,
     "losses": 42
   },
@@ -40,42 +34,28 @@
     "tag": "QCUM#685",
     "rank": "GOLD 1",
     "rating": 1466.9,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 14,
     "losses": 12
   },
   "MAYO#795": {
     "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1808.4,
-    "characters": [
-      "Falcon",
-      "DK"
-    ],
-    "percentages": [
-      "88.3",
-      "11.7"
-    ],
-    "wins": 578,
-    "losses": 553
+    "rank": "PLATINUM 2",
+    "rating": 1851.1,
+    "characters": [],
+    "percentages": [],
+    "wins": 585,
+    "losses": 556
   },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
     "rank": "GOLD 2",
     "rating": 1568.3,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 22,
     "losses": 20
   },
@@ -114,12 +94,8 @@
     "tag": "JARD#561",
     "rank": "SILVER 3",
     "rating": 1329.7,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 6,
     "losses": 7
   },
@@ -128,14 +104,8 @@
     "tag": "FUEL#375",
     "rank": "GOLD 1",
     "rating": 1541.3,
-    "characters": [
-      "Fox",
-      "Peach"
-    ],
-    "percentages": [
-      "60.8",
-      "35.4"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 19,
     "losses": 17
   },
@@ -144,12 +114,8 @@
     "tag": "FRUM#591",
     "rank": "MASTER 1",
     "rating": 2192.9,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "99.8"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 94,
     "losses": 83
   },
@@ -158,12 +124,8 @@
     "tag": "CUTS#327",
     "rank": "DIAMOND 1",
     "rating": 2037.6,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 168,
     "losses": 156
   },
@@ -172,12 +134,8 @@
     "tag": "ASIG#701",
     "rank": "PLATINUM 1",
     "rating": 1751.9,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 60,
     "losses": 57
   },
@@ -186,12 +144,8 @@
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
     "rating": 2491.5,
-    "characters": [
-      "Sheik"
-    ],
-    "percentages": [
-      "99.6"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 230,
     "losses": 74
   },
@@ -220,12 +174,8 @@
     "tag": "GHST#232",
     "rank": "PLATINUM 2",
     "rating": 1855.4,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 35,
     "losses": 32
   },
@@ -234,14 +184,8 @@
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
     "rating": 2353.9,
-    "characters": [
-      "Pikachu",
-      "Fox"
-    ],
-    "percentages": [
-      "96.0",
-      "2.2"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 200,
     "losses": 79
   },
@@ -250,12 +194,8 @@
     "tag": "FLOW#08",
     "rank": "DIAMOND 2",
     "rating": 2084.4,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 112,
     "losses": 97
   },
@@ -264,12 +204,8 @@
     "tag": "ZBOO#991",
     "rank": "PENDING",
     "rating": 3,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 2,
     "losses": 0
   },
@@ -278,12 +214,8 @@
     "tag": "PEE#658",
     "rank": "PLATINUM 1",
     "rating": 1826,
-    "characters": [
-      "Ganon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 23,
     "losses": 19
   },
@@ -292,16 +224,8 @@
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
     "rating": 1969.7,
-    "characters": [
-      "Fox",
-      "Marth",
-      "Falcon"
-    ],
-    "percentages": [
-      "65.9",
-      "28.6",
-      "5.5"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 218,
     "losses": 218
   },
@@ -320,12 +244,8 @@
     "tag": "KM#12",
     "rank": "GOLD 1",
     "rating": 1526.2,
-    "characters": [
-      "Ganon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 6,
     "losses": 4
   },
@@ -334,18 +254,8 @@
     "tag": "PGH#412",
     "rank": "GOLD 2",
     "rating": 1649.2,
-    "characters": [
-      "Peach",
-      "Falcon",
-      "Link",
-      "Roy"
-    ],
-    "percentages": [
-      "15.5",
-      "5.7",
-      "5.7",
-      "5.2"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 38,
     "losses": 44
   },
@@ -354,12 +264,8 @@
     "tag": "SERE#225",
     "rank": "DIAMOND 2",
     "rating": 2120.2,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "99.5"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 107,
     "losses": 78
   },
@@ -378,14 +284,8 @@
     "tag": "YOSH#458",
     "rank": "PLATINUM 3",
     "rating": 1928.4,
-    "characters": [
-      "Yoshi",
-      "DK"
-    ],
-    "percentages": [
-      "97.2",
-      "2.7"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 221,
     "losses": 203
   },
@@ -394,14 +294,8 @@
     "tag": "DEE#218",
     "rank": "GOLD 2",
     "rating": 1617,
-    "characters": [
-      "YLink",
-      "Mewtwo"
-    ],
-    "percentages": [
-      "70.0",
-      "27.8"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 57,
     "losses": 57
   },
@@ -430,12 +324,8 @@
     "tag": "WICE#699",
     "rank": "DIAMOND 1",
     "rating": 2052,
-    "characters": [
-      "ICs"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 32,
     "losses": 20
   },
@@ -444,14 +334,8 @@
     "tag": "DANK#954",
     "rank": "GOLD 2",
     "rating": 1549.5,
-    "characters": [
-      "Marth",
-      "Puff"
-    ],
-    "percentages": [
-      "78.2",
-      "21.7"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 211,
     "losses": 207
   },
@@ -460,18 +344,8 @@
     "tag": "NCRO#183",
     "rank": "GOLD 2",
     "rating": 1648.2,
-    "characters": [
-      "Doc",
-      "Sheik",
-      "Fox",
-      "Falco"
-    ],
-    "percentages": [
-      "52.9",
-      "34.3",
-      "10.0",
-      "2.9"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 17,
     "losses": 13
   },
@@ -480,16 +354,8 @@
     "tag": "MOSHI#0",
     "rank": "GOLD 3",
     "rating": 1747.3,
-    "characters": [
-      "Peach",
-      "Ness",
-      "DK"
-    ],
-    "percentages": [
-      "89.5",
-      "6.4",
-      "4.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 153,
     "losses": 146
   },
@@ -498,16 +364,8 @@
     "tag": "SMEG#879",
     "rank": "SILVER 3",
     "rating": 1400.5,
-    "characters": [
-      "Pikachu",
-      "Marth",
-      "G&W"
-    ],
-    "percentages": [
-      "48.0",
-      "36.0",
-      "16.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 6,
     "losses": 5
   },
@@ -546,12 +404,8 @@
     "tag": "VYV#0",
     "rank": "SILVER 3",
     "rating": 1358.2,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 24,
     "losses": 20
   },
@@ -560,14 +414,8 @@
     "tag": "JDBN#000",
     "rank": "SILVER 2",
     "rating": 1220.8,
-    "characters": [
-      "ICs",
-      "Fox"
-    ],
-    "percentages": [
-      "96.4",
-      "3.6"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 6,
     "losses": 7
   },
@@ -596,12 +444,8 @@
     "tag": "SYKO#921",
     "rank": "GOLD 3",
     "rating": 1661.4,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "99.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 96,
     "losses": 80
   },
@@ -610,12 +454,8 @@
     "tag": "JFOX#178",
     "rank": "DIAMOND 1",
     "rating": 2037,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 100,
     "losses": 73
   },
@@ -624,14 +464,8 @@
     "tag": "COCK#0",
     "rank": "GOLD 3",
     "rating": 1672.1,
-    "characters": [
-      "Ganon",
-      "Fox"
-    ],
-    "percentages": [
-      "82.3",
-      "17.7"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 140,
     "losses": 134
   },
@@ -640,12 +474,8 @@
     "tag": "VINS#677",
     "rank": "GRANDMASTER",
     "rating": 2332.9,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
+    "characters": [],
+    "percentages": [],
     "wins": 153,
     "losses": 83
   },
@@ -653,18 +483,10 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 710,
-    "characters": [
-      "Falcon",
-      "G&W",
-      "Falco"
-    ],
-    "percentages": [
-      "50.7",
-      "44.7",
-      "2.2"
-    ],
-    "wins": 110,
-    "losses": 492
+    "rating": 696,
+    "characters": [],
+    "percentages": [],
+    "wins": 111,
+    "losses": 494
   }
 }
