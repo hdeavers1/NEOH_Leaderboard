@@ -49,16 +49,6 @@
     "wins": 586,
     "losses": 556
   },
-  "PANC#613": {
-    "name": "panchito$",
-    "tag": "PANC#613",
-    "rank": "GOLD 2",
-    "rating": 1568.3,
-    "characters": [],
-    "percentages": [],
-    "wins": 22,
-    "losses": 20
-  },
   "LVLM#792": {
     "name": "Old boy David",
     "tag": "LVLM#792",
@@ -472,7 +462,7 @@
   "VINS#677": {
     "name": "FuttBuckerson",
     "tag": "VINS#677",
-    "rank": "GRANDMASTER",
+    "rank": "MASTER 2",
     "rating": 2332.9,
     "characters": [],
     "percentages": [],
