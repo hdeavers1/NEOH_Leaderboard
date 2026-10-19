@@ -42,12 +42,12 @@
   "MAYO#795": {
     "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "NONE",
-    "rating": 0,
+    "rank": "GOLD 1",
+    "rating": 1437.6,
     "characters": [],
     "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "wins": 3,
+    "losses": 7
   },
   "PANC#613": {
     "name": "panchito$",
@@ -112,12 +112,12 @@
   "FRUM#591": {
     "name": "Chill",
     "tag": "FRUM#591",
-    "rank": "NONE",
-    "rating": 0,
+    "rank": "SILVER 3",
+    "rating": 1398.4,
     "characters": [],
     "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "wins": 2,
+    "losses": 4
   },
   "CUTS#327": {
     "name": "Drexciya",
@@ -142,12 +142,12 @@
   "JUST#577": {
     "name": "Just(from ohio)",
     "tag": "JUST#577",
-    "rank": "NONE",
-    "rating": 0,
+    "rank": "PENDING",
+    "rating": 2,
     "characters": [],
     "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "wins": 2,
+    "losses": 1
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
