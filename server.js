@@ -17,15 +17,18 @@ function loadConnectCodes() {
 
 // Extract percentages and clean up character names
 function sendPercentages(arr, arr2) {
-  for (let i = 0; i < arr.length; i++) {
-    const tempArr = arr[i].split(" ");
-    arr[i] = tempArr[0]; // Just the character name
+  const characters = [];
+  const regex = /^(.+?)\s*\((\d+(?:\.\d+)?)%\)$/;
 
-    if (tempArr[1]) {
-      const cleaned = tempArr[1].replace(/[\(\)%]/g, ''); // Remove (),%
-      arr2.push(cleaned);
+  for (const label of arr) {
+    const match = label.match(regex);
+    if (match) {
+      characters.push(match[1].trim());
+      arr2.push(match[2]);
     }
   }
+
+  arr.splice(0, arr.length, ...characters);
 }
 
 (async () => {
@@ -50,14 +53,15 @@ function sendPercentages(arr, arr2) {
           rank: e.querySelector('p.css-jh714q')?.innerText || null,
           rating: e.querySelector('p.css-1rxv754')?.innerText || null,
           characters: (() => {
-            const imgs = e.querySelectorAll('.jss140.container img');
-            const chars = [];
-            for (const img of imgs) {
-              const label = img.getAttribute('aria-label');
-              if (label === null) break;
-              chars.push(label);
-            }
-            return chars;
+            const container = e.querySelector('.jss116');
+            if (!container) return [];
+
+            return Array.from(
+              container.querySelectorAll('img[aria-label]'),
+              img => img.getAttribute('aria-label')
+            ).filter(label =>
+              label && /^.+?\s*\(\d+(?:\.\d+)?%\)$/.test(label)
+            );
           })(),
           percentages: [],
           wins: e.querySelector('p.css-1i7pcxu')?.innerText || null,
