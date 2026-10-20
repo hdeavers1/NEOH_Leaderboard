@@ -143,29 +143,29 @@
     "name": "aSig",
     "tag": "ASIG#701",
     "rank": "PENDING",
-    "rating": 4,
+    "rating": 1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 0,
-    "losses": 1
+    "wins": 2,
+    "losses": 2
   },
   "JUST#577": {
     "name": "Just(from ohio)",
     "tag": "JUST#577",
-    "rank": "GOLD 3",
-    "rating": 1694.2,
+    "rank": "GRANDMASTER",
+    "rating": 2317.2,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
-    "losses": 1
+    "wins": 15,
+    "losses": 4
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
