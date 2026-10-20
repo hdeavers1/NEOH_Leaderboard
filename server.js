@@ -50,7 +50,7 @@ function sendPercentages(arr, arr2) {
           rank: e.querySelector('p.css-jh714q')?.innerText || null,
           rating: e.querySelector('p.css-1rxv754')?.innerText || null,
           characters: (() => {
-            const imgs = e.querySelectorAll('.jss139.container img');
+            const imgs = e.querySelectorAll('.jss140.container img');
             const chars = [];
             for (const img of imgs) {
               const label = img.getAttribute('aria-label');
