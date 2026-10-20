@@ -1,19 +1,13 @@
 {
   "WWJ#916": {
-    "name": "VDL Lawn Father",
+    "name": "GotAnyGrapes?",
     "tag": "WWJ#916",
-    "rank": "PLATINUM 1",
-    "rating": 1796.9,
-    "characters": [
-      "Falcon",
-      "Falco"
-    ],
-    "percentages": [
-      "95.8",
-      "4.2"
-    ],
-    "wins": 37,
-    "losses": 33
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "JUBS#579": {
     "name": "Lub",
@@ -26,7 +20,7 @@
     "losses": 0
   },
   "BIGO#869": {
-    "name": "HappyBelated",
+    "name": "RodkneeMullen",
     "tag": "BIGO#869",
     "rank": "NONE",
     "rating": 0,
@@ -38,49 +32,35 @@
   "QCUM#685": {
     "name": "4X LVG ETF",
     "tag": "QCUM#685",
-    "rank": "GOLD 1",
-    "rating": 1466.9,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 14,
-    "losses": 12
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "MAYO#795": {
-    "name": "Slow Learner",
+    "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "GOLD 3",
-    "rating": 1744.4,
-    "characters": [
-      "Falcon",
-      "DK"
-    ],
-    "percentages": [
-      "86.8",
-      "13.1"
-    ],
-    "wins": 463,
-    "losses": 443
+    "rank": "GOLD 1",
+    "rating": 1437.6,
+    "characters": [],
+    "percentages": [],
+    "wins": 3,
+    "losses": 7
   },
   "PANC#613": {
     "name": "panchito$",
     "tag": "PANC#613",
-    "rank": "GOLD 2",
-    "rating": 1568.3,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 22,
-    "losses": 20
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "LVLM#792": {
-    "name": "Uncut Jim",
+    "name": "Old boy David",
     "tag": "LVLM#792",
     "rank": "NONE",
     "rating": 0,
@@ -112,88 +92,62 @@
   "JARD#561": {
     "name": "pingas",
     "tag": "JARD#561",
-    "rank": "SILVER 3",
-    "rating": 1376.7,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 5,
-    "losses": 3
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "FUEL#375": {
     "name": "Fuelperks",
     "tag": "FUEL#375",
-    "rank": "GOLD 1",
-    "rating": 1463.7,
-    "characters": [
-      "Fox",
-      "Peach"
-    ],
-    "percentages": [
-      "82.1",
-      "12.5"
-    ],
-    "wins": 14,
-    "losses": 12
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "FRUM#591": {
-    "name": "Frum",
+    "name": "Chill",
     "tag": "FRUM#591",
-    "rank": "MASTER 1",
-    "rating": 2234.7,
-    "characters": [
-      "Falco"
-    ],
-    "percentages": [
-      "99.7"
-    ],
-    "wins": 81,
-    "losses": 63
+    "rank": "SILVER 3",
+    "rating": 1398.4,
+    "characters": [],
+    "percentages": [],
+    "wins": 2,
+    "losses": 4
   },
   "CUTS#327": {
     "name": "Drexciya",
     "tag": "CUTS#327",
-    "rank": "DIAMOND 1",
-    "rating": 2037.6,
-    "characters": [
-      "Samus"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 168,
-    "losses": 156
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PLATINUM 1",
-    "rating": 1751.9,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 60,
-    "losses": 57
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "JUST#577": {
-    "name": "gallbladderless",
+    "name": "Just(from ohio)",
     "tag": "JUST#577",
-    "rank": "GRANDMASTER",
-    "rating": 2519.7,
-    "characters": [
-      "Sheik"
-    ],
-    "percentages": [
-      "99.8"
-    ],
-    "wins": 195,
-    "losses": 63
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [],
+    "percentages": [],
+    "wins": 2,
+    "losses": 1
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -218,92 +172,62 @@
   "GHST#232": {
     "name": "Ghast",
     "tag": "GHST#232",
-    "rank": "PLATINUM 2",
-    "rating": 1855.4,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 35,
-    "losses": 32
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "BLSE#808": {
-    "name": "pikachud",
+    "name": "2framez",
     "tag": "BLSE#808",
-    "rank": "GRANDMASTER",
-    "rating": 2390.7,
-    "characters": [
-      "Pikachu",
-      "Fox"
-    ],
-    "percentages": [
-      "95.9",
-      "2.1"
-    ],
-    "wins": 189,
-    "losses": 72
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "FLOW#08": {
     "name": "Flow",
     "tag": "FLOW#08",
-    "rank": "DIAMOND 2",
-    "rating": 2108.9,
-    "characters": [
-      "Marth"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 110,
-    "losses": 93
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "ZBOO#991": {
     "name": "(-:",
     "tag": "ZBOO#991",
-    "rank": "PENDING",
-    "rating": 4,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 1,
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
     "losses": 0
   },
   "PEE#658": {
     "name": "Im Employed BTW",
     "tag": "PEE#658",
-    "rank": "PLATINUM 1",
-    "rating": 1826,
-    "characters": [
-      "Ganon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 23,
-    "losses": 19
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "DIAMOND 1",
-    "rating": 2052.7,
-    "characters": [
-      "Fox",
-      "Marth",
-      "Falcon"
-    ],
-    "percentages": [
-      "67.2",
-      "28.0",
-      "4.8"
-    ],
-    "wins": 203,
-    "losses": 195
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -318,50 +242,32 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "GOLD 1",
-    "rating": 1507,
-    "characters": [
-      "Ganon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 4,
-    "losses": 1
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "GOLD 3",
-    "rating": 1710.2,
-    "characters": [
-      "Peach",
-      "Falcon",
-      "Kirby",
-      "Link"
-    ],
-    "percentages": [
-      "16.9",
-      "5.6",
-      "5.6",
-      "5.6"
-    ],
-    "wins": 36,
-    "losses": 39
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "DIAMOND 2",
-    "rating": 2126.5,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "99.5"
-    ],
-    "wins": 106,
-    "losses": 76
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -374,36 +280,24 @@
     "losses": 0
   },
   "YOSH#458": {
-    "name": "Big$wimmer",
+    "name": "Hermes Jackson",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 2",
-    "rating": 1844,
-    "characters": [
-      "Yoshi",
-      "DK"
-    ],
-    "percentages": [
-      "97.2",
-      "2.7"
-    ],
-    "wins": 202,
-    "losses": 191
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "DEE#218": {
-    "name": "jan Katen",
+    "name": "go bengals",
     "tag": "DEE#218",
-    "rank": "GOLD 3",
-    "rating": 1668.1,
-    "characters": [
-      "YLink",
-      "Mewtwo"
-    ],
-    "percentages": [
-      "80.5",
-      "16.9"
-    ],
-    "wins": 51,
-    "losses": 47
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "SUCC#860": {
     "name": "Wahey",
@@ -428,88 +322,52 @@
   "WICE#699": {
     "name": "Nintendude",
     "tag": "WICE#699",
-    "rank": "GOLD 2",
-    "rating": 1570.5,
-    "characters": [
-      "ICs"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 5,
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
     "losses": 0
   },
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 2",
-    "rating": 1558,
-    "characters": [
-      "Marth",
-      "Puff"
-    ],
-    "percentages": [
-      "75.9",
-      "24.0"
-    ],
-    "wins": 176,
-    "losses": 169
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "NCRO#183": {
     "name": "XP Waste",
     "tag": "NCRO#183",
-    "rank": "GOLD 2",
-    "rating": 1648.2,
-    "characters": [
-      "Doc",
-      "Sheik",
-      "Fox",
-      "Falco"
-    ],
-    "percentages": [
-      "52.9",
-      "34.3",
-      "10.0",
-      "2.9"
-    ],
-    "wins": 17,
-    "losses": 13
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "MOSHI#0": {
-    "name": "deer friend",
+    "name": "Kind Hetreoflex",
     "tag": "MOSHI#0",
-    "rank": "PLATINUM 1",
-    "rating": 1789,
-    "characters": [
-      "Peach",
-      "Ness",
-      "DK"
-    ],
-    "percentages": [
-      "89.3",
-      "5.8",
-      "4.6"
-    ],
-    "wins": 134,
-    "losses": 119
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "SMEG#879": {
     "name": "FURBY",
     "tag": "SMEG#879",
-    "rank": "SILVER 3",
-    "rating": 1400.5,
-    "characters": [
-      "Pikachu",
-      "Marth",
-      "G&W"
-    ],
-    "percentages": [
-      "48.0",
-      "36.0",
-      "16.0"
-    ],
-    "wins": 6,
-    "losses": 5
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "BOZO#386": {
     "name": "super pichu",
@@ -544,32 +402,22 @@
   "VYV#0": {
     "name": "vyv",
     "tag": "VYV#0",
-    "rank": "SILVER 2",
-    "rating": 1206.3,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 10,
-    "losses": 9
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "JDBN#000": {
     "name": "jodben",
     "tag": "JDBN#000",
-    "rank": "SILVER 2",
-    "rating": 1220.8,
-    "characters": [
-      "ICs",
-      "Fox"
-    ],
-    "percentages": [
-      "96.4",
-      "3.6"
-    ],
-    "wins": 6,
-    "losses": 7
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "PHNX#609": {
     "name": "Phoenix",
@@ -582,7 +430,7 @@
     "losses": 0
   },
   "LAND#19": {
-    "name": "wowee zowee",
+    "name": "hepcat",
     "tag": "LAND#19",
     "rank": "NONE",
     "rating": 0,
@@ -594,59 +442,51 @@
   "SYKO#921": {
     "name": "syko",
     "tag": "SYKO#921",
-    "rank": "GOLD 3",
-    "rating": 1661.4,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "99.0"
-    ],
-    "wins": 96,
-    "losses": 80
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "JFOX#178": {
     "name": "Just's Fox",
     "tag": "JFOX#178",
-    "rank": "DIAMOND 1",
-    "rating": 2048.6,
-    "characters": [
-      "Fox"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 97,
-    "losses": 70
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "COCK#0": {
-    "name": "It's OGRE",
+    "name": "Yung Weej",
     "tag": "COCK#0",
-    "rank": "GOLD 2",
-    "rating": 1613.6,
-    "characters": [
-      "Ganon",
-      "Fox"
-    ],
-    "percentages": [
-      "82.5",
-      "17.5"
-    ],
-    "wins": 122,
-    "losses": 125
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   },
   "VINS#677": {
     "name": "FuttBuckerson",
     "tag": "VINS#677",
-    "rank": "GRANDMASTER",
-    "rating": 2332.9,
-    "characters": [
-      "Falcon"
-    ],
-    "percentages": [
-      "100.0"
-    ],
-    "wins": 153,
-    "losses": 83
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "WIZ#007": {
+    "name": "wizardbones",
+    "tag": "WIZ#007",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
   }
 }
