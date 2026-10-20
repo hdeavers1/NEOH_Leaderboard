@@ -50,16 +50,13 @@ function sendPercentages(arr, arr2) {
           rank: e.querySelector('p.css-jh714q')?.innerText || null,
           rating: e.querySelector('p.css-1rxv754')?.innerText || null,
           characters: (() => {
-            const imgs = e.querySelectorAll('img[aria-label]');
+            const imgs = e.querySelectorAll('.jss16.container img');
             const chars = [];
-
             for (const img of imgs) {
               const label = img.getAttribute('aria-label');
-              if (label && /^.+?\s*\(\d+(?:\.\d+)?%\)$/.test(label)) {
-                chars.push(label);
-              }
+              if (label === null) break;
+              chars.push(label);
             }
-
             return chars;
           })(),
           percentages: [],
