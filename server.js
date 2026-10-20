@@ -17,18 +17,19 @@ function loadConnectCodes() {
 
 // Extract percentages and clean up character names
 function sendPercentages(arr, arr2) {
-  const characters = [];
-  const regex = /^(.+?)\s*\((\d+(?:\.\d+)?)%\)$/;
+    const characters = [];
+    const regex = /^(.+?)\s*\((\d+(?:\.\d+)?)%\)$/;
 
-  for (const label of arr) {
-    const match = label.match(regex);
-    if (match) {
-      characters.push(match[1].trim());
-      arr2.push(match[2]);
+    for (const label of arr) {
+        const match = label.match(regex);
+
+        if (match) {
+            characters.push(match[1].trim());
+            arr2.push(match[2]);
+        }
     }
-  }
 
-  arr.splice(0, arr.length, ...characters);
+    arr.splice(0, arr.length, ...characters);
 }
 
 (async () => {
@@ -53,15 +54,21 @@ function sendPercentages(arr, arr2) {
           rank: e.querySelector('p.css-jh714q')?.innerText || null,
           rating: e.querySelector('p.css-1rxv754')?.innerText || null,
           characters: (() => {
-            const container = e.querySelector('.jss116');
-            if (!container) return [];
+            const heading = Array.from(document.querySelectorAll('p'))
+              .find(p => p.innerText.trim() === 'Characters played');
+
+            if (!heading) return [];
+
+            // The heading and character icons share this parent.
+            const container = heading.parentElement;
 
             return Array.from(
-              container.querySelectorAll('img[aria-label]'),
-              img => img.getAttribute('aria-label')
-            ).filter(label =>
-              label && /^.+?\s*\(\d+(?:\.\d+)?%\)$/.test(label)
-            );
+              container.querySelectorAll('img[aria-label]')
+          )
+              .map(img => img.getAttribute('aria-label'))
+              .filter(label =>
+                 label && /^.+?\s*\(\d+(?:\.\d+)?%\)$/.test(label)
+              );
           })(),
           percentages: [],
           wins: e.querySelector('p.css-1i7pcxu')?.innerText || null,
