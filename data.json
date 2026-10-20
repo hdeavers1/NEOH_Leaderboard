@@ -428,12 +428,16 @@
   "VYV#0": {
     "name": "vyv",
     "tag": "VYV#0",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
+    "rank": "PENDING",
+    "rating": 4,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
     "wins": 0,
-    "losses": 0
+    "losses": 1
   },
   "JDBN#000": {
     "name": "jodben",
