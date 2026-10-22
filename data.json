@@ -157,15 +157,15 @@
     "name": "Just(from ohio)",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2317.2,
+    "rating": 2431.7,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 15,
-    "losses": 4
+    "wins": 21,
+    "losses": 5
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -429,7 +429,7 @@
     "name": "vyv",
     "tag": "VYV#0",
     "rank": "PENDING",
-    "rating": 4,
+    "rating": 3,
     "characters": [
       "Fox"
     ],
@@ -437,7 +437,7 @@
       "100.0"
     ],
     "wins": 0,
-    "losses": 1
+    "losses": 2
   },
   "JDBN#000": {
     "name": "jodben",
