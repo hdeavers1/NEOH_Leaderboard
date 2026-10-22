@@ -304,15 +304,15 @@
   "YOSH#458": {
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
-    "rank": "GOLD 2",
-    "rating": 1638.2,
+    "rank": "PLATINUM 1",
+    "rating": 1753.3,
     "characters": [
       "Yoshi"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 7,
+    "wins": 9,
     "losses": 15
   },
   "DEE#218": {
@@ -466,7 +466,7 @@
     "losses": 0
   },
   "LAND#19": {
-    "name": "gun owner",
+    "name": "sweet",
     "tag": "LAND#19",
     "rank": "NONE",
     "rating": 0,
@@ -478,12 +478,16 @@
   "SYKO#921": {
     "name": "syko",
     "tag": "SYKO#921",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 1",
+    "rating": 1127.2,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
+    "losses": 5
   },
   "JFOX#178": {
     "name": "Just's Fox",
