@@ -142,30 +142,30 @@
   "ASIG#701": {
     "name": "aSig",
     "tag": "ASIG#701",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "GOLD 1",
+    "rating": 1544.1,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 2,
-    "losses": 2
+    "wins": 5,
+    "losses": 4
   },
   "JUST#577": {
     "name": "Just(from ohio)",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2431.7,
+    "rating": 2405.5,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 21,
-    "losses": 5
+    "wins": 22,
+    "losses": 6
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -200,15 +200,15 @@
   "BLSE#808": {
     "name": "2framez",
     "tag": "BLSE#808",
-    "rank": "PLATINUM 2",
-    "rating": 1918.1,
+    "rank": "GRANDMASTER",
+    "rating": 2359.3,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 7,
+    "wins": 15,
     "losses": 0
   },
   "FLOW#08": {
@@ -304,16 +304,16 @@
   "YOSH#458": {
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
-    "rank": "GOLD 1",
-    "rating": 1520.9,
+    "rank": "GOLD 2",
+    "rating": 1638.2,
     "characters": [
       "Yoshi"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 4,
-    "losses": 9
+    "wins": 7,
+    "losses": 15
   },
   "DEE#218": {
     "name": "go bengals",
@@ -358,12 +358,18 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 3",
+    "rating": 1333.9,
+    "characters": [
+      "Marth",
+      "Puff"
+    ],
+    "percentages": [
+      "71.4",
+      "28.6"
+    ],
+    "wins": 3,
+    "losses": 3
   },
   "NCRO#183": {
     "name": "XP Waste",
