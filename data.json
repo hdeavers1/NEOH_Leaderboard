@@ -116,7 +116,7 @@
     "losses": 0
   },
   "FRUM#591": {
-    "name": "Chill",
+    "name": "ark",
     "tag": "FRUM#591",
     "rank": "GOLD 1",
     "rating": 1537.6,
@@ -365,17 +365,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1471.7,
+    "rating": 1444.2,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "75.0",
-      "25.0"
+      "68.2",
+      "31.8"
     ],
-    "wins": 7,
-    "losses": 7
+    "wins": 9,
+    "losses": 11
   },
   "NCRO#183": {
     "name": "XP Waste",
