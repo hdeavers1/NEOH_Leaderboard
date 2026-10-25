@@ -43,16 +43,16 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1790.6,
+    "rating": 1810.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "89.6",
-      "10.4"
+      "89.9",
+      "10.1"
     ],
-    "wins": 18,
+    "wins": 19,
     "losses": 23
   },
   "PANC#613": {
@@ -368,8 +368,8 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 2",
-    "rating": 1569.2,
+    "rank": "GOLD 1",
+    "rating": 1538.9,
     "characters": [
       "Marth",
       "Puff"
@@ -379,7 +379,7 @@
       "25.0"
     ],
     "wins": 14,
-    "losses": 13
+    "losses": 15
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -522,12 +522,16 @@
   "VINS#677": {
     "name": "FuttBuckerson",
     "tag": "VINS#677",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
+    "losses": 1
   },
   "WIZ#007": {
     "name": "wizardbones",
