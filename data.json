@@ -290,12 +290,16 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "GOLD 3",
+    "rating": 1711.5,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 5,
+    "losses": 3
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -365,16 +369,16 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1444.2,
+    "rating": 1489.8,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "68.2",
-      "31.8"
+      "68.1",
+      "31.9"
     ],
-    "wins": 9,
+    "wins": 10,
     "losses": 11
   },
   "NCRO#183": {
@@ -528,11 +532,15 @@
   "WIZ#007": {
     "name": "wizardbones",
     "tag": "WIZ#007",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 1,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 3,
+    "losses": 1
   }
 }
