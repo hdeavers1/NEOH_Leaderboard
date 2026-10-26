@@ -2,12 +2,16 @@
   "WWJ#916": {
     "name": "GotAnyGrapes?",
     "tag": "WWJ#916",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Falcon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 1
   },
   "JUBS#579": {
     "name": "Lub",
