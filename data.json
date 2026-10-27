@@ -36,12 +36,16 @@
   "QCUM#685": {
     "name": "4X LVG ETF",
     "tag": "QCUM#685",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "PENDING",
+    "rating": 2,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 1,
+    "losses": 2
   },
   "MAYO#795": {
     "name": "Gene",
@@ -249,19 +253,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1951.2,
+    "rating": 1960.7,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "73.0",
+      "73.5",
       "20.6",
-      "6.3"
+      "5.9"
     ],
-    "wins": 12,
-    "losses": 12
+    "wins": 13,
+    "losses": 13
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -324,16 +328,16 @@
   "YOSH#458": {
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1834.7,
+    "rank": "GOLD 3",
+    "rating": 1732.4,
     "characters": [
       "Yoshi"
     ],
     "percentages": [
-      "100.0"
+      "98.5"
     ],
-    "wins": 18,
-    "losses": 26
+    "wins": 21,
+    "losses": 35
   },
   "DEE#218": {
     "name": "queerplatonic",
@@ -378,18 +382,18 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 2",
-    "rating": 1595,
+    "rank": "GOLD 1",
+    "rating": 1513.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "77.5",
-      "22.5"
+      "75.8",
+      "24.2"
     ],
     "wins": 21,
-    "losses": 19
+    "losses": 23
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -498,15 +502,15 @@
   "SYKO#921": {
     "name": "syko",
     "tag": "SYKO#921",
-    "rank": "SILVER 3",
-    "rating": 1418.7,
+    "rank": "GOLD 1",
+    "rating": 1492.2,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
+    "wins": 6,
     "losses": 8
   },
   "JFOX#178": {
