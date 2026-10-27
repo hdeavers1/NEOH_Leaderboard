@@ -2,16 +2,18 @@
   "WWJ#916": {
     "name": "GotAnyGrapes?",
     "tag": "WWJ#916",
-    "rank": "PENDING",
-    "rating": 1,
+    "rank": "GOLD 3",
+    "rating": 1719.4,
     "characters": [
-      "Falcon"
+      "Falcon",
+      "Falco"
     ],
     "percentages": [
-      "100.0"
+      "93.1",
+      "6.9"
     ],
-    "wins": 2,
-    "losses": 2
+    "wins": 8,
+    "losses": 5
   },
   "JUBS#579": {
     "name": "Lub",
@@ -329,7 +331,7 @@
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1732.4,
+    "rating": 1694.7,
     "characters": [
       "Yoshi"
     ],
@@ -337,7 +339,7 @@
       "98.5"
     ],
     "wins": 21,
-    "losses": 35
+    "losses": 37
   },
   "DEE#218": {
     "name": "queerplatonic",
