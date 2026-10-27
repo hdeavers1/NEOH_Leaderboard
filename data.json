@@ -3,7 +3,7 @@
     "name": "GotAnyGrapes?",
     "tag": "WWJ#916",
     "rank": "PENDING",
-    "rating": 2,
+    "rating": 1,
     "characters": [
       "Falcon"
     ],
@@ -11,7 +11,7 @@
       "100.0"
     ],
     "wins": 2,
-    "losses": 1
+    "losses": 2
   },
   "JUBS#579": {
     "name": "Lub",
@@ -46,18 +46,18 @@
   "MAYO#795": {
     "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 2",
-    "rating": 1871.2,
+    "rank": "PLATINUM 1",
+    "rating": 1805.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "90.4",
-      "9.6"
+      "91.0",
+      "9.0"
     ],
-    "wins": 23,
-    "losses": 25
+    "wins": 25,
+    "losses": 30
   },
   "PANC#613": {
     "name": "panchito$",
@@ -248,20 +248,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 1",
-    "rating": 1831.2,
+    "rank": "PLATINUM 3",
+    "rating": 1951.2,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "68.6",
-      "28.6",
-      "2.9"
+      "73.0",
+      "20.6",
+      "6.3"
     ],
-    "wins": 7,
-    "losses": 6
+    "wins": 12,
+    "losses": 12
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -276,12 +276,16 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "GOLD 1",
+    "rating": 1457.2,
+    "characters": [
+      "Ganon"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 3,
+    "losses": 2
   },
   "PGH#412": {
     "name": "Ft. PGH Carroll",
