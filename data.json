@@ -211,14 +211,14 @@
     "name": "2framez",
     "tag": "BLSE#808",
     "rank": "GRANDMASTER",
-    "rating": 2359.3,
+    "rating": 2434.1,
     "characters": [
       "Pikachu"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 15,
+    "wins": 18,
     "losses": 0
   },
   "FLOW#08": {
@@ -385,16 +385,16 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1445.7,
+    "rating": 1463.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "70.3",
-      "29.7"
+      "70.2",
+      "29.8"
     ],
-    "wins": 23,
+    "wins": 24,
     "losses": 29
   },
   "NCRO#183": {
