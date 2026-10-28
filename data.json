@@ -2,18 +2,18 @@
   "WWJ#916": {
     "name": "GotAnyGrapes?",
     "tag": "WWJ#916",
-    "rank": "GOLD 3",
-    "rating": 1731.5,
+    "rank": "PLATINUM 1",
+    "rating": 1778.2,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "94.1",
-      "5.9"
+      "95.2",
+      "4.8"
     ],
-    "wins": 9,
-    "losses": 6
+    "wins": 11,
+    "losses": 7
   },
   "JUBS#579": {
     "name": "Lub",
@@ -255,19 +255,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1960.7,
+    "rating": 1949,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "73.5",
-      "20.6",
-      "5.9"
+      "67.8",
+      "24.1",
+      "8.0"
     ],
-    "wins": 13,
-    "losses": 13
+    "wins": 16,
+    "losses": 18
   },
   "DNZO#333": {
     "name": "the thinker",
