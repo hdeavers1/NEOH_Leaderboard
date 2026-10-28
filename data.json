@@ -53,17 +53,17 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1805.7,
+    "rating": 1796.8,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "91.0",
-      "9.0"
+      "91.2",
+      "8.8"
     ],
     "wins": 25,
-    "losses": 30
+    "losses": 31
   },
   "PANC#613": {
     "name": "panchito$",
@@ -167,14 +167,14 @@
     "name": "Just(from ohio)",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2405.5,
+    "rating": 2413.4,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 22,
+    "wins": 23,
     "losses": 6
   },
   "SPOT#861": {
@@ -330,16 +330,16 @@
   "YOSH#458": {
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
-    "rank": "GOLD 3",
-    "rating": 1721.6,
+    "rank": "PLATINUM 1",
+    "rating": 1808.9,
     "characters": [
       "Yoshi"
     ],
     "percentages": [
-      "98.2"
+      "98.5"
     ],
-    "wins": 27,
-    "losses": 42
+    "wins": 37,
+    "losses": 47
   },
   "DEE#218": {
     "name": "queerplatonic",
@@ -385,17 +385,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1497.7,
+    "rating": 1445.7,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "75.2",
-      "24.8"
+      "70.3",
+      "29.7"
     ],
-    "wins": 21,
-    "losses": 24
+    "wins": 23,
+    "losses": 29
   },
   "NCRO#183": {
     "name": "XP Waste",
