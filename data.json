@@ -164,7 +164,7 @@
     "losses": 8
   },
   "JUST#577": {
-    "name": "Just(from ohio)",
+    "name": "I'm PR btw",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
     "rating": 2413.4,
@@ -385,17 +385,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1484.1,
+    "rating": 1457.1,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "68.8",
-      "31.3"
+      "67.6",
+      "32.4"
     ],
-    "wins": 26,
-    "losses": 30
+    "wins": 27,
+    "losses": 32
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -538,16 +538,16 @@
   "VINS#677": {
     "name": "FuttBuckerson",
     "tag": "VINS#677",
-    "rank": "PENDING",
-    "rating": 3,
+    "rank": "GOLD 1",
+    "rating": 1543,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
-    "losses": 1
+    "wins": 3,
+    "losses": 4
   },
   "WIZ#007": {
     "name": "wizardbones",
