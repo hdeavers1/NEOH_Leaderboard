@@ -3,17 +3,17 @@
     "name": "GotAnyGrapes?",
     "tag": "WWJ#916",
     "rank": "PLATINUM 1",
-    "rating": 1778.2,
+    "rating": 1755.2,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "95.2",
-      "4.8"
+      "92.0",
+      "8.0"
     ],
-    "wins": 11,
-    "losses": 7
+    "wins": 12,
+    "losses": 9
   },
   "JUBS#579": {
     "name": "Lub",
@@ -53,17 +53,17 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1776.2,
+    "rating": 1838.8,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "91.4",
-      "8.6"
+      "92.3",
+      "7.7"
     ],
-    "wins": 25,
-    "losses": 32
+    "wins": 32,
+    "losses": 39
   },
   "PANC#613": {
     "name": "panchito$",
