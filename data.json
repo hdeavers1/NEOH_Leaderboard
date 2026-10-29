@@ -53,17 +53,17 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1796.8,
+    "rating": 1776.2,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "91.2",
-      "8.8"
+      "91.4",
+      "8.6"
     ],
     "wins": 25,
-    "losses": 31
+    "losses": 32
   },
   "PANC#613": {
     "name": "panchito$",
@@ -126,7 +126,7 @@
     "losses": 0
   },
   "FRUM#591": {
-    "name": "ark",
+    "name": "Doc Holliday",
     "tag": "FRUM#591",
     "rank": "GOLD 1",
     "rating": 1537.6,
@@ -385,17 +385,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1463.3,
+    "rating": 1484.1,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "70.2",
-      "29.8"
+      "68.8",
+      "31.3"
     ],
-    "wins": 24,
-    "losses": 29
+    "wins": 26,
+    "losses": 30
   },
   "NCRO#183": {
     "name": "XP Waste",
