@@ -52,17 +52,17 @@
   "MAYO#795": {
     "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1838.8,
+    "rank": "PLATINUM 2",
+    "rating": 1863.7,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "92.3",
-      "7.7"
+      "92.6",
+      "7.4"
     ],
-    "wins": 32,
+    "wins": 34,
     "losses": 39
   },
   "PANC#613": {
@@ -385,16 +385,16 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1472,
+    "rating": 1479.8,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "62.0",
-      "38.0"
+      "61.3",
+      "38.7"
     ],
-    "wins": 35,
+    "wins": 36,
     "losses": 39
   },
   "NCRO#183": {
