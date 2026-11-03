@@ -38,16 +38,16 @@
   "QCUM#685": {
     "name": "4X LVG ETF",
     "tag": "QCUM#685",
-    "rank": "PENDING",
-    "rating": 2,
+    "rank": "SILVER 3",
+    "rating": 1420.7,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 1,
-    "losses": 2
+    "wins": 4,
+    "losses": 4
   },
   "MAYO#795": {
     "name": "Gene",
@@ -254,20 +254,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "DIAMOND 1",
-    "rating": 2025.2,
+    "rank": "PLATINUM 3",
+    "rating": 1996.8,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "64.6",
-      "29.1",
-      "6.3"
+      "63.6",
+      "29.5",
+      "6.8"
     ],
-    "wins": 24,
-    "losses": 25
+    "wins": 25,
+    "losses": 27
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -331,15 +331,15 @@
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1782.6,
+    "rating": 1782,
     "characters": [
       "Yoshi"
     ],
     "percentages": [
       "98.3"
     ],
-    "wins": 42,
-    "losses": 58
+    "wins": 43,
+    "losses": 59
   },
   "DEE#218": {
     "name": "Save The World",
@@ -385,17 +385,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1535.1,
+    "rating": 1531.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "59.8",
-      "40.2"
+      "58.5",
+      "41.5"
     ],
-    "wins": 40,
-    "losses": 40
+    "wins": 44,
+    "losses": 45
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -502,7 +502,7 @@
     "losses": 0
   },
   "SYKO#921": {
-    "name": "syko",
+    "name": "it's a bear day",
     "tag": "SYKO#921",
     "rank": "GOLD 1",
     "rating": 1492.2,
