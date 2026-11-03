@@ -331,15 +331,17 @@
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1782,
+    "rating": 1753.4,
     "characters": [
-      "Yoshi"
+      "Yoshi",
+      "DK"
     ],
     "percentages": [
-      "98.3"
+      "97.4",
+      "2.6"
     ],
-    "wins": 43,
-    "losses": 59
+    "wins": 48,
+    "losses": 65
   },
   "DEE#218": {
     "name": "Save The World",
@@ -427,6 +429,16 @@
     "wins": 0,
     "losses": 0
   },
+  "BOZO#386": {
+    "name": "super pichu",
+    "tag": "BOZO#386",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "SYS#0": {
     "name": "Syspen",
     "tag": "SYS#0",
@@ -495,14 +507,14 @@
     "name": "it's a bear day",
     "tag": "SYKO#921",
     "rank": "GOLD 1",
-    "rating": 1492.2,
+    "rating": 1538.6,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 6,
+    "wins": 7,
     "losses": 8
   },
   "JFOX#178": {
