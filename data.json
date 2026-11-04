@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 2",
-    "rating": 1883.8,
+    "rank": "PLATINUM 1",
+    "rating": 1783.6,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "93.0",
-      "7.0"
+      "94.1",
+      "5.9"
     ],
-    "wins": 36,
-    "losses": 41
+    "wins": 39,
+    "losses": 55
   },
   "PANC#613": {
     "name": "panchito$",
