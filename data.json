@@ -53,16 +53,16 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1863.7,
+    "rating": 1883,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "92.6",
-      "7.4"
+      "92.7",
+      "7.3"
     ],
-    "wins": 34,
+    "wins": 35,
     "losses": 39
   },
   "PANC#613": {
@@ -331,17 +331,17 @@
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1753.4,
+    "rating": 1762.6,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.4",
-      "2.6"
+      "97.5",
+      "2.5"
     ],
-    "wins": 48,
-    "losses": 65
+    "wins": 52,
+    "losses": 68
   },
   "DEE#218": {
     "name": "Save The World",
@@ -386,17 +386,17 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1531.3,
+    "rank": "GOLD 2",
+    "rating": 1548.1,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "58.5",
-      "41.5"
+      "58.1",
+      "41.9"
     ],
-    "wins": 44,
+    "wins": 45,
     "losses": 45
   },
   "NCRO#183": {
