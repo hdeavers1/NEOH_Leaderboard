@@ -53,17 +53,17 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1783.6,
+    "rating": 1784.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "94.1",
-      "5.9"
+      "94.4",
+      "5.6"
     ],
-    "wins": 39,
-    "losses": 55
+    "wins": 41,
+    "losses": 58
   },
   "PANC#613": {
     "name": "panchito$",
@@ -331,17 +331,17 @@
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1762.6,
+    "rating": 1754.3,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.5",
-      "2.5"
+      "97.7",
+      "2.3"
     ],
-    "wins": 52,
-    "losses": 68
+    "wins": 56,
+    "losses": 71
   },
   "DEE#218": {
     "name": "Save The World",
