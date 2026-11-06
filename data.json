@@ -52,18 +52,18 @@
   "MAYO#795": {
     "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1810.4,
+    "rank": "PLATINUM 2",
+    "rating": 1844.9,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "94.7",
-      "5.3"
+      "94.8",
+      "5.2"
     ],
-    "wins": 50,
-    "losses": 64
+    "wins": 56,
+    "losses": 68
   },
   "PANC#613": {
     "name": "panchito$",
@@ -331,17 +331,17 @@
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1776.5,
+    "rating": 1777.1,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "97.1",
+      "2.9"
     ],
-    "wins": 60,
-    "losses": 72
+    "wins": 61,
+    "losses": 73
   },
   "DEE#218": {
     "name": "geology rocks!",
@@ -387,17 +387,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1499,
+    "rating": 1510.9,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "56.7",
-      "43.3"
+      "56.3",
+      "43.7"
     ],
-    "wins": 49,
-    "losses": 52
+    "wins": 53,
+    "losses": 55
   },
   "NCRO#183": {
     "name": "XP Waste",
