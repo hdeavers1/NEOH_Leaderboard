@@ -18,12 +18,16 @@
   "JUBS#579": {
     "name": "Lub",
     "tag": "JUBS#579",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
+    "rank": "PENDING",
+    "rating": 3,
+    "characters": [
+      "Falco"
+    ],
+    "percentages": [
+      "100.0"
+    ],
     "wins": 0,
-    "losses": 0
+    "losses": 2
   },
   "BIGO#869": {
     "name": "yummy!",
@@ -255,7 +259,7 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 2000.2,
+    "rating": 1979.6,
     "characters": [
       "Fox",
       "Marth",
@@ -263,11 +267,11 @@
     ],
     "percentages": [
       "64.8",
-      "29.0",
-      "6.2"
+      "29.1",
+      "6.1"
     ],
     "wins": 31,
-    "losses": 32
+    "losses": 33
   },
   "DNZO#333": {
     "name": "the thinker",
