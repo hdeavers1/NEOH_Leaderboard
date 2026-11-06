@@ -53,17 +53,17 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1784.3,
+    "rating": 1810.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "94.4",
-      "5.6"
+      "94.7",
+      "5.3"
     ],
-    "wins": 41,
-    "losses": 58
+    "wins": 50,
+    "losses": 64
   },
   "PANC#613": {
     "name": "panchito$",
@@ -255,19 +255,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1984,
+    "rating": 1989.6,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "65.0",
-      "28.5",
-      "6.6"
+      "63.5",
+      "29.7",
+      "6.8"
     ],
-    "wins": 26,
-    "losses": 28
+    "wins": 28,
+    "losses": 30
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -331,7 +331,7 @@
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1754.3,
+    "rating": 1776.5,
     "characters": [
       "Yoshi",
       "DK"
@@ -340,11 +340,11 @@
       "97.7",
       "2.3"
     ],
-    "wins": 56,
-    "losses": 71
+    "wins": 60,
+    "losses": 72
   },
   "DEE#218": {
-    "name": "Save The World",
+    "name": "geology rocks!",
     "tag": "DEE#218",
     "rank": "NONE",
     "rating": 0,
@@ -387,7 +387,7 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1529.9,
+    "rating": 1499,
     "characters": [
       "Marth",
       "Puff"
@@ -397,7 +397,7 @@
       "43.3"
     ],
     "wins": 49,
-    "losses": 50
+    "losses": 52
   },
   "NCRO#183": {
     "name": "XP Waste",
