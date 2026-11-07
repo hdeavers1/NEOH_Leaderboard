@@ -259,19 +259,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1990.7,
+    "rating": 1994.9,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "63.1",
-      "31.3",
-      "5.7"
+      "62.4",
+      "32.3",
+      "5.4"
     ],
-    "wins": 33,
-    "losses": 35
+    "wins": 35,
+    "losses": 37
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -391,16 +391,16 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1510.9,
+    "rating": 1520.1,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "56.3",
-      "43.7"
+      "56.5",
+      "43.5"
     ],
-    "wins": 53,
+    "wins": 54,
     "losses": 55
   },
   "NCRO#183": {
@@ -544,16 +544,16 @@
   "VINS#677": {
     "name": "FuttBuckerson",
     "tag": "VINS#677",
-    "rank": "GOLD 1",
-    "rating": 1524.7,
+    "rank": "PLATINUM 1",
+    "rating": 1785.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
-    "losses": 6
+    "wins": 5,
+    "losses": 7
   },
   "WIZ#007": {
     "name": "wizardbones",
