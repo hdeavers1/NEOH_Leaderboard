@@ -286,16 +286,16 @@
   "KM#12": {
     "name": "kneemaster12",
     "tag": "KM#12",
-    "rank": "GOLD 1",
-    "rating": 1457.2,
+    "rank": "PLATINUM 1",
+    "rating": 1776.8,
     "characters": [
       "Ganon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
-    "losses": 2
+    "wins": 8,
+    "losses": 5
   },
   "PGH#412": {
     "name": "Ft. PGH Carroll",
