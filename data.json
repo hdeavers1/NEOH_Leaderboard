@@ -56,18 +56,18 @@
   "MAYO#795": {
     "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 2",
-    "rating": 1844.9,
+    "rank": "PLATINUM 1",
+    "rating": 1826.1,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "94.8",
-      "5.2"
+      "94.7",
+      "5.3"
     ],
-    "wins": 56,
-    "losses": 68
+    "wins": 61,
+    "losses": 75
   },
   "PANC#613": {
     "name": "panchito$",
@@ -132,15 +132,15 @@
   "FRUM#591": {
     "name": "Doc Holliday",
     "tag": "FRUM#591",
-    "rank": "GOLD 1",
-    "rating": 1537.6,
+    "rank": "PLATINUM 1",
+    "rating": 1790.6,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
+    "wins": 5,
     "losses": 5
   },
   "CUTS#327": {
@@ -259,19 +259,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1994.9,
+    "rating": 1979.4,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "62.4",
-      "32.3",
-      "5.4"
+      "62.0",
+      "33.0",
+      "5.0"
     ],
-    "wins": 35,
-    "losses": 37
+    "wins": 37,
+    "losses": 41
   },
   "DNZO#333": {
     "name": "the thinker",
