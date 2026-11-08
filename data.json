@@ -57,7 +57,7 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1826.1,
+    "rating": 1803.3,
     "characters": [
       "Falcon",
       "DK"
@@ -67,7 +67,7 @@
       "5.3"
     ],
     "wins": 61,
-    "losses": 75
+    "losses": 77
   },
   "PANC#613": {
     "name": "panchito$",
@@ -259,19 +259,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "PLATINUM 3",
-    "rating": 1979.4,
+    "rating": 1979.6,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "62.0",
-      "33.0",
-      "5.0"
+      "62.3",
+      "32.4",
+      "5.3"
     ],
-    "wins": 37,
-    "losses": 41
+    "wins": 39,
+    "losses": 42
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -390,17 +390,17 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1520.1,
+    "rank": "GOLD 2",
+    "rating": 1557.4,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "56.5",
-      "43.5"
+      "55.3",
+      "44.7"
     ],
-    "wins": 54,
+    "wins": 57,
     "losses": 55
   },
   "NCRO#183": {
