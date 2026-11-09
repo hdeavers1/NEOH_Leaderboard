@@ -18,16 +18,18 @@
   "JUBS#579": {
     "name": "Lub",
     "tag": "JUBS#579",
-    "rank": "PENDING",
-    "rating": 3,
+    "rank": "SILVER 2",
+    "rating": 1262.2,
     "characters": [
-      "Falco"
+      "Falco",
+      "Falcon"
     ],
     "percentages": [
-      "100.0"
+      "64.7",
+      "35.3"
     ],
-    "wins": 0,
-    "losses": 2
+    "wins": 2,
+    "losses": 5
   },
   "BIGO#869": {
     "name": "yummy!",
@@ -57,7 +59,7 @@
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 1",
-    "rating": 1819,
+    "rating": 1774.2,
     "characters": [
       "Falcon",
       "DK"
@@ -66,8 +68,8 @@
       "95.1",
       "4.9"
     ],
-    "wins": 66,
-    "losses": 81
+    "wins": 68,
+    "losses": 87
   },
   "PANC#613": {
     "name": "panchito$",
@@ -258,20 +260,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "PLATINUM 3",
-    "rating": 1988.5,
+    "rank": "DIAMOND 1",
+    "rating": 2021,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "60.3",
-      "34.2",
-      "5.6"
+      "60.2",
+      "34.4",
+      "5.4"
     ],
-    "wins": 46,
-    "losses": 47
+    "wins": 48,
+    "losses": 48
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -390,18 +392,18 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 2",
-    "rating": 1557.4,
+    "rank": "GOLD 1",
+    "rating": 1533,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "55.3",
-      "44.7"
+      "54.8",
+      "45.2"
     ],
-    "wins": 57,
-    "losses": 55
+    "wins": 58,
+    "losses": 57
   },
   "NCRO#183": {
     "name": "XP Waste",
