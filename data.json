@@ -58,18 +58,18 @@
   "MAYO#795": {
     "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1774.2,
+    "rank": "PLATINUM 2",
+    "rating": 1877.5,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "95.1",
-      "4.9"
+      "95.2",
+      "4.8"
     ],
-    "wins": 68,
-    "losses": 87
+    "wins": 79,
+    "losses": 90
   },
   "PANC#613": {
     "name": "panchito$",
@@ -261,19 +261,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 1",
-    "rating": 2021,
+    "rating": 2065.9,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "60.2",
-      "34.4",
-      "5.4"
+      "56.7",
+      "37.6",
+      "5.7"
     ],
-    "wins": 48,
-    "losses": 48
+    "wins": 54,
+    "losses": 52
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -393,17 +393,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1533,
+    "rating": 1516.9,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "54.8",
-      "45.2"
+      "55.0",
+      "45.0"
     ],
-    "wins": 58,
-    "losses": 57
+    "wins": 59,
+    "losses": 59
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -561,18 +561,18 @@
     "name": "wizardbones",
     "tag": "WIZ#007",
     "rank": "BRONZE 1",
-    "rating": 737.9,
+    "rating": 682.5,
     "characters": [
       "Falcon",
       "Fox",
       "G&W"
     ],
     "percentages": [
-      "73.7",
-      "21.1",
-      "5.3"
+      "76.2",
+      "19.0",
+      "4.8"
     ],
     "wins": 4,
-    "losses": 5
+    "losses": 6
   }
 }
