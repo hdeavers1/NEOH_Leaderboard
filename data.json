@@ -260,20 +260,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "DIAMOND 1",
-    "rating": 2065.9,
+    "rank": "DIAMOND 2",
+    "rating": 2085.9,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "56.7",
-      "37.6",
-      "5.7"
+      "56.2",
+      "38.2",
+      "5.6"
     ],
-    "wins": 54,
-    "losses": 52
+    "wins": 55,
+    "losses": 53
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -337,17 +337,17 @@
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1777.1,
+    "rating": 1834.5,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.1",
-      "2.9"
+      "97.0",
+      "3.0"
     ],
-    "wins": 61,
-    "losses": 73
+    "wins": 66,
+    "losses": 74
   },
   "DEE#218": {
     "name": "geology rocks!",
@@ -393,17 +393,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1516.9,
+    "rating": 1505.1,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "55.0",
-      "45.0"
+      "55.2",
+      "44.8"
     ],
     "wins": 59,
-    "losses": 59
+    "losses": 60
   },
   "NCRO#183": {
     "name": "XP Waste",
