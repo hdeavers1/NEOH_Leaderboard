@@ -2,18 +2,18 @@
   "WWJ#916": {
     "name": "GotAnyGrapes?",
     "tag": "WWJ#916",
-    "rank": "GOLD 2",
-    "rating": 1644.1,
+    "rank": "GOLD 3",
+    "rating": 1669.8,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "91.4",
-      "8.6"
+      "92.1",
+      "7.9"
     ],
-    "wins": 12,
-    "losses": 13
+    "wins": 13,
+    "losses": 14
   },
   "JUBS#579": {
     "name": "Lub",
@@ -393,17 +393,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1505.1,
+    "rating": 1474.1,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "55.2",
-      "44.8"
+      "55.4",
+      "44.6"
     ],
-    "wins": 59,
-    "losses": 60
+    "wins": 60,
+    "losses": 64
   },
   "NCRO#183": {
     "name": "XP Waste",
