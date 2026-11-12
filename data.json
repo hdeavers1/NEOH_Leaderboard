@@ -19,17 +19,19 @@
     "name": "Lub",
     "tag": "JUBS#579",
     "rank": "SILVER 2",
-    "rating": 1262.2,
+    "rating": 1309.6,
     "characters": [
       "Falco",
-      "Falcon"
+      "Falcon",
+      "Fox"
     ],
     "percentages": [
-      "64.7",
-      "35.3"
+      "50.0",
+      "45.8",
+      "4.2"
     ],
-    "wins": 2,
-    "losses": 5
+    "wins": 3,
+    "losses": 7
   },
   "BIGO#869": {
     "name": "yummy!",
@@ -135,15 +137,15 @@
     "name": "Doc Holliday",
     "tag": "FRUM#591",
     "rank": "PLATINUM 1",
-    "rating": 1790.6,
+    "rating": 1779.8,
     "characters": [
       "Falco"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
-    "losses": 5
+    "wins": 6,
+    "losses": 9
   },
   "CUTS#327": {
     "name": "Drexciya",
@@ -260,20 +262,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "DIAMOND 2",
-    "rating": 2105.4,
+    "rank": "DIAMOND 1",
+    "rating": 2027.6,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "57.2",
-      "37.3",
-      "5.4"
+      "57.7",
+      "37.1",
+      "5.2"
     ],
-    "wins": 57,
-    "losses": 55
+    "wins": 58,
+    "losses": 60
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -352,12 +354,16 @@
   "DEE#218": {
     "name": "geology rocks!",
     "tag": "DEE#218",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 3",
+    "rating": 1407.2,
+    "characters": [
+      "Mewtwo"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 3,
+    "losses": 3
   },
   "SUCC#860": {
     "name": "Wahey",
