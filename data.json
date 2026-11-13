@@ -335,6 +335,22 @@
     "wins": 0,
     "losses": 0
   },
+  "YOSH#458": {
+    "name": "Hermes Jackson",
+    "tag": "YOSH#458",
+    "rank": "PLATINUM 1",
+    "rating": 1834.5,
+    "characters": [
+      "Yoshi",
+      "DK"
+    ],
+    "percentages": [
+      "97.0",
+      "3.0"
+    ],
+    "wins": 66,
+    "losses": 74
+  },
   "DEE#218": {
     "name": "geology rocks!",
     "tag": "DEE#218",
