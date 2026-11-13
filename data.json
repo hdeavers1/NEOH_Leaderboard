@@ -335,22 +335,6 @@
     "wins": 0,
     "losses": 0
   },
-  "YOSH#458": {
-    "name": "Hermes Jackson",
-    "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1834.5,
-    "characters": [
-      "Yoshi",
-      "DK"
-    ],
-    "percentages": [
-      "97.0",
-      "3.0"
-    ],
-    "wins": 66,
-    "losses": 74
-  },
   "DEE#218": {
     "name": "geology rocks!",
     "tag": "DEE#218",
@@ -399,16 +383,16 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1478.7,
+    "rating": 1506.7,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "55.1",
-      "44.9"
+      "55.0",
+      "45.0"
     ],
-    "wins": 62,
+    "wins": 64,
     "losses": 65
   },
   "NCRO#183": {
