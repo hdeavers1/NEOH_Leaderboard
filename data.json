@@ -262,20 +262,20 @@
   "WEGG#462": {
     "name": "Young Wunna",
     "tag": "WEGG#462",
-    "rank": "DIAMOND 1",
-    "rating": 2072.2,
+    "rank": "DIAMOND 2",
+    "rating": 2078.1,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "58.1",
-      "37.1",
-      "4.8"
+      "58.5",
+      "36.8",
+      "4.7"
     ],
-    "wins": 61,
-    "losses": 64
+    "wins": 62,
+    "losses": 66
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -399,17 +399,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1474.1,
+    "rating": 1478.7,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "55.4",
-      "44.6"
+      "55.1",
+      "44.9"
     ],
-    "wins": 60,
-    "losses": 64
+    "wins": 62,
+    "losses": 65
   },
   "NCRO#183": {
     "name": "XP Waste",
