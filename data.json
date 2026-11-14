@@ -60,8 +60,8 @@
   "MAYO#795": {
     "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 2",
-    "rating": 1877.5,
+    "rank": "PLATINUM 1",
+    "rating": 1822.3,
     "characters": [
       "Falcon",
       "DK"
@@ -70,8 +70,8 @@
       "95.2",
       "4.8"
     ],
-    "wins": 79,
-    "losses": 90
+    "wins": 88,
+    "losses": 105
   },
   "PANC#613": {
     "name": "panchito$",
@@ -405,17 +405,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 1",
-    "rating": 1508,
+    "rating": 1518.4,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "55.5",
-      "44.5"
+      "55.8",
+      "44.2"
     ],
-    "wins": 67,
-    "losses": 67
+    "wins": 68,
+    "losses": 68
   },
   "NCRO#183": {
     "name": "XP Waste",
@@ -504,6 +504,16 @@
   "PHNX#609": {
     "name": "Phoenix",
     "tag": "PHNX#609",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
+  "LAND#19": {
+    "name": "sweet",
+    "tag": "LAND#19",
     "rank": "NONE",
     "rating": 0,
     "characters": [],
