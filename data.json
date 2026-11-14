@@ -263,19 +263,19 @@
     "name": "Young Wunna",
     "tag": "WEGG#462",
     "rank": "DIAMOND 2",
-    "rating": 2085.4,
+    "rating": 2097.2,
     "characters": [
       "Fox",
       "Marth",
       "Falcon"
     ],
     "percentages": [
-      "58.6",
-      "36.4",
-      "5.0"
+      "59.4",
+      "35.8",
+      "4.8"
     ],
-    "wins": 63,
-    "losses": 66
+    "wins": 65,
+    "losses": 67
   },
   "DNZO#333": {
     "name": "the thinker",
@@ -511,16 +511,6 @@
     "wins": 0,
     "losses": 0
   },
-  "LAND#19": {
-    "name": "sweet",
-    "tag": "LAND#19",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
-  },
   "SYKO#921": {
     "name": "it's a bear day",
     "tag": "SYKO#921",
@@ -559,15 +549,15 @@
     "name": "FuttBuckerson",
     "tag": "VINS#677",
     "rank": "PLATINUM 2",
-    "rating": 1890.7,
+    "rating": 1919.7,
     "characters": [
       "Falcon"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 6,
-    "losses": 8
+    "wins": 7,
+    "losses": 9
   },
   "WIZ#007": {
     "name": "wizardbones",
