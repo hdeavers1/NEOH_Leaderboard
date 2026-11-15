@@ -18,20 +18,22 @@
   "JUBS#579": {
     "name": "Lub",
     "tag": "JUBS#579",
-    "rank": "SILVER 3",
-    "rating": 1392.2,
+    "rank": "GOLD 1",
+    "rating": 1451.5,
     "characters": [
-      "Falco",
       "Falcon",
-      "Fox"
+      "Falco",
+      "Fox",
+      "Doc"
     ],
     "percentages": [
-      "53.8",
-      "42.3",
-      "3.8"
+      "58.1",
+      "37.2",
+      "2.3",
+      "2.3"
     ],
-    "wins": 4,
-    "losses": 7
+    "wins": 6,
+    "losses": 12
   },
   "BIGO#869": {
     "name": "yummy!",
@@ -304,18 +306,18 @@
   "PGH#412": {
     "name": "Ft. PGH Carroll",
     "tag": "PGH#412",
-    "rank": "GOLD 3",
-    "rating": 1746.7,
+    "rank": "DIAMOND 1",
+    "rating": 2006.2,
     "characters": [
       "Peach",
       "Fox"
     ],
     "percentages": [
-      "93.8",
-      "6.3"
+      "97.1",
+      "2.9"
     ],
-    "wins": 7,
-    "losses": 1
+    "wins": 15,
+    "losses": 2
   },
   "SERE#225": {
     "name": "sp1nda",
@@ -404,17 +406,17 @@
   "DANK#954": {
     "name": "Fuelperks",
     "tag": "DANK#954",
-    "rank": "GOLD 1",
-    "rating": 1518.4,
+    "rank": "GOLD 2",
+    "rating": 1562.8,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "55.8",
-      "44.2"
+      "56.8",
+      "43.2"
     ],
-    "wins": 68,
+    "wins": 72,
     "losses": 68
   },
   "NCRO#183": {
