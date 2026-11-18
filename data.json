@@ -177,15 +177,15 @@
     "name": "6thOnTierlist",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2530.3,
+    "rating": 2493.9,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 39,
-    "losses": 7
+    "wins": 41,
+    "losses": 10
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -373,6 +373,16 @@
     "wins": 3,
     "losses": 3
   },
+  "SUCC#860": {
+    "name": "Wahey",
+    "tag": "SUCC#860",
+    "rank": "NONE",
+    "rating": 0,
+    "characters": [],
+    "percentages": [],
+    "wins": 0,
+    "losses": 0
+  },
   "EGAG#906": {
     "name": "nospinballout",
     "tag": "EGAG#906",
@@ -530,12 +540,16 @@
   "JFOX#178": {
     "name": "Just's Fox",
     "tag": "JFOX#178",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
+    "rank": "SILVER 3",
+    "rating": 1360.6,
+    "characters": [
+      "Fox"
+    ],
+    "percentages": [
+      "100.0"
+    ],
+    "wins": 2,
+    "losses": 5
   },
   "COCK#0": {
     "name": "Yung Weej",
