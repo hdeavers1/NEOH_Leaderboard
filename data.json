@@ -62,18 +62,18 @@
   "MAYO#795": {
     "name": "Gene",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1842.3,
+    "rank": "PLATINUM 2",
+    "rating": 1903.4,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "95.3",
-      "4.7"
+      "95.1",
+      "4.9"
     ],
-    "wins": 91,
-    "losses": 108
+    "wins": 96,
+    "losses": 109
   },
   "PANC#613": {
     "name": "panchito$",
@@ -347,17 +347,17 @@
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1834.5,
+    "rating": 1839.7,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.0",
-      "3.0"
+      "97.2",
+      "2.8"
     ],
-    "wins": 66,
-    "losses": 74
+    "wins": 70,
+    "losses": 80
   },
   "DEE#218": {
     "name": "geology rocks!",
@@ -372,16 +372,6 @@
     ],
     "wins": 3,
     "losses": 3
-  },
-  "SUCC#860": {
-    "name": "Wahey",
-    "tag": "SUCC#860",
-    "rank": "NONE",
-    "rating": 0,
-    "characters": [],
-    "percentages": [],
-    "wins": 0,
-    "losses": 0
   },
   "EGAG#906": {
     "name": "nospinballout",
