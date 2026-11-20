@@ -177,15 +177,15 @@
     "name": "6thOnTierlist",
     "tag": "JUST#577",
     "rank": "GRANDMASTER",
-    "rating": 2493.9,
+    "rating": 2536.4,
     "characters": [
       "Sheik"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 41,
-    "losses": 10
+    "wins": 44,
+    "losses": 12
   },
   "SPOT#861": {
     "name": "Stimulant fiend",
@@ -347,17 +347,17 @@
     "name": "Hermes Jackson",
     "tag": "YOSH#458",
     "rank": "PLATINUM 1",
-    "rating": 1839.7,
+    "rating": 1811.3,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.2",
-      "2.8"
+      "97.3",
+      "2.7"
     ],
-    "wins": 70,
-    "losses": 80
+    "wins": 72,
+    "losses": 84
   },
   "DEE#218": {
     "name": "geology rocks!",
@@ -407,17 +407,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1610.1,
+    "rating": 1607.3,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "59.7",
-      "40.3"
+      "60.2",
+      "39.8"
     ],
-    "wins": 80,
-    "losses": 73
+    "wins": 81,
+    "losses": 75
   },
   "NCRO#183": {
     "name": "XP Waste",
