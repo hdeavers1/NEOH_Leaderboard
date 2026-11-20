@@ -322,16 +322,16 @@
   "SERE#225": {
     "name": "sp1nda",
     "tag": "SERE#225",
-    "rank": "GOLD 3",
-    "rating": 1711.5,
+    "rank": "PLATINUM 2",
+    "rating": 1896.8,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 5,
-    "losses": 3
+    "wins": 8,
+    "losses": 7
   },
   "MARF#811": {
     "name": "Marfweasel",
@@ -362,16 +362,16 @@
   "DEE#218": {
     "name": "geology rocks!",
     "tag": "DEE#218",
-    "rank": "SILVER 3",
-    "rating": 1407.2,
+    "rank": "GOLD 1",
+    "rating": 1465.5,
     "characters": [
       "Mewtwo"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 3,
-    "losses": 3
+    "wins": 4,
+    "losses": 4
   },
   "SUCC#860": {
     "name": "Wahey",
