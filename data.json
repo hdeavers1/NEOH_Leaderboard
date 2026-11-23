@@ -2,18 +2,18 @@
   "WWJ#916": {
     "name": "GotAnyGrapes?",
     "tag": "WWJ#916",
-    "rank": "GOLD 3",
-    "rating": 1669.8,
+    "rank": "GOLD 2",
+    "rating": 1642,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "92.1",
-      "7.9"
+      "92.3",
+      "7.7"
     ],
     "wins": 13,
-    "losses": 14
+    "losses": 15
   },
   "JUBS#579": {
     "name": "Lub",
@@ -49,21 +49,21 @@
     "name": "4X LVG ETF",
     "tag": "QCUM#685",
     "rank": "GOLD 1",
-    "rating": 1526.9,
+    "rating": 1538,
     "characters": [
       "Fox"
     ],
     "percentages": [
       "100.0"
     ],
-    "wins": 6,
-    "losses": 5
+    "wins": 9,
+    "losses": 8
   },
   "MAYO#795": {
     "name": "Gene",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1885.2,
+    "rating": 1855.5,
     "characters": [
       "Falcon",
       "DK"
@@ -73,7 +73,7 @@
       "5.3"
     ],
     "wins": 116,
-    "losses": 135
+    "losses": 137
   },
   "PANC#613": {
     "name": "panchito$",
@@ -407,17 +407,17 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1585.4,
+    "rating": 1571.5,
     "characters": [
       "Marth",
       "Puff"
     ],
     "percentages": [
-      "60.5",
-      "39.5"
+      "60.4",
+      "39.6"
     ],
-    "wins": 81,
-    "losses": 77
+    "wins": 82,
+    "losses": 79
   },
   "NCRO#183": {
     "name": "XP Waste",
