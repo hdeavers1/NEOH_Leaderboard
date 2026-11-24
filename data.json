@@ -1,18 +1,18 @@
 {
   "WWJ#916": {
-    "name": "GotAnyGrapes?",
+    "name": "I<3 RaptorBoost",
     "tag": "WWJ#916",
-    "rank": "GOLD 2",
-    "rating": 1642,
+    "rank": "GOLD 3",
+    "rating": 1728.8,
     "characters": [
       "Falcon",
       "Falco"
     ],
     "percentages": [
-      "92.3",
-      "7.7"
+      "91.7",
+      "8.3"
     ],
-    "wins": 13,
+    "wins": 16,
     "losses": 15
   },
   "JUBS#579": {
@@ -62,18 +62,18 @@
   "MAYO#795": {
     "name": "Auto Piloting",
     "tag": "MAYO#795",
-    "rank": "PLATINUM 1",
-    "rating": 1841.1,
+    "rank": "PLATINUM 2",
+    "rating": 1884.3,
     "characters": [
       "Falcon",
       "DK"
     ],
     "percentages": [
-      "94.5",
-      "5.5"
+      "94.7",
+      "5.3"
     ],
-    "wins": 123,
-    "losses": 145
+    "wins": 130,
+    "losses": 149
   },
   "PANC#613": {
     "name": "panchito$",
