@@ -63,7 +63,7 @@
     "name": "Auto Piloting",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1867.9,
+    "rating": 1894.3,
     "characters": [
       "Falcon",
       "DK"
@@ -72,8 +72,8 @@
       "94.7",
       "5.3"
     ],
-    "wins": 133,
-    "losses": 153
+    "wins": 138,
+    "losses": 155
   },
   "PANC#613": {
     "name": "panchito$",
@@ -344,20 +344,20 @@
     "losses": 0
   },
   "YOSH#458": {
-    "name": "Hermes Jackson",
+    "name": "9th at SecWind",
     "tag": "YOSH#458",
-    "rank": "PLATINUM 1",
-    "rating": 1837.6,
+    "rank": "GOLD 3",
+    "rating": 1743.8,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "97.7",
-      "2.3"
+      "96.6",
+      "3.4"
     ],
-    "wins": 86,
-    "losses": 99
+    "wins": 88,
+    "losses": 109
   },
   "DEE#218": {
     "name": "eyes emoji",
@@ -407,7 +407,7 @@
     "name": "Fuelperks",
     "tag": "DANK#954",
     "rank": "GOLD 2",
-    "rating": 1565.8,
+    "rating": 1565.6,
     "characters": [
       "Marth",
       "Puff"
@@ -416,8 +416,8 @@
       "60.9",
       "39.1"
     ],
-    "wins": 84,
-    "losses": 81
+    "wins": 85,
+    "losses": 82
   },
   "NCRO#183": {
     "name": "XP Waste",
