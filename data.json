@@ -63,7 +63,7 @@
     "name": "Auto Piloting",
     "tag": "MAYO#795",
     "rank": "PLATINUM 2",
-    "rating": 1894.3,
+    "rating": 1907.7,
     "characters": [
       "Falcon",
       "DK"
@@ -72,7 +72,7 @@
       "94.7",
       "5.3"
     ],
-    "wins": 138,
+    "wins": 140,
     "losses": 155
   },
   "PANC#613": {
@@ -347,17 +347,17 @@
     "name": "9th at SecWind",
     "tag": "YOSH#458",
     "rank": "GOLD 3",
-    "rating": 1743.8,
+    "rating": 1706,
     "characters": [
       "Yoshi",
       "DK"
     ],
     "percentages": [
-      "96.6",
-      "3.4"
+      "96.3",
+      "3.7"
     ],
-    "wins": 88,
-    "losses": 109
+    "wins": 91,
+    "losses": 115
   },
   "DEE#218": {
     "name": "eyes emoji",
